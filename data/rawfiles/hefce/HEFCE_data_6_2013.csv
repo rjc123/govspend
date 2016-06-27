@@ -1,0 +1,552 @@
+Department,Entity,Payment date,Expense Type,Expense Area,Supplier,Transaction No,Amount,Expense Type,Expense Area
+BIS,HEFCE,07/06/2013,PL Control - Run,Running costs,Unit 4 Business Soft,PIS2741,"39,476.00",Software maintenance,ITS
+BIS,HEFCE,14/06/2013,PL Control - Run,Running costs,Carillion Ltd,PIS2799,"40,590.04",Building alterations,Central
+BIS,HEFCE,14/06/2013,PL Control - Run,Running costs,Ipsos UK Ltd,PIC548,"54,464.40",PD - research,R&E programme
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Accrington,GPROSTD318782,"62,184.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Anglia Ruskin Uni,GPROSTD318800,"2,139,957.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Anglia Ruskin Uni,GPROSTD321608,"91,753.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Anglia Ruskin Uni,GPROSTD322718,"144,248.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Anglia Ruskin Uni,GPROSTD326893,"53,155.00",Basic Grant,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Anglia Ruskin Uni,GPROSTD331819,"685,750.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Arts Uni Bournemouth,GPROSTD318809,"530,225.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Arts Uni Bournemouth,GPROSTD331830,"155,508.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Askham Bryan College,GPROSTD318827,"113,897.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Aston University,GPROSTD318836,"1,536,403.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Aston University,GPROSTD321626,"522,960.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Aston University,GPROSTD322730,"140,965.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Aston University,GPROSTD326902,"27,203.00",Basic Grant,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Barking and Dagenham,GPROSTD318854,"43,194.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Barking and Dagenham,GPROSTD333866,"131,365.12",Inherited Staff,Finance
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Basingstoke College,GPROSTD318890,"28,511.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Bath LEA,GPROSTD339829,"97,795.91",Inherited Staff,Finance
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Bath Spa University,GPROSTD318899,"1,073,808.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Bath Spa University,GPROSTD321635,"47,651.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Bedford College,GPROSTD318917,"46,657.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Birkbeck College,GPROSTD318962,"1,376,351.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Birkbeck College,GPROSTD321653,"901,862.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Birkbeck College,GPROSTD322754,"53,442.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Birmingham City Univ,GPROSTD319259,"2,474,429.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Birmingham City Univ,GPROSTD321770,"141,619.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Birmingham City Univ,GPROSTD322898,"107,878.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Birmingham Met Coll,GPROSTD318989,"28,825.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Birmingham Met Coll,GPROSTD331957,"67,362.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Bishop Burton,GPROSTD319007,"181,697.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Bishop Burton,GPROSTD331958,"53,669.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Bishop Gros Uni,GPROSTD318998,"245,628.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Blackburn College,GPROSTD319016,"513,435.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Blackpool College,GPROSTD319025,"539,413.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Bournemouth Uni,GPROSTD319061,"2,280,497.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Bournemouth Uni,GPROSTD321689,"165,304.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Bournemouth Uni,GPROSTD322790,"53,480.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Bournemouth Uni,GPROSTD331831,"39,903.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Bradford College,GPROSTD319079,"423,618.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Bradford College,GPROSTD331963,"39,137.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Bridgwater College,GPROSTD319097,"37,156.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Brooksby College,GPROSTD331969,"29,089.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Brunel University,GPROSTD319160,"2,139,800.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Brunel University,GPROSTD321725,"1,005,722.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Brunel University,GPROSTD322838,"93,781.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Brunel University,GPROSTD331835,"67,231.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Bucks New University,GPROSTD319169,"1,148,163.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Bucks New University,GPROSTD322850,"63,103.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Calderdale College,GPROSTD319187,"41,047.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Canterbury CCUC,GPROSTD319214,"1,492,221.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Canterbury CCUC,GPROSTD321752,"83,524.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Canterbury CCUC,GPROSTD322874,"73,256.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Canterbury CCUC,GPROSTD331839,"570,987.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Canterbury Coll,GPROSTD331973,"38,636.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Carlisle College,GPROSTD319241,"36,724.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Central College Nott,GPROSTD321014,"68,026.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Central Sussex Coll,GPROSTD319286,"43,008.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Cheshire West,GPROSTD339828,"45,612.57",Inherited Staff,Finance
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Chesterfield College,GPROSTD319304,"84,820.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Chichester College,GPROSTD319313,"26,494.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,City of Sunderland C,GPROSTD319367,"68,493.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,City of Westminster,GPROSTD319340,"46,370.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,City of Westminster,GPROSTD332098,"25,946.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,City University,GPROSTD319385,"1,320,383.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,City University,GPROSTD321815,"864,724.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,City University,GPROSTD322946,"139,659.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,City University,GPROSTD331843,"135,997.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Cleveland College,GPROSTD319421,"116,491.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Conservatoire D&D,GPROSTD319439,"702,648.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Conservatoire D&D,GPROSTD322958,"31,274.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Council for Industry,GPROSTD333821,"50,000.00",Policy Ongoing Serv,Central
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Courtauld Institute,GPROSTD319457,"69,173.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Courtauld Institute,GPROSTD321824,"101,043.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Courtauld Institute,GPROSTD323954,"80,480.00","Museums, Gal & Coll",RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Coventry University,GPROSTD319466,"2,999,989.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Coventry University,GPROSTD321833,"163,568.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Coventry University,GPROSTD322970,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Coventry University,GPROSTD331845,"293,330.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Coventry University,GPROSTD339801,"115,000.00",Revolving Green Fund,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Cranfield University,GPROSTD319484,"752,540.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Cranfield University,GPROSTD321842,"1,064,924.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Cranfield University,GPROSTD322982,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Craven College,GPROSTD319475,"33,576.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Croydon College,GPROSTD319502,"162,733.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Dearne Valley Coll,GPROSTD319520,"25,905.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,De Montfort Uni,GPROSTD319529,"2,827,800.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,De Montfort Uni,GPROSTD321869,"380,981.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,De Montfort Uni,GPROSTD322994,"85,446.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,De Montfort Uni,GPROSTD331850,"346,074.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Doncaster College,GPROSTD319556,"161,660.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Doncaster College,GPROSTD331989,"102,821.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Dudley Coll of Tech,GPROSTD319565,"36,828.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Ealing Ham  & W Lond,GPROSTD319583,"25,319.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,East Riding College,GPROSTD319628,"33,811.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Edge Hill University,GPROSTD319637,"1,537,848.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Falmouth Uni,GPROSTD319682,"937,492.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Falmouth Uni,GPROSTD321950,"37,936.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Farnborough College,GPROSTD319700,"162,854.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Gateshead College,GPROSTD319718,"83,962.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Gloucestershire Coll,GPROSTD319736,"86,415.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Goldsmiths College,GPROSTD319745,"919,338.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Goldsmiths College,GPROSTD321968,"723,404.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Goldsmiths College,GPROSTD323114,"27,618.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Goldsmiths College,GPROSTD331861,"60,794.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Grimsby Institute,GPROSTD319763,"357,945.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Grimsby Institute,GPROSTD332002,"55,826.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Guildford College,GPROSTD319772,"106,361.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Guildhall Sch M & D,GPROSTD311944,"56,000.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Guildhall Sch M & D,GPROSTD319781,"156,109.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Guildhall Sch M & D,GPROSTD323138,"25,468.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Harper Adams Uni,GPROSTD319835,"1,023,616.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Harper Adams Uni,GPROSTD321995,"25,186.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Harper Adams Uni,GPROSTD327684,"209,286.00",Catalyst Fund C (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Harper Adams Uni,GPROSTD331864,"47,491.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Hartpury College,GPROSTD319844,"38,694.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Havering College,GPROSTD319862,"244,746.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,HE Academy,GPROSTD326405,"1,200,000.00",HE Academy,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Henley College,GPROSTD319871,"41,189.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Hereford Coll of Art,GPROSTD319880,"76,820.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Heythrop College,GPROSTD319907,"79,607.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Highbury College,GPROSTD319916,"41,157.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Hopwood Hall College,GPROSTD319934,"33,581.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Hull College,GPROSTD319961,"322,945.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Imperial College,GPROSTD285831,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Imperial College,GPROSTD319979,"4,074,993.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Imperial College,GPROSTD322040,"8,827,639.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Imperial College,GPROSTD323186,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Imperial College,GPROSTD331869,"92,953.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Inst Cancer Research,GPROSTD319223,"58,091.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Inst Cancer Research,GPROSTD321761,"1,479,289.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Inst Cancer Research,GPROSTD322886,"58,641.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Inst of Education,GPROSTD319646,"299,605.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Inst of Education,GPROSTD321923,"697,052.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Inst of Education,GPROSTD323054,"85,153.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,JISC,GPROSTD327669,"1,928,106.00",JISC,JISC NAH
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Keele University,GPROSTD319988,"1,515,706.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Keele University,GPROSTD322049,"548,314.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Keele University,GPROSTD323198,"62,330.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Keele University,GPROSTD331870,"151,169.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,King's College,GPROSTD285821,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,King's College,GPROSTD320033,"5,196,398.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,King's College,GPROSTD322067,"5,127,869.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,King's College,GPROSTD323222,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Kingston College,GPROSTD320024,"36,511.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Kingston University,GPROSTD320042,"3,993,544.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Kingston University,GPROSTD322076,"272,713.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Kingston University,GPROSTD323234,"75,982.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Kingston University,GPROSTD331873,"108,825.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Kirklees College,GPROSTD320060,"53,890.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Kirklees College,GPROSTD332019,"31,243.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Lakes College,GPROSTD320078,"77,328.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Lancaster University,GPROSTD314805,"32,956.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Lancaster University,GPROSTD320087,"1,559,893.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Lancaster University,GPROSTD322085,"1,578,571.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Lancaster University,GPROSTD323246,"184,531.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Lancaster University,GPROSTD331874,"63,265.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Leader Foundation HE,GPROSTD326396,"75,000.00",Leaders Foundation,LGM
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Leader Foundation HE,GPROSTD326827,"79,000.00",Promoting Efficiency,LGM
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Leeds City College,GPROSTD320132,"358,973.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Leeds College of Art,GPROSTD320105,"252,657.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Leeds Met University,GPROSTD320123,"3,470,119.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Leeds Met University,GPROSTD322103,"155,117.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Leeds Met University,GPROSTD323270,"125,199.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Leeds Met University,GPROSTD331877,"381,920.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Leeds Trinity Uni,GPROSTD321338,"310,565.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Leeds Trinity Uni,GPROSTD331878,"58,177.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Leicester College,GPROSTD320141,"65,636.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Lincoln College,GPROSTD320177,"48,593.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Liverpool Com Colleg,GPROSTD319394,"92,282.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Liverpool Hope Uni,GPROSTD320195,"963,238.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Liverpool Hope Uni,GPROSTD322139,"26,232.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Liverpool Hope Uni,GPROSTD323318,"57,119.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Liverpool Inst PA,GPROSTD320213,"205,942.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Liverpool John Moore,GPROSTD320186,"3,671,274.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Liverpool John Moore,GPROSTD322130,"319,445.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Liverpool John Moore,GPROSTD323306,"161,916.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Liverpool John Moore,GPROSTD331883,"56,808.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,London Bus School,GPROSTD322175,"318,877.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,London Bus School,GPROSTD323354,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,London Met Uni,GPROSTD320267,"2,957,702.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,London Met Uni,GPROSTD322202,"248,513.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,London Met Uni,GPROSTD323378,"129,042.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,London PFA,GPROSTD333871,"63,584.06",Inherited Staff,Finance
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,London Sch Economics,GPROSTD320249,"523,146.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,London Sch Economics,GPROSTD322184,"1,488,645.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,London Sch Economics,GPROSTD323366,"140,737.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,London Sch Hygiene,GPROSTD320258,"311,907.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,London Sch Hygiene,GPROSTD322193,"1,611,274.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,London South Bank,GPROSTD320276,"2,468,538.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,London South Bank,GPROSTD322211,"175,240.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,London South Bank,GPROSTD323390,"67,347.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,London South Bank,GPROSTD331892,"115,017.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Loughborough College,GPROSTD320294,"162,584.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Loughborough College,GPROSTD332027,"32,969.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Loughborough Uni,GPROSTD320303,"2,559,239.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Loughborough Uni,GPROSTD322229,"1,884,224.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Loughborough Uni,GPROSTD323414,"136,423.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Loughborough Uni,GPROSTD331893,"105,587.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Macclesfield College,GPROSTD320321,"142,270.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Manchester College,GPROSTD320348,"259,059.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Manchester College,GPROSTD332029,"44,105.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Manchester Met,GPROSTD320330,"4,565,036.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Manchester Met,GPROSTD322247,"467,306.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Manchester Met,GPROSTD323438,"115,295.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Manchester Met,GPROSTD326865,"29,800.00",SDF Capital (T),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Manchester Met,GPROSTD331895,"572,054.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Middlesex University,GPROSTD320357,"3,032,683.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Middlesex University,GPROSTD322265,"237,659.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Middlesex University,GPROSTD323462,"46,913.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Moulton College,GPROSTD320384,"71,932.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Newcastle College,GPROSTD320420,"708,495.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,New College Durham,GPROSTD320411,"230,699.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,New College Notts,GPROSTD320429,"115,561.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,New College Stamford,GPROSTD321140,"26,081.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Newman Uni College,GPROSTD320447,"340,627.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Newman Uni College,GPROSTD331898,"40,816.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Northbrook College,GPROSTD320483,"184,149.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Northbrook College,GPROSTD332044,"81,914.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,North East Surrey,GPROSTD320510,"96,545.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,North East Worcs Col,GPROSTD320501,"57,822.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,North Lindsey Coll,GPROSTD320492,"159,959.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Northumberland Coll,GPROSTD320546,"37,062.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,North West London,GPROSTD320582,"38,593.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Norwich Uni Arts,GPROSTD320528,"389,168.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Norwich Uni Arts,GPROSTD331901,"50,575.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Nottingham Trent Uni,GPROSTD320609,"3,651,641.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Nottingham Trent Uni,GPROSTD322319,"348,880.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Nottingham Trent Uni,GPROSTD323510,"70,609.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,N Warwick & Hinckley,GPROSTD320564,"54,526.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Oldham College,GPROSTD332048,"168,516.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Open University,GPROSTD320636,"11,435,151.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Open University,GPROSTD322337,"880,158.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Open University,GPROSTD323534,"79,230.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Open University,GPROSTD331904,"3,152,672.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Oxford Brookes Univ,GPROSTD320663,"2,097,799.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Oxford Brookes Univ,GPROSTD322364,"311,167.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Oxford Brookes Univ,GPROSTD323570,"136,581.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Oxfordshire LEA,GPROSTD339740,"68,830.00",Inherited Staff,Finance
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Plymouth Coll of Art,GPROSTD320735,"149,604.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Plymouth Coll of Art,GPROSTD332053,"143,395.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,QAA,GPROSTD326554,"274,010.00",Quality Assurance,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,"Queen Mary, UoL",GPROSTD320762,"3,837,488.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,"Queen Mary, UoL",GPROSTD322391,"2,816,879.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,"Queen Mary, UoL",GPROSTD323606,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,"Queen Mary, UoL",GPROSTD331911,"594,282.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Ravensbourne College,GPROSTD320771,"492,218.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,RCSSD,GPROSTD319277,"343,485.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,RCSSD,GPROSTD321788,"28,645.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Riverside Col Halton,GPROSTD319817,"95,853.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Roehampton Uni,GPROSTD320807,"1,259,203.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Roehampton Uni,GPROSTD322409,"205,790.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Roehampton Uni,GPROSTD323630,"38,464.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Rose Bruford College,GPROSTD320816,"253,443.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Rotherham Coll A&T,GPROSTD320825,"44,401.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Royal Academy Music,GPROSTD320843,"304,748.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Royal Academy Music,GPROSTD322436,"39,042.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Royal Agricultural,GPROSTD320834,"333,267.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Royal College Music,GPROSTD320861,"314,308.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Royal College Music,GPROSTD322454,"37,805.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Royal College of Art,GPROSTD320852,"679,769.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Royal College of Art,GPROSTD322445,"212,701.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Royal College of Art,GPROSTD323642,"25,087.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Royal College of Art,GPROSTD324719,"255,107.00",London Insts,Inst teams Lond East
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Royal Holloway,GPROSTD320870,"1,436,859.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Royal Holloway,GPROSTD322463,"1,188,498.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Royal Holloway,GPROSTD323654,"40,446.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Royal North Coll Mus,GPROSTD320879,"432,656.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Royal Veterinary,GPROSTD320888,"1,540,284.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Royal Veterinary,GPROSTD322481,"467,687.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Royal Veterinary,GPROSTD323678,"99,543.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Royal Veterinary,GPROSTD331923,"76,210.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Ruskin College,GPROSTD320906,"69,098.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Sheffield College,GPROSTD320951,"78,843.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Sheffield Hallam Uni,GPROSTD320960,"3,660,601.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Sheffield Hallam Uni,GPROSTD322499,"364,991.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Sheffield Hallam Uni,GPROSTD323702,"100,941.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Sheffield Hallam Uni,GPROSTD331928,"523,883.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,SOAS,GPROSTD320645,"440,785.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,SOAS,GPROSTD322346,"543,817.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,SOAS,GPROSTD323546,"39,633.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,SOAS,GPROSTD324707,"42,755.00",London Insts,Inst teams Lond East
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,SOAS,GPROSTD331905,"110,804.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Solihull College,GPROSTD320978,"92,044.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Somerset Coll of Art,GPROSTD320987,"39,366.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Southampton Solent U,GPROSTD321032,"2,002,042.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Southampton Solent U,GPROSTD323726,"73,118.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Southampton Solent U,GPROSTD331930,"343,590.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,South Downs College,GPROSTD321005,"29,636.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,South Glos & Stroud,GPROSTD321104,"25,357.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,South Tyneside Coll,GPROSTD321068,"134,893.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Sparsholt College,GPROSTD321122,"135,676.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Sparsholt College,GPROSTD332076,"38,589.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Staffordshire Uni,GPROSTD321131,"3,035,327.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Staffordshire Uni,GPROSTD322535,"49,845.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Staffordshire Uni,GPROSTD323750,"100,263.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Staffordshire Uni,GPROSTD327316,"27,951.00",Basic Grant,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Stephenson College,GPROSTD321158,"66,246.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,St George's Med Sch,GPROSTD321167,"1,725,114.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,St George's Med Sch,GPROSTD322544,"467,395.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,St George's Med Sch,GPROSTD323762,"77,962.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,St Helens Coll,GPROSTD321176,"182,702.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,St Mary's Uni Colleg,GPROSTD321185,"521,657.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,St Mary's Uni Colleg,GPROSTD331925,"53,303.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Stockport College,GPROSTD321212,"202,052.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Stockport College,GPROSTD332081,"42,738.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Swindon College,GPROSTD321284,"29,569.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Tameside College,GPROSTD321293,"25,356.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Teesside University,GPROSTD321302,"2,847,771.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Teesside University,GPROSTD322598,"103,007.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Teesside University,GPROSTD323810,"106,223.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Teesside University,GPROSTD327343,"51,981.00",Basic Grant,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Teesside University,GPROSTD331936,"476,719.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Teesside University,GPROSTD339754,"48,000.00",Revolving Green Fund,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Trafford College,GPROSTD321059,"49,336.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Trinity Laban Cons M,GPROSTD321347,"622,148.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Trinity Laban Cons M,GPROSTD323834,"32,487.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Tyne Met College,GPROSTD320537,"30,682.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni Coll Birmingham,GPROSTD318971,"712,425.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni Coll Birmingham,GPROSTD331827,"67,988.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni College London,GPROSTD234983,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni College London,GPROSTD261992,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni College London,GPROSTD310324,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni College London,GPROSTD320285,"5,047,759.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni College London,GPROSTD322220,"10,166,130.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni College London,GPROSTD323402,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni College London,GPROSTD324695,"184,914.00",London Insts,Inst teams Lond East
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni College London,GPROSTD325244,"36,573.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni for Creative Art,GPROSTD319493,"1,336,908.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni for Creative Art,GPROSTD321851,"34,014.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Arts London,GPROSTD320222,"2,771,314.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Arts London,GPROSTD322157,"555,882.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Arts London,GPROSTD323342,"210,137.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Arts London,GPROSTD325091,"51,203.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Bedfordshire,GPROSTD320312,"2,071,741.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Bedfordshire,GPROSTD322238,"93,323.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Bedfordshire,GPROSTD323426,"40,370.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Birmingham,GPROSTD291167,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Birmingham,GPROSTD318980,"5,184,004.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Birmingham,GPROSTD321662,"3,763,190.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Birmingham,GPROSTD322766,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Birmingham,GPROSTD331825,"184,277.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Bradford,GPROSTD319088,"1,975,208.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Bradford,GPROSTD321698,"536,402.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Bradford,GPROSTD322802,"90,380.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Bradford,GPROSTD331832,"123,746.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Brighton,GPROSTD319106,"2,864,911.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Brighton,GPROSTD321707,"522,252.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Brighton,GPROSTD322814,"86,185.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Brighton,GPROSTD331833,"303,896.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Bristol,GPROSTD227279,"30,217.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Bristol,GPROSTD319115,"4,593,056.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Bristol,GPROSTD321716,"4,318,531.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Bristol,GPROSTD322826,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Cambridge,GPROSTD265818,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Cambridge,GPROSTD319196,"4,064,763.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Cambridge,GPROSTD321743,"10,697,932.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Cambridge,GPROSTD322862,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Cambridge,GPROSTD323942,"163,130.00","Museums, Gal & Coll",RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Central Lancs,GPROSTD319268,"4,205,251.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Central Lancs,GPROSTD321779,"284,733.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Central Lancs,GPROSTD322910,"188,627.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Central Lancs,GPROSTD326965,"26,607.00",Basic Grant,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Chester,GPROSTD319295,"1,673,795.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Chester,GPROSTD321797,"51,025.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Chester,GPROSTD322922,"36,469.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Chester,GPROSTD326974,"59,495.00",Basic Grant,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Chichester,GPROSTD319322,"711,500.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Cumbria,GPROSTD319511,"964,090.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Cumbria,GPROSTD331848,"200,468.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of East Anglia,GPROSTD319592,"2,419,689.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of East Anglia,GPROSTD321896,"1,386,236.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of East Anglia,GPROSTD322706,"867,350.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of East Anglia,GPROSTD323030,"147,331.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of East Anglia,GPROSTD323990,"25,020.00","Museums, Gal & Coll",RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of East London,GPROSTD319601,"2,828,180.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of East London,GPROSTD321905,"184,016.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of East London,GPROSTD323042,"50,740.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Gloucester,GPROSTD319727,"1,199,455.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Gloucester,GPROSTD321959,"60,615.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Gloucester,GPROSTD323102,"27,959.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Gloucester,GPROSTD331860,"127,989.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Greenwich,GPROSTD319754,"3,627,454.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Greenwich,GPROSTD321977,"234,199.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Greenwich,GPROSTD323126,"144,273.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Hertfordshire,GPROSTD319898,"3,005,529.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Hertfordshire,GPROSTD322004,"383,373.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Hertfordshire,GPROSTD323150,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Huddersfield,GPROSTD319943,"3,292,439.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Huddersfield,GPROSTD322022,"180,261.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Huddersfield,GPROSTD323162,"77,774.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Leicester,GPROSTD320150,"2,663,363.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Leicester,GPROSTD322112,"1,736,083.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Leicester,GPROSTD323282,"160,042.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Lincoln,GPROSTD320168,"2,064,777.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Lincoln,GPROSTD322121,"145,879.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Lincoln,GPROSTD323294,"42,493.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Lincoln,GPROSTD331880,"153,863.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Liverpool,GPROSTD320204,"4,966,073.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Liverpool,GPROSTD322148,"3,250,372.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Liverpool,GPROSTD323330,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of London,GPROSTD324683,"813,761.00",London Insts,Inst teams Lond East
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Manchester,GPROSTD249978,"29,333.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Manchester,GPROSTD320339,"6,503,293.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Manchester,GPROSTD322256,"7,473,195.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Manchester,GPROSTD323450,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Manchester,GPROSTD324038,"172,638.00","Museums, Gal & Coll",RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Manchester,GPROSTD331894,"245,716.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Newcastle,GPROSTD287983,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Newcastle,GPROSTD320456,"4,306,674.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Newcastle,GPROSTD322283,"3,089,977.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Newcastle,GPROSTD323474,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Newcastle,GPROSTD331897,"661,508.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Northampton,GPROSTD320519,"1,447,787.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Northampton,GPROSTD322292,"53,564.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Northampton,GPROSTD323486,"99,430.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Northampton,GPROSTD331899,"51,994.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Northumbria,GPROSTD320555,"3,574,354.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Northumbria,GPROSTD322310,"252,575.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Northumbria,GPROSTD323498,"104,326.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Northumbria,GPROSTD327235,"44,127.00",Basic Grant,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Nottingham,GPROSTD228869,"137,250.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Nottingham,GPROSTD320618,"4,768,086.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Nottingham,GPROSTD322328,"4,410,306.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Nottingham,GPROSTD323522,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Nottingham,GPROSTD331902,"1,312,191.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Plymouth,GPROSTD320726,"4,930,266.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Plymouth,GPROSTD322373,"600,841.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Plymouth,GPROSTD323582,"125,488.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Plymouth,GPROSTD333130,"160,000.00",Revolving Green Fund,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Portsmouth,GPROSTD320744,"3,398,393.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Portsmouth,GPROSTD322382,"427,268.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Portsmouth,GPROSTD323594,"64,477.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Portsmouth,GPROSTD331910,"229,584.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Reading,GPROSTD320780,"1,832,686.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Reading,GPROSTD322400,"1,507,326.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Reading,GPROSTD323618,"181,074.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Reading,GPROSTD324086,"25,020.00","Museums, Gal & Coll",RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Reading,GPROSTD339812,"26,000.00",Revolving Green Fund,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Salford,GPROSTD320924,"2,844,918.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Salford,GPROSTD322490,"616,040.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Salford,GPROSTD323690,"149,068.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Sheffield,GPROSTD320969,"4,331,969.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Sheffield,GPROSTD322508,"3,937,976.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Sheffield,GPROSTD323714,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Sheffield,GPROSTD331927,"439,312.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Southampton,GPROSTD321041,"3,786,398.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Southampton,GPROSTD322526,"3,973,647.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Southampton,GPROSTD323738,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Sunderland,GPROSTD321248,"2,041,874.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Sunderland,GPROSTD322571,"175,830.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Sunderland,GPROSTD323774,"86,226.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Warwick,GPROSTD210398,"142,435.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Warwick,GPROSTD321392,"2,746,252.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Warwick,GPROSTD322634,"3,001,415.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Warwick,GPROSTD323846,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Warwick,GPROSTD331938,"124,503.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of West London,GPROSTD321320,"1,338,108.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of West London,GPROSTD322607,"42,375.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of West London,GPROSTD323822,"51,435.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of West London,GPROSTD331940,"124,908.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Westminster,GPROSTD321437,"3,076,258.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Westminster,GPROSTD322652,"358,280.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Westminster,GPROSTD323870,"104,276.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Westminster,GPROSTD331941,"296,231.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Winchester,GPROSTD321500,"638,533.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Winchester,GPROSTD322661,"55,663.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Wolverhampton,GPROSTD321518,"2,798,191.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Wolverhampton,GPROSTD322670,"158,860.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Wolverhampton,GPROSTD323882,"174,063.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Wolverhampton,GPROSTD331943,"160,445.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Worcester,GPROSTD25689,"166,500.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni of Worcester,GPROSTD321545,"1,176,043.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni StMark & StJohn,GPROSTD321194,"264,272.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni StMark & StJohn,GPROSTD331909,"42,547.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Universities UK,GPROSTD286302,"120,310.00",International,Regulatory Partnersh
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Bath,GPROSTD318908,"2,280,473.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Bath,GPROSTD321644,"1,532,460.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Bath,GPROSTD322742,"198,167.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Bolton,GPROSTD319043,"919,535.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Bolton,GPROSTD321680,"61,184.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Bolton,GPROSTD322778,"25,504.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Bolton,GPROSTD331829,"581,089.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Derby,GPROSTD319538,"2,208,991.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Derby,GPROSTD321878,"34,063.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Derby,GPROSTD323006,"56,251.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Derby,GPROSTD327019,"32,771.00",Basic Grant,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Derby,GPROSTD331851,"406,401.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Durham,GPROSTD319574,"2,535,297.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Durham,GPROSTD321887,"2,241,600.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Durham,GPROSTD323018,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Durham,GPROSTD331852,"58,025.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Essex,GPROSTD319655,"1,793,477.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Essex,GPROSTD321932,"808,252.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Essex,GPROSTD323066,"61,803.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Essex,GPROSTD327055,"78,757.00",Basic Grant,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Essex,GPROSTD331857,"150,655.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Exeter,GPROSTD295099,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Exeter,GPROSTD319673,"2,913,319.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Exeter,GPROSTD321941,"1,710,437.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Exeter,GPROSTD323078,"224,006.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Exeter,GPROSTD339775,"410,000.00",Revolving Green Fund,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Hull,GPROSTD319970,"2,436,538.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Hull,GPROSTD322031,"693,201.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Hull,GPROSTD323174,"163,589.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Hull,GPROSTD331868,"287,606.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Kent,GPROSTD319997,"2,970,776.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Kent,GPROSTD322058,"986,411.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Kent,GPROSTD323210,"73,346.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Leeds,GPROSTD320114,"5,639,063.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Leeds,GPROSTD322094,"4,297,529.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Leeds,GPROSTD323258,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Leeds,GPROSTD331875,"530,514.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Oxford,GPROSTD284202,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Oxford,GPROSTD320654,"3,848,574.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Oxford,GPROSTD322355,"11,676,724.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Oxford,GPROSTD323558,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Oxford,GPROSTD324074,"279,806.00","Museums, Gal & Coll",RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Oxford,GPROSTD331906,"215,605.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Surrey,GPROSTD321257,"1,507,029.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Surrey,GPROSTD322580,"1,384,806.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Surrey,GPROSTD323786,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Sussex,GPROSTD321266,"1,991,668.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Sussex,GPROSTD322589,"1,378,503.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of Sussex,GPROSTD323798,"155,094.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of York,GPROSTD321581,"2,075,771.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of York,GPROSTD322688,"2,254,248.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,University of York,GPROSTD323894,"237,690.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni West of England,GPROSTD321410,"3,445,452.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni West of England,GPROSTD322643,"419,817.00",Research 12-13,RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni West of England,GPROSTD323858,"98,550.00",HEIF 2011-15 (R),RIS policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Uni West of England,GPROSTD331939,"64,348.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Wakefield College,GPROSTD321374,"84,315.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Warwickshire College,GPROSTD321401,"198,628.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,West Notts College,GPROSTD321446,"134,220.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,West Thames Col,GPROSTD321455,"40,177.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Wigan & Leigh Coll,GPROSTD321482,"139,962.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Wiltshire College,GPROSTD321491,"70,654.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Wirral Met College,GPROSTD321509,"69,345.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Wminster Kingsw,GPROSTD321428,"49,622.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Wolv'ton LEA,GPROSTD339827,"147,719.67",Inherited Staff,Finance
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Worcester Coll Tech,GPROSTD321536,"243,792.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,Writtle College,GPROSTD321563,"286,993.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,York College,GPROSTD321599,"95,350.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,York St John Uni,GPROSTD321590,"553,523.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,20/06/2013,PL Control - Grant,Grant,York St John Uni,GPROSTD331947,"240,259.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,28/06/2013,PL Control - Grant,Grant,Manchester Cty Couni,GPROSTD339836,"144,971.79",Inherited Staff,Finance
+BIS,HEFCE,28/06/2013,PL Control - Grant,Grant,Newcastle LEA,GPROSTD339835,"67,147.36",Inherited Staff,Finance
+BIS,HEFCE,28/06/2013,PL Control - Grant,Grant,SFC (HE),GPROSTD339837,"1,650,000.00",UKRPIF,Finance
+BIS,,,,,,,,,

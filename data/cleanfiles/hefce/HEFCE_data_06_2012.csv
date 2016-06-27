@@ -1,0 +1,811 @@
+DEPARTMENT|ENTITY|PAYMENTDATE|EXPENSETYPE|EXPENSEAREA|SUPPLIER|TRANSACTIONNO|AMOUNT
+BIS|HEFCE|01/06/2012|Inherited Staff|Finance|Beds LEA|GPROSTD318768|30,149.36
+BIS|HEFCE|01/06/2012|TCIF Round 2|Finance|BIS|PIG6388|103,468.00
+BIS|HEFCE|01/06/2012|Inherited Staff|Finance|Hampshire LEA|GPROSTD318773|87,481.26
+BIS|HEFCE|01/06/2012|Quality Assurance|E&P policy team|Ipsos UK Ltd|PIG6387|480,000.00
+BIS|HEFCE|01/06/2012|JISC|JISC NAH|Key Perspectives Ltd|PIG6398|26,240.00
+BIS|HEFCE|01/06/2012|RCIF Round 2|Finance|London Sch Hygiene|GPROSTD318704|452,044.00
+BIS|HEFCE|01/06/2012|Quality Assurance|E&P policy team|QAA|PIG6400|60,000.00
+BIS|HEFCE|01/06/2012|Quality Assurance|E&P policy team|UCAS Media Ltd|PIG6381|44,107.20
+BIS|HEFCE|06/06/2012|Payroll control|Running costs|Cabinet Office PCSPS|PIS1922|168,349.73
+BIS|HEFCE|06/06/2012|PD - research|R&E programme|Centr for Enterprise|PIC434|33,187.99
+BIS|HEFCE|06/06/2012|Contract staff|Regularity Partnersh|HESA|PIS1909|43,828.80
+BIS|HEFCE|06/06/2012|Contract staff|Regularity Partnersh|HESA|PIS1910|53,325.60
+BIS|HEFCE|12/06/2012|PD - research|R&E programme|KPMG Llp|PIC438|29,644.80
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Accrington|GPROSTD295840|68,069.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Anglia Ruskin Uni|GPROSTD295849|3,109,922.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Anglia Ruskin Uni|GPROSTD298117|95,515.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Anglia Ruskin Uni|GPROSTD299293|525,935.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Anglia Ruskin Uni|GPROSTD302852|144,145.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Arts Uni Bournemouth|GPROSTD295858|746,596.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Arts Uni Bournemouth|GPROSTD299302|94,838.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Askham Bryan College|GPROSTD295867|121,449.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Aston University|GPROSTD295876|2,017,705.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Aston University|GPROSTD298135|562,032.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Aston University|GPROSTD299320|117,574.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Aston University|GPROSTD302864|140,863.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Barking and Dagenham|GPROSTD295885|63,489.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Barking LEA|GPROSTD313838|82,106.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Barnet LEA|GPROSTD313839|79,108.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Basingstoke College|GPROSTD295894|38,023.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Bath LEA|GPROSTD313837|63,158.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Bath Spa University|GPROSTD295903|1,463,391.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Bath Spa University|GPROSTD298144|59,291.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Bath Spa University|GPROSTD299347|173,170.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Bedford College|GPROSTD295921|79,782.00
+BIS|HEFCE|14/06/2012|SDF Capital LAT|RIS policy team|Birkbeck College|GPROSTD259351|46,000.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Birkbeck College|GPROSTD295939|1,736,435.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Birkbeck College|GPROSTD298162|934,507.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Birkbeck College|GPROSTD299383|201,083.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Birkbeck College|GPROSTD302888|53,404.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Birmingham City Univ|GPROSTD296164|3,072,670.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Birmingham City Univ|GPROSTD298279|152,043.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Birmingham City Univ|GPROSTD299608|491,787.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Birmingham City Univ|GPROSTD303032|107,800.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Birmingham LEA|GPROSTD313842|57,839.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Birmingham Met Coll|GPROSTD295966|46,623.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Bishop Burton|GPROSTD295984|233,330.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Bishop Burton|GPROSTD299428|43,515.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Bishop Gros Uni Coll|GPROSTD295975|309,454.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Bishop Gros Uni Coll|GPROSTD299419|53,995.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Blackburn College|GPROSTD295993|700,881.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Blackburn College|GPROSTD299437|160,606.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Blackburn College|GPROSTD310440|66,455.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Blackpool College|GPROSTD296002|592,051.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Blackpool College|GPROSTD299446|151,928.00
+BIS|HEFCE|14/06/2012|Emp Engagement - Rec|E&P policy team|Bournemouth Uni|GPROSTD286396|26,100.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Bournemouth Uni|GPROSTD296029|3,041,898.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Bournemouth Uni|GPROSTD298198|184,110.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Bournemouth Uni|GPROSTD299473|367,000.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Bournemouth Uni|GPROSTD302924|53,442.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Bradford College|GPROSTD296038|568,642.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Bradford College|GPROSTD299482|135,001.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Bradford LEA|GPROSTD313844|29,471.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Bridgwater College|GPROSTD296056|54,290.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Brunel University|GPROSTD296092|2,908,689.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Brunel University|GPROSTD298234|1,092,090.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Brunel University|GPROSTD299536|200,924.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Brunel University|GPROSTD301615|77,575.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Brunel University|GPROSTD302972|93,713.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Bucks County Council|GPROSTD313847|35,458.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Bucks New University|GPROSTD296101|1,583,268.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Bucks New University|GPROSTD298243|26,000.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Bucks New University|GPROSTD299545|232,753.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Bucks New University|GPROSTD301624|33,325.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Bucks New University|GPROSTD302984|63,058.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|BUFVC|GPROSTD309033|52,534.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Calderdale College|GPROSTD296110|50,143.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Canterbury CCUC|GPROSTD296128|2,054,532.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Canterbury CCUC|GPROSTD298261|110,022.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Canterbury CCUC|GPROSTD299572|380,251.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Canterbury CCUC|GPROSTD303008|73,204.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|Cardiff Met|GPROSTD324415|25,000.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Carlisle College|GPROSTD296146|48,386.00
+BIS|HEFCE|14/06/2012|Voluntary Giving|Finance|Case Europe|GPROSTD288283|29,714.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Central Sussex Coll|GPROSTD296191|60,829.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Cheshire West|GPROSTD313849|38,475.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Chesterfield College|GPROSTD296209|102,160.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Chichester College|GPROSTD296218|41,094.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|City Coll Coventry|GPROSTD296254|41,923.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|City of Bath College|GPROSTD296272|37,357.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|City of Sunderland C|GPROSTD296263|90,018.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|City of Sunderland C|GPROSTD299707|25,931.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|City of Westminster|GPROSTD296236|54,129.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|City of Westminster|GPROSTD301642|30,082.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|City University|GPROSTD296281|1,928,619.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|City University|GPROSTD298324|905,612.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|City University|GPROSTD299725|79,917.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|City University|GPROSTD301651|75,913.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|City University|GPROSTD303080|139,558.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Cleveland College|GPROSTD296299|144,616.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Cleveland College|GPROSTD299743|28,227.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Conservatoire D&D|GPROSTD296308|854,641.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Conservatoire D&D|GPROSTD299752|35,640.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Conservatoire D&D|GPROSTD308877|31,250.00
+BIS|HEFCE|14/06/2012|Museums, Gal & Coll|RIS policy team|Courtauld Institute|GPROSTD295618|80,416.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Courtauld Institute|GPROSTD296317|83,565.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Courtauld Institute|GPROSTD298333|105,788.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Coventry LEA|GPROSTD313850|28,803.00
+BIS|HEFCE|14/06/2012|Emp Engagement - Rec|E&P policy team|Coventry University|GPROSTD228084|81,916.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Coventry University|GPROSTD296326|3,874,513.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Coventry University|GPROSTD298342|180,071.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Coventry University|GPROSTD299770|667,533.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Coventry University|GPROSTD303092|237,518.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Coventry University|GPROSTD305238|121,922.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Coventry University|GPROSTD306178|50,581.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Cranfield University|GPROSTD296344|844,360.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Cranfield University|GPROSTD298351|1,199,491.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Cranfield University|GPROSTD303104|237,518.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Craven College|GPROSTD296335|41,957.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Croydon College|GPROSTD296362|223,117.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Croydon College|GPROSTD299806|42,137.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|CSSD|GPROSTD296182|387,095.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|CSSD|GPROSTD298297|29,162.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Dearne Valley Coll|GPROSTD296380|44,664.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|De Montfort Uni|GPROSTD296389|3,998,238.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|De Montfort Uni|GPROSTD298378|427,392.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|De Montfort Uni|GPROSTD299833|564,064.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|De Montfort Uni|GPROSTD301687|86,006.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|De Montfort Uni|GPROSTD303116|85,384.00
+BIS|HEFCE|14/06/2012|Open Educational Res|E&P policy team|De Montfort Uni|GPROSTD311628|25,982.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Derby College|GPROSTD296407|32,392.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Devon LEA|GPROSTD313855|35,146.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Doncaster College|GPROSTD296416|223,116.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Doncaster College|GPROSTD299860|50,029.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Dorset LEA|GPROSTD313857|25,768.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Dudley Coll of Tech|GPROSTD296425|53,904.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Ealing Ham  & W Lond|GPROSTD296443|44,173.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Eastleigh College|GPROSTD296470|30,003.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|East Riding|GPROSTD313861|51,645.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|East Riding College|GPROSTD296479|35,937.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|East Sussex LEA|GPROSTD313862|82,977.00
+BIS|HEFCE|14/06/2012|FE ITT Bursaries|E&P policy team|Edge Hill University|GPROSTD295489|30,200.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Edge Hill University|GPROSTD296488|1,813,199.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Edge Hill University|GPROSTD298423|28,137.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Edge Hill University|GPROSTD299932|460,261.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|Edinburgh University|GPROSTD309095|67,166.00
+BIS|HEFCE|14/06/2012|JISC Capital|JISC NAH|Edinburgh University|GPROSTD310073|58,327.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|Edinburgh University|GPROSTD312048|26,374.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|Edinburgh University|GPROSTD312064|156,176.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|Edinburgh University|GPROSTD312076|113,134.00
+BIS|HEFCE|14/06/2012|JISC Capital|JISC NAH|Edinburgh University|GPROSTD312417|36,481.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|ESRC|GPROSTD309045|32,500.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Exeter College|GPROSTD296515|40,669.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Farnborough College|GPROSTD296551|258,514.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Farnborough College|GPROSTD299995|37,584.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Gateshead College|GPROSTD296569|95,973.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Gateshead College|GPROSTD300013|42,242.00
+BIS|HEFCE|14/06/2012|Open Educational Res|E&P policy team|Glasgow Caledonian|GPROSTD324325|30,000.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Gloucestershire Coll|GPROSTD296587|93,642.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Goldsmiths College|GPROSTD296596|1,296,505.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Goldsmiths College|GPROSTD298477|763,722.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Goldsmiths College|GPROSTD300040|109,666.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Goldsmiths College|GPROSTD303236|27,598.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Grimsby Institute|GPROSTD296614|487,152.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Grimsby Institute|GPROSTD300058|125,900.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Guildford College|GPROSTD296623|165,896.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Guildford College|GPROSTD300067|27,917.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Guildhall Sch M & D|GPROSTD232331|68,000.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Guildhall Sch M & D|GPROSTD296632|198,736.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Guildhall Sch M & D|GPROSTD303260|25,449.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Guildhall Sch M & D|GPROSTD311932|55,000.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Hampshire LEA|GPROSTD313865|94,607.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Harper Adams Uni Col|GPROSTD296659|1,301,120.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Harper Adams Uni Col|GPROSTD298504|31,028.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Harper Adams Uni Col|GPROSTD300103|120,691.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Havering College|GPROSTD296668|329,727.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Havering College|GPROSTD300112|75,011.00
+BIS|HEFCE|14/06/2012|HE Academy|E&P policy team|HE Academy|GPROSTD311957|1,540,000.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Henley College|GPROSTD296677|57,227.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Hereford Coll of Art|GPROSTD296686|103,523.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Hertfordshire LEA|GPROSTD313867|31,201.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Heythrop College|GPROSTD296713|105,500.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Highbury College|GPROSTD296722|60,032.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Hopwood Hall College|GPROSTD296731|48,998.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Hull College|GPROSTD296749|426,559.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Hull College|GPROSTD300193|116,385.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Imperial College|GPROSTD212379|28,562.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Imperial College|GPROSTD224692|28,562.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Imperial College|GPROSTD285829|28,618.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Imperial College|GPROSTD296767|4,848,888.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Imperial College|GPROSTD298549|8,965,734.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Imperial College|GPROSTD300211|66,556.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Imperial College|GPROSTD303308|237,518.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Inst Cancer Research|GPROSTD296137|60,269.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Inst Cancer Research|GPROSTD298270|1,515,778.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Inst Cancer Research|GPROSTD303020|58,598.00
+BIS|HEFCE|14/06/2012|FE ITT Bursaries|E&P policy team|Inst of Education|GPROSTD295490|32,580.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Inst of Education|GPROSTD296497|383,079.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Inst of Education|GPROSTD298432|778,883.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Inst of Education|GPROSTD303176|85,091.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|JANET UK|GPROSTD309341|2,884,545.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|JANET UK|GPROSTD309351|467,500.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|JISC Advance|GPROSTD310171|962,083.00
+BIS|HEFCE|14/06/2012|SS UMF|Finance|JISC Advance|GPROSTD312837|82,875.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|JISC Advance|GPROSTD314845|250,000.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|JISC Advance|GPROSTD324386|49,560.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|JISC Collections|GPROSTD308973|204,362.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|JISC Collections|GPROSTD308985|31,666.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Keele University|GPROSTD258499|111,841.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Keele University|GPROSTD258511|121,138.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Keele University|GPROSTD296785|1,919,554.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Keele University|GPROSTD298558|607,153.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Keele University|GPROSTD300229|129,144.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Keele University|GPROSTD303320|62,284.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|King's College|GPROSTD224130|28,564.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|King's College|GPROSTD285819|28,618.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|King's College|GPROSTD296821|6,128,205.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|King's College|GPROSTD298576|5,339,741.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|King's College|GPROSTD300265|124,008.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|King's College|GPROSTD303344|237,518.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|King's College|GPROSTD314861|30,000.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|King's College|GPROSTD324375|29,326.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Kingston College|GPROSTD296812|48,422.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Kingston University|GPROSTD296830|5,132,128.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Kingston University|GPROSTD298585|313,682.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Kingston University|GPROSTD300274|594,378.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Kingston University|GPROSTD303356|75,927.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Kirklees College|GPROSTD296839|81,566.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Kirklees LEA|GPROSTD313871|32,380.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Lakes College|GPROSTD296848|83,638.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Lancashire LEA|GPROSTD313872|55,075.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Lancaster University|GPROSTD296857|2,159,925.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Lancaster University|GPROSTD298594|1,655,066.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Lancaster University|GPROSTD300301|115,782.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Lancaster University|GPROSTD303368|184,398.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Lancaster University|GPROSTD314793|32,956.00
+BIS|HEFCE|14/06/2012|Leaders Foundation|LGM|Leader Foundation HE|GPROSTD304036|89,000.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Leeds City College|GPROSTD296902|280,199.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Leeds City College|GPROSTD300346|82,407.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Leeds City College|GPROSTD310741|171,946.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Leeds City College|GPROSTD311189|34,181.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Leeds College of Art|GPROSTD296866|340,903.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Leeds College of Art|GPROSTD300310|48,452.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Leeds LEA|GPROSTD313873|69,807.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Leeds Met University|GPROSTD296893|4,951,031.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Leeds Met University|GPROSTD298621|178,474.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Leeds Met University|GPROSTD300337|560,116.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Leeds Met University|GPROSTD301786|79,948.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Leeds Met University|GPROSTD303392|125,109.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Leeds Trinity Uni Co|GPROSTD297901|452,130.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Leeds Trinity Uni Co|GPROSTD301345|77,313.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Leicester College|GPROSTD296911|86,899.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Leics LEA|GPROSTD313874|73,861.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Lincoln College|GPROSTD296947|68,966.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Liverpool Com Colleg|GPROSTD296290|119,521.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Liverpool Hope Uni|GPROSTD296965|1,183,609.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Liverpool Hope Uni|GPROSTD298657|44,060.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Liverpool Hope Uni|GPROSTD300409|202,502.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Liverpool Hope Uni|GPROSTD303440|57,077.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Liverpool Inst PA|GPROSTD296983|250,691.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Liverpool John Moore|GPROSTD296956|4,843,043.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Liverpool John Moore|GPROSTD298648|378,212.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Liverpool John Moore|GPROSTD300400|567,104.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Liverpool John Moore|GPROSTD301822|171,467.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Liverpool John Moore|GPROSTD303428|161,798.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Liverpool LEA|GPROSTD313876|87,576.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|London Bus School|GPROSTD298693|326,847.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|London Bus School|GPROSTD303476|237,518.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|London Met Uni|GPROSTD297037|3,731,815.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|London Met Uni|GPROSTD298720|295,255.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|London Met Uni|GPROSTD300481|423,748.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|London Met Uni|GPROSTD301849|113,178.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|London Met Uni|GPROSTD303500|128,950.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|London Met Uni|GPROSTD313917|83,350.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|London PFA|GPROSTD313877|47,504.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|London Sch Economics|GPROSTD297019|743,786.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|London Sch Economics|GPROSTD298702|1,565,741.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|London Sch Economics|GPROSTD303488|140,636.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|London Sch Economics|GPROSTD309195|126,040.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|London Sch Hygiene|GPROSTD297028|303,183.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|London Sch Hygiene|GPROSTD298711|1,649,257.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|London South Bank|GPROSTD297046|3,140,019.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|London South Bank|GPROSTD298729|180,348.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|London South Bank|GPROSTD300490|526,269.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|London South Bank|GPROSTD303512|67,298.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Loughborough College|GPROSTD297064|211,795.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Loughborough College|GPROSTD300508|41,756.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Loughborough Uni|GPROSTD297073|3,417,603.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Loughborough Uni|GPROSTD298769|1,990,579.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Loughborough Uni|GPROSTD300517|162,943.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Loughborough Uni|GPROSTD303536|136,325.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Macclesfield College|GPROSTD297091|209,339.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Manchester College|GPROSTD297118|374,871.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Manchester College|GPROSTD300562|86,931.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Manchester LEA|GPROSTD313878|115,039.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Manchester Met|GPROSTD297100|6,365,710.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Manchester Met|GPROSTD298816|534,025.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Manchester Met|GPROSTD300544|737,677.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Manchester Met|GPROSTD301867|116,915.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Manchester Met|GPROSTD303560|115,213.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Middlesex University|GPROSTD297127|3,758,440.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Middlesex University|GPROSTD298834|269,585.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Middlesex University|GPROSTD300571|531,747.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Middlesex University|GPROSTD301876|34,589.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Middlesex University|GPROSTD303584|46,879.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Middlesex University|GPROSTD308577|30,209.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Moulton College|GPROSTD297136|88,284.00
+BIS|HEFCE|14/06/2012|FE ITT Bursaries|E&P policy team|Newcastle College|GPROSTD295514|35,130.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Newcastle College|GPROSTD297163|853,233.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Newcastle College|GPROSTD300607|59,023.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Newcastle College|GPROSTD301894|119,170.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Newcastle College|GPROSTD307108|137,451.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Newcastle LEA|GPROSTD313880|37,449.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|New College Durham|GPROSTD297154|275,461.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|New College Durham|GPROSTD300598|44,785.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|New College Durham|GPROSTD301885|26,287.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|New College Durham|GPROSTD307098|45,142.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|New College Notts|GPROSTD297172|173,991.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|New College Notts|GPROSTD300616|28,583.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|New College Stamford|GPROSTD297730|33,901.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Newman Uni College|GPROSTD297181|429,584.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Newman Uni College|GPROSTD300625|86,943.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Northbrook College|GPROSTD297217|277,000.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Northbrook College|GPROSTD300661|47,808.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|North East Surrey|GPROSTD297244|117,997.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|North East Worcs Col|GPROSTD297235|86,937.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|North East Worcs Col|GPROSTD300679|26,640.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|North Lindsey Coll|GPROSTD297226|153,478.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|North Lindsey Coll|GPROSTD300670|44,810.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Northumberland Coll|GPROSTD297280|46,593.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|North West London|GPROSTD297316|63,423.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Norwich Uni Col Arts|GPROSTD297262|461,045.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Norwich Uni Col Arts|GPROSTD300706|69,748.00
+BIS|HEFCE|14/06/2012|FE ITT Bursaries|E&P policy team|Nottingham Trent Uni|GPROSTD295496|42,500.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Nottingham Trent Uni|GPROSTD297325|4,806,501.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Nottingham Trent Uni|GPROSTD298888|379,860.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Nottingham Trent Uni|GPROSTD300769|532,692.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Nottingham Trent Uni|GPROSTD301921|37,787.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Nottingham Trent Uni|GPROSTD303632|70,557.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Notts LEA|GPROSTD313885|58,965.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|N Warwick & Hinckley|GPROSTD297298|52,764.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Open University|GPROSTD297343|12,841,130.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Open University|GPROSTD298906|938,665.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Open University|GPROSTD300787|3,309,116.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Open University|GPROSTD303656|79,172.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Open University|GPROSTD304986|247,833.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Open University|GPROSTD307308|230,763.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|Open University|GPROSTD324419|25,000.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Oxford Brookes Univ|GPROSTD297370|2,978,837.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Oxford Brookes Univ|GPROSTD298933|363,524.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Oxford Brookes Univ|GPROSTD300814|268,362.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Oxford Brookes Univ|GPROSTD303692|136,483.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Oxford Brookes Univ|GPROSTD305428|48,959.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Oxfordshire LEA|GPROSTD313887|36,598.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Plymouth Coll of Art|GPROSTD297415|246,029.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Plymouth Coll of Art|GPROSTD300859|40,281.00
+BIS|HEFCE|14/06/2012|Quality Assurance|E&P policy team|QAA|GPROSTD310357|460,941.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Queen Mary, UoL|GPROSTD297433|5,048,477.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Queen Mary, UoL|GPROSTD298969|2,916,596.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Queen Mary, UoL|GPROSTD300877|137,010.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Queen Mary, UoL|GPROSTD303728|237,518.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Ravensbourne College|GPROSTD297442|575,182.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Ravensbourne College|GPROSTD300886|60,091.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Riverside Col Halton|GPROSTD296650|103,425.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Roehampton Uni|GPROSTD297469|1,503,201.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Roehampton Uni|GPROSTD298987|221,136.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Roehampton Uni|GPROSTD300913|200,225.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Roehampton Uni|GPROSTD301966|35,135.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Roehampton Uni|GPROSTD303752|38,436.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Rose Bruford College|GPROSTD297478|315,966.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Rose Bruford College|GPROSTD300922|31,358.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Rotherham Coll A&T|GPROSTD297487|54,447.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Royal Academy Music|GPROSTD297505|336,672.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Royal Academy Music|GPROSTD299014|40,109.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Royal Agricultural|GPROSTD297496|375,197.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Royal College Music|GPROSTD297523|352,222.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Royal College Music|GPROSTD299032|39,247.00
+BIS|HEFCE|14/06/2012|London Insts|Inst teams Lond East|Royal College of Art|GPROSTD295568|255,107.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Royal College of Art|GPROSTD297514|702,474.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Royal College of Art|GPROSTD299023|231,881.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Royal College of Art|GPROSTD303764|25,069.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Royal Holloway|GPROSTD297532|1,857,997.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Royal Holloway|GPROSTD299041|1,256,599.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Royal Holloway|GPROSTD300976|85,280.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Royal Holloway|GPROSTD303776|40,418.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Royal North Coll Mus|GPROSTD297541|488,969.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Royal Veterinary|GPROSTD297550|1,757,503.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Royal Veterinary|GPROSTD299059|489,705.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Royal Veterinary|GPROSTD300994|27,362.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Royal Veterinary|GPROSTD303800|99,471.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Ruskin College|GPROSTD297559|67,606.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|School of Pharmacy|GPROSTD312264|353,225.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|School of Pharmacy|GPROSTD312274|339,185.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Sheffield College|GPROSTD297595|124,581.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Sheffield College|GPROSTD301039|26,525.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Sheffield Hallam Uni|GPROSTD297604|5,018,249.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Sheffield Hallam Uni|GPROSTD299077|422,964.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Sheffield Hallam Uni|GPROSTD301048|772,923.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Sheffield Hallam Uni|GPROSTD302002|36,475.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Sheffield Hallam Uni|GPROSTD303824|100,869.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Sheffield Hallam Uni|GPROSTD305498|29,673.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Sheffield LEA|GPROSTD313889|63,197.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|Sir Gar Coleg|GPROSTD324427|40,000.00
+BIS|HEFCE|14/06/2012|London Insts|Inst teams Lond East|SOAS|GPROSTD295580|42,755.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|SOAS|GPROSTD297352|559,130.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|SOAS|GPROSTD298915|597,953.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|SOAS|GPROSTD300796|29,274.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|SOAS|GPROSTD303668|39,605.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Solihull College|GPROSTD297622|99,654.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Somerset Coll of Art|GPROSTD305508|37,706.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Southampton Solent U|GPROSTD234105|215,695.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Southampton Solent U|GPROSTD297667|2,679,068.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Southampton Solent U|GPROSTD301111|397,313.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Southampton Solent U|GPROSTD303848|73,066.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|South Downs College|GPROSTD297640|29,145.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|South Notts College|GPROSTD297649|32,186.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|South Notts College|GPROSTD310965|52,776.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|South Thames College|GPROSTD297685|27,898.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|South Tyneside Coll|GPROSTD297703|175,503.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|South Tyneside Coll|GPROSTD301147|42,194.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Sparsholt College|GPROSTD297712|173,921.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Staffordshire Uni|GPROSTD297721|3,772,611.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Staffordshire Uni|GPROSTD299113|60,850.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Staffordshire Uni|GPROSTD301165|812,846.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Staffordshire Uni|GPROSTD303872|100,190.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Staffs LEA|GPROSTD313893|46,458.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Stephenson College|GPROSTD297739|74,764.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|St George's Med Sch|GPROSTD297748|1,791,960.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|St George's Med Sch|GPROSTD299122|570,897.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|St George's Med Sch|GPROSTD301192|36,278.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|St George's Med Sch|GPROSTD303884|77,906.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|St George's Med Sch|GPROSTD324414|49,630.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|St Helens Coll|GPROSTD297757|216,212.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|St Helens Coll|GPROSTD301201|61,987.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|St Mary's Uni Colleg|GPROSTD297766|638,561.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|St Mary's Uni Colleg|GPROSTD301210|90,342.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Stockport College|GPROSTD297784|275,625.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Stockport College|GPROSTD301228|59,579.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Sunderland LEA|GPROSTD313896|32,155.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Swindon College|GPROSTD297847|55,874.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Tameside College|GPROSTD297856|33,134.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|The National Library|GPROSTD314851|83,333.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Trafford College|GPROSTD297694|49,921.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Trinity Laban Cons M|GPROSTD297910|691,426.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Trinity Laban Cons M|GPROSTD303956|32,463.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Tyne Met College|GPROSTD297271|42,325.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|UC Plymouth Mark/Joh|GPROSTD297775|402,777.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|UC Plymouth Mark/Joh|GPROSTD301219|70,004.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni Coll Birmingham|GPROSTD295948|807,098.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni Coll Birmingham|GPROSTD299392|194,595.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni College Falmouth|GPROSTD296533|1,137,700.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni College Falmouth|GPROSTD298459|43,780.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni College Falmouth|GPROSTD299977|122,771.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni College Falmouth|GPROSTD305268|30,459.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni College London|GPROSTD186994|28,563.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni College London|GPROSTD189585|28,564.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni College London|GPROSTD189795|28,564.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni College London|GPROSTD210418|28,563.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni College London|GPROSTD225068|28,562.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni College London|GPROSTD234981|28,618.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni College London|GPROSTD261990|28,618.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni College London|GPROSTD297055|5,741,449.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni College London|GPROSTD298747|10,096,855.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni College London|GPROSTD300499|99,900.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni College London|GPROSTD303524|237,518.00
+BIS|HEFCE|14/06/2012|London Insts|Inst teams Lond East|Uni College London|GPROSTD308933|184,914.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni College London|GPROSTD310322|28,618.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni for Creative Art|GPROSTD296353|1,687,477.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni for Creative Art|GPROSTD298360|40,288.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni for Creative Art|GPROSTD299797|179,835.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Arts London|GPROSTD296992|3,957,123.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Arts London|GPROSTD298675|585,951.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Arts London|GPROSTD300436|398,898.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Arts London|GPROSTD301840|59,907.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Arts London|GPROSTD303464|209,985.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Bedfordshire|GPROSTD297082|2,330,007.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Bedfordshire|GPROSTD298792|104,873.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Bedfordshire|GPROSTD300526|360,355.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Bedfordshire|GPROSTD301858|62,249.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Bedfordshire|GPROSTD303548|40,341.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni of Birmingham|GPROSTD291165|28,618.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Birmingham|GPROSTD295957|6,606,673.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Birmingham|GPROSTD298171|3,948,660.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Birmingham|GPROSTD299401|195,392.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Birmingham|GPROSTD301588|31,030.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Birmingham|GPROSTD302900|237,518.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Bradford|GPROSTD296047|2,421,622.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Bradford|GPROSTD298207|598,102.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Bradford|GPROSTD299491|332,100.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Bradford|GPROSTD302936|90,315.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Bradford|GPROSTD308257|51,033.00
+BIS|HEFCE|14/06/2012|SDF Capital LAT|RIS policy team|Uni of Bradford|GPROSTD309986|314,360.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Brighton|GPROSTD296065|3,755,593.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Brighton|GPROSTD298216|562,977.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Brighton|GPROSTD299509|328,926.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Brighton|GPROSTD301606|77,490.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Brighton|GPROSTD302948|86,123.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni of Bristol|GPROSTD227277|29,405.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Bristol|GPROSTD296074|5,624,466.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Bristol|GPROSTD298225|4,526,899.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Bristol|GPROSTD299518|100,825.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Bristol|GPROSTD302960|237,518.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni of Cambridge|GPROSTD188470|28,563.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni of Cambridge|GPROSTD265816|28,618.00
+BIS|HEFCE|14/06/2012|Museums, Gal & Coll|RIS policy team|Uni of Cambridge|GPROSTD295786|163,000.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Cambridge|GPROSTD296119|5,146,277.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Cambridge|GPROSTD298252|10,932,863.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Cambridge|GPROSTD299563|67,358.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Cambridge|GPROSTD302996|237,518.00
+BIS|HEFCE|14/06/2012|Open Educational Res|E&P policy team|Uni of Cambridge|GPROSTD311651|26,000.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Central Lancs|GPROSTD296173|5,539,691.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Central Lancs|GPROSTD298288|327,009.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Central Lancs|GPROSTD299617|758,843.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Central Lancs|GPROSTD301633|54,712.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Central Lancs|GPROSTD303044|188,491.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Central Lancs|GPROSTD305208|130,342.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Central Lancs|GPROSTD308297|56,058.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Chester|GPROSTD296200|2,098,025.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Chester|GPROSTD298306|66,513.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Chester|GPROSTD299644|312,466.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Chester|GPROSTD303056|36,443.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Chichester|GPROSTD296227|892,901.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Chichester|GPROSTD298315|30,178.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Chichester|GPROSTD299671|117,536.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni of Chichester|GPROSTD304892|37,195.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Cumbria|GPROSTD296371|1,324,748.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Cumbria|GPROSTD299815|198,280.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Cumbria|GPROSTD301678|76,705.00
+BIS|HEFCE|14/06/2012|Museums, Gal & Coll|RIS policy team|Uni of East Anglia|GPROSTD295738|25,000.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of East Anglia|GPROSTD295821|958,437.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of East Anglia|GPROSTD295831|197,328.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of East Anglia|GPROSTD296452|3,129,337.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of East Anglia|GPROSTD298405|1,461,183.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of East Anglia|GPROSTD299896|212,632.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of East Anglia|GPROSTD303152|147,225.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of East London|GPROSTD296461|3,117,570.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of East London|GPROSTD298414|227,494.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of East London|GPROSTD299905|481,914.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of East London|GPROSTD301705|82,808.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of East London|GPROSTD303164|50,703.00
+BIS|HEFCE|14/06/2012|SDF Capital LAT|RIS policy team|Uni of East London|GPROSTD309300|88,000.00
+BIS|HEFCE|14/06/2012|SDF Capital LAT|RIS policy team|Uni of East London|GPROSTD309301|1,000,000.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|Uni of Glasgow|GPROSTD324380|30,230.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|Uni of Glasgow|GPROSTD324409|40,000.00
+BIS|HEFCE|14/06/2012|LGM Fund|LGM|Uni of Gloucester|GPROSTD283542|48,722.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Gloucester|GPROSTD296578|1,764,106.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Gloucester|GPROSTD298468|88,356.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Gloucester|GPROSTD300022|188,055.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Gloucester|GPROSTD301714|34,717.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Gloucester|GPROSTD303224|27,939.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Greenwich|GPROSTD296605|4,441,516.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Greenwich|GPROSTD298486|292,214.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Greenwich|GPROSTD300049|704,601.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Greenwich|GPROSTD303248|144,169.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Uni of Greenwich|GPROSTD313916|29,070.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Hertfordshire|GPROSTD296704|4,015,911.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Hertfordshire|GPROSTD298513|418,362.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Hertfordshire|GPROSTD300148|479,550.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Hertfordshire|GPROSTD301723|33,099.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Hertfordshire|GPROSTD303272|237,518.00
+BIS|HEFCE|14/06/2012|FE ITT Bursaries|E&P policy team|Uni of Huddersfield|GPROSTD295493|85,510.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Huddersfield|GPROSTD296740|3,839,617.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Huddersfield|GPROSTD298531|215,959.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Huddersfield|GPROSTD300184|631,533.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Huddersfield|GPROSTD301741|45,255.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Huddersfield|GPROSTD303284|77,718.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Leicester|GPROSTD296920|3,221,852.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Leicester|GPROSTD298630|1,911,534.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Leicester|GPROSTD300364|164,419.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Leicester|GPROSTD301804|64,183.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Leicester|GPROSTD303404|159,926.00
+BIS|HEFCE|14/06/2012|SS UMF|Finance|Uni of Leicester|GPROSTD312825|30,200.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Lincoln|GPROSTD296938|2,822,125.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Lincoln|GPROSTD298639|166,518.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Lincoln|GPROSTD300382|338,145.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Lincoln|GPROSTD301813|77,649.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Lincoln|GPROSTD303416|42,463.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Liverpool|GPROSTD296974|6,086,469.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Liverpool|GPROSTD298666|3,376,367.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Liverpool|GPROSTD300418|174,901.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Liverpool|GPROSTD303452|237,518.00
+BIS|HEFCE|14/06/2012|London Insts|Inst teams Lond East|Uni of London|GPROSTD295556|813,762.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni of Manchester|GPROSTD249976|28,562.00
+BIS|HEFCE|14/06/2012|Museums, Gal & Coll|RIS policy team|Uni of Manchester|GPROSTD295666|172,500.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Manchester|GPROSTD297109|8,399,498.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Manchester|GPROSTD298825|7,685,917.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Manchester|GPROSTD300553|231,526.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Manchester|GPROSTD303572|237,518.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|Uni of Manchester|GPROSTD309009|168,687.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|Uni of Manchester|GPROSTD313213|44,028.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|Uni of Manchester|GPROSTD314880|40,000.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|Uni of Manchester|GPROSTD324376|58,250.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|Uni of Manchester|GPROSTD324421|39,925.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni of Newcastle|GPROSTD211089|28,563.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni of Newcastle|GPROSTD261413|60,061.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni of Newcastle|GPROSTD287981|28,618.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Newcastle|GPROSTD297190|5,470,107.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Newcastle|GPROSTD298852|3,220,161.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Newcastle|GPROSTD300634|138,847.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Newcastle|GPROSTD303596|237,518.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|Uni of Newcastle|GPROSTD324401|39,659.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Northampton|GPROSTD297253|1,961,063.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Northampton|GPROSTD298861|63,322.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Northampton|GPROSTD300697|328,872.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Northampton|GPROSTD303608|99,359.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Northumbria|GPROSTD297289|4,727,729.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Northumbria|GPROSTD298879|289,808.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Northumbria|GPROSTD300733|484,967.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Northumbria|GPROSTD301912|77,772.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Northumbria|GPROSTD303620|104,251.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Northumbria|GPROSTD305398|31,218.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Northumbria|GPROSTD308617|26,644.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni of Nottingham|GPROSTD189001|28,563.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni of Nottingham|GPROSTD228865|130,000.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Nottingham|GPROSTD297334|6,473,585.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Nottingham|GPROSTD298897|4,641,274.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Nottingham|GPROSTD300778|169,169.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Nottingham|GPROSTD303644|237,518.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Plymouth|GPROSTD297406|6,399,662.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Plymouth|GPROSTD298951|679,778.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Plymouth|GPROSTD300850|707,472.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Plymouth|GPROSTD301939|122,090.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Plymouth|GPROSTD303704|125,398.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Portsmouth|GPROSTD297424|4,357,420.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Portsmouth|GPROSTD298960|460,648.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Portsmouth|GPROSTD300868|450,756.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Portsmouth|GPROSTD301948|37,644.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Portsmouth|GPROSTD303716|64,431.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Portsmouth|GPROSTD307398|27,287.00
+BIS|HEFCE|14/06/2012|Museums, Gal & Coll|RIS policy team|Uni of Reading|GPROSTD295702|25,000.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Reading|GPROSTD297451|2,487,565.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Reading|GPROSTD298978|1,610,145.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Reading|GPROSTD300895|105,655.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Reading|GPROSTD301957|44,210.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Reading|GPROSTD303740|180,944.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Salford|GPROSTD297577|3,567,220.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Salford|GPROSTD299068|667,707.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Salford|GPROSTD301021|443,531.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Salford|GPROSTD301993|29,659.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Salford|GPROSTD303812|148,962.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni of Sheffield|GPROSTD183766|28,562.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Sheffield|GPROSTD297613|5,592,167.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Sheffield|GPROSTD299086|4,130,735.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Sheffield|GPROSTD301057|185,992.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Sheffield|GPROSTD303836|237,518.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Southampton|GPROSTD297676|4,690,159.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Southampton|GPROSTD299104|4,061,616.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Southampton|GPROSTD301120|161,731.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Southampton|GPROSTD303860|237,518.00
+BIS|HEFCE|14/06/2012|SDF Capital LAT|RIS policy team|Uni of Southampton|GPROSTD311683|250,000.00
+BIS|HEFCE|14/06/2012|SDF Capital LAT|RIS policy team|Uni of Southampton|GPROSTD311692|250,000.00
+BIS|HEFCE|14/06/2012|SS UMF|Finance|Uni of Southampton|GPROSTD312819|30,000.00
+BIS|HEFCE|14/06/2012|JISC Capital|JISC NAH|Uni of Southampton|GPROSTD324373|44,796.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|Uni of Stirling|GPROSTD324411|44,956.00
+BIS|HEFCE|14/06/2012|FE ITT Bursaries|E&P policy team|Uni of Sunderland|GPROSTD295502|53,830.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Sunderland|GPROSTD297820|2,652,851.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Sunderland|GPROSTD299149|203,247.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Sunderland|GPROSTD301264|471,037.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Sunderland|GPROSTD303896|86,164.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Teesside|GPROSTD297865|3,928,238.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Teesside|GPROSTD299176|114,655.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Teesside|GPROSTD301309|892,990.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Teesside|GPROSTD302047|50,564.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Teesside|GPROSTD303932|106,146.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Teesside|GPROSTD308777|44,162.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|Uni of Teesside|GPROSTD324413|30,000.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni of Warwick|GPROSTD190764|176,208.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Warwick|GPROSTD297946|3,557,134.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Warwick|GPROSTD299203|3,064,689.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Warwick|GPROSTD301390|109,905.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Warwick|GPROSTD303968|237,518.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of West London|GPROSTD297883|1,957,787.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of West London|GPROSTD299185|56,180.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of West London|GPROSTD301327|273,259.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of West London|GPROSTD303944|51,397.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of West London|GPROSTD305568|32,506.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Westminster|GPROSTD297991|4,216,024.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Westminster|GPROSTD299221|399,643.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Westminster|GPROSTD301435|453,084.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni of Westminster|GPROSTD302092|48,223.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Westminster|GPROSTD303992|104,200.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Uni of Westminster|GPROSTD313929|33,300.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|Uni of Westminster|GPROSTD324402|49,991.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Winchester|GPROSTD298036|843,463.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Winchester|GPROSTD299230|62,754.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Winchester|GPROSTD301480|131,059.00
+BIS|HEFCE|14/06/2012|Basic Grant|RIS policy team|Uni of Wolverhampton|GPROSTD286618|45,471.00
+BIS|HEFCE|14/06/2012|FE ITT Bursaries|E&P policy team|Uni of Wolverhampton|GPROSTD295505|68,000.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Wolverhampton|GPROSTD298054|3,747,296.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni of Wolverhampton|GPROSTD299239|180,195.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Wolverhampton|GPROSTD301498|794,491.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni of Wolverhampton|GPROSTD304004|173,937.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Wolverhampton|GPROSTD308107|29,513.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|Uni of Worcester|GPROSTD25686|125,000.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni of Worcester|GPROSTD298072|1,474,584.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni of Worcester|GPROSTD301516|268,340.00
+BIS|HEFCE|14/06/2012|International|Regularity Partnersh|Universities UK|GPROSTD286298|120,310.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|University of Bath|GPROSTD295912|2,835,864.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|University of Bath|GPROSTD298153|1,602,107.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|University of Bath|GPROSTD299356|108,692.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|University of Bath|GPROSTD302876|198,024.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|University of Bath|GPROSTD309358|47,201.00
+BIS|HEFCE|14/06/2012|JISC Capital|JISC NAH|University of Bath|GPROSTD324371|36,252.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|University of Bath|GPROSTD324378|25,000.00
+BIS|HEFCE|14/06/2012|FE ITT Bursaries|E&P policy team|University of Bolton|GPROSTD295483|100,580.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|University of Bolton|GPROSTD296020|1,539,354.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|University of Bolton|GPROSTD298189|62,096.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|University of Bolton|GPROSTD299464|291,909.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|University of Bolton|GPROSTD301597|37,422.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|University of Bolton|GPROSTD302912|25,486.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|University of Bolton|GPROSTD309070|75,000.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|University of Derby|GPROSTD296398|2,879,060.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|University of Derby|GPROSTD298387|43,202.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|University of Derby|GPROSTD299842|505,007.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|University of Derby|GPROSTD303128|56,211.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|University of Durham|GPROSTD296434|3,522,828.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|University of Durham|GPROSTD298396|2,326,763.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|University of Durham|GPROSTD299878|92,955.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|University of Durham|GPROSTD303140|237,518.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|University of Essex|GPROSTD296506|2,411,330.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|University of Essex|GPROSTD298441|863,683.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|University of Essex|GPROSTD299950|318,113.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|University of Essex|GPROSTD303188|61,759.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|University of Exeter|GPROSTD295097|28,618.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|University of Exeter|GPROSTD296524|3,808,633.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|University of Exeter|GPROSTD298450|1,744,506.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|University of Exeter|GPROSTD299968|89,773.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|University of Exeter|GPROSTD303200|223,845.00
+BIS|HEFCE|14/06/2012|SDF Capital LAT|RIS policy team|University of Exeter|GPROSTD304872|131,084.00
+BIS|HEFCE|14/06/2012|SS UMF|Finance|University of Exeter|GPROSTD312831|29,300.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|University of Exeter|GPROSTD314855|37,500.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|University of Hull|GPROSTD296758|3,191,798.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|University of Hull|GPROSTD298540|768,853.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|University of Hull|GPROSTD300202|398,641.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|University of Hull|GPROSTD301750|56,555.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|University of Hull|GPROSTD303296|163,472.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|University of Kent|GPROSTD296794|3,813,806.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|University of Kent|GPROSTD298567|1,073,524.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|University of Kent|GPROSTD300238|355,622.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|University of Kent|GPROSTD303332|73,294.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|University of Kent|GPROSTD309057|45,166.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|University of Leeds|GPROSTD296875|7,556,196.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|University of Leeds|GPROSTD298603|4,457,552.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|University of Leeds|GPROSTD300319|206,223.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|University of Leeds|GPROSTD303380|237,518.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|University of Oxford|GPROSTD194708|28,562.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|University of Oxford|GPROSTD210501|28,563.00
+BIS|HEFCE|14/06/2012|SDF Recurrent|RIS policy team|University of Oxford|GPROSTD284200|28,618.00
+BIS|HEFCE|14/06/2012|Museums, Gal & Coll|RIS policy team|University of Oxford|GPROSTD295798|279,584.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|University of Oxford|GPROSTD297361|5,031,841.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|University of Oxford|GPROSTD298924|11,998,347.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|University of Oxford|GPROSTD300805|81,874.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|University of Oxford|GPROSTD303680|237,518.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|University of Oxford|GPROSTD313130|26,410.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|University of Surrey|GPROSTD297829|1,986,771.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|University of Surrey|GPROSTD299158|1,505,095.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|University of Surrey|GPROSTD301273|109,037.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|University of Surrey|GPROSTD303908|237,518.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|University of Sussex|GPROSTD297838|2,523,954.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|University of Sussex|GPROSTD299167|1,443,248.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|University of Sussex|GPROSTD301282|138,086.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|University of Sussex|GPROSTD303920|154,982.00
+BIS|HEFCE|14/06/2012|JISC|JISC NAH|University of Ulster|GPROSTD324412|42,305.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|University of York|GPROSTD298090|2,636,907.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|University of York|GPROSTD299266|2,381,429.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|University of York|GPROSTD301534|104,537.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|University of York|GPROSTD304016|237,518.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uni West of England|GPROSTD297964|4,992,315.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|Uni West of England|GPROSTD299212|468,836.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Uni West of England|GPROSTD301408|553,508.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Uni West of England|GPROSTD302083|89,779.00
+BIS|HEFCE|14/06/2012|HEIF 2011-15|RIS policy team|Uni West of England|GPROSTD303980|98,480.00
+BIS|HEFCE|14/06/2012|JISC Capital|JISC NAH|Uni West of England|GPROSTD310019|27,085.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Uxbridge College|GPROSTD297919|28,429.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Wakefield College|GPROSTD297928|93,997.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Wakefield College|GPROSTD301372|35,609.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Walsall College|GPROSTD297937|78,975.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Walsall LEA|GPROSTD313900|32,282.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Warwickshire College|GPROSTD297955|265,071.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|West Notts College|GPROSTD298000|164,480.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|West Notts College|GPROSTD301444|39,580.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|West Thames Col|GPROSTD298009|53,571.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Wigan & Leigh Coll|GPROSTD298018|174,922.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Wigan & Leigh Coll|GPROSTD301462|37,994.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Wiltshire College|GPROSTD298027|82,068.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Wirral Met College|GPROSTD298045|85,780.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Wminster Kingsw|GPROSTD297982|75,344.00
+BIS|HEFCE|14/06/2012|Inherited Staff|Finance|Wolv'ton LEA|GPROSTD313907|81,821.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Worcester Coll Tech|GPROSTD298063|310,005.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Worcester Coll Tech|GPROSTD301507|118,317.00
+BIS|HEFCE|14/06/2012|Moderation - T|E&P policy team|Worcester Coll Tech|GPROSTD308847|28,709.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|Writtle College|GPROSTD298081|333,949.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|Writtle College|GPROSTD301525|41,281.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|York College|GPROSTD298108|129,394.00
+BIS|HEFCE|14/06/2012|Basic - T|E&P policy team|York St John Uni|GPROSTD298099|812,286.00
+BIS|HEFCE|14/06/2012|Basic - R|RIS policy team|York St John Uni|GPROSTD299275|25,651.00
+BIS|HEFCE|14/06/2012|Basic - WP|E&P policy team|York St John Uni|GPROSTD301543|109,648.00
+BIS|HEFCE|19/06/2012|Software maintenance|ITS|Hewlett Packard Ltd|PIM142|28,679.04
+BIS|HEFCE|19/06/2012|Premises costs|Facilities Managemen|Workman Clt Almacant|PIN17530|61,677.00
+BIS|HEFCE|26/06/2012|PD - research|R&E programme|IFF Research|PIC443|52,410.00
+BIS|HEFCE|26/06/2012|PD - research|R&E programme|I Graduate|PIC442|39,000.00
+BIS|HEFCE|26/06/2012|Offsite premises|JISC KCL|King's College|PIS1966|77,337.00
+BIS|HEFCE|26/06/2012|Software maintenance|ITS|Unit 4 Business Soft|PIM146|37,596.20
+BIS|HEFCE|26/06/2012|Premises costs|Facilities Managemen|Uni West of England|PIS1947|221,772.44
+BIS|HEFCE|30/06/2012|Inherited Staff|Finance|Birmingham LEA|GPROSTD324722|47,470.36
+BIS|HEFCE|30/06/2012|NSP|E&P policy team|Centr for Enterprise|PIG6426|25,707.00
+BIS|HEFCE|30/06/2012|SS UMF|Finance|Liverpool John Moore|PIG6425|30,000.00
+BIS|HEFCE|30/06/2012|Voluntary Giving|Finance|More Partnership Ltd|PIG6427|27,360.00
+BIS|HEFCE|30/06/2012|Basic Grant|RIS policy team|Uni of Birmingham|GPROSTD324740|374,408.00
+BIS|HEFCE|30/06/2012|Basic Grant|RIS policy team|Uni of Northumbria|GPROSTD324732|2,545,148.00
+BIS|HEFCE|30/06/2012|Basic Grant|RIS policy team|Uni of Plymouth|GPROSTD324736|38,000.00

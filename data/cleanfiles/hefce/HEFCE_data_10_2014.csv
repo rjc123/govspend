@@ -1,0 +1,97 @@
+DEPARTMENT|ENTITY|PAYMENTDATE|EXPENSETYPE|EXPENSEAREA|SUPPLIER|TRANSACTIONNO|AMOUNT
+BIS|HEFCE|10/10/2014|Hardware purchase|ITS|101 Data Solutions|PIM326|44,002.80
+BIS|HEFCE|10/10/2014|Hardware purchase|ITS|101 Data Solutions|PIS3974|189,783.46
+BIS|HEFCE|10/10/2014|Rates|Facilities Managemen|South Glos Council|PIS3956|145,805.00
+BIS|HEFCE|15/10/2014|UKRPIF|Finance|HEFCW|PIG12487|3,323,050.00
+BIS|HEFCE|16/10/2014|PSS|E&P policy team|Aston University|GPROSTD346834|234,079.00
+BIS|HEFCE|16/10/2014|PSS|E&P policy team|Brunel University|GPROSTD346840|249,450.00
+BIS|HEFCE|16/10/2014|Museums, Gal & Coll|RIS policy team|Courtauld Institute|GPROSTD363835|80,417.00
+BIS|HEFCE|16/10/2014|Catalyst Fund  (R)|RIS policy team|Coventry University|GPROSTD347157|163,857.00
+BIS|HEFCE|16/10/2014|Catalyst Fund C (T)|RIS policy team|Coventry University|GPROSTD347551|30,884.00
+BIS|HEFCE|16/10/2014|PSS|E&P policy team|Cranfield University|GPROSTD346882|333,333.00
+BIS|HEFCE|16/10/2014|Equal opportunities|LGM|ECU|GPROSTD364120|78,209.00
+BIS|HEFCE|16/10/2014|Equal opportunities|LGM|ECU|GPROSTD364121|78,209.00
+BIS|HEFCE|16/10/2014|PD - research|R,,E & KE|EPSRC|PIC690|88,027.00
+BIS|HEFCE|16/10/2014|SDF Capital (R)|RIS policy team|EPSRC|PIG12420|40,706.89
+BIS|HEFCE|16/10/2014|SDF Capital (R)|RIS policy team|EPSRC|PIG12456|49,829.53
+BIS|HEFCE|16/10/2014|Catalyst Fund C (R)|RIS policy team|Hadlow College|GPROSTD347138|40,000.00
+BIS|HEFCE|16/10/2014|Catalyst Fund C (T)|RIS policy team|Hadlow College|GPROSTD347144|60,000.00
+BIS|HEFCE|16/10/2014|HE Academy|E&P policy team|HE Academy|GPROSTD364074|350,000.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|Imperial College|GPROSTD263910|30,214.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|Imperial College|GPROSTD310336|30,214.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|Imperial College|GPROSTD310345|30,214.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|Imperial College|GPROSTD328939|25,000.00
+BIS|HEFCE|16/10/2014|PSS|E&P policy team|Inst of Education|GPROSTD346816|83,333.00
+BIS|HEFCE|16/10/2014|Provision of Info|E&P policy team|Ipsos UK Ltd|PIG12458|470,572.80
+BIS|HEFCE|16/10/2014|JISC|JISC NAH|JISC|GPROSTD363327|2,558,333.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|King's College|GPROSTD326479|25,000.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|King's College|GPROSTD342785|25,000.00
+BIS|HEFCE|16/10/2014|PSS|E&P policy team|King's College|GPROSTD346876|86,171.00
+BIS|HEFCE|16/10/2014|PSS|E&P policy team|Kingston University|GPROSTD346870|309,985.00
+BIS|HEFCE|16/10/2014|Leaders Foundation|LGM|Leader Foundation HE|GPROSTD364099|225,000.00
+BIS|HEFCE|16/10/2014|Catalyst Fund  (R)|RIS policy team|Loughborough Uni|GPROSTD343132|104,250.00
+BIS|HEFCE|16/10/2014|Policy Ongoing Serv|Central|NCUB|GPROSTD333837|50,000.00
+BIS|HEFCE|16/10/2014|PSS|E&P policy team|Nottingham Trent Uni|GPROSTD346852|242,833.00
+BIS|HEFCE|16/10/2014|Catalyst Fund|RIS policy team|NUS|GPROSTD333772|211,250.00
+BIS|HEFCE|16/10/2014|Revolving Green Fund|RIS policy team|Oxford Brookes Univ|GPROSTD364086|307,881.00
+BIS|HEFCE|16/10/2014|Quality Assurance|E&P policy team|QAA|GPROSTD364110|395,544.00
+BIS|HEFCE|16/10/2014|Catalyst Fund  (R)|RIS policy team|Royal College of Art|GPROSTD346933|575,264.00
+BIS|HEFCE|16/10/2014|PSS|E&P policy team|Royal Veterinary|GPROSTD346828|150,167.00
+BIS|HEFCE|16/10/2014|PSS|E&P policy team|SOAS|GPROSTD346804|139,882.00
+BIS|HEFCE|16/10/2014|Catalyst Fund  (R)|RIS policy team|Southampton Solent U|GPROSTD354483|43,403.00
+BIS|HEFCE|16/10/2014|Teaching 13-14|E&P policy team|Telford College|GPROSTD364098|31,700.00
+BIS|HEFCE|16/10/2014|Catalyst Fund  (R)|RIS policy team|The Open University|GPROSTD346621|585,000.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|Uni College London|GPROSTD285843|30,214.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|Uni College London|GPROSTD309277|30,214.00
+BIS|HEFCE|16/10/2014|Catalyst Fund  (R)|RIS policy team|Uni College London|GPROSTD346921|30,000.00
+BIS|HEFCE|16/10/2014|Catalyst Fund  (R)|RIS policy team|Uni College London|GPROSTD347091|250,000.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|Uni of Birmingham|GPROSTD266157|149,535.00
+BIS|HEFCE|16/10/2014|Policy Ongoing Serv|Central|Uni of Bristol|GPROSTD347103|95,373.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|Uni of Cambridge|GPROSTD309954|30,214.00
+BIS|HEFCE|16/10/2014|Museums, Gal & Coll|RIS policy team|Uni of Cambridge|GPROSTD363834|163,000.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|Uni of Central Lancs|GPROSTD343206|25,000.00
+BIS|HEFCE|16/10/2014|Catalyst Fund  (R)|RIS policy team|Uni of Chester|GPROSTD343032|70,791.00
+BIS|HEFCE|16/10/2014|Museums, Gal & Coll|RIS policy team|Uni of East Anglia|GPROSTD363838|25,000.00
+BIS|HEFCE|16/10/2014|Catalyst Fund  (R)|RIS policy team|Uni of Gloucester|GPROSTD347187|250,000.00
+BIS|HEFCE|16/10/2014|PSS|E&P policy team|Uni of Greenwich|GPROSTD346822|93,916.00
+BIS|HEFCE|16/10/2014|Catalyst Fund  (R)|RIS policy team|Uni of Lancaster|GPROSTD346593|155,046.00
+BIS|HEFCE|16/10/2014|PSS|E&P policy team|Uni of Lancaster|GPROSTD346798|91,207.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|Uni of Manchester|GPROSTD285853|30,214.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|Uni of Manchester|GPROSTD285894|30,214.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|Uni of Manchester|GPROSTD343211|25,000.00
+BIS|HEFCE|16/10/2014|UKRPIF|Finance|Uni of Manchester|GPROSTD343342|1,547,900.00
+BIS|HEFCE|16/10/2014|Museums, Gal & Coll|RIS policy team|Uni of Manchester|GPROSTD363842|172,500.00
+BIS|HEFCE|16/10/2014|Catalyst Fund  (R)|RIS policy team|Uni of Northumbria|GPROSTD354494|83,024.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|Uni of Nottingham|GPROSTD316736|30,000.00
+BIS|HEFCE|16/10/2014|Museums, Gal & Coll|RIS policy team|Uni of Reading|GPROSTD363846|25,000.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|Uni of Sheffield|GPROSTD263920|30,214.00
+BIS|HEFCE|16/10/2014|PSS|E&P policy team|Uni of Sheffield|GPROSTD346846|498,947.00
+BIS|HEFCE|16/10/2014|Catalyst Fund C (R)|RIS policy team|Uni of Sheffield|GPROSTD364122|160,000.00
+BIS|HEFCE|16/10/2014|Catalyst Fund C (T)|RIS policy team|Uni of Sheffield|GPROSTD364123|240,000.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|Uni of Southampton|GPROSTD309944|30,214.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|Uni of Southampton|GPROSTD326449|25,000.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|Uni of Southampton|GPROSTD342795|25,000.00
+BIS|HEFCE|16/10/2014|Catalyst Fund  (R)|RIS policy team|Uni of Southampton|GPROSTD343255|177,500.00
+BIS|HEFCE|16/10/2014|International|LGM|Universities UK|GPROSTD343095|187,500.00
+BIS|HEFCE|16/10/2014|International|LGM|Universities UK|GPROSTD343110|37,500.00
+BIS|HEFCE|16/10/2014|PSS|E&P policy team|University of Derby|GPROSTD346858|99,822.00
+BIS|HEFCE|16/10/2014|PSS|E&P policy team|University of Essex|GPROSTD346928|146,294.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|University of Keele|GPROSTD342805|25,000.00
+BIS|HEFCE|16/10/2014|SDF Recurrent|RIS policy team|University of Oxford|GPROSTD262349|30,214.00
+BIS|HEFCE|16/10/2014|UKRPIF|Finance|University of Oxford|GPROSTD346784|70,000.00
+BIS|HEFCE|16/10/2014|PSS|E&P policy team|University of Oxford|GPROSTD346788|1,000,000.00
+BIS|HEFCE|16/10/2014|Museums, Gal & Coll|RIS policy team|University of Oxford|GPROSTD363845|279,583.00
+BIS|HEFCE|24/10/2014|Software maintenance|ITS|Hewlett Packard Ltd|PIS3988|37,723.92
+BIS|HEFCE|31/10/2014|NSP|E&P policy team|Centr for Enterprise|PIG12520|29,707.00
+BIS|HEFCE|31/10/2014|HEDIIP|Regulatory Partnersh|HESA|PIG12746|138,449.15
+BIS|HEFCE|31/10/2014|JISC Capital (T)|RIS policy team|JISC|GPROSTD364129|1,400,010.00
+BIS|HEFCE|31/10/2014|JISC Capital (R)|JISC NAH|JISC|GPROSTD364135|933,340.00
+BIS|HEFCE|31/10/2014|Costing & Pricing|Finance|KPMG Llp|PIG12518|32,760.00
+BIS|HEFCE|31/10/2014|Costing & Pricing|Finance|KPMG Llp|PIG12519|91,891.80
+BIS|HEFCE|31/10/2014|REF|REF|NYS Corporate|PIG12521|120,511.48
+BIS|HEFCE|31/10/2014|REF|REF|NYS Corporate|PIG12524|58,797.22
+BIS|HEFCE|31/10/2014|Revolving Green Fund|RIS policy team|Royal North Coll Mus|GPROSTD364152|152,069.00
+BIS|HEFCE|31/10/2014|Revolving Green Fund|RIS policy team|Uni of Bedfordshire|GPROSTD364170|484,644.00
+BIS|HEFCE|31/10/2014|Revolving Green Fund|RIS policy team|Uni of Brighton|GPROSTD364143|500,000.00
+BIS|HEFCE|31/10/2014|Catalyst Fund|RIS policy team|Uni of Southampton|GPROSTD364124|94,167.00
+BIS|HEFCE|31/10/2014|Revolving Green Fund|RIS policy team|Uni StMark & StJohn|GPROSTD364161|360,000.00

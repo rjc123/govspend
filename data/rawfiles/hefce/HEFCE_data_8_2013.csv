@@ -1,0 +1,1185 @@
+Department,Entity,Payment date,Supplier,TransactionNo,Amount,Expense Type,Expense Area
+BIS,HEFCE,02/08/2013,Deloitte,PIS2892,"27,956.59",Contract staff,Regulatory Partnersh
+BIS,HEFCE,02/08/2013,HESA,PIS2879,"30,599.11",Contract staff,Regulatory Partnersh
+BIS,HEFCE,03/08/2013,QAA,GPROSTD340592,"280,000.00",Quality Assurance,E&P policy team
+BIS,HEFCE,10/08/2013,Hewlett Packard Ltd,PIM223,"36,136.22",Software maintenance,ITS
+BIS,HEFCE,13/08/2013,EPSRC,PIG6957,"26,972.54",SDF Capital (R),RIS policy team
+BIS,HEFCE,13/08/2013,EPSRC,PIG6958,"43,430.13",SDF Capital (R),RIS policy team
+BIS,HEFCE,13/08/2013,EPSRC,PIG6961,"26,073.88",SDF Capital (R),RIS policy team
+BIS,HEFCE,13/08/2013,GAD,PIS2920,"65,191.52",Premises costs,Facilities Managemen
+BIS,HEFCE,16/08/2013,Accrington,GPROSTD334773,"58,791.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Amersham and Wycombe,GPROSTD340323,"36,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Anglia Ruskin Uni,GPROSTD332444,"102,647.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Anglia Ruskin Uni,GPROSTD333873,"194,958.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Anglia Ruskin Uni,GPROSTD334791,"2,913,413.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Anglia Ruskin Uni,GPROSTD337743,"169,467.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Anglia Ruskin Uni,GPROSTD338841,"64,483.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Anglia Ruskin Uni,GPROSTD340324,"1,305,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Arts Uni Bournemouth,GPROSTD334800,"579,717.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Arts Uni Bournemouth,GPROSTD340325,"267,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Askham Bryan College,GPROSTD334818,"146,490.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Aston University,GPROSTD327794,"82,023.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Aston University,GPROSTD332445,"55,779.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Aston University,GPROSTD333882,"190,520.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Aston University,GPROSTD334827,"1,534,128.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Aston University,GPROSTD337761,"892,271.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Aston University,GPROSTD338850,"63,015.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Aston University,GPROSTD340327,"615,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Barking and Dagenham,GPROSTD328641,"249,600.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Barking and Dagenham,GPROSTD334845,"60,242.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Barnet and Southgate,GPROSTD340329,"27,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Barnet LEA,GPROSTD328642,"233,292.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Barnfield College,GPROSTD340328,"36,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Barnsley College,GPROSTD340330,"72,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Bath LEA,GPROSTD328640,"188,367.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Bath Spa University,GPROSTD332447,"46,720.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Bath Spa University,GPROSTD334890,"1,162,963.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Bath Spa University,GPROSTD337770,"78,088.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Bath Spa University,GPROSTD340331,"534,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,BDO Stoy Hayward,PIS2916,"37,146.00",Contract staff,Assurance
+BIS,HEFCE,16/08/2013,Bedford College,GPROSTD334908,"58,188.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Bedford College,GPROSTD340333,"42,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Beds LEA,GPROSTD328644,"74,472.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Birkbeck College,GPROSTD327798,"126,669.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Birkbeck College,GPROSTD332449,"59,038.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Birkbeck College,GPROSTD333900,"72,229.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Birkbeck College,GPROSTD334962,"1,530,769.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Birkbeck College,GPROSTD337788,"1,517,135.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Birkbeck College,GPROSTD340335,"393,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Birmingham City Univ,GPROSTD332451,"110,030.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Birmingham City Univ,GPROSTD334008,"145,801.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Birmingham City Univ,GPROSTD335286,"2,626,116.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Birmingham City Univ,GPROSTD337905,"256,478.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Birmingham City Univ,GPROSTD338976,"48,225.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Birmingham City Univ,GPROSTD340360,"1,119,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Birmingham LEA,GPROSTD328645,"172,968.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Birmingham Met Coll,GPROSTD334989,"88,006.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Birmingham Met Coll,GPROSTD340338,"54,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Bishop Burton,GPROSTD335007,"295,149.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Bishop Burton,GPROSTD340340,"66,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Bishop Gros Uni,GPROSTD334998,"267,484.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Bishop Gros Uni,GPROSTD340339,"150,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Blackburn College,GPROSTD333154,"42,267.00",Capital for FECs,E&P policy team
+BIS,HEFCE,16/08/2013,Blackburn College,GPROSTD335025,"555,256.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Blackburn College,GPROSTD340341,"288,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Blackpool College,GPROSTD333155,"42,617.00",Capital for FECs,E&P policy team
+BIS,HEFCE,16/08/2013,Blackpool College,GPROSTD335034,"616,168.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Bolton LEA,GPROSTD328646,"47,730.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Bournemouth & Poole,GPROSTD335079,"33,406.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Bournemouth & Poole,GPROSTD340345,"66,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Bournemouth Uni,GPROSTD332456,"100,867.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Bournemouth Uni,GPROSTD333927,"72,281.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Bournemouth Uni,GPROSTD335070,"2,615,937.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Bournemouth Uni,GPROSTD337824,"281,998.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Bournemouth Uni,GPROSTD340344,"1,140,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Bradford College,GPROSTD333157,"46,637.00",Capital for FECs,E&P policy team
+BIS,HEFCE,16/08/2013,Bradford College,GPROSTD335097,"501,583.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Bradford College,GPROSTD340346,"198,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Bridgwater College,GPROSTD335115,"42,589.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Brighton & Hove Coll,GPROSTD340369,"36,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Bromley LEA,GPROSTD328649,"41,817.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Brooksby College,GPROSTD335169,"41,992.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Brooksby College,GPROSTD340352,"36,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Brunel University,GPROSTD327806,"153,832.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Brunel University,GPROSTD332459,"89,861.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Brunel University,GPROSTD333963,"126,748.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Brunel University,GPROSTD335178,"2,547,543.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Brunel University,GPROSTD337860,"1,675,581.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Brunel University,GPROSTD338931,"41,923.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Brunel University,GPROSTD340353,"714,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Bucks County Council,GPROSTD333791,"106,409.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Bucks New University,GPROSTD332460,"44,745.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Bucks New University,GPROSTD333972,"85,287.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Bucks New University,GPROSTD335187,"1,255,130.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Bucks New University,GPROSTD337869,"36,963.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Bucks New University,GPROSTD338940,"28,209.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Bucks New University,GPROSTD340354,"579,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Burnley College,GPROSTD340355,"51,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Calderdale College,GPROSTD335214,"35,030.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Calderdale College,GPROSTD340356,"39,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Canterbury CCUC,GPROSTD332462,"81,130.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Canterbury CCUC,GPROSTD333990,"99,010.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Canterbury CCUC,GPROSTD335241,"1,744,098.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Canterbury CCUC,GPROSTD337887,"134,320.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Canterbury CCUC,GPROSTD338958,"32,747.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Canterbury CCUC,GPROSTD340359,"918,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Canterbury Coll,GPROSTD335259,"53,371.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Central College Nott,GPROSTD337122,"57,819.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Central College Nott,GPROSTD340508,"30,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Central Sussex Coll,GPROSTD335313,"31,304.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Cheshire West,GPROSTD328651,"111,930.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Chesterfield College,GPROSTD335331,"60,909.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,City of Bradford,GPROSTD328647,"88,446.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,City of Bristol Coll,GPROSTD335421,"43,254.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,City of Sunderland C,GPROSTD335385,"70,760.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,City of Westminster,GPROSTD335367,"85,610.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,City University,GPROSTD327814,"100,849.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,City University,GPROSTD332466,"59,599.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,City University,GPROSTD334044,"188,755.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,City University,GPROSTD335403,"1,677,626.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,City University,GPROSTD337950,"1,448,488.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,City University,GPROSTD339012,"62,430.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,City University,GPROSTD340367,"459,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Cleveland College,GPROSTD335439,"149,066.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Cleveland College,GPROSTD340370,"51,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Colchester Inst,GPROSTD335448,"31,679.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Colchester Inst,GPROSTD340371,"60,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Conservatoire D&D,GPROSTD334053,"42,269.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Conservatoire D&D,GPROSTD335457,"1,076,110.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Conservatoire D&D,GPROSTD340372,"108,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Cornwall College,GPROSTD335466,"57,929.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Cornwall College,GPROSTD340373,"75,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Council for Industry,GPROSTD333823,"50,000.00",Policy Ongoing Serv,Central
+BIS,HEFCE,16/08/2013,Courtauld Institute,GPROSTD335475,"99,782.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Courtauld Institute,GPROSTD337959,"167,896.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Courtauld Institute,GPROSTD340101,"80,417.00","Museums, Gal & Coll",RIS policy team
+BIS,HEFCE,16/08/2013,Coventry LEA,GPROSTD328652,"84,723.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Coventry University,GPROSTD304944,"300,000.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,Coventry University,GPROSTD327816,"33,540.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Coventry University,GPROSTD332467,"125,517.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Coventry University,GPROSTD334062,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Coventry University,GPROSTD335484,"3,457,788.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Coventry University,GPROSTD337968,"276,300.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Coventry University,GPROSTD339030,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Coventry University,GPROSTD339802,"135,000.00",Revolving Green Fund,RIS policy team
+BIS,HEFCE,16/08/2013,Coventry University,GPROSTD340375,"1,329,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Coventry University,GPROSTD342871,"200,000.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Cranfield University,GPROSTD327817,"303,626.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Cranfield University,GPROSTD332468,"25,013.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Cranfield University,GPROSTD334071,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Cranfield University,GPROSTD335502,"1,262,934.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Cranfield University,GPROSTD337977,"1,701,211.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Cranfield University,GPROSTD339039,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Cranfield University,GPROSTD342864,"318,923.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Craven College,GPROSTD335493,"39,924.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Croydon College,GPROSTD335520,"127,951.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Dearne Valley Coll,GPROSTD335538,"26,092.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,De Montfort Uni,GPROSTD327819,"71,097.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,De Montfort Uni,GPROSTD332470,"128,366.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,De Montfort Uni,GPROSTD334080,"115,483.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,De Montfort Uni,GPROSTD335547,"3,339,576.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,De Montfort Uni,GPROSTD338004,"650,988.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,De Montfort Uni,GPROSTD339048,"38,197.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,De Montfort Uni,GPROSTD340378,"1,188,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Derby College,GPROSTD335565,"31,114.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Derbyshire LEA,GPROSTD328656,"41,352.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Devon County Council,GPROSTD328657,"105,978.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Doncaster College,GPROSTD335574,"223,896.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Doncaster College,GPROSTD340380,"99,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Doncaster Council,GPROSTD328658,"52,155.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Dorset LEA,GPROSTD328659,"76,497.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Dudley Coll of Tech,GPROSTD335583,"38,295.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Durham LEA,GPROSTD328661,"33,750.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Ealing Ham  & W Lond,GPROSTD340382,"27,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Ealing LEA,GPROSTD328662,"38,544.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,East Riding,GPROSTD328663,"156,087.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,East Sussex LEA,GPROSTD328664,"251,193.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Edge Hill University,GPROSTD332475,"81,719.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Edge Hill University,GPROSTD335673,"1,646,475.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Edge Hill University,GPROSTD338049,"35,972.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Edge Hill University,GPROSTD340387,"747,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Essex LEA,GPROSTD328665,"44,166.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Falmouth Uni,GPROSTD332479,"30,966.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Falmouth Uni,GPROSTD334152,"31,948.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Falmouth Uni,GPROSTD335718,"1,100,183.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Falmouth Uni,GPROSTD338085,"68,528.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Falmouth Uni,GPROSTD340391,"402,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Farnborough College,GPROSTD335736,"152,779.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Farnborough College,GPROSTD340392,"66,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Gateshead College,GPROSTD335754,"89,483.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Gateshead College,GPROSTD340394,"45,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Gloucestershire Coll,GPROSTD335772,"42,520.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Gloucestershire Coll,GPROSTD340396,"27,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Gloucs LEA,GPROSTD328666,"58,089.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Goldsmiths College,GPROSTD327830,"83,423.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Goldsmiths College,GPROSTD328717,"42,075.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Goldsmiths College,GPROSTD332481,"43,836.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Goldsmiths College,GPROSTD334170,"37,326.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Goldsmiths College,GPROSTD335781,"1,096,225.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Goldsmiths College,GPROSTD338103,"1,189,767.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Goldsmiths College,GPROSTD340397,"432,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Grimsby Institute,GPROSTD333183,"30,699.00",Capital for FECs,E&P policy team
+BIS,HEFCE,16/08/2013,Grimsby Institute,GPROSTD335808,"395,221.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Grimsby Institute,GPROSTD340399,"159,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Guildford College,GPROSTD335817,"101,467.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Guildford College,GPROSTD340400,"81,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Guildhall Sch M & D,GPROSTD334188,"34,421.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Guildhall Sch M & D,GPROSTD335826,"229,529.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Guildhall Sch M & D,GPROSTD338121,"36,912.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Guildhall Sch M & D,GPROSTD340401,"45,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Hackney Community Co,GPROSTD335835,"26,251.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Hackney Community Co,GPROSTD340402,"66,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Hampshire LEA,GPROSTD328667,"285,864.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Harper Adams Uni,GPROSTD261891,"60,000.00",Revolving Green Fund,RIS policy team
+BIS,HEFCE,16/08/2013,Harper Adams Uni,GPROSTD332484,"32,731.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Harper Adams Uni,GPROSTD335880,"1,352,362.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Harper Adams Uni,GPROSTD338130,"44,834.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Harper Adams Uni,GPROSTD340406,"351,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Hartpury College,GPROSTD335889,"77,622.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Hartpury College,GPROSTD340407,"105,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Havering College,GPROSTD335916,"256,423.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Henley College,GPROSTD335925,"38,072.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Hereford Coll of Art,GPROSTD335934,"82,419.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Hereford Coll of Art,GPROSTD340408,"36,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Hertfordshire CC,GPROSTD328669,"90,054.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Heythrop College,GPROSTD335970,"86,391.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Heythrop College,GPROSTD340410,"33,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Highbury College,GPROSTD335979,"37,688.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Hopwood Hall College,GPROSTD335997,"38,941.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Hounslow LEA,GPROSTD328670,"33,639.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Hugh Baird College,GPROSTD340414,"30,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Hull College,GPROSTD333192,"27,328.00",Capital for FECs,E&P policy team
+BIS,HEFCE,16/08/2013,Hull College,GPROSTD336024,"340,349.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Hull College,GPROSTD340415,"165,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Imperial College,GPROSTD327836,"2,170,568.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Imperial College,GPROSTD332488,"136,739.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Imperial College,GPROSTD332856,"75,744.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Imperial College,GPROSTD334224,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Imperial College,GPROSTD336042,"6,146,010.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Imperial College,GPROSTD338175,"14,760,039.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Imperial College,GPROSTD339192,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Imperial College,GPROSTD340417,"486,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Imperial College,GPROSTD342848,"500,000.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Inst Cancer Research,GPROSTD327809,"305,411.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Inst Cancer Research,GPROSTD333999,"79,255.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Inst Cancer Research,GPROSTD335250,"113,428.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Inst Cancer Research,GPROSTD337896,"2,508,459.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Inst Cancer Research,GPROSTD338967,"26,214.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Inst of Education,GPROSTD327825,"174,431.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Inst of Education,GPROSTD334125,"115,089.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Inst of Education,GPROSTD335682,"429,204.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Inst of Education,GPROSTD338058,"1,180,773.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Inst of Education,GPROSTD339093,"38,066.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Inst of Education,GPROSTD340388,"27,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,JISC,GPROSTD340576,"3,385,917.00",JISC,JISC NAH
+BIS,HEFCE,16/08/2013,JISC,GPROSTD342845,"2,019,548.00",JISC Capital (T),RIS policy team
+BIS,HEFCE,16/08/2013,JISC,GPROSTD342846,"1,346,365.00",JISC Capital (R),JISC NAH
+BIS,HEFCE,16/08/2013,Keele University,GPROSTD327837,"98,275.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Keele University,GPROSTD332489,"64,686.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Keele University,GPROSTD334233,"84,241.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Keele University,GPROSTD336051,"1,978,789.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Keele University,GPROSTD338184,"930,031.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Keele University,GPROSTD339201,"27,864.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Keele University,GPROSTD339860,"115,000.00",Revolving Green Fund,RIS policy team
+BIS,HEFCE,16/08/2013,Keele University,GPROSTD340418,"468,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Kent LEA,GPROSTD328671,"40,209.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,King's College,GPROSTD235003,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,King's College,GPROSTD309265,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,King's College,GPROSTD327839,"1,034,175.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,King's College,GPROSTD332491,"168,462.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,King's College,GPROSTD332859,"36,088.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,King's College,GPROSTD334251,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,King's College,GPROSTD336105,"8,087,166.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,King's College,GPROSTD338202,"8,679,932.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,King's College,GPROSTD339219,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,King's College,GPROSTD340421,"924,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,King's College,GPROSTD342853,"500,000.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Kingston College,GPROSTD336096,"53,135.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Kingston College,GPROSTD340420,"30,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Kingston LEA,GPROSTD328672,"51,423.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Kingston University,GPROSTD327840,"35,107.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Kingston University,GPROSTD332492,"167,521.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Kingston University,GPROSTD334260,"102,693.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Kingston University,GPROSTD336114,"4,711,939.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Kingston University,GPROSTD338211,"458,173.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Kingston University,GPROSTD339228,"33,966.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Kingston University,GPROSTD340422,"1,392,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Kirklees College,GPROSTD336141,"82,373.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Kirklees Council,GPROSTD328673,"98,160.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Lakes College,GPROSTD336159,"53,703.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Lancashire LEA,GPROSTD328674,"162,798.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Lancaster University,GPROSTD314807,"32,956.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,Lancaster University,GPROSTD327841,"286,220.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Lancaster University,GPROSTD332493,"68,638.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Lancaster University,GPROSTD334269,"249,403.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Lancaster University,GPROSTD336168,"1,761,602.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Lancaster University,GPROSTD338220,"2,693,473.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Lancaster University,GPROSTD339237,"82,491.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Lancaster University,GPROSTD340425,"684,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Leader Foundation HE,GPROSTD326828,"32,000.00",Promoting Efficiency,LGM
+BIS,HEFCE,16/08/2013,Leeds City College,GPROSTD333197,"25,486.00",Capital for FECs,E&P policy team
+BIS,HEFCE,16/08/2013,Leeds City College,GPROSTD336213,"386,077.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Leeds City College,GPROSTD340430,"180,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Leeds College of Art,GPROSTD336186,"254,568.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Leeds College of Art,GPROSTD340427,"120,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Leeds LEA,GPROSTD328675,"211,983.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Leeds Met University,GPROSTD332495,"153,709.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Leeds Met University,GPROSTD334287,"169,213.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Leeds Met University,GPROSTD336204,"3,397,731.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Leeds Met University,GPROSTD338238,"249,729.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Leeds Met University,GPROSTD339255,"55,967.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Leeds Met University,GPROSTD340429,"1,488,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Leeds Trinity Uni,GPROSTD337446,"352,652.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Leeds Trinity Uni,GPROSTD340532,"225,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Leicester College,GPROSTD336222,"65,173.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Leicester College,GPROSTD340431,"39,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Leics LEA,GPROSTD328676,"221,298.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Lewisham College,GPROSTD336240,"25,674.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Lincoln College,GPROSTD336258,"49,959.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Lincoln College,GPROSTD340434,"42,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Liverpool Com Colleg,GPROSTD335412,"78,669.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Liverpool Com Colleg,GPROSTD340368,"57,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Liverpool Hope Uni,GPROSTD332501,"47,508.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Liverpool Hope Uni,GPROSTD334323,"77,200.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Liverpool Hope Uni,GPROSTD336276,"952,709.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Liverpool Hope Uni,GPROSTD338274,"42,414.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Liverpool Hope Uni,GPROSTD339291,"25,534.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Liverpool Hope Uni,GPROSTD340436,"345,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Liverpool Inst PA,GPROSTD336294,"278,357.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Liverpool Inst PA,GPROSTD340438,"60,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Liverpool John Moore,GPROSTD327847,"87,849.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Liverpool John Moore,GPROSTD332502,"157,117.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Liverpool John Moore,GPROSTD334314,"218,835.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Liverpool John Moore,GPROSTD336267,"4,149,586.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Liverpool John Moore,GPROSTD338265,"522,638.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Liverpool John Moore,GPROSTD339282,"72,381.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Liverpool John Moore,GPROSTD340435,"1,371,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Liverpool LEA,GPROSTD328678,"259,689.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,London Bus School,GPROSTD327850,"33,074.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,London Bus School,GPROSTD334350,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,London Bus School,GPROSTD338310,"538,360.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,London Bus School,GPROSTD339318,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,London Met Uni,GPROSTD327853,"39,554.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,London Met Uni,GPROSTD328719,"267,537.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,London Met Uni,GPROSTD332506,"126,535.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,London Met Uni,GPROSTD334368,"174,405.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,London Met Uni,GPROSTD336348,"3,436,453.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,London Met Uni,GPROSTD338337,"397,611.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,London Met Uni,GPROSTD339336,"57,685.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,London Met Uni,GPROSTD340441,"1,203,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,London PFA,GPROSTD328679,"139,350.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,London Sch Economics,GPROSTD327851,"195,943.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,London Sch Economics,GPROSTD332505,"27,197.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,London Sch Economics,GPROSTD334359,"190,212.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,London Sch Economics,GPROSTD336330,"584,051.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,London Sch Economics,GPROSTD338319,"2,521,341.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,London Sch Economics,GPROSTD339327,"62,913.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,London Sch Economics,GPROSTD340440,"267,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,London Sch Economics,GPROSTD342868,"230,945.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,London Sch Hygiene,GPROSTD327852,"290,792.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,London Sch Hygiene,GPROSTD336339,"505,406.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,London Sch Hygiene,GPROSTD338328,"2,729,905.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,London South Bank,GPROSTD327854,"36,799.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,London South Bank,GPROSTD328720,"53,967.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,London South Bank,GPROSTD332507,"99,534.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,London South Bank,GPROSTD334377,"91,023.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,London South Bank,GPROSTD336357,"3,072,462.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,London South Bank,GPROSTD338346,"295,211.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,London South Bank,GPROSTD339345,"30,107.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,London South Bank,GPROSTD340442,"744,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Loughborough College,GPROSTD336375,"215,879.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Loughborough College,GPROSTD340444,"66,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Loughborough Uni,GPROSTD327855,"347,395.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Loughborough Uni,GPROSTD332508,"109,297.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Loughborough Uni,GPROSTD334395,"184,382.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Loughborough Uni,GPROSTD336384,"3,166,169.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Loughborough Uni,GPROSTD338364,"3,191,674.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Loughborough Uni,GPROSTD339363,"60,986.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Loughborough Uni,GPROSTD340445,"888,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Loughborough Uni,GPROSTD342869,"230,209.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,LSTM,GPROSTD342773,"570,757.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Macclesfield College,GPROSTD336402,"107,506.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Manchester College,GPROSTD336429,"367,240.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Manchester College,GPROSTD340449,"219,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Manchester Cty Couni,GPROSTD328680,"336,588.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Manchester Met,GPROSTD327857,"61,160.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Manchester Met,GPROSTD332510,"211,401.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Manchester Met,GPROSTD334413,"155,828.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Manchester Met,GPROSTD336411,"5,409,417.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Manchester Met,GPROSTD338382,"795,202.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Manchester Met,GPROSTD339381,"51,540.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Manchester Met,GPROSTD340447,"2,007,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Mid'brough Council,GPROSTD328681,"48,093.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Middlesex University,GPROSTD327858,"36,138.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Middlesex University,GPROSTD332511,"114,215.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Middlesex University,GPROSTD334431,"63,405.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Middlesex University,GPROSTD336438,"3,686,269.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Middlesex University,GPROSTD338400,"388,940.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Middlesex University,GPROSTD340450,"1,182,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Mid Kent Coll of H&f,GPROSTD336447,"68,219.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Mid Kent Coll of H&f,GPROSTD340451,"84,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,MIlton Keynes Colleg,GPROSTD336456,"27,115.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Moulton College,GPROSTD336465,"78,883.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Moulton College,GPROSTD340452,"48,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Myerscough College,GPROSTD336474,"32,998.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Myerscough College,GPROSTD340453,"27,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Newcastle College,GPROSTD333207,"44,693.00",Capital for FECs,E&P policy team
+BIS,HEFCE,16/08/2013,Newcastle College,GPROSTD336501,"459,786.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Newcastle College,GPROSTD340456,"261,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Newcastle LEA,GPROSTD328682,"111,918.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,New College Durham,GPROSTD336492,"173,673.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,New College Durham,GPROSTD340455,"102,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,New College Notts,GPROSTD336510,"130,544.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,New College Notts,GPROSTD340457,"99,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,New College Stamford,GPROSTD337248,"59,350.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Newham College,GPROSTD336519,"61,212.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Newham College,GPROSTD340458,"93,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Newman Uni College,GPROSTD336528,"368,199.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Newman Uni College,GPROSTD340459,"174,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Northbrook College,GPROSTD336564,"235,209.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Northbrook College,GPROSTD340461,"129,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,North East Surrey,GPROSTD320511,"96,545.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,16/08/2013,North East Surrey,GPROSTD336591,"105,065.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,North East Surrey,GPROSTD340464,"33,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,North East Worcs Col,GPROSTD336582,"51,145.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,North East Worcs Col,GPROSTD340463,"39,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,North Lindsey Coll,GPROSTD336573,"188,497.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,North Lindsey Coll,GPROSTD340462,"66,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Northum'lnd LEA,GPROSTD328685,"47,676.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Northumberland Coll,GPROSTD336627,"27,159.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,North West London,GPROSTD336663,"31,512.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Norwich City College,GPROSTD336681,"45,867.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Norwich City College,GPROSTD340469,"81,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Norwich Uni Arts,GPROSTD336609,"462,871.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Norwich Uni Arts,GPROSTD340466,"147,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Nottingham Trent Uni,GPROSTD327863,"50,626.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Nottingham Trent Uni,GPROSTD332518,"166,269.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Nottingham Trent Uni,GPROSTD334467,"95,432.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Nottingham Trent Uni,GPROSTD336690,"4,380,722.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Nottingham Trent Uni,GPROSTD338454,"570,341.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Nottingham Trent Uni,GPROSTD339435,"31,564.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Nottingham Trent Uni,GPROSTD340470,"1,719,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Notts LEA,GPROSTD328687,"174,729.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,NUS,GPROSTD333758,"211,250.00",Catalyst Fund,RIS policy team
+BIS,HEFCE,16/08/2013,N Warwick & Hinckley,GPROSTD336645,"50,940.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Oldham College,GPROSTD336717,"95,310.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Oldham College,GPROSTD340472,"69,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Open University,GPROSTD327864,"163,927.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Open University,GPROSTD332519,"419,885.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Open University,GPROSTD334485,"107,083.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Open University,GPROSTD336726,"12,973,854.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Open University,GPROSTD338472,"1,457,663.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Open University,GPROSTD339453,"35,418.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Open University,GPROSTD340473,"3,543,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Oxford Brookes Univ,GPROSTD327867,"54,851.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Oxford Brookes Univ,GPROSTD332522,"89,628.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Oxford Brookes Univ,GPROSTD334512,"184,595.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Oxford Brookes Univ,GPROSTD336753,"2,261,206.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Oxford Brookes Univ,GPROSTD338499,"515,897.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Oxford Brookes Univ,GPROSTD339480,"61,056.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Oxford Brookes Univ,GPROSTD340476,"846,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Oxfordshire LEA,GPROSTD328689,"111,447.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Plumpton Coll,GPROSTD336798,"44,371.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Plumpton Coll,GPROSTD340480,"42,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Plymouth Coll of Art,GPROSTD336825,"251,201.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Plymouth Coll of Art,GPROSTD340483,"111,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,QAA,PIG6950,"29,185.00",Quality Assurance,E&P policy team
+BIS,HEFCE,16/08/2013,"Queen Mary, UoL",GPROSTD327870,"552,593.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,"Queen Mary, UoL",GPROSTD332526,"128,268.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,"Queen Mary, UoL",GPROSTD334539,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,"Queen Mary, UoL",GPROSTD336852,"4,877,751.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,"Queen Mary, UoL",GPROSTD338526,"4,867,318.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,"Queen Mary, UoL",GPROSTD339507,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,"Queen Mary, UoL",GPROSTD340486,"831,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,"Queen Mary, UoL",GPROSTD342862,"337,775.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Ravensbourne College,GPROSTD336861,"600,357.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Ravensbourne College,GPROSTD340487,"189,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,RCSSD,GPROSTD335304,"525,228.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,RCSSD,GPROSTD337923,"49,935.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,RCSSD,GPROSTD340362,"60,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Reaseheath Coll,GPROSTD336879,"55,050.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Reaseheath Coll,GPROSTD340489,"33,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Riverside Col Halton,GPROSTD335862,"93,917.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Roehampton Uni,GPROSTD328723,"30,942.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Roehampton Uni,GPROSTD332528,"62,268.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Roehampton Uni,GPROSTD334557,"51,986.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Roehampton Uni,GPROSTD336906,"1,379,671.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Roehampton Uni,GPROSTD338544,"354,694.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Roehampton Uni,GPROSTD340491,"498,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Rose Bruford College,GPROSTD336915,"308,557.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Rose Bruford College,GPROSTD340492,"60,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Rotherham Coll A&T,GPROSTD336924,"55,536.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Royal Academy Music,GPROSTD336942,"535,473.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Royal Academy Music,GPROSTD338571,"63,787.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Royal Agricultural,GPROSTD336933,"479,787.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Royal Agricultural,GPROSTD340493,"84,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Royal College Music,GPROSTD336960,"525,685.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Royal College Music,GPROSTD338589,"63,305.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Royal College Music,GPROSTD340495,"27,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Royal College of Art,GPROSTD327874,"25,242.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Royal College of Art,GPROSTD334566,"33,907.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Royal College of Art,GPROSTD336951,"1,609,113.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Royal College of Art,GPROSTD338580,"369,486.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Royal Holloway,GPROSTD327876,"168,105.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Royal Holloway,GPROSTD332533,"56,944.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Royal Holloway,GPROSTD334575,"54,666.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Royal Holloway,GPROSTD336969,"1,577,447.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Royal Holloway,GPROSTD338598,"2,027,080.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Royal Holloway,GPROSTD340496,"582,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Royal North Coll Mus,GPROSTD334584,"28,652.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Royal North Coll Mus,GPROSTD336978,"704,439.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Royal North Coll Mus,GPROSTD340497,"39,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Royal Veterinary,GPROSTD327877,"83,828.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Royal Veterinary,GPROSTD332534,"35,257.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Royal Veterinary,GPROSTD334593,"134,538.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Royal Veterinary,GPROSTD336987,"2,545,791.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Royal Veterinary,GPROSTD338616,"785,172.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Royal Veterinary,GPROSTD339561,"44,499.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Royal Veterinary,GPROSTD340498,"105,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Runshaw College,GPROSTD336996,"27,598.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Ruskin College,GPROSTD337005,"39,833.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Ruskin College,GPROSTD340499,"27,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Sheffield College,GPROSTD337059,"33,804.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Sheffield College,GPROSTD340502,"51,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Sheffield Hallam Uni,GPROSTD327881,"89,467.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Sheffield Hallam Uni,GPROSTD332539,"173,257.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Sheffield Hallam Uni,GPROSTD334611,"136,428.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Sheffield Hallam Uni,GPROSTD337068,"4,450,509.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Sheffield Hallam Uni,GPROSTD338634,"586,758.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Sheffield Hallam Uni,GPROSTD339579,"45,124.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Sheffield Hallam Uni,GPROSTD340503,"1,746,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Sheffield LEA,GPROSTD328691,"186,747.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,SOAS,GPROSTD327865,"49,136.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,SOAS,GPROSTD334494,"53,566.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,SOAS,GPROSTD336735,"662,546.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,SOAS,GPROSTD338481,"923,728.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,SOAS,GPROSTD340474,"204,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Solihull College,GPROSTD337086,"90,502.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Somerset Coll of Art,GPROSTD337095,"64,890.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Somerset Coll of Art,GPROSTD340505,"60,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Southampton Solent U,GPROSTD332541,"88,351.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Southampton Solent U,GPROSTD334629,"98,823.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Southampton Solent U,GPROSTD337140,"2,639,600.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Southampton Solent U,GPROSTD338652,"29,580.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Southampton Solent U,GPROSTD339597,"32,687.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Southampton Solent U,GPROSTD340510,"1,122,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,South Downs College,GPROSTD337113,"27,747.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,South Essex College,GPROSTD340516,"42,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,South Tyneside Coll,GPROSTD337176,"145,715.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,South Tyneside Coll,GPROSTD340513,"63,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Sparsholt College,GPROSTD337230,"186,079.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Sparsholt College,GPROSTD340517,"45,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Staffordshire Uni,GPROSTD332561,"109,994.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Staffordshire Uni,GPROSTD334647,"135,509.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Staffordshire Uni,GPROSTD337239,"3,353,728.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Staffordshire Uni,GPROSTD338670,"82,295.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Staffordshire Uni,GPROSTD339615,"44,820.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Staffordshire Uni,GPROSTD340518,"1,407,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Staffs LEA,GPROSTD328695,"139,221.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Stephenson College,GPROSTD337257,"31,102.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,St George's Med Sch,GPROSTD309932,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,St George's Med Sch,GPROSTD327878,"112,364.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,St George's Med Sch,GPROSTD332535,"40,696.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,St George's Med Sch,GPROSTD334656,"105,368.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,St George's Med Sch,GPROSTD337266,"2,528,911.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,St George's Med Sch,GPROSTD338679,"669,608.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,St George's Med Sch,GPROSTD339624,"34,851.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,St George's Med Sch,GPROSTD340520,"129,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Sth & City Coll Birm,GPROSTD337104,"31,075.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Sth & City Coll Birm,GPROSTD340506,"45,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,St Helens Coll,GPROSTD337275,"188,477.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,St Mary's Uni Colleg,GPROSTD332536,"32,521.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,St Mary's Uni Colleg,GPROSTD337284,"683,797.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,St Mary's Uni Colleg,GPROSTD338688,"38,799.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,St Mary's Uni Colleg,GPROSTD340521,"312,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Stockport College,GPROSTD337311,"186,331.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Stockport College,GPROSTD340523,"81,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Sunderland  Council,GPROSTD328698,"94,110.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Sussex Downs College,GPROSTD340528,"30,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Tameside College,GPROSTD337392,"31,780.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Teesside University,GPROSTD327887,"25,906.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Teesside University,GPROSTD332545,"111,632.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Teesside University,GPROSTD334692,"143,565.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Teesside University,GPROSTD337401,"2,791,261.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Teesside University,GPROSTD338733,"159,758.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Teesside University,GPROSTD339660,"47,484.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Teesside University,GPROSTD339755,"167,420.00",Revolving Green Fund,RIS policy team
+BIS,HEFCE,16/08/2013,Teesside University,GPROSTD340530,"849,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Trafford College,GPROSTD337167,"41,018.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Trinity Laban Cons M,GPROSTD334710,"43,907.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Trinity Laban Cons M,GPROSTD337455,"999,867.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Trinity Laban Cons M,GPROSTD340533,"57,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Tyne Met College,GPROSTD336618,"32,169.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni Coll Birmingham,GPROSTD332452,"28,924.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni Coll Birmingham,GPROSTD334971,"814,533.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni Coll Birmingham,GPROSTD340336,"339,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni College London,GPROSTD259845,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,Uni College London,GPROSTD259855,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,Uni College London,GPROSTD292619,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,Uni College London,GPROSTD327888,"2,147,622.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni College London,GPROSTD332546,"169,291.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni College London,GPROSTD332904,"74,943.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni College London,GPROSTD334386,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni College London,GPROSTD336366,"7,697,937.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni College London,GPROSTD338355,"17,381,117.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni College London,GPROSTD339354,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni College London,GPROSTD340443,"819,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni College London,GPROSTD342849,"500,000.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni for Creative Art,GPROSTD332562,"45,460.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni for Creative Art,GPROSTD335511,"1,331,176.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni for Creative Art,GPROSTD337986,"57,337.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni for Creative Art,GPROSTD340376,"462,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Arts London,GPROSTD327848,"42,314.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Arts London,GPROSTD332504,"98,466.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Arts London,GPROSTD334341,"284,008.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Arts London,GPROSTD336303,"3,631,559.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Arts London,GPROSTD338292,"939,230.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Arts London,GPROSTD339309,"93,937.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Arts London,GPROSTD340439,"1,209,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Bedfordshire,GPROSTD332448,"88,137.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Bedfordshire,GPROSTD334404,"54,562.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Bedfordshire,GPROSTD336393,"2,088,187.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Bedfordshire,GPROSTD338373,"153,001.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Bedfordshire,GPROSTD340446,"864,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Birmingham,GPROSTD327799,"867,902.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Birmingham,GPROSTD332450,"187,243.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Birmingham,GPROSTD332823,"30,286.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Birmingham,GPROSTD333909,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Birmingham,GPROSTD334980,"6,804,801.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Birmingham,GPROSTD337797,"6,279,757.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Birmingham,GPROSTD338877,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Birmingham,GPROSTD340337,"1,404,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Birmingham,GPROSTD342856,"439,820.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Bradford,GPROSTD327803,"90,143.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Bradford,GPROSTD332557,"84,324.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Bradford,GPROSTD333936,"122,153.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Bradford,GPROSTD335106,"2,381,022.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Bradford,GPROSTD337833,"899,573.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Bradford,GPROSTD338904,"40,402.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Bradford,GPROSTD340347,"642,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Brighton,GPROSTD327804,"64,165.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Brighton,GPROSTD332457,"128,712.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Brighton,GPROSTD333945,"116,482.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Brighton,GPROSTD335124,"3,487,532.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Brighton,GPROSTD337842,"863,103.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Brighton,GPROSTD338913,"38,528.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Brighton,GPROSTD340348,"1,179,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Bristol,GPROSTD286733,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Bristol,GPROSTD327805,"921,713.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Bristol,GPROSTD332458,"156,521.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Bristol,GPROSTD332828,"32,164.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Bristol,GPROSTD333954,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Bristol,GPROSTD335133,"6,336,486.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Bristol,GPROSTD337851,"7,303,136.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Bristol,GPROSTD338922,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Bristol,GPROSTD340349,"1,104,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Bristol,GPROSTD342859,"384,501.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Cambridge,GPROSTD327808,"2,373,069.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Cambridge,GPROSTD332461,"134,701.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Cambridge,GPROSTD332831,"82,810.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Cambridge,GPROSTD333981,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Cambridge,GPROSTD335223,"5,384,680.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Cambridge,GPROSTD337878,"18,376,511.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Cambridge,GPROSTD338949,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Cambridge,GPROSTD340100,"163,000.00","Museums, Gal & Coll",RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Cambridge,GPROSTD340357,"885,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Cambridge,GPROSTD342850,"500,000.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Central Lancs,GPROSTD327811,"48,428.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Central Lancs,GPROSTD332463,"170,532.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Central Lancs,GPROSTD334017,"254,937.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Central Lancs,GPROSTD335295,"4,732,294.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Central Lancs,GPROSTD337914,"491,474.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Central Lancs,GPROSTD338985,"84,321.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Central Lancs,GPROSTD340361,"1,275,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Chester,GPROSTD332465,"65,712.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Chester,GPROSTD334026,"49,290.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Chester,GPROSTD335322,"1,807,687.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Chester,GPROSTD337932,"95,199.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Chester,GPROSTD340363,"816,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Chichester,GPROSTD332558,"35,816.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Chichester,GPROSTD334035,"32,116.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Chichester,GPROSTD335349,"783,854.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Chichester,GPROSTD337941,"38,062.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Chichester,GPROSTD340364,"393,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Cumbria,GPROSTD332469,"62,858.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Cumbria,GPROSTD335529,"1,033,010.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Cumbria,GPROSTD339788,"205,318.00",Revolving Green Fund,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Cumbria,GPROSTD340377,"393,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of East Anglia,GPROSTD285881,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of East Anglia,GPROSTD327822,"314,804.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of East Anglia,GPROSTD332473,"124,747.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of East Anglia,GPROSTD334107,"199,123.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of East Anglia,GPROSTD335610,"2,755,627.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of East Anglia,GPROSTD338031,"2,416,414.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of East Anglia,GPROSTD339075,"65,860.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of East Anglia,GPROSTD339731,"857,753.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of East Anglia,GPROSTD340104,"25,000.00","Museums, Gal & Coll",RIS policy team
+BIS,HEFCE,16/08/2013,Uni of East Anglia,GPROSTD340383,"708,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of East Anglia,GPROSTD340384,"345,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of East London,GPROSTD332474,"97,142.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of East London,GPROSTD334116,"68,577.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of East London,GPROSTD335619,"3,298,285.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of East London,GPROSTD338040,"291,397.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of East London,GPROSTD340385,"1,125,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Gloucester,GPROSTD332480,"51,728.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Gloucester,GPROSTD334161,"37,788.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Gloucester,GPROSTD335763,"1,487,068.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Gloucester,GPROSTD338094,"101,691.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Gloucester,GPROSTD340395,"588,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Greenwich,GPROSTD327831,"42,183.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Greenwich,GPROSTD328718,"88,113.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Uni of Greenwich,GPROSTD332482,"148,976.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Greenwich,GPROSTD334179,"194,992.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Greenwich,GPROSTD335799,"3,586,323.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Greenwich,GPROSTD338112,"391,806.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Greenwich,GPROSTD339147,"64,494.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Greenwich,GPROSTD339886,"165,000.00",Revolving Green Fund,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Greenwich,GPROSTD340398,"1,086,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Hertfordshire,GPROSTD327833,"73,025.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Hertfordshire,GPROSTD332485,"127,994.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Hertfordshire,GPROSTD334197,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Hertfordshire,GPROSTD335952,"3,358,175.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Hertfordshire,GPROSTD338139,"619,057.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Hertfordshire,GPROSTD339165,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Hertfordshire,GPROSTD340409,"1,197,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Hertfordshire,GPROSTD342857,"426,174.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Huddersfield,GPROSTD327834,"27,563.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Huddersfield,GPROSTD332486,"124,535.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Huddersfield,GPROSTD334206,"105,117.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Huddersfield,GPROSTD336006,"3,147,629.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Huddersfield,GPROSTD338157,"285,430.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Huddersfield,GPROSTD339174,"34,768.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Huddersfield,GPROSTD340413,"1,011,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Leicester,GPROSTD327844,"418,879.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Leicester,GPROSTD332498,"100,669.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Leicester,GPROSTD334296,"216,303.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Leicester,GPROSTD336231,"3,615,403.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Leicester,GPROSTD338247,"2,922,339.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Leicester,GPROSTD339264,"71,543.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Leicester,GPROSTD340432,"738,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Leicester,GPROSTD342866,"246,644.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Lincoln,GPROSTD332499,"82,947.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Lincoln,GPROSTD334305,"57,433.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Lincoln,GPROSTD336249,"2,301,076.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Lincoln,GPROSTD338256,"246,699.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Lincoln,GPROSTD340433,"819,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Liverpool,GPROSTD327846,"732,371.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Liverpool,GPROSTD332500,"161,501.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Liverpool,GPROSTD332867,"25,557.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Liverpool,GPROSTD334332,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Liverpool,GPROSTD336285,"6,944,530.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Liverpool,GPROSTD338283,"5,462,147.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Liverpool,GPROSTD339300,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Liverpool,GPROSTD340437,"969,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Liverpool,GPROSTD342855,"490,192.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of London,GPROSTD336312,"1,467,114.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Manchester,GPROSTD327856,"1,754,374.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Manchester,GPROSTD332509,"239,469.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Manchester,GPROSTD332874,"61,220.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Manchester,GPROSTD334422,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Manchester,GPROSTD336420,"8,609,323.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Manchester,GPROSTD338391,"12,584,058.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Manchester,GPROSTD339390,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Manchester,GPROSTD340107,"172,500.00","Museums, Gal & Coll",RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Manchester,GPROSTD340448,"1,578,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Manchester,GPROSTD342851,"500,000.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Newcastle,GPROSTD327859,"687,721.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Newcastle,GPROSTD332512,"155,224.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Newcastle,GPROSTD334440,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Newcastle,GPROSTD336537,"6,056,302.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Newcastle,GPROSTD338418,"5,245,029.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Newcastle,GPROSTD339408,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Newcastle,GPROSTD340460,"1,191,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Newcastle,GPROSTD342858,"409,982.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Northampton,GPROSTD332514,"67,235.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Northampton,GPROSTD334449,"134,385.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Northampton,GPROSTD336600,"1,616,784.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Northampton,GPROSTD338427,"96,876.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Northampton,GPROSTD339417,"44,448.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Northampton,GPROSTD340465,"879,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Northumbria,GPROSTD327861,"36,937.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Northumbria,GPROSTD332515,"136,996.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Northumbria,GPROSTD334458,"141,001.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Northumbria,GPROSTD336636,"3,810,990.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Northumbria,GPROSTD338445,"460,977.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Northumbria,GPROSTD339426,"46,636.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Northumbria,GPROSTD340468,"1,431,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Nottingham,GPROSTD327862,"916,814.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Nottingham,GPROSTD332517,"196,207.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Nottingham,GPROSTD332880,"31,993.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Nottingham,GPROSTD334476,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Nottingham,GPROSTD336699,"6,987,165.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Nottingham,GPROSTD338463,"7,431,453.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Nottingham,GPROSTD339444,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Nottingham,GPROSTD340471,"1,551,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Nottingham,GPROSTD342861,"360,394.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Plymouth,GPROSTD327868,"112,511.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Plymouth,GPROSTD332523,"197,263.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Plymouth,GPROSTD333132,"43,000.00",Revolving Green Fund,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Plymouth,GPROSTD334521,"169,603.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Plymouth,GPROSTD336816,"4,736,158.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Plymouth,GPROSTD338508,"979,524.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Plymouth,GPROSTD339489,"56,097.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Plymouth,GPROSTD340482,"1,530,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Portsmouth,GPROSTD327869,"56,158.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Portsmouth,GPROSTD332525,"150,902.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Portsmouth,GPROSTD334530,"87,145.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Portsmouth,GPROSTD336834,"4,062,611.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Portsmouth,GPROSTD338517,"717,592.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Portsmouth,GPROSTD339498,"28,824.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Portsmouth,GPROSTD340484,"1,461,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Reading,GPROSTD327871,"320,113.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Reading,GPROSTD332564,"47,556.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Reading,GPROSTD334548,"244,730.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Reading,GPROSTD336870,"2,064,895.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Reading,GPROSTD338535,"2,546,957.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Reading,GPROSTD339516,"80,945.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Reading,GPROSTD339813,"126,000.00",Revolving Green Fund,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Reading,GPROSTD340111,"25,000.00","Museums, Gal & Coll",RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Reading,GPROSTD340488,"705,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Salford,GPROSTD327879,"102,419.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Salford,GPROSTD332537,"115,818.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Salford,GPROSTD334602,"201,474.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Salford,GPROSTD337023,"3,738,061.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Salford,GPROSTD338625,"1,019,026.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Salford,GPROSTD339570,"66,638.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Salford,GPROSTD340500,"960,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Sheffield,GPROSTD284212,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Sheffield,GPROSTD327880,"917,701.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Sheffield,GPROSTD332538,"166,820.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Sheffield,GPROSTD332897,"32,024.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Sheffield,GPROSTD334620,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Sheffield,GPROSTD337077,"5,970,740.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Sheffield,GPROSTD338643,"6,722,266.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Sheffield,GPROSTD339588,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Sheffield,GPROSTD340504,"1,098,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Sheffield,GPROSTD342860,"382,965.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Southampton,GPROSTD259735,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Southampton,GPROSTD259745,"30,217.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Southampton,GPROSTD309922,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Southampton,GPROSTD327882,"843,991.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Southampton,GPROSTD332540,"146,646.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Southampton,GPROSTD332899,"29,452.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Southampton,GPROSTD334638,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Southampton,GPROSTD337149,"4,754,379.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Southampton,GPROSTD338661,"6,707,510.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Southampton,GPROSTD339606,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Southampton,GPROSTD340511,"918,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Southampton,GPROSTD341529,"253,014.00",SIVS,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Southampton,GPROSTD342819,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Southampton,GPROSTD342852,"500,000.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Sunderland,GPROSTD327884,"26,813.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Sunderland,GPROSTD332542,"91,596.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Sunderland,GPROSTD334665,"116,538.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Sunderland,GPROSTD337347,"1,803,923.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Sunderland,GPROSTD338706,"297,273.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Sunderland,GPROSTD339633,"38,545.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Sunderland,GPROSTD340525,"768,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Warwick,GPROSTD232269,"100,000.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Warwick,GPROSTD327889,"649,751.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Warwick,GPROSTD332548,"117,825.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Warwick,GPROSTD334719,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Warwick,GPROSTD337500,"3,527,552.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Warwick,GPROSTD338769,"5,070,828.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Warwick,GPROSTD339687,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Warwick,GPROSTD340537,"813,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Warwick,GPROSTD342863,"332,424.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of West London,GPROSTD321321,"1,338,108.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of West London,GPROSTD322608,"42,375.00",Research 12-13,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of West London,GPROSTD323823,"51,435.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of West London,GPROSTD332229,"124,909.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of West London,GPROSTD332567,"50,181.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of West London,GPROSTD334701,"69,517.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of West London,GPROSTD337419,"1,473,511.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of West London,GPROSTD338742,"71,966.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of West London,GPROSTD340531,"588,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Westminster,GPROSTD327892,"57,295.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Westminster,GPROSTD328731,"97,710.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Uni of Westminster,GPROSTD332551,"124,133.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Westminster,GPROSTD334737,"140,935.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Westminster,GPROSTD337554,"3,494,302.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Westminster,GPROSTD338787,"608,796.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Westminster,GPROSTD339705,"46,614.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Westminster,GPROSTD340541,"1,242,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Winchester,GPROSTD332552,"37,373.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Winchester,GPROSTD337635,"683,333.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Winchester,GPROSTD338796,"96,474.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Winchester,GPROSTD340547,"402,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Wolverhampton,GPROSTD327894,"29,112.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Wolverhampton,GPROSTD332553,"120,152.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Wolverhampton,GPROSTD334746,"235,253.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Wolverhampton,GPROSTD337653,"3,154,021.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Wolverhampton,GPROSTD338805,"267,490.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Wolverhampton,GPROSTD339714,"77,812.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Wolverhampton,GPROSTD339742,"150,000.00",Revolving Green Fund,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Wolverhampton,GPROSTD340548,"1,164,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Worcester,GPROSTD332554,"59,409.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni of Worcester,GPROSTD337680,"1,201,402.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni of Worcester,GPROSTD338814,"26,712.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni of Worcester,GPROSTD340550,"711,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Uni StMark & StJohn,GPROSTD337293,"336,969.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni StMark & StJohn,GPROSTD340522,"174,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,University of Bath,GPROSTD327795,"318,228.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Bath,GPROSTD332446,"93,225.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Bath,GPROSTD333891,"267,831.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,University of Bath,GPROSTD334899,"2,724,942.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,University of Bath,GPROSTD337779,"2,557,486.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,University of Bath,GPROSTD338859,"88,585.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,University of Bath,GPROSTD340332,"735,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,University of Bolton,GPROSTD332454,"47,215.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Bolton,GPROSTD333918,"34,470.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,University of Bolton,GPROSTD335052,"1,265,105.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,University of Bolton,GPROSTD337815,"92,338.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,University of Bolton,GPROSTD340343,"381,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,University of Derby,GPROSTD332471,"93,923.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Derby,GPROSTD334089,"76,026.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,University of Derby,GPROSTD335556,"2,663,478.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,University of Derby,GPROSTD338013,"57,696.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,University of Derby,GPROSTD339057,"25,146.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,University of Derby,GPROSTD340379,"1,209,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,University of Durham,GPROSTD259725,"29,405.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,University of Durham,GPROSTD327821,"458,902.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Durham,GPROSTD332472,"106,560.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Durham,GPROSTD334098,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,University of Durham,GPROSTD335592,"2,803,563.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,University of Durham,GPROSTD338022,"3,777,249.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,University of Durham,GPROSTD339066,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,University of Durham,GPROSTD340381,"951,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,University of Durham,GPROSTD342870,"200,000.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,University of Essex,GPROSTD327826,"174,112.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Essex,GPROSTD332477,"73,748.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Essex,GPROSTD334134,"83,531.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,University of Essex,GPROSTD335691,"2,114,251.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,University of Essex,GPROSTD338067,"1,363,019.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,University of Essex,GPROSTD339102,"27,629.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,University of Essex,GPROSTD340389,"849,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,University of Exeter,GPROSTD327827,"302,254.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Exeter,GPROSTD332478,"113,000.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Exeter,GPROSTD334143,"302,753.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,University of Exeter,GPROSTD335709,"3,359,806.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,University of Exeter,GPROSTD338076,"2,880,014.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,University of Exeter,GPROSTD339111,"100,137.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,University of Exeter,GPROSTD339777,"310,000.00",Revolving Green Fund,RIS policy team
+BIS,HEFCE,16/08/2013,University of Exeter,GPROSTD340390,"1,029,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,University of Exeter,GPROSTD340589,"25,000.00",HERA,E&P policy team
+BIS,HEFCE,16/08/2013,University of Exeter,GPROSTD342872,"200,000.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,University of Hull,GPROSTD327835,"97,598.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Hull,GPROSTD332487,"106,181.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Hull,GPROSTD334215,"221,098.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,University of Hull,GPROSTD336033,"2,743,534.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,University of Hull,GPROSTD338166,"1,155,914.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,University of Hull,GPROSTD339183,"73,129.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,University of Hull,GPROSTD340416,"618,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,University of Kent,GPROSTD327838,"165,100.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Kent,GPROSTD332490,"123,345.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Kent,GPROSTD334242,"99,131.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,University of Kent,GPROSTD336060,"3,306,181.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,University of Kent,GPROSTD338193,"1,655,474.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,University of Kent,GPROSTD339210,"32,789.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,University of Kent,GPROSTD340419,"1,146,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,University of Leeds,GPROSTD327842,"971,781.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Leeds,GPROSTD332494,"221,222.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Leeds,GPROSTD332862,"33,911.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Leeds,GPROSTD334278,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,University of Leeds,GPROSTD336195,"7,175,279.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,University of Leeds,GPROSTD338229,"7,290,485.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,University of Leeds,GPROSTD339246,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,University of Leeds,GPROSTD340428,"1,542,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,University of Leeds,GPROSTD342854,"500,000.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,University of Oxford,GPROSTD327866,"2,500,449.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Oxford,GPROSTD332521,"128,729.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Oxford,GPROSTD332884,"87,255.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Oxford,GPROSTD334503,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,University of Oxford,GPROSTD336744,"5,040,448.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,University of Oxford,GPROSTD339471,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,University of Oxford,GPROSTD340110,"279,583.00","Museums, Gal & Coll",RIS policy team
+BIS,HEFCE,16/08/2013,University of Oxford,GPROSTD340475,"936,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,University of Oxford,GPROSTD342847,"500,000.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,University of Oxford,PIG6990,"10,037,136.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,University of Oxford,PIG6991,"10,037,136.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,University of Surrey,GPROSTD262317,"599,979.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,University of Surrey,GPROSTD288138,"63,735.00",SDF Recurrent,RIS policy team
+BIS,HEFCE,16/08/2013,University of Surrey,GPROSTD327885,"266,665.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Surrey,GPROSTD332543,"67,296.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Surrey,GPROSTD334674,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,University of Surrey,GPROSTD337356,"1,848,977.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,University of Surrey,GPROSTD338715,"2,283,477.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,University of Surrey,GPROSTD339642,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,University of Surrey,GPROSTD340526,"429,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,University of Surrey,GPROSTD342867,"234,461.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,University of Sussex,GPROSTD327886,"307,073.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Sussex,GPROSTD332544,"77,223.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of Sussex,GPROSTD334683,"209,616.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,University of Sussex,GPROSTD337365,"2,277,945.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,University of Sussex,GPROSTD338724,"2,299,590.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,University of Sussex,GPROSTD339651,"69,332.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,University of Sussex,GPROSTD340527,"717,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,University of York,GPROSTD327896,"475,711.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of York,GPROSTD332555,"94,357.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,University of York,GPROSTD334755,"321,247.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,University of York,GPROSTD337716,"2,496,234.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,University of York,GPROSTD338823,"3,679,047.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,University of York,GPROSTD339723,"106,254.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,University of York,GPROSTD340553,"915,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,University of York,GPROSTD342865,"290,702.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni West of England,GPROSTD327890,"88,784.00",RCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni West of England,GPROSTD332550,"160,978.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,Uni West of England,GPROSTD334728,"133,195.00",HEIF 2011-15 (BIS),RIS policy team
+BIS,HEFCE,16/08/2013,Uni West of England,GPROSTD337527,"3,684,322.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Uni West of England,GPROSTD338778,"669,823.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,Uni West of England,GPROSTD339696,"44,055.00",HEIF 2011-15,RIS policy team
+BIS,HEFCE,16/08/2013,Uni West of England,GPROSTD340539,"1,299,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,UnLtd,PIG6953,"471,369.00",HEIF 3/Social Entrep,RIS policy team
+BIS,HEFCE,16/08/2013,Wakefield College,GPROSTD337482,"70,425.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Wakefield College,GPROSTD340536,"51,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Wakefield LEA,GPROSTD328701,"43,470.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Walsall College,GPROSTD321381,"53,198.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,16/08/2013,Walsall College,GPROSTD321382,"53,198.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,16/08/2013,Walsall College,GPROSTD321383,"53,198.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,16/08/2013,Walsall College,GPROSTD321384,"53,198.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,16/08/2013,Walsall College,GPROSTD337491,"30,876.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Walsall LEA,GPROSTD328702,"93,126.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Warwickshire College,GPROSTD337509,"221,770.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Warwickshire College,GPROSTD340538,"84,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,West Notts College,GPROSTD337563,"107,414.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,West Notts College,GPROSTD340542,"72,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,West Thames Col,GPROSTD337572,"43,699.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,West Thames Col,GPROSTD340543,"42,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Wigan & Leigh Coll,GPROSTD337617,"119,518.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Wigan & Leigh Coll,GPROSTD340545,"60,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Wiltshire College,GPROSTD337626,"83,892.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Wiltshire College,GPROSTD340546,"48,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Windsor LEA,GPROSTD328708,"28,356.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Wirral Met College,GPROSTD337644,"78,501.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Wminster Kingsw,GPROSTD321429,"49,621.00",Teaching 12-13,E&P policy team
+BIS,HEFCE,16/08/2013,Wminster Kingsw,GPROSTD337545,"49,579.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Wminster Kingsw,GPROSTD340540,"30,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Wolv'ton LEA,GPROSTD328709,"248,829.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Worcester Coll Tech,GPROSTD337671,"177,543.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Worcester Coll Tech,GPROSTD340549,"135,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,Worcester LEA,GPROSTD328710,"70,620.00",Inherited Staff,Finance
+BIS,HEFCE,16/08/2013,Writtle College,GPROSTD337698,"327,325.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,Writtle College,GPROSTD340551,"57,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,York College,GPROSTD337734,"88,959.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,York College,GPROSTD340555,"45,000.00",NSP,E&P policy team
+BIS,HEFCE,16/08/2013,York St John Uni,GPROSTD332556,"32,314.00",TCIF Round 2,Finance
+BIS,HEFCE,16/08/2013,York St John Uni,GPROSTD337725,"669,185.00",Teaching 13-14,E&P policy team
+BIS,HEFCE,16/08/2013,York St John Uni,GPROSTD338832,"25,053.00",Research 13-14,RIS policy team
+BIS,HEFCE,16/08/2013,York St John Uni,GPROSTD340554,"378,000.00",NSP,E&P policy team
+BIS,HEFCE,23/08/2013,Eduserv,PIC574,"136,895.47",PD - research,R&E programme
+BIS,HEFCE,23/08/2013,KPMG Llp,PIS2945,"47,916.36",Contract staff,Assurance
+BIS,HEFCE,30/08/2013,Anglia Ruskin Uni,GPROSTD341840,"305,560.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Arts Uni Bournemouth,GPROSTD341841,"32,722.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Aston University,GPROSTD341844,"82,531.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Bath Spa University,GPROSTD341851,"97,069.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Birkbeck College,GPROSTD341857,"257,548.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Birmingham City Univ,GPROSTD341890,"334,747.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Birmingham LEA,GPROSTD342771,"90,332.38",Inherited Staff,Finance
+BIS,HEFCE,30/08/2013,Bishop Gros Uni,GPROSTD341861,"49,948.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Blackburn College,GPROSTD341863,"117,671.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Blackpool College,GPROSTD341864,"99,216.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Bournemouth Uni,GPROSTD341868,"175,700.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Bradford College,GPROSTD341870,"101,497.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Brunel University,GPROSTD341879,"111,977.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Bucks New University,GPROSTD341880,"108,714.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Canterbury CCUC,GPROSTD341885,"224,632.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,City University,GPROSTD341903,"107,681.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Coventry University,GPROSTD341912,"224,018.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Deloitte,PIS2952,"26,875.20",Contract staff,Assurance
+BIS,HEFCE,30/08/2013,De Montfort Uni,GPROSTD341919,"295,078.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Dept for Education,PIG6977,"65,816.00",TCIF Round 2,Finance
+BIS,HEFCE,30/08/2013,Doncaster College,GPROSTD341922,"35,366.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,East Sussex LEA,GPROSTD342770,"106,002.47",Inherited Staff,Finance
+BIS,HEFCE,30/08/2013,Edge Hill University,GPROSTD341931,"228,654.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Edge Hill University,GPROSTD342908,"38,000.00",Revolving Green Fund,RIS policy team
+BIS,HEFCE,30/08/2013,Falmouth Uni,GPROSTD341936,"64,885.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Goldsmiths College,GPROSTD341943,"100,916.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Grimsby Institute,GPROSTD341945,"83,809.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Hampshire LEA,GPROSTD342769,"160,242.44",Inherited Staff,Finance
+BIS,HEFCE,30/08/2013,Harper Adams Uni,GPROSTD341953,"25,285.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Havering College,GPROSTD341956,"26,559.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Hull College,GPROSTD341967,"35,618.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Imperial College,GPROSTD341969,"72,760.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,JISC,GPROSTD342902,"940,800.00",JISC Capital (R),JISC NAH
+BIS,HEFCE,30/08/2013,JISC,GPROSTD342903,"1,411,200.00",JISC Capital (T),RIS policy team
+BIS,HEFCE,30/08/2013,Keele University,GPROSTD341970,"87,410.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,King's College,GPROSTD341975,"145,261.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Kingston University,GPROSTD341976,"283,843.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Kirklees Council,GPROSTD342828,"52,590.06",Inherited Staff,Finance
+BIS,HEFCE,30/08/2013,Lancaster University,GPROSTD341981,"75,120.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Leeds City College,GPROSTD341986,"33,778.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Leeds LEA,GPROSTD342900,"111,442.70",Inherited Staff,Finance
+BIS,HEFCE,30/08/2013,Leeds Met University,GPROSTD341985,"265,571.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Leeds Trinity Uni,GPROSTD342119,"47,436.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Liverpool Hope Uni,GPROSTD341993,"115,786.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Liverpool John Moore,GPROSTD341992,"295,195.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Liverpool LEA,GPROSTD342904,"122,427.39",Inherited Staff,Finance
+BIS,HEFCE,30/08/2013,London Met Uni,GPROSTD342001,"339,491.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,London Sch Economics,GPROSTD341999,"26,930.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,London South Bank,GPROSTD342002,"318,070.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Loughborough Uni,GPROSTD342005,"97,039.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Manchester College,GPROSTD342010,"41,584.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Manchester Met,GPROSTD342008,"433,303.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Middlesex University,GPROSTD342011,"262,794.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,NatCen,PIG6992,"32,000.00",Voluntary Giving,Finance
+BIS,HEFCE,30/08/2013,Newcastle College,GPROSTD342018,"75,898.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,New College Durham,GPROSTD342017,"29,993.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Newman Uni College,GPROSTD342021,"75,860.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,North Lindsey Coll,GPROSTD342026,"37,654.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Norwich Uni Arts,GPROSTD342030,"34,595.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Nottingham Trent Uni,GPROSTD342039,"275,973.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,NUS,GPROSTD342840,"51,000.00",Policy Ongoing Serv,Central
+BIS,HEFCE,30/08/2013,Open University,GPROSTD342042,"2,471,723.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Oxford Brookes Univ,GPROSTD342045,"147,084.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Plymouth Coll of Art,GPROSTD342053,"26,447.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,"Queen Mary, UoL",GPROSTD342056,"99,348.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Ravensbourne College,GPROSTD342057,"25,757.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Roehampton Uni,GPROSTD342062,"118,171.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Royal Holloway,GPROSTD342069,"65,345.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Sheffield Hallam Uni,GPROSTD342079,"377,401.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,SOAS,GPROSTD342043,"40,180.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Southampton Solent U,GPROSTD342087,"136,988.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Staffordshire Uni,GPROSTD342098,"318,727.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Staffs LEA,GPROSTD342901,"47,946.92",Inherited Staff,Finance
+BIS,HEFCE,30/08/2013,St Helens Coll,GPROSTD342102,"32,955.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,St Mary's Uni Colleg,GPROSTD342103,"58,187.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Stockport College,GPROSTD342106,"29,729.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Teesside University,GPROSTD342115,"289,097.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni Coll Birmingham,GPROSTD341858,"78,391.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni College London,GPROSTD342003,"133,678.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni for Creative Art,GPROSTD341915,"76,750.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Arts London,GPROSTD341996,"175,276.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Bedfordshire,GPROSTD342006,"237,986.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Birmingham,GPROSTD341859,"198,445.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Bradford,GPROSTD341871,"194,765.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Brighton,GPROSTD341873,"250,793.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Bristol,GPROSTD341874,"102,248.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Cambridge,GPROSTD341883,"81,729.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Central Lancs,GPROSTD341891,"419,486.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Chester,GPROSTD341894,"140,930.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Chichester,GPROSTD341897,"76,265.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Cumbria,GPROSTD341917,"117,237.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of East Anglia,GPROSTD341926,"129,355.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of East Anglia,GPROSTD341927,"150,114.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of East London,GPROSTD341928,"434,647.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Gloucester,GPROSTD341941,"111,485.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Greenwich,GPROSTD341944,"337,055.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Hertfordshire,GPROSTD341960,"217,982.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Huddersfield,GPROSTD341965,"326,483.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Leicester,GPROSTD341988,"112,026.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Lincoln,GPROSTD341990,"159,958.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Liverpool,GPROSTD341994,"143,921.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Manchester,GPROSTD342009,"228,101.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Newcastle,GPROSTD342022,"124,963.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Northampton,GPROSTD342029,"192,887.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Northumbria,GPROSTD342033,"290,568.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Nottingham,GPROSTD342040,"220,144.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Plymouth,GPROSTD342052,"444,318.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Portsmouth,GPROSTD342054,"223,457.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Reading,GPROSTD342058,"82,541.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Salford,GPROSTD342075,"284,426.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Sheffield,GPROSTD342080,"161,071.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Southampton,GPROSTD342088,"150,786.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Sunderland,GPROSTD342109,"216,628.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Warwick,GPROSTD342125,"102,797.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of West London,GPROSTD342117,"141,290.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Westminster,GPROSTD342130,"213,325.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Winchester,GPROSTD342137,"78,154.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Wolverhampton,GPROSTD342139,"378,008.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni of Worcester,GPROSTD342142,"167,774.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni StMark & StJohn,GPROSTD342104,"45,532.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,University of Bath,GPROSTD341852,"78,137.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,University of Bolton,GPROSTD341866,"155,782.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,University of Derby,GPROSTD341920,"258,148.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,University of Durham,GPROSTD341924,"98,309.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,University of Essex,GPROSTD341933,"169,337.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,University of Exeter,GPROSTD341935,"106,297.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,University of Hull,GPROSTD341968,"238,120.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,University of Kent,GPROSTD341971,"177,134.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,University of Leeds,GPROSTD341984,"204,716.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,University of Oxford,GPROSTD342044,"88,789.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,University of Surrey,GPROSTD342110,"84,017.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,University of Sussex,GPROSTD342111,"106,184.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,University of York,GPROSTD342145,"107,849.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,Uni West of England,GPROSTD342127,"290,368.00",Access to Learn Fund,E&P policy team
+BIS,HEFCE,30/08/2013,York St John Uni,GPROSTD342146,"55,631.00",Access to Learn Fund,E&P policy team

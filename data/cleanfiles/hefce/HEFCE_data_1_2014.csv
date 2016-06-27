@@ -1,0 +1,659 @@
+DEPARTMENT|ENTITY|PAYMENTDATE|EXPENSETYPE|EXPENSEAREA|SUPPLIER|TRANSACTIONNO|AMOUNT
+BIS|HEFCE|14/01/2014|PD - research|R&E programme|EPSRC|PIC615|94,320.00
+BIS|HEFCE|14/01/2014|UKRPIF|Finance|HEFCW|PIG7406|2,658,441.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Accrington|GPROSTD334772|39,193.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Anglia Ruskin Uni|GPROSTD333872|129,971.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Anglia Ruskin Uni|GPROSTD334790|1,942,276.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Anglia Ruskin Uni|GPROSTD337742|112,978.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Anglia Ruskin Uni|GPROSTD338840|42,988.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Anglia Ruskin Uni|GPROSTD342150|152,780.00
+BIS|HEFCE|16/01/2014|Catalyst Fund  (R)|RIS policy team|Anglia Ruskin Uni|GPROSTD346568|26,850.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Arts Uni Bournemouth|GPROSTD334799|386,477.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Askham Bryan College|GPROSTD334817|97,659.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Aston University|GPROSTD333881|127,013.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Aston University|GPROSTD334826|1,022,751.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Aston University|GPROSTD337760|594,848.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Aston University|GPROSTD338849|42,010.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Aston University|GPROSTD342154|41,265.00
+BIS|HEFCE|16/01/2014|PSS|E&P policy team|Aston University|GPROSTD346831|234,079.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Barking and Dagenham|GPROSTD334844|40,160.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Barnsley College|GPROSTD344162|116,025.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Bath Spa University|GPROSTD334889|775,309.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Bath Spa University|GPROSTD337769|52,059.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Bath Spa University|GPROSTD342161|48,535.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Bedford College|GPROSTD334907|38,793.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Birkbeck College|GPROSTD333899|48,153.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Birkbeck College|GPROSTD334961|1,020,512.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Birkbeck College|GPROSTD337787|1,011,423.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Birkbeck College|GPROSTD342167|128,774.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Birmingham City Univ|GPROSTD334007|97,201.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Birmingham City Univ|GPROSTD335285|1,750,743.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Birmingham City Univ|GPROSTD337904|170,985.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Birmingham City Univ|GPROSTD338975|32,149.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Birmingham City Univ|GPROSTD342200|167,373.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Birmingham City Univ|GPROSTD344206|284,119.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Birmingham Met Coll|GPROSTD334988|58,671.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Bishop Burton|GPROSTD335006|196,765.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Bishop Gros Uni|GPROSTD334997|178,323.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Blackburn College|GPROSTD335024|370,171.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Blackburn College|GPROSTD342173|58,835.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Blackpool College|GPROSTD335033|410,778.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Blackpool College|GPROSTD342174|49,608.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Bournemouth Uni|GPROSTD333926|48,187.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Bournemouth Uni|GPROSTD335069|1,743,958.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Bournemouth Uni|GPROSTD337823|187,999.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Bournemouth Uni|GPROSTD342178|87,850.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Bradford College|GPROSTD335096|334,389.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Bradford College|GPROSTD342180|50,748.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Bridgwater College|GPROSTD335114|28,393.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|British Library|GPROSTD263422|296,000.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Brooksby College|GPROSTD335168|27,995.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Brunel University|GPROSTD333962|84,499.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Brunel University|GPROSTD335177|1,698,361.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Brunel University|GPROSTD337859|1,117,054.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Brunel University|GPROSTD338930|27,948.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Brunel University|GPROSTD342189|55,989.00
+BIS|HEFCE|16/01/2014|PSS|E&P policy team|Brunel University|GPROSTD346837|249,450.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Bucks New University|GPROSTD333971|56,858.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Bucks New University|GPROSTD335186|836,752.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Bucks New University|GPROSTD342190|54,357.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Canterbury CCUC|GPROSTD333989|66,006.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Canterbury CCUC|GPROSTD335240|1,162,733.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Canterbury CCUC|GPROSTD337886|89,547.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Canterbury CCUC|GPROSTD342195|112,316.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Canterbury College|GPROSTD335258|35,581.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Central College Nott|GPROSTD337121|38,546.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Chesterfield College|GPROSTD335330|40,605.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|City Liverpool Col|GPROSTD335411|52,445.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|City of Bristol Coll|GPROSTD335420|28,836.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|City of Westminster|GPROSTD335366|57,073.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|City University, Lon|GPROSTD334043|125,836.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|City University, Lon|GPROSTD335402|1,118,416.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|City University, Lon|GPROSTD337949|965,659.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|City University, Lon|GPROSTD339011|41,621.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|City University, Lon|GPROSTD342213|53,841.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Cleveland College|GPROSTD335438|99,377.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Conservatoire D&D|GPROSTD334052|28,180.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Conservatoire D&D|GPROSTD335456|717,407.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Cornwall College|GPROSTD335465|38,619.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Courtauld Institute|GPROSTD335474|66,520.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Courtauld Institute|GPROSTD337958|111,930.00
+BIS|HEFCE|16/01/2014|Museums, Gal & Coll|RIS policy team|Courtauld Institute|GPROSTD340191|80,417.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Coventry University|GPROSTD334061|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Coventry University|GPROSTD335483|2,305,191.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Coventry University|GPROSTD337967|184,200.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Coventry University|GPROSTD339029|70,835.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Coventry University|GPROSTD342222|112,009.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Cranfield University|GPROSTD334070|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Cranfield University|GPROSTD335501|841,955.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Cranfield University|GPROSTD337976|1,134,141.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Cranfield University|GPROSTD339038|70,835.00
+BIS|HEFCE|16/01/2014|PSS|E&P policy team|Cranfield University|GPROSTD346879|333,333.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Craven College|GPROSTD335492|26,616.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Croydon College|GPROSTD335519|85,301.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|De Montfort Uni|GPROSTD334079|76,989.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|De Montfort Uni|GPROSTD335546|2,226,384.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|De Montfort Uni|GPROSTD338003|433,991.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|De Montfort Uni|GPROSTD339047|25,464.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|De Montfort Uni|GPROSTD342229|147,539.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Doncaster College|GPROSTD335573|149,263.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Dudley College|GPROSTD335582|25,530.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Edge Hill University|GPROSTD335672|1,097,651.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Edge Hill University|GPROSTD342241|114,327.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Falmouth Uni|GPROSTD335717|733,456.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Falmouth Uni|GPROSTD338084|45,686.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Falmouth Uni|GPROSTD342246|32,442.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Farnborough College|GPROSTD335735|101,853.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Gateshead College|GPROSTD335753|59,655.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Gloucestershire Coll|GPROSTD335771|28,347.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Goldsmiths' College|GPROSTD335780|730,817.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Goldsmiths' College|GPROSTD338102|793,177.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Goldsmiths' College|GPROSTD342253|50,458.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Grimsby Institute|GPROSTD335807|263,481.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Grimsby Institute|GPROSTD342255|41,904.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Guildford College|GPROSTD335816|67,645.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Guildhall Sch M & D|GPROSTD335825|153,019.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Harper Adams Uni|GPROSTD335879|901,575.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Harper Adams Uni|GPROSTD338129|29,888.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Hartpury College|GPROSTD335888|51,749.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Havering College|GPROSTD335915|170,949.00
+BIS|HEFCE|16/01/2014|HE Academy|E&P policy team|HE Academy|GPROSTD341544|1,223,000.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Henley College Cov|GPROSTD335924|25,382.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Hereford Coll of Art|GPROSTD335933|54,947.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Heythrop College|GPROSTD335969|57,594.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Highbury College|GPROSTD335978|25,125.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Hopwood Hall College|GPROSTD335996|25,961.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Hull College|GPROSTD336023|226,898.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Imperial College|GPROSTD265800|29,405.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Imperial College|GPROSTD309136|29,405.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Imperial College|GPROSTD309166|29,405.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Imperial College|GPROSTD326458|28,618.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Imperial College|GPROSTD334223|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Imperial College|GPROSTD336041|4,097,341.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Imperial College|GPROSTD338174|9,840,025.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Imperial College|GPROSTD339191|70,835.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Imperial College|GPROSTD342279|36,380.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Inst Cancer Research|GPROSTD265830|29,405.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Inst Cancer Research|GPROSTD333998|52,837.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Inst Cancer Research|GPROSTD335249|75,618.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Inst Cancer Research|GPROSTD337895|1,672,307.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Inst of Education|GPROSTD334124|76,725.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Inst of Education|GPROSTD335681|286,136.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Inst of Education|GPROSTD338057|787,182.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Inst of Education|GPROSTD339092|25,377.00
+BIS|HEFCE|16/01/2014|PSS|E&P policy team|Inst of Education|GPROSTD346813|83,333.00
+BIS|HEFCE|16/01/2014|JISC|JISC NAH|JISC|GPROSTD340581|3,385,917.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Keele University|GPROSTD334232|56,161.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Keele University|GPROSTD336050|1,319,193.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Keele University|GPROSTD338183|620,021.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Keele University|GPROSTD342280|43,705.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|King's College|GPROSTD305082|29,405.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|King's College|GPROSTD334250|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|King's College|GPROSTD336104|5,391,443.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|King's College|GPROSTD338201|5,786,622.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|King's College|GPROSTD339218|70,835.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|King's College|GPROSTD342285|72,630.00
+BIS|HEFCE|16/01/2014|PSS|E&P policy team|King's College|GPROSTD346873|86,171.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Kingston College|GPROSTD336095|35,423.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Kingston University|GPROSTD334259|68,462.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Kingston University|GPROSTD336113|3,141,293.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Kingston University|GPROSTD338210|305,448.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Kingston University|GPROSTD342286|141,922.00
+BIS|HEFCE|16/01/2014|PSS|E&P policy team|Kingston University|GPROSTD346867|309,985.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Kirklees College|GPROSTD336140|54,915.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Lakes College|GPROSTD336158|35,801.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Lancaster University|GPROSTD314812|32,955.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Lancaster University|GPROSTD334268|166,267.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Lancaster University|GPROSTD336167|1,174,402.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Lancaster University|GPROSTD338219|1,795,649.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Lancaster University|GPROSTD339236|54,993.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Lancaster University|GPROSTD342291|37,560.00
+BIS|HEFCE|16/01/2014|Catalyst Fund  (R)|RIS policy team|Lancaster University|GPROSTD346590|98,642.00
+BIS|HEFCE|16/01/2014|PSS|E&P policy team|Lancaster University|GPROSTD346795|91,207.00
+BIS|HEFCE|16/01/2014|CLL|E&P policy team|Leader Foundation HE|GPROSTD341553|150,000.00
+BIS|HEFCE|16/01/2014|Leaders Foundation|LGM|Leader Foundation HE|GPROSTD342833|75,000.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Leeds City College|GPROSTD336212|257,384.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Leeds College of Art|GPROSTD336185|169,712.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Leeds Met University|GPROSTD334286|112,808.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Leeds Met University|GPROSTD336203|2,265,154.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Leeds Met University|GPROSTD338237|166,485.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Leeds Met University|GPROSTD339254|37,312.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Leeds Met University|GPROSTD342295|132,786.00
+BIS|HEFCE|16/01/2014|Revolving Green Fund|RIS policy team|Leeds Met University|GPROSTD346754|144,800.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Leeds Trinity Uni|GPROSTD337445|235,101.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Leicester College|GPROSTD336221|43,449.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Lincoln College|GPROSTD336257|33,306.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Liverpool Hope Uni|GPROSTD334322|51,465.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Liverpool Hope Uni|GPROSTD336275|635,139.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Liverpool Hope Uni|GPROSTD338273|28,275.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Liverpool Hope Uni|GPROSTD342303|57,893.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Liverpool Inst PA|GPROSTD336293|185,572.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Liverpool John Moore|GPROSTD334313|145,890.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Liverpool John Moore|GPROSTD336266|2,766,391.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Liverpool John Moore|GPROSTD338264|348,426.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Liverpool John Moore|GPROSTD339281|48,253.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Liverpool John Moore|GPROSTD342302|147,598.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|London Bus School|GPROSTD334349|214,165.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|London Bus School|GPROSTD338309|358,907.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|London Bus School|GPROSTD339317|70,835.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|London Met Uni|GPROSTD334367|116,271.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|London Met Uni|GPROSTD336347|2,290,969.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|London Met Uni|GPROSTD338336|265,074.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|London Met Uni|GPROSTD339335|38,457.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|London Met Uni|GPROSTD342311|169,745.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|London Sch Economics|GPROSTD334358|126,808.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|London Sch Economics|GPROSTD336329|389,366.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|London Sch Economics|GPROSTD338318|1,680,894.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|London Sch Economics|GPROSTD339326|41,942.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|London Sch Hygiene|GPROSTD336338|336,937.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|London Sch Hygiene|GPROSTD338327|1,819,936.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|London South Bank|GPROSTD334376|60,681.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|London South Bank|GPROSTD336356|2,048,308.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|London South Bank|GPROSTD338345|196,807.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|London South Bank|GPROSTD342312|159,035.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Loughborough College|GPROSTD336374|143,918.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Loughborough Uni|GPROSTD334394|122,921.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Loughborough Uni|GPROSTD336383|2,110,780.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Loughborough Uni|GPROSTD338363|2,127,782.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Loughborough Uni|GPROSTD339362|40,656.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Loughborough Uni|GPROSTD342315|48,519.00
+BIS|HEFCE|16/01/2014|Catalyst Fund  (R)|RIS policy team|Loughborough Uni|GPROSTD343123|71,900.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|LSTM|GPROSTD342778|570,757.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Macclesfield College|GPROSTD336401|71,671.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Manchester College|GPROSTD336428|244,827.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Manchester Met|GPROSTD334412|103,884.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Manchester Met|GPROSTD336410|3,606,277.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Manchester Met|GPROSTD338381|530,134.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Manchester Met|GPROSTD339380|34,360.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Manchester Met|GPROSTD342318|216,652.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Middlesex University|GPROSTD334430|42,269.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Middlesex University|GPROSTD336437|2,457,513.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Middlesex University|GPROSTD338399|259,293.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Middlesex University|GPROSTD342321|131,397.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Mid Kent College|GPROSTD336446|45,480.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Moulton College|GPROSTD336464|52,588.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|NCG|GPROSTD336500|306,524.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|NCG|GPROSTD342328|37,949.00
+BIS|HEFCE|16/01/2014|Policy Ongoing Serv|Central|NCUB|GPROSTD333828|50,000.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Newcastle University|GPROSTD334439|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Newcastle University|GPROSTD336536|4,037,534.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Newcastle University|GPROSTD338417|3,496,686.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Newcastle University|GPROSTD339407|70,835.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Newcastle University|GPROSTD342332|62,481.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|New College Durham|GPROSTD336491|115,781.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|New College Notts|GPROSTD336509|87,029.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|New College Stamford|GPROSTD337247|39,566.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Newham College|GPROSTD336518|40,807.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Newman Uni|GPROSTD336527|245,466.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Newman Uni|GPROSTD342331|37,930.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Northbrook College|GPROSTD336563|156,806.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|North East Surrey|GPROSTD336590|70,044.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|North East Worcs Col|GPROSTD336581|34,097.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|North Lindsey Coll|GPROSTD336572|125,664.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Northumbria Uni|GPROSTD334457|94,001.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Northumbria Uni|GPROSTD336635|2,540,660.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Northumbria Uni|GPROSTD338444|307,318.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Northumbria Uni|GPROSTD339425|31,091.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Northumbria Uni|GPROSTD342343|145,284.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Norwich City College|GPROSTD336680|30,578.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Norwich Uni Arts|GPROSTD336608|308,580.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Nottingham Trent Uni|GPROSTD334466|63,620.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Nottingham Trent Uni|GPROSTD336689|2,920,480.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Nottingham Trent Uni|GPROSTD338453|380,228.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Nottingham Trent Uni|GPROSTD342349|137,987.00
+BIS|HEFCE|16/01/2014|PSS|E&P policy team|Nottingham Trent Uni|GPROSTD346849|242,833.00
+BIS|HEFCE|16/01/2014|Catalyst Fund|RIS policy team|NUS|GPROSTD333763|211,250.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|N Warwick & Hinckley|GPROSTD336644|33,960.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Oldham College|GPROSTD336716|63,540.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Open University|GPROSTD334484|71,388.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Open University|GPROSTD336725|8,649,236.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Open University|GPROSTD338471|971,776.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Open University|GPROSTD342352|1,235,861.00
+BIS|HEFCE|16/01/2014|Catalyst Fund  (R)|RIS policy team|Open University|GPROSTD346618|765,000.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Oxford Brookes Univ|GPROSTD334511|123,063.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Oxford Brookes Univ|GPROSTD336752|1,507,470.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Oxford Brookes Univ|GPROSTD338498|343,930.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Oxford Brookes Univ|GPROSTD339479|40,703.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Oxford Brookes Univ|GPROSTD342355|73,542.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Plumpton College|GPROSTD336797|29,581.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Plymouth Coll of Art|GPROSTD336824|167,467.00
+BIS|HEFCE|16/01/2014|Revolving Green Fund|RIS policy team|Plymouth University|GPROSTD333136|33,142.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Plymouth University|GPROSTD334520|113,068.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Plymouth University|GPROSTD336815|3,157,439.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Plymouth University|GPROSTD338507|653,016.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Plymouth University|GPROSTD339488|37,397.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Plymouth University|GPROSTD342362|222,159.00
+BIS|HEFCE|16/01/2014|Quality Assurance|E&P policy team|QAA|GPROSTD343192|302,407.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Queen Mary, UoL|GPROSTD273171|30,214.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Queen Mary, UoL|GPROSTD273181|30,214.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Queen Mary, UoL|GPROSTD308906|30,214.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Queen Mary, UoL|GPROSTD334538|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Queen Mary, UoL|GPROSTD336851|3,251,834.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Queen Mary, UoL|GPROSTD338525|3,244,879.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Queen Mary, UoL|GPROSTD339506|70,835.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Queen Mary, UoL|GPROSTD342366|49,674.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Ravensbourne|GPROSTD336860|400,238.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|RCSSD|GPROSTD335303|350,152.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|RCSSD|GPROSTD337922|33,289.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Reaseheath College|GPROSTD336878|36,699.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Riverside College|GPROSTD335861|62,612.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Roehampton Uni|GPROSTD334556|34,657.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Roehampton Uni|GPROSTD336905|919,781.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Roehampton Uni|GPROSTD338543|236,462.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Roehampton Uni|GPROSTD342372|59,086.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Rose Bruford College|GPROSTD336914|205,705.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Rotherham Coll A&T|GPROSTD336923|37,023.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Royal Academy Music|GPROSTD336941|356,982.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Royal Academy Music|GPROSTD338570|42,525.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Royal Agricultural|GPROSTD336932|319,857.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Royal College Music|GPROSTD336959|350,457.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Royal College Music|GPROSTD338588|42,203.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Royal College of Art|GPROSTD336950|1,072,741.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Royal College of Art|GPROSTD338579|246,324.00
+BIS|HEFCE|16/01/2014|Catalyst Fund  (R)|RIS policy team|Royal College of Art|GPROSTD346932|911,967.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Royal Holloway|GPROSTD334574|36,444.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Royal Holloway|GPROSTD336968|1,051,630.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Royal Holloway|GPROSTD338597|1,351,387.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Royal Holloway|GPROSTD342379|32,673.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Royal North Coll Mus|GPROSTD336977|469,626.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Royal Veterinary|GPROSTD334592|89,692.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Royal Veterinary|GPROSTD336986|1,697,193.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Royal Veterinary|GPROSTD338615|523,448.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Royal Veterinary|GPROSTD339560|29,666.00
+BIS|HEFCE|16/01/2014|PSS|E&P policy team|Royal Veterinary|GPROSTD346825|150,167.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Ruskin College|GPROSTD337004|26,554.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Sheffield Hallam Uni|GPROSTD334610|90,951.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Sheffield Hallam Uni|GPROSTD337067|2,967,005.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Sheffield Hallam Uni|GPROSTD338633|391,172.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Sheffield Hallam Uni|GPROSTD339578|30,082.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Sheffield Hallam Uni|GPROSTD342389|188,700.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|SOAS|GPROSTD334493|35,711.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|SOAS|GPROSTD336734|441,698.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|SOAS|GPROSTD338480|615,819.00
+BIS|HEFCE|16/01/2014|PSS|E&P policy team|SOAS|GPROSTD346801|139,882.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Solihull College|GPROSTD337085|60,334.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Somerset College|GPROSTD337094|43,259.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Southampton Solent U|GPROSTD334628|65,882.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Southampton Solent U|GPROSTD337139|1,759,734.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Southampton Solent U|GPROSTD342397|68,494.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|South Tyneside Coll|GPROSTD337175|97,144.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Sparsholt College|GPROSTD337229|124,052.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Staffordshire Uni|GPROSTD334646|90,339.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Staffordshire Uni|GPROSTD337238|2,235,819.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Staffordshire Uni|GPROSTD338669|54,862.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Staffordshire Uni|GPROSTD339614|29,880.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Staffordshire Uni|GPROSTD342408|159,364.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|St George's Uni|GPROSTD334655|70,246.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|St George's Uni|GPROSTD337265|1,685,940.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|St George's Uni|GPROSTD338678|446,406.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|St Helens Coll|GPROSTD337274|125,651.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|St Mary's Uni Colleg|GPROSTD337283|455,864.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|St Mary's Uni Colleg|GPROSTD338687|25,866.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|St Mary's Uni Colleg|GPROSTD342413|29,094.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Stockport College|GPROSTD337310|124,221.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Sunderland College|GPROSTD335384|47,174.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Teesside University|GPROSTD334691|95,709.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Teesside University|GPROSTD337400|1,860,841.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Teesside University|GPROSTD338732|106,506.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Teesside University|GPROSTD339659|31,656.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Teesside University|GPROSTD342425|144,548.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Trafford College|GPROSTD337166|27,346.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Trinity Laban Cons M|GPROSTD334709|29,272.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Trinity Laban Cons M|GPROSTD337454|666,578.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni Coll Birmingham|GPROSTD334970|543,021.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni Coll Birmingham|GPROSTD342168|39,195.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Uni College London|GPROSTD259836|30,217.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Uni College London|GPROSTD284241|30,214.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Uni College London|GPROSTD284250|30,214.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Uni College London|GPROSTD285804|30,214.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Uni College London|GPROSTD309126|29,405.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni College London|GPROSTD334385|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni College London|GPROSTD336365|5,131,958.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni College London|GPROSTD338354|11,587,412.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni College London|GPROSTD339353|70,835.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni College London|GPROSTD342313|66,839.00
+BIS|HEFCE|16/01/2014|PSS|E&P policy team|Uni College London|GPROSTD346807|390,184.00
+BIS|HEFCE|16/01/2014|Catalyst Fund  (R)|RIS policy team|Uni College London|GPROSTD346918|30,000.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni for Creative Art|GPROSTD335510|887,450.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni for Creative Art|GPROSTD337985|38,224.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni for Creative Art|GPROSTD342225|38,375.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Arts London|GPROSTD334340|189,339.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Arts London|GPROSTD336302|2,421,038.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Arts London|GPROSTD338291|626,154.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Arts London|GPROSTD339308|62,624.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Arts London|GPROSTD342306|87,638.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Bedfordshire|GPROSTD334403|36,375.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Bedfordshire|GPROSTD336392|1,392,125.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Bedfordshire|GPROSTD338372|102,001.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Bedfordshire|GPROSTD342316|118,993.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Uni of Birmingham|GPROSTD266154|144,303.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Uni of Birmingham|GPROSTD286589|30,214.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Birmingham|GPROSTD333908|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Birmingham|GPROSTD334979|4,536,535.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Birmingham|GPROSTD337796|4,186,505.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Birmingham|GPROSTD338876|70,835.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Birmingham|GPROSTD342169|99,222.00
+BIS|HEFCE|16/01/2014|Revolving Green Fund|RIS policy team|Uni of Birmingham|GPROSTD343320|250,000.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Bradford|GPROSTD333935|81,435.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Bradford|GPROSTD335105|1,587,347.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Bradford|GPROSTD337832|599,716.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Bradford|GPROSTD338903|26,935.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Bradford|GPROSTD342181|97,382.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Brighton|GPROSTD333944|77,655.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Brighton|GPROSTD335123|2,325,021.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Brighton|GPROSTD337841|575,402.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Brighton|GPROSTD338912|25,684.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Brighton|GPROSTD342183|125,396.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Uni of Bristol|GPROSTD259784|30,217.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Bristol|GPROSTD333953|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Bristol|GPROSTD335132|4,224,324.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Bristol|GPROSTD337850|4,868,756.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Bristol|GPROSTD338921|70,835.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Bristol|GPROSTD342184|51,124.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Uni of Cambridge|GPROSTD259764|30,217.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Uni of Cambridge|GPROSTD285381|29,405.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Cambridge|GPROSTD333980|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Cambridge|GPROSTD335222|3,589,787.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Cambridge|GPROSTD337877|12,251,007.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Cambridge|GPROSTD338948|70,835.00
+BIS|HEFCE|16/01/2014|Museums, Gal & Coll|RIS policy team|Uni of Cambridge|GPROSTD340190|163,000.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Cambridge|GPROSTD342193|40,865.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Central Lancs|GPROSTD334016|169,958.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Central Lancs|GPROSTD335294|3,154,862.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Central Lancs|GPROSTD337913|327,650.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Central Lancs|GPROSTD338984|56,214.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Central Lancs|GPROSTD342201|209,743.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Chester|GPROSTD334025|32,859.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Chester|GPROSTD335321|1,205,124.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Chester|GPROSTD337931|63,465.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Chester|GPROSTD342204|70,465.00
+BIS|HEFCE|16/01/2014|Catalyst Fund  (R)|RIS policy team|Uni of Chester|GPROSTD343023|56,107.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Chichester|GPROSTD335348|522,570.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Chichester|GPROSTD337940|25,375.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Chichester|GPROSTD342207|38,133.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Cumbria|GPROSTD335528|688,673.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Cumbria|GPROSTD342227|58,619.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of East Anglia|GPROSTD334106|132,749.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of East Anglia|GPROSTD335609|1,837,084.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of East Anglia|GPROSTD338030|1,610,943.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of East Anglia|GPROSTD339074|43,907.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of East Anglia|GPROSTD339735|571,836.00
+BIS|HEFCE|16/01/2014|Museums, Gal & Coll|RIS policy team|Uni of East Anglia|GPROSTD340194|25,000.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of East Anglia|GPROSTD342236|64,677.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of East Anglia|GPROSTD342237|75,057.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of East London|GPROSTD334115|45,718.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of East London|GPROSTD335618|2,198,857.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of East London|GPROSTD338039|194,265.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of East London|GPROSTD342238|217,323.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Gloucester|GPROSTD334160|25,192.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Gloucester|GPROSTD335762|991,379.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Gloucester|GPROSTD338093|67,793.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Gloucester|GPROSTD342251|55,743.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Greenwich|GPROSTD334178|129,994.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Greenwich|GPROSTD335798|2,390,881.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Greenwich|GPROSTD338111|261,204.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Greenwich|GPROSTD339146|42,996.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Greenwich|GPROSTD342254|168,527.00
+BIS|HEFCE|16/01/2014|PSS|E&P policy team|Uni of Greenwich|GPROSTD346819|93,916.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Hertfordshire|GPROSTD334196|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Hertfordshire|GPROSTD335951|2,238,783.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Hertfordshire|GPROSTD338138|412,705.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Hertfordshire|GPROSTD339164|70,835.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Hertfordshire|GPROSTD342270|108,991.00
+BIS|HEFCE|16/01/2014|Revolving Green Fund|RIS policy team|Uni of Hertfordshire|GPROSTD346764|119,197.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Huddersfield|GPROSTD334205|70,077.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Huddersfield|GPROSTD336005|2,098,420.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Huddersfield|GPROSTD338156|190,286.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Huddersfield|GPROSTD342275|163,241.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Uni of Leicester|GPROSTD263928|29,405.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Leicester|GPROSTD334295|144,202.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Leicester|GPROSTD336230|2,410,269.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Leicester|GPROSTD338246|1,948,225.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Leicester|GPROSTD339263|47,695.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Leicester|GPROSTD342298|56,013.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Lincoln|GPROSTD334304|38,289.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Lincoln|GPROSTD336248|1,534,051.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Lincoln|GPROSTD338255|164,466.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Lincoln|GPROSTD342300|79,979.00
+BIS|HEFCE|16/01/2014|Catalyst Fund C (R)|RIS policy team|Uni of Lincoln|GPROSTD346885|36,000.00
+BIS|HEFCE|16/01/2014|Catalyst Fund C (T)|RIS policy team|Uni of Lincoln|GPROSTD346898|54,000.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Liverpool|GPROSTD334331|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Liverpool|GPROSTD336284|4,629,687.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Liverpool|GPROSTD338282|3,641,432.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Liverpool|GPROSTD339299|70,835.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Liverpool|GPROSTD342304|71,961.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of London|GPROSTD344800|1,470,931.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Manchester|GPROSTD334421|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Manchester|GPROSTD336419|5,739,548.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Manchester|GPROSTD338390|8,389,371.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Manchester|GPROSTD339389|70,835.00
+BIS|HEFCE|16/01/2014|Museums, Gal & Coll|RIS policy team|Uni of Manchester|GPROSTD340197|172,500.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Manchester|GPROSTD342319|114,051.00
+BIS|HEFCE|16/01/2014|UKRPIF|Finance|Uni of Manchester|GPROSTD343333|2,080,000.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Northampton|GPROSTD334448|89,589.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Northampton|GPROSTD336599|1,077,857.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Northampton|GPROSTD338426|64,583.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Northampton|GPROSTD339416|29,632.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Northampton|GPROSTD342339|96,444.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Uni of Nottingham|GPROSTD309286|25,000.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Nottingham|GPROSTD334475|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Nottingham|GPROSTD336698|4,658,110.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Nottingham|GPROSTD338462|4,954,302.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Nottingham|GPROSTD339443|70,835.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Nottingham|GPROSTD342350|110,072.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Portsmouth|GPROSTD334529|58,096.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Portsmouth|GPROSTD336833|2,708,407.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Portsmouth|GPROSTD338516|478,395.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Portsmouth|GPROSTD342364|111,728.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Reading|GPROSTD334547|163,153.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Reading|GPROSTD336869|1,376,596.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Reading|GPROSTD338534|1,697,971.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Reading|GPROSTD339515|53,963.00
+BIS|HEFCE|16/01/2014|Museums, Gal & Coll|RIS policy team|Uni of Reading|GPROSTD340201|25,000.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Reading|GPROSTD342368|41,270.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Salford|GPROSTD334601|134,315.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Salford|GPROSTD337022|2,492,041.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Salford|GPROSTD338624|679,350.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Salford|GPROSTD339569|44,425.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Salford|GPROSTD342385|142,213.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Sheffield|GPROSTD334619|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Sheffield|GPROSTD337076|3,980,494.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Sheffield|GPROSTD338642|4,481,510.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Sheffield|GPROSTD339587|70,835.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Sheffield|GPROSTD342390|80,535.00
+BIS|HEFCE|16/01/2014|PSS|E&P policy team|Uni of Sheffield|GPROSTD346843|498,947.00
+BIS|HEFCE|16/01/2014|PSS|E&P policy team|Uni of Sheffield|GPROSTD346847|498,947.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Southampton|GPROSTD334637|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Southampton|GPROSTD337148|3,169,586.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Southampton|GPROSTD338660|4,471,672.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Southampton|GPROSTD339605|70,835.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Southampton|GPROSTD342398|75,393.00
+BIS|HEFCE|16/01/2014|Catalyst Fund  (R)|RIS policy team|Uni of Southampton|GPROSTD343252|182,500.00
+BIS|HEFCE|16/01/2014|UKRPIF|Finance|Uni of Southampton|GPROSTD346552|527,037.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Sunderland|GPROSTD334664|77,692.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Sunderland|GPROSTD337346|1,202,614.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Sunderland|GPROSTD338705|198,181.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Sunderland|GPROSTD339632|25,697.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Sunderland|GPROSTD342419|108,314.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|Uni of Warwick|GPROSTD232274|100,000.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Warwick|GPROSTD334718|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Warwick|GPROSTD337499|2,351,701.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Warwick|GPROSTD338768|3,380,552.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Warwick|GPROSTD339686|70,835.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Warwick|GPROSTD342435|51,398.00
+BIS|HEFCE|16/01/2014|Catalyst Fund  (R)|RIS policy team|Uni of Warwick|GPROSTD343277|64,000.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of West London|GPROSTD334700|46,344.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of West London|GPROSTD337418|982,341.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of West London|GPROSTD338741|47,978.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of West London|GPROSTD342427|70,645.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Westminster|GPROSTD334736|93,955.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Westminster|GPROSTD337553|2,329,535.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Westminster|GPROSTD338786|405,864.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Westminster|GPROSTD339704|31,076.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Westminster|GPROSTD342440|106,663.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Winchester|GPROSTD337634|455,555.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Winchester|GPROSTD338795|64,316.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Winchester|GPROSTD342447|39,077.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni of Wolverhampton|GPROSTD334745|156,835.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Wolverhampton|GPROSTD337652|2,102,681.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni of Wolverhampton|GPROSTD338804|178,327.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni of Wolverhampton|GPROSTD339713|51,873.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Wolverhampton|GPROSTD342449|189,004.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni of Worcester|GPROSTD337679|800,935.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni of Worcester|GPROSTD342452|83,887.00
+BIS|HEFCE|16/01/2014|PSS|E&P policy team|Uni of Worcester|GPROSTD346861|101,667.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni StMark & StJohn|GPROSTD337292|224,645.00
+BIS|HEFCE|16/01/2014|International|LGM|Universities UK|GPROSTD343092|187,500.00
+BIS|HEFCE|16/01/2014|International|LGM|Universities UK|GPROSTD343107|37,500.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|University of Bath|GPROSTD333890|178,553.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|University of Bath|GPROSTD334898|1,816,627.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|University of Bath|GPROSTD337778|1,704,991.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|University of Bath|GPROSTD338858|59,057.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|University of Bath|GPROSTD342162|39,069.00
+BIS|HEFCE|16/01/2014|PSS|E&P policy team|University of Bath|GPROSTD346793|215,000.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|University of Bolton|GPROSTD335051|843,403.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|University of Bolton|GPROSTD337814|61,558.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|University of Bolton|GPROSTD342176|77,891.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|University of Derby|GPROSTD334088|50,684.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|University of Derby|GPROSTD335555|1,775,652.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|University of Derby|GPROSTD338012|38,464.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|University of Derby|GPROSTD342230|129,074.00
+BIS|HEFCE|16/01/2014|Revolving Green Fund|RIS policy team|University of Derby|GPROSTD346699|190,000.00
+BIS|HEFCE|16/01/2014|PSS|E&P policy team|University of Derby|GPROSTD346855|99,822.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|University of Durham|GPROSTD334097|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|University of Durham|GPROSTD335591|1,869,043.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|University of Durham|GPROSTD338021|2,518,166.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|University of Durham|GPROSTD339065|70,835.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|University of Durham|GPROSTD342234|49,154.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|University of Essex|GPROSTD334133|55,686.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|University of Essex|GPROSTD335690|1,409,500.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|University of Essex|GPROSTD338066|908,680.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|University of Essex|GPROSTD342243|84,669.00
+BIS|HEFCE|16/01/2014|PSS|E&P policy team|University of Essex|GPROSTD346925|146,294.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|University of Exeter|GPROSTD334142|201,835.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|University of Exeter|GPROSTD335708|2,239,870.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|University of Exeter|GPROSTD338075|1,920,009.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|University of Exeter|GPROSTD339110|66,757.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|University of Exeter|GPROSTD342245|53,149.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|University of Hull|GPROSTD334214|147,398.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|University of Hull|GPROSTD336032|1,829,023.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|University of Hull|GPROSTD338165|770,610.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|University of Hull|GPROSTD339182|48,752.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|University of Hull|GPROSTD342278|119,060.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|University of Kent|GPROSTD334241|66,087.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|University of Kent|GPROSTD336059|2,204,120.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|University of Kent|GPROSTD338192|1,103,649.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|University of Kent|GPROSTD342281|88,567.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|University of Leeds|GPROSTD334277|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|University of Leeds|GPROSTD336194|4,783,520.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|University of Leeds|GPROSTD338228|4,860,322.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|University of Leeds|GPROSTD339245|70,835.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|University of Leeds|GPROSTD342294|102,358.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|University of Oxford|GPROSTD265809|29,405.00
+BIS|HEFCE|16/01/2014|SDF Recurrent|RIS policy team|University of Oxford|GPROSTD285813|30,214.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|University of Oxford|GPROSTD334502|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|University of Oxford|GPROSTD336743|3,360,299.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|University of Oxford|GPROSTD338489|13,382,848.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|University of Oxford|GPROSTD339470|70,835.00
+BIS|HEFCE|16/01/2014|Museums, Gal & Coll|RIS policy team|University of Oxford|GPROSTD340200|279,583.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|University of Oxford|GPROSTD342354|44,395.00
+BIS|HEFCE|16/01/2014|UKRPIF|Finance|University of Oxford|GPROSTD346775|7,242,500.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|University of Surrey|GPROSTD334673|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|University of Surrey|GPROSTD337355|1,232,652.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|University of Surrey|GPROSTD338714|1,522,317.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|University of Surrey|GPROSTD339641|70,835.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|University of Surrey|GPROSTD342420|42,009.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|University of Sussex|GPROSTD334682|139,744.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|University of Sussex|GPROSTD337364|1,518,630.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|University of Sussex|GPROSTD338723|1,533,060.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|University of Sussex|GPROSTD339650|46,220.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|University of Sussex|GPROSTD342421|53,092.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|University of York|GPROSTD334754|214,165.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|University of York|GPROSTD337715|1,664,155.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|University of York|GPROSTD338822|2,452,698.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|University of York|GPROSTD339722|70,835.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|University of York|GPROSTD342455|53,925.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15 (BIS)|RIS policy team|Uni West of England|GPROSTD334727|88,797.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Uni West of England|GPROSTD337526|2,456,214.00
+BIS|HEFCE|16/01/2014|Research 13-14|RIS policy team|Uni West of England|GPROSTD338777|446,549.00
+BIS|HEFCE|16/01/2014|HEIF 2011-15|RIS policy team|Uni West of England|GPROSTD339695|29,370.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|Uni West of England|GPROSTD342437|145,184.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Wakefield College|GPROSTD337481|46,951.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Warwickshire College|GPROSTD337508|147,846.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Westminster Kingsway|GPROSTD337544|33,053.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|West Notts College|GPROSTD337562|71,608.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|West Thames Col|GPROSTD337571|29,132.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Wigan & Leigh Coll|GPROSTD337616|79,679.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Wiltshire College|GPROSTD337625|55,928.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Wirral Met College|GPROSTD337643|52,333.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Worcester Coll Tech|GPROSTD337670|118,361.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|Writtle College|GPROSTD337697|218,217.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|York College|GPROSTD337733|59,307.00
+BIS|HEFCE|16/01/2014|Teaching 13-14|E&P policy team|York St John Uni|GPROSTD337724|446,122.00
+BIS|HEFCE|16/01/2014|Access to Learn Fund|E&P policy team|York St John Uni|GPROSTD342456|27,816.00
+BIS|HEFCE|17/01/2014|PD - research|R&E programme|City University, Lon|PIC621|120,000.00
+BIS|HEFCE|31/01/2014|Costing & Pricing|Finance|KPMG Llp|PIG7405|180,745.20
+BIS|HEFCE|31/01/2014|REF|REF|MITIE Property Serv|PIG7126|37,753.84
+BIS|HEFCE|31/01/2014|Catalyst Fund  (R)|RIS policy team|Uni College London|GPROSTD347088|250,000.00
+BIS|HEFCE|31/01/2014|Policy Ongoing Serv|Central|Uni of Bristol|GPROSTD347100|95,373.00
+BIS|HEFCE|31/01/2014|Promoting Efficiency|LGM|Universities UK|PIG7431|61,489.00
