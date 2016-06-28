@@ -45,7 +45,7 @@ org=$1
       sort | uniq |
       while read headeroffocus
         do
-          sed -E 's/(\|'$headeroffocus'\|.*\|'$headeroffocus')\|/\12\|/' tempheaders > whatever #increment duplicate headers to make unique
+          sed -E 's/(\|'$headeroffocus'\|.*\|'$headeroffocus')/\12/' tempheaders > whatever #increment duplicate headers to make unique
           mv whatever tempheaders
         done
 
