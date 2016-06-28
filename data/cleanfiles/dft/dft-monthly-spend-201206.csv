@@ -1,4 +1,4 @@
-DEPARTMENTFAMILY|ENTITY|DATE|EXPENSETYPE|EXPENSEAREA|SUPPLIER|TRANSACTIONNO|SUMOFAMOUNT|TEXT|POSTCODE
+DEPARTMENT|ENTITY|DATE|EXPENSETYPE|EXPENSEAREA|SUPPLIER|TRANSACTIONNUMBER|AMOUNT|DESCRIPTION|SUPPLIERPOSTCODE
 Department for Transport|Directly Operated Railways Limited|03/06/2012|Professional services|DOR Head office|SIBIU VENTURES|8|14644.17|Professional Services to DOR for May 12 |GU4 7QX
 Department for Transport|Directly Operated Railways Limited|01/06/2012|Professional services|DOR Head office|COLEDALE CONSULTING|11-Oct|20152|Professional Services to DOR for May 12 |GU22 0JH
 Department for Transport|Directly Operated Railways Limited|24/05/2012|Professional services|DOR Head office|Eversheds|91065649|539.6|Company Secretarial Services|M1 5ES
