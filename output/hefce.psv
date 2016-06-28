@@ -1,5 +1,4 @@
-Department|Entity|Payment Date|Expense Type|Expense Area|Supplier|Transaction Number|Amount|Expense Type 2|Expense Area 2
-
+Department|Entity|Date|Expense Type|Expense Area|Supplier|Transaction Number|Amount|Expense Type 2|Expense Area 2|Description|Supplier Postcode|Period
 BIS|HEFCE|01/03/2012|Emp Engagement - Rec|E&P policy team|Oxford Brookes Univ|GPROSTD313646|95,000.00|||
 BIS|HEFCE|01/03/2012|JISC|JISC NAH|Curtis & Cartwright|PIG6272|29,850.00|||
 BIS|HEFCE|01/03/2012|Quality Assurance|E&P policy team|NUS|PIG6257|46,047.00|||

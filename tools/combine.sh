@@ -14,6 +14,7 @@ mkdir -p output
   
   # make sure the ordering and headers match the awk file 
   echo "Department|Entity|Date|Expense Type|Expense Area|Supplier|Transaction Number|Amount|Expense Type 2|Expense Area 2|Description|Supplier Postcode|Period" > output/$org.psv
+
   cat tempfile | sort | uniq | 
-    grep -E -v '^\|+$' >> output/$org.psv
+    grep -E -v '^\|*$' >> output/$org.psv
   rm tempfile

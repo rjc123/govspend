@@ -7,7 +7,7 @@ org=$1
   ls data/rawfiles/$org |
   while read filename
   do 
-    echo 'looking at '$org'/'$filename
+    echo 'Cleaning raw file '$org'/'$filename
     iconv -c -t 'UTF-8' data/rawfiles/$org/$filename |
     sed -E 's/\"([^\"]*),([^\"]*)\"/\"\1±\2\"/g;
         s/\"([^\"]*),([^\"]*±)([^\"]*)\"/\"\1±\2\3\"/g;
@@ -31,8 +31,8 @@ org=$1
       sed 's/TRANSACTIONNO/TRANSACTIONNUMBER/g;
           s/DEPARTMENTALFAMILY/DEPARTMENT/g;
           s/DEPARTMENTFAMILY/DEPARTMENT/g;
-          s/\|POSTCODE/|SUPPLIERPOSTCODE/g;
-          s/POSTALCODE/SUPPLIERPOSTCODE/g;
+          s/SUPPLIERPOSTCODE/POSTCODE/g;
+          s/POSTALCODE/POSTCODE/g;
           s/SUMOFAMOUNT/AMOUNT/g;
           s/ITEMTEXT/DESCRIPTION/g;
           s/\|TEXT/|DESCRIPTION/g;
@@ -54,4 +54,4 @@ org=$1
 
     rm tempfile
 
-  done 
+  done
