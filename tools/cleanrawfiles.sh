@@ -8,6 +8,8 @@ do
   ls data/rawfiles/$org |
   while read filename
   do 
+    echo 'looking at '$org'/'$filename
+    iconv -c -t 'UTF-8' data/rawfiles/$org/$filename |
     sed -E 's/\"([^\"]*),([^\"]*)\"/\"\1±\2\"/g;
         s/\"([^\"]*),([^\"]*±)([^\"]*)\"/\"\1±\2\3\"/g;
         s/\"([^\"]*),([^\"]*±)([^\"]*)\"/\"\1±\2\3\"/g;
@@ -15,7 +17,7 @@ do
         s/\"([^\"]*),([^\"]*±)([^\"]*)\"/\"\1±\2\3\"/g;
         s/,/|/g;
         s/±/,/g;
-        s/\"//g;' data/rawfiles/$org/$filename |
+        s/\"//g;' |
     tr -d $'\r' > tempfile
     # 1. Take things in double quotes and make the commas ±
     # 2. Take all other commas and make them pipes
