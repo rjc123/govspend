@@ -1,8 +1,7 @@
 #!/bin/bash
 
-ls data/rawfiles |
-while read org
-do
+org=$1
+
   mkdir -p data/cleanfiles/$org
 
   ls data/rawfiles/$org |
@@ -43,5 +42,3 @@ do
     rm tempfile
 
   done 
-
-done 

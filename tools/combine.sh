@@ -1,10 +1,8 @@
 #!/bin/bash
 
-mkdir -p output
+org=$1
 
-ls data/cleanfiles |
-while read org
-do
+mkdir -p output
 
   ls data/cleanfiles/$org |
   while read filename
@@ -19,6 +17,3 @@ do
   cat tempfile | sort | uniq | 
     grep -E -v '^\|+$' >> output/$org.psv
   rm tempfile
-
-done 
-
