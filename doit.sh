@@ -15,6 +15,9 @@ do
   echo '3. Align the columns of the raw files and append to existing outputs, noting any changes or additions for' $org
   sh tools/combine.sh $org
 
+  echo '4. Make some new versions of the output files'
+  sh tools/reformat.sh $org
+
 done < landingpages.txt
 
 # 4. Commit the new data and changes to the data in the repo
