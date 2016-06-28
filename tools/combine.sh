@@ -8,7 +8,9 @@ mkdir -p output
   while read filename
   do 
 
+    echo "Combining $org/$filename"
     awk -f tools/combinescript.awk data/cleanfiles/$org/$filename >> tempfile
+    tail tempfile
 
   done 
   

@@ -19,18 +19,10 @@ BEGIN {
       data[headers[i]]=$i 
     }
 
-  for (i=1;i <= 10;i++) 
+  for (j=1; j<=13; j++) 
     { 
-      printf data[endgame[i]] "|"
+      printf ("%s",data[endgame[j]]"|")
     }
   }
   printf "\n"
 }
-
-END { 
-  for (i=1; i<=NF; i++ )
-    { 
-      
-    }
-}
-
