@@ -1,0 +1,18 @@
+ENTITY,EXPENSE_AREA_1,PAYMENT DATE,PAYMENT NUMBER,SUPPLIER NAME,INVOICE AMOUNT,NAC DESCRIPTION,SERVICE SUPPLIED
+Wales Office,Wales Office,11-May-11,1000119,GOVERNMENT CAR & DESPATCH AGENCY,7050.26,221410-Official Cars - Hire Charges,Ministerial car hire charges (April charges)
+Wales Office,Wales Office,11-May-11,1000119,GOVERNMENT CAR & DESPATCH AGENCY,7050.26,221410-Official Cars - Hire Charges,Ministerial car hire charges (May charges)
+Wales Office,Wales Office,18-May-11,1000138,GOVERNMENT CAR & DESPATCH AGENCY,1006.7,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,Wales Office,4-May-11,1000096,CARDIFF COUNTY COUNCIL,4087,222111-Rates,Rates for Cardiff office
+Wales Office,Wales Office,4-May-11,1000097,WESTMINSTER CITY COUNCIL,8023,222111-Rates,Rates for London office
+Wales Office,Wales Office,23-May-11,1000145,CARDIFF COUNTY COUNCIL,4087,222111-Rates,Rates for Cardiff office
+Wales Office,Wales Office,23-May-11,1000146,WESTMINSTER CITY COUNCIL,8023,222111-Rates,Rates for London office
+Wales Office,Wales Office,12-May-11,1000124,M J FERGUSON LTD,4706.12,222137-CIS Labour Build Maintenance Works,Monthly maintenance charge for London office
+Wales Office,Wales Office,11-May-11,1000118,CARLISLE SECURITY SERVICES LTD,10238.4,222151-Security,24 hour Security for London office
+Wales Office,Wales Office,5-May-11,1000100,CIVIC MAINTENANCE SERVICES LTD,712.22,222152-Cleaning (excl Waste Collctn),Cleaning services for Cardiff office
+Wales Office,Wales Office,18-May-11,1000139,LANCASTER OFFICE CLEANING CO LTD,2545.19,222152-Cleaning (excl Waste Collctn),Cleaning services for London office (April charges)
+Wales Office,Wales Office,18-May-11,1000139,LANCASTER OFFICE CLEANING CO LTD,2545.19,222152-Cleaning (excl Waste Collctn),Cleaning services for London office (May charges)
+Wales Office,Wales Office,11-May-11,1000120,PRESS DATA CYMRU,960,223513-Design/Print/Reprographic Services,Media monitoring
+Wales Office,Wales Office,11-May-11,1000119,GOVERNMENT CAR & DESPATCH AGENCY,964.8,223517-IDS,Government internal mail service
+Wales Office,Wales Office,5-May-11,1000101,EDUSERV TECHNOLOGIES LTD,756,223536-IT Services incl Web Hosting,Web hosting for Wales Office websites
+Wales Office,Wales Office,31-May-11,1000155,EDUSERV TECHNOLOGIES LTD,693.6,223536-IT Services incl Web Hosting,Web hosting for Wales Office websites
+Wales Office,Wales Office,10-May-11,1000110,BUYING SOLUTIONS,13565.02,223541-Telecomms - Charges/Rental-non mobile,Central government contract for phone charges for land lines

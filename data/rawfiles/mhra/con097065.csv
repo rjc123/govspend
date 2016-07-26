@@ -1,0 +1,57 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,VAT registration number
+Dept of Health,MHRA,04/08/2010,Capital Expenditure,Information Management,ACCENTURE,600056572,331285.38,788629066
+Dept of Health,MHRA,06/08/2010,Professional Subscriptions,Information Management,GARTNER UK LTD,600056835,59748.75,635878884
+Dept of Health,MHRA,06/08/2010,Capital Expenditure,Information Management,ACCENTURE,600056972,37025.04,788629066
+Dept of Health,MHRA,06/08/2010,Out of Hours IT Work,Information Management,ACCENTURE,600056974,700405.93,788629066
+Dept of Health,MHRA,06/08/2010,IT Purchases,Information Management,ACCENTURE,600057049,254003.56,788629066
+Dept of Health,MHRA,06/08/2010,Premises Rental,Operations & Finance,HM REVENUE & CUSTOMS,600056976,15448.30,888848141
+Dept of Health,MHRA,06/08/2010,Rates,Operations & Finance,HM REVENUE & CUSTOMS,600056976,3398.75,888848141
+Dept of Health,MHRA,06/08/2010,Building Maintenance & Utilities,Operations & Finance,HM REVENUE & CUSTOMS,600056976,6681.30,888848141
+Dept of Health,MHRA,06/08/2010,Building Maintenance & Utilities,Operations & Finance,DEPARTMENT OF HEALTH,600057030,24994.34,888815064
+Dept of Health,MHRA,06/08/2010,Reprographics,Operations & Finance,DEPARTMENT OF HEALTH,600057030,65401.52,888815064
+Dept of Health,MHRA,06/08/2010,Facilities Management,Operations & Finance,DEPARTMENT OF HEALTH,600057032,45580.00,888815064
+Dept of Health,MHRA,06/08/2010,Security,Operations & Finance,DEPARTMENT OF HEALTH,600057032,53500.00,888815064
+Dept of Health,MHRA,06/08/2010,Cleaning,Operations & Finance,DEPARTMENT OF HEALTH,600057032,61000.00,888815064
+Dept of Health,MHRA,06/08/2010,Building Maintenance & Utilities,Operations & Finance,DEPARTMENT OF HEALTH,600057032,26451.66,888815064
+Dept of Health,MHRA,06/08/2010,Overseas Travel & Subsistence,Licensing,FCM TRAVEL SOLUTIONS,600057054,190.00,662428530
+Dept of Health,MHRA,06/08/2010,Overseas Travel & Subsistence,Vigilance and Risk Management of Medicines,FCM TRAVEL SOLUTIONS,600057054,707.40,662428530
+Dept of Health,MHRA,06/08/2010,Overseas Travel & Subsistence,"Inspection, Enforcement & Standards",FCM TRAVEL SOLUTIONS,600057054,61577.97,662428530
+Dept of Health,MHRA,06/08/2010,Overseas Travel & Subsistence,Policy,FCM TRAVEL SOLUTIONS,600057054,250.00,662428530
+Dept of Health,MHRA,06/08/2010,Overseas Travel & Subsistence,Directorate,FCM TRAVEL SOLUTIONS,600057054,122.50,662428530
+Dept of Health,MHRA,06/08/2010,Overseas Travel & Subsistence,Devices Medical,FCM TRAVEL SOLUTIONS,600057054,13888.00,662428530
+Dept of Health,MHRA,06/08/2010,Overseas Travel & Subsistence,Communications,FCM TRAVEL SOLUTIONS,600057054,-209.00,662428530
+Dept of Health,MHRA,06/08/2010,UK Travel & Subsistence,Licensing,FCM TRAVEL SOLUTIONS,600057054,101.00,662428530
+Dept of Health,MHRA,06/08/2010,UK Travel & Subsistence,Vigilance and Risk Management of Medicines,FCM TRAVEL SOLUTIONS,600057054,360.90,662428530
+Dept of Health,MHRA,06/08/2010,UK Travel & Subsistence,"Inspection, Enforcement & Standards",FCM TRAVEL SOLUTIONS,600057054,6020.72,662428530
+Dept of Health,MHRA,06/08/2010,UK Travel & Subsistence,Policy,FCM TRAVEL SOLUTIONS,600057054,238.58,662428530
+Dept of Health,MHRA,06/08/2010,UK Travel & Subsistence,Operations & Finance,FCM TRAVEL SOLUTIONS,600057054,128.25,662428530
+Dept of Health,MHRA,06/08/2010,UK Travel & Subsistence,Devices Medical,FCM TRAVEL SOLUTIONS,600057054,-160.25,662428530
+Dept of Health,MHRA,06/08/2010,UK Travel & Subsistence,Devices Technology & Safety,FCM TRAVEL SOLUTIONS,600057054,1993.90,662428530
+Dept of Health,MHRA,06/08/2010,Professional Services,Operations & Finance,EC HARRIS LLP,600057078,39004.13,660476038
+Dept of Health,MHRA,06/08/2010,Overseas Travel & Subsistence,Licensing,FCM TRAVEL SOLUTIONS,600057079,717.97,662428530
+Dept of Health,MHRA,06/08/2010,Overseas Travel & Subsistence,Vigilance and Risk Management of Medicines,FCM TRAVEL SOLUTIONS,600057079,1590.49,662428530
+Dept of Health,MHRA,06/08/2010,Overseas Travel & Subsistence,"Inspection, Enforcement & Standards",FCM TRAVEL SOLUTIONS,600057079,83030.59,662428530
+Dept of Health,MHRA,06/08/2010,Overseas Travel & Subsistence,General Practice Research Database,FCM TRAVEL SOLUTIONS,600057079,630.42,662428530
+Dept of Health,MHRA,06/08/2010,Overseas Travel & Subsistence,Policy,FCM TRAVEL SOLUTIONS,600057079,2061.50,662428530
+Dept of Health,MHRA,06/08/2010,Overseas Travel & Subsistence,Directorate,FCM TRAVEL SOLUTIONS,600057079,953.80,662428530
+Dept of Health,MHRA,06/08/2010,Overseas Travel & Subsistence,Devices Medical,FCM TRAVEL SOLUTIONS,600057079,-554.70,662428530
+Dept of Health,MHRA,06/08/2010,Overseas Travel & Subsistence,Devices Technology & Safety,FCM TRAVEL SOLUTIONS,600057079,310.00,662428530
+Dept of Health,MHRA,06/08/2010,Overseas Travel & Subsistence,Communications,FCM TRAVEL SOLUTIONS,600057079,-66.00,662428530
+Dept of Health,MHRA,06/08/2010,UK Travel & Subsistence,Licensing,FCM TRAVEL SOLUTIONS,600057079,46.00,662428530
+Dept of Health,MHRA,06/08/2010,UK Travel & Subsistence,Vigilance and Risk Management of Medicines,FCM TRAVEL SOLUTIONS,600057079,24.40,662428530
+Dept of Health,MHRA,06/08/2010,UK Travel & Subsistence,"Inspection, Enforcement & Standards",FCM TRAVEL SOLUTIONS,600057079,5214.37,662428530
+Dept of Health,MHRA,06/08/2010,UK Travel & Subsistence,General Practice Research Database,FCM TRAVEL SOLUTIONS,600057079,162.50,662428530
+Dept of Health,MHRA,06/08/2010,UK Travel & Subsistence,Policy,FCM TRAVEL SOLUTIONS,600057079,88.80,662428530
+Dept of Health,MHRA,06/08/2010,UK Travel & Subsistence,Operations & Finance,FCM TRAVEL SOLUTIONS,600057079,35.25,662428530
+Dept of Health,MHRA,06/08/2010,UK Travel & Subsistence,Devices Medical,FCM TRAVEL SOLUTIONS,600057079,-229.75,662428530
+Dept of Health,MHRA,06/08/2010,UK Travel & Subsistence,Devices Technology & Safety,FCM TRAVEL SOLUTIONS,600057079,1916.55,662428530
+Dept of Health,MHRA,06/08/2010,Committees Travel & Subsistence,Licensing,FCM TRAVEL SOLUTIONS,600057079,1028.00,662428530
+Dept of Health,MHRA,09/08/2010,Telecommunications,Information Management,BUYING SOLUTIONS,600056855,91806.31,GD103
+Dept of Health,MHRA,10/08/2010,External Audit,Operations & Finance,NATIONAL AUDIT OFFICE,600057144,98000.00,417632457
+Dept of Health,MHRA,11/08/2010,Capital Expenditure,Operations & Finance,OFFICE PROJECTS LIMITED (OPL),600057153,1564665.40,648993175
+Dept of Health,MHRA,12/08/2010,Telecommunications,Operations & Finance,VODAFONE (UNIFIED COMMUNICATIONS GROUP),600057209,284636.96,569953277
+Dept of Health,MHRA,23/08/2010,IT Purchases,Information Management,ACCENTURE,600057418,90061.07,788629066
+Dept of Health,MHRA,23/08/2010,Premises Rental,Operations & Finance,ZURICH ASSURANCE LTD,600057379,29375.00,107831677
+Dept of Health,MHRA,23/08/2010,Service Charge,Operations & Finance,ZURICH ASSURANCE LTD,600057379,15302.32,107831677
+Dept of Health,MHRA,26/08/2010,Third Party IT Contracts,Information Management,ACCENTURE,600057445,53586.03,788629066
+Dept of Health,MHRA,26/08/2010,Rates,Operations & Finance,WANDSWORTH BOROUGH COUNCIL,600053775,103609.00,216259470

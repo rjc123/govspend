@@ -1,0 +1,21 @@
+ENTITY,DATE,BE_LEVEL_7,EXPENSE_AREA_1,EXPENSE_TYPE_3,EXPENSE_TYPE_6,NAC_LEVEL_6,SUPPLIER,TRANSACTION_NUMBER,AMOUNT,SERVICE PROVIDED
+Wales Office,12/29/2010,WA105,WZ900-Wales,212001-Agency staff,212601-Agency Staff - admin,212601,BROOK STREET (UK) LTD,1001188,587.97,Agency staff costs
+Wales Office,12/31/2010,WA105,WZ900-Wales,212001-Agency staff,212601-Agency Staff - admin,212601,BROOK STREET (UK) LTD,1001192,587.97,Agency staff costs
+Wales Office,12/29/2010,WA105,WZ900-Wales,221000-Property Rent and Rates,221112-Property Rents - Passing Rent,221112,KNIGHT FRANK LLP,1001191,44136.94,Rent and service charges for Cardiff office
+Wales Office,12/15/2010,WA100,WZ900-Wales,223000-Other Expenditure,221410-Official Cars - Hire Charges,221410,GOVERNMENT CAR & DESPATCH AGENCY,1001171,6903.38,Ministerial car hire charges
+Wales Office,12/15/2010,WA100,WZ900-Wales,223000-Other Expenditure,221410-Official Cars - Hire Charges,221410,GOVERNMENT CAR & DESPATCH AGENCY,1001171,1533.38,Ministerial car hire charges
+Wales Office,12/20/2010,WA100,WZ900-Wales,223000-Other Expenditure,221410-Official Cars - Hire Charges,221410,GOVERNMENT CAR & DESPATCH AGENCY,1001176,696.19,Ministerial car hire charges
+Wales Office,12/21/2010,WA100,WZ900-Wales,223000-Other Expenditure,221410-Official Cars - Hire Charges,221410,GOVERNMENT CAR & DESPATCH AGENCY,1001178,944.7,Ministerial car hire charges
+Wales Office,12/29/2010,WA100,WZ900-Wales,223000-Other Expenditure,221410-Official Cars - Hire Charges,221410,GOVERNMENT CAR & DESPATCH AGENCY,1001189,985.73,Ministerial car hire charges
+Wales Office,12/16/2010,WA105,WZ900-Wales,261000-Fuel and Utilities,222142-Utility - Electricity,222142,BRITISH GAS BUSINESS,1001175,699.57,Electricity supplied to London office
+Wales Office,12/15/2010,WA105,WZ900-Wales,222002-Other Property Costs,222151-Security,222151,CARLISLE SECURITY SERVICES LTD,1001169,10025.1,24 hour Security for London office
+Wales Office,12/1/2010,WA105,WZ900-Wales,222002-Other Property Costs,222152-Cleaning (excl Waste Collctn),222152,LANCASTER OFFICE CLEANING CO LTD,1001129,2492.16,Cleaning services for London office
+Wales Office,12/8/2010,WA105,WZ900-Wales,222002-Other Property Costs,222152-Cleaning (excl Waste Collctn),222152,LANCASTER OFFICE CLEANING CO LTD,1001153,2492.16,Cleaning services for London office
+Wales Office,12/23/2010,WA105,WZ900-Wales,222002-Other Property Costs,222152-Cleaning (excl Waste Collctn),222152,CIVIC MAINTENANCE SERVICES LTD,1001181,852.44,Cleaning services for Cardiff office
+Wales Office,12/1/2010,WA105,WZ900-Wales,222002-Other Property Costs,"222156-Wast Coll'n/Disposal, Confid'ial",222156,CITY OF WESTMINSTER,1001127,521.58,Waste collection at London office
+Wales Office,12/10/2010,WA105,WZ900-Wales,222002-Other Property Costs,"222156-Wast Coll'n/Disposal, Confid'ial",222156,PHS GROUP PLC,1001158,953.16,Waste collection at Cardiff office
+Wales Office,12/1/2010,WA105,WZ900-Wales,262000-SCA Costs,223320-IT Services ARAMIS,223320,PUFFBOX LTD,1001132,3666,Website cost
+Wales Office,12/1/2010,WA105,WZ900-Wales,223001-Printing Postage and Office expenditure,223512-Stationery & Office Supplies,223512,BARROW & GALE,1001124,702.65,Office supplies
+Wales Office,12/8/2010,WA105,WZ900-Wales,223000-Other Expenditure,223520-Publications- incl. Online,223520,JONES YARRELL & CO LTD,1001151,559.7,Newspapers for London office
+Wales Office,12/6/2010,WA105,WZ900-Wales,265000-IT & Telecommunications,223536-IT Services incl Web Hosting,223536,EDUSERV TECHNOLOGIES LTD,1001142,679.15,Web hosting for Wales Office websites
+Wales Office,12/31/2010,WA105,WZ900-Wales,265000-IT & Telecommunications,223536-IT Services incl Web Hosting,223536,EDUSERV TECHNOLOGIES LTD,1001195,679.15,Web hosting for Wales Office websites

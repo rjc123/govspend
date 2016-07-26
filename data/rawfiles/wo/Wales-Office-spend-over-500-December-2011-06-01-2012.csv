@@ -1,0 +1,22 @@
+ENTITY,EXPENSE_AREA_1,PAYMENT DATE,PAYMENT NUMBER,SUPPLIER NAME,INVOICE AMOUNT,NAC DESCRIPTION,SERVICE SUPPLIED
+Wales Office,Wales Policy Office,15-Dec-11,1000707,PRECISE MEDIA MONITORING LTD,958.33,223563-Press Cuttings Service,Press cuttings
+Wales Office,Wales Policy Office,21-Dec-11,1000726,GOVERNMENT CAR & DESPATCH AGENCY,"6,730.34",221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,Wales Policy Office,23-Dec-11,1000734,KNIGHT FRANK LLP,"37,583.74",221112-Property Rents - Passing Rent,Rent and service charges for Cardiff office
+Wales Office,Wales Policy Office,6-Dec-11,1000669,CARLISLE SECURITY SERVICES LTD,"8,352.00",222151-Security,24 hour Security for London office
+Wales Office,Wales Policy Office,22-Dec-11,1000730,GOVERNMENT CAR & DESPATCH AGENCY,804,223517-IDS,Government internal mail service
+Wales Office,Wales Policy Office,14-Dec-11,1000702,WYG MANAGEMENT SERVICES LTD,550,222181-Managing Agents Fees,Preliminary report on proposed works
+Wales Office,Wales Policy Office,14-Dec-11,1000702,WYG MANAGEMENT SERVICES LTD,"1,650.00",222181-Managing Agents Fees,Preliminary report on proposed works
+Wales Office,Wales Policy Office,14-Dec-11,1000700,GOVERNMENT CAR & DESPATCH AGENCY,660,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,Wales Policy Office,15-Dec-11,1000704,GOVERNMENT CAR & DESPATCH AGENCY,697.5,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,Wales Policy Office,15-Dec-11,1000704,GOVERNMENT CAR & DESPATCH AGENCY,525,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,Wales Policy Office,1-Dec-11,1000651,CUSTOM SECURITY SOLUTIONS LTD,"2,732.36",222151-Security,Repair and maintenance of security equipment
+Wales Office,Wales Policy Office,15-Dec-11,1000703,CIVIC MAINTENANCE SERVICES LTD,595.48,222152-Cleaning (excl Waste Collctn),Cleaning services for Cardiff office
+Wales Office,Wales Policy Office,13-Dec-11,1000688,EDUSERV TECHNOLOGIES LTD,578,223536-IT Services incl Web Hosting,Web hosting for Wales Office websites
+Wales Office,COMMISSION ON DEVOLUTION,6-Dec-11,1000674,PUFFBOX LTD,"3,640.00",223536-IT Services incl Web Hosting,Design and set up of Commission website
+Wales Office,COMMISSION ON DEVOLUTION,1-Dec-11,1000656,M J FERGUSON LTD,"3,818.28",222136-CIS Labour Build Improvements Works,Reactive maintenance costs
+Wales Office,COMMISSION ON DEVOLUTION,1-Dec-11,1000657,M J FERGUSON LTD,"3,376.45",222182-Mechanical & Electrical,Reactive maintenance costs
+Wales Office,Wales Policy Office,22-Dec-11,1000731,M J FERGUSON LTD,"80,000.00",532602-TA GBV - Add-  Building Works - Assets In Course of Construction,Remedial building work
+Wales Office,COMMISSION ON DEVOLUTION,6-Dec-11,1000671,M J FERGUSON LTD,"3,122.26",222134-Other Building Project Costs,Reactive maintenance costs
+Wales Office,Wales Policy Office,13-Dec-11,1000694,M J FERGUSON LTD,"3,897.39",222137-CIS Labour Build Maintenance Works,Monthly maintenance charge for London office
+Wales Office,Wales Policy Office,21-Dec-11,1000721,CARDIFF COUNTY COUNCIL,"4,087.00",222111-Rates,Rates for Cardiff office
+Wales Office,Wales Policy Office,21-Dec-11,1000722,WESTMINSTER CITY COUNCIL,"8,023.00",222111-Rates,Rates for London office

@@ -1,0 +1,21 @@
+ENTITY,EXPENSE_AREA_1,PAYMENT DATE,PAYMENT NUMBER,SUPPLIER NAME,INVOICE AMOUNT,NAC DESCRIPTION,SERVICE SUPPLIED
+Wales Office,Wales Office,11/Apr/2012 ,1001046,LANCASTER CLEANING AND SUPPORT SERVICES,"2,567.84",222152-Cleaning (excl Waste Collctn),Cleaning services for London office
+Wales Office,Wales Office,05/Apr/2012 ,1022,GOVERNMENT CAR & DESPATCH AGENCY,"8,076.41",221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,Wales Office,13/Apr/2012 ,1001056,PRECISE MEDIA MONITORING LTD,"1,252.50",223563-Press Cuttings Service,Press cuttings
+Wales Office,Wales Office,23/Apr/2012 ,1026,GOVERNMENT CAR & DESPATCH AGENCY,964.80,223517-IDS,Government internal mail service
+Wales Office,Wales Office,27/Apr/2012 ,1001097,WYG MANAGEMENT SERVICES LTD,"2,352.17",222181-Managing Agents Fees,Managing agent fees
+Wales Office,Wales Office,16/Apr/2012 ,1001059,CITEC ELECTRIC LTD,"1,481.59",222155-Other Service Contracts - Accommodation,TV system repair and maintenance
+Wales Office,Wales Office,03/Apr/2012 ,1001023,GOVERNMENT CAR & DESPATCH AGENCY,711.00,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,Wales Office,02/Apr/2012 ,1001018,GVA ,"19,965.76",222181-Managing Agents Fees,Managing agents fees Cardiff office
+Wales Office,Wales Office,18/Apr/2012 ,1001065,CYMEN CYFYNGEDIG,"2,125.20",223514-Translation Services,Translation Services
+Wales Office,Wales Office,04/Apr/2012 ,1001029,CIVIC MAINTENANCE SERVICES LTD,714.58,222152-Cleaning (excl Waste Collctn),Cleaning services for Cardiff office
+Wales Office,Wales Office,12/Apr/2012 ,1001053,M J FERGUSON LTD,"3,656.40",222155-Other Service Contracts - Accommodation,Accommodation costs Cardiff office
+Wales Office,Wales Office,17/Apr/2012 ,1001063,M J FERGUSON LTD,"29,607.35",222132-Building Maintenance Works,Reactive maintenance costs
+Wales Office,Wales Office,12/Apr/2012 ,1001052,M J FERGUSON LTD,"3,693.25",222137-CIS Labour Build Maintenance Works,Monthly maintenance charge for London office
+Wales Office,Wales Office,03/Apr/2012 ,10027,GELDARDS,"60,000.00",221112-Property Rents - Passing Rent,Cardiff office lease costs
+Wales Office,Wales Office,03/Apr/2012 ,10028,GELDARDS,"47,932.94",221112-Property Rents - Passing Rent,Cardiff office lease costs
+Wales Office,Wales Office,03/Apr/2012 ,10026,GELDARDS,"60,000.00",221112-Property Rents - Passing Rent,Cardiff office lease costs
+Wales Office,Wales Office,23/Apr/2012 ,1001070,CARDIFF COUNTY COUNCIL,"4,317.00",222111-Rates,Rates for Cardiff office (May)
+Wales Office,Wales Office,11/Apr/2012 ,1001041,CARDIFF COUNTY COUNCIL,"4,313.00",222111-Rates,Rates for Cardiff office (April)
+Wales Office,Wales Office,23/Apr/2012 ,1001071,WESTMINSTER CITY COUNCIL,"9,560.00",222111-Rates,Rates for London office ( May)
+Wales Office,Wales Office,11/Apr/2012 ,1001047,WESTMINSTER CITY COUNCIL,"9,560.00",222111-Rates,Rates for London office (April)

@@ -1,0 +1,20 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Description
+Department for Education,CAFCASS,02/12/2013,Building Fit Out and Enhancements,HQ,CPF Installation Ltd,PINV/00359959,"61,485.01",Manchester fitout and contract works
+Department for Education,CAFCASS,02/12/2013,Licence Fees,HQ,Advanced Business Solutions,PINVP/00001017,"72,177.16",security on supplier address
+Department for Education,CAFCASS,06/12/2013,Rates,HQ,DTZ,PINVP/00001027,"4,851.30",STAFFORD RENT/SER CHG/RATE 1/01-31/03/14
+Department for Education,CAFCASS,06/12/2013,Rent,HQ,Cushman & Wakefield Healey & Baker,PINVP/00001036,"24,300.00",NOTTINGHAM RENT/SERV 25/12/13-24/3/14
+Department for Education,CAFCASS,06/12/2013,Rent,HQ,DTZ,PINVP/00001027,"11,875.00",STAFFORD RENT/SER CHG/RATE 1/01-31/03/14
+Department for Education,CAFCASS,06/12/2013,Service Charge,HQ,Cushman & Wakefield Healey & Baker,PINVP/00001036,"2,183.40",NOTTINGHAM RENT/SERV 25/12/13-24/3/14
+Department for Education,CAFCASS,06/12/2013,Service Charge,HQ,DTZ,PINVP/00001027,"8,347.50",STAFFORD RENT/SER CHG/RATE 1/01-31/03/14
+Department for Education,CAFCASS,06/12/2013,Telephony Managed Service,HQ,Indigo Telecom Group Ltd,PINVP/00001024,"113,328.00",Minimum charge for service - fixed
+Department for Education,CAFCASS,13/12/2013,Electricity,HQ,CBRE CA Lloyds Sublease,PCRN/00007356,"-25,000.00",CREDIT CANCEL PINV 359127 CHESTERFIELD
+Department for Education,CAFCASS,17/12/2013,Other Fees/Services,HQ,GVA Grimley LLP,PINV/00360880,"29,880.00","DL - 21B - GVA Fees - Stage A, B, C"
+Department for Education,CAFCASS,18/12/2013,Rates,HQ,Department For Work and Pensions,PINV/00360904,"9,562.18",LEEDS RATES DEC13/RENT/SERV CHG NOV 13
+Department for Education,CAFCASS,18/12/2013,Rent,HQ,Department For Work and Pensions,PINV/00360904,"43,933.87",LEEDS RATES DEC13/RENT/SERV CHG NOV 13
+Department for Education,CAFCASS,18/12/2013,Service Charge,HQ,Department For Work and Pensions,PINV/00360904,"1,851.06",LEEDS RATES DEC13/RENT/SERV CHG NOV 13
+Department for Education,CAFCASS,03/01/2014,Travel and Subs - UK (Non-Taxable),HQ,Redfern Travel Limited,CINV/00000280,"21,093.50",Redfern Dec 2013
+Department for Education,CAFCASS,03/01/2014,Travel and Subs - UK (Non-Taxable),Op Service Areas,Redfern Travel Limited,CINV/00000280,"30,662.47",Redfern Dec 2013
+Department for Education,CAFCASS,07/01/2014,Mobile Call Charges,HQ,Vodafone,CINV/00000281,640.12,Vodafone Dec 2013
+Department for Education,CAFCASS,07/01/2014,Mobile Call Charges,Op Service Areas,Vodafone,CINV/00000281,"7,551.24",Vodafone Dec 2013
+Department for Education,CAFCASS,07/01/2014,Mobile Phone Rental,HQ,Vodafone,CINV/00000281,"2,582.47",Vodafone Dec 2013
+Department for Education,CAFCASS,07/01/2014,Mobile Phone Rental,Op Service Areas,Vodafone,CINV/00000281,"27,095.08",Vodafone Dec 2013

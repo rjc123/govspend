@@ -1,0 +1,25 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Description
+Ministry of Justice,CAFCASS,02/09/2015,Agency Practitioners,HQ,Capita Resourcing Ltd,PINV/00379111,"4,978.56",Agency Staff W/C 09/08/15
+Ministry of Justice,CAFCASS,02/09/2015,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00379111,"22,786.61",Agency Staff W/C 09/08/15
+Ministry of Justice,CAFCASS,11/09/2015,Rent,HQ,University of Warwick Science Park,PINVP/00001561,"34,370.00",NBC RENT/SERV CHG OCT 15
+Ministry of Justice,CAFCASS,11/09/2015,Service Charge,HQ,University of Warwick Science Park,PINVP/00001561,"3,251.58",NBC RENT/SERV CHG OCT 15
+Ministry of Justice,CAFCASS,15/09/2015,Electricity,HQ,HM Revenue & Customs,PINVP/00001563,"1,160.50",BRIGH RATE15-16 REN/ELE/GAS/WAT AP-JUN15
+Ministry of Justice,CAFCASS,15/09/2015,Gas,HQ,HM Revenue & Customs,PINVP/00001563,527.78,BRIGH RATE15-16 REN/ELE/GAS/WAT AP-JUN15
+Ministry of Justice,CAFCASS,15/09/2015,Rates,HQ,HM Revenue & Customs,PINVP/00001563,"15,260.73",BRIGH RATE15-16 REN/ELE/GAS/WAT AP-JUN15
+Ministry of Justice,CAFCASS,15/09/2015,Rent,HQ,HM Revenue & Customs,PINVP/00001563,"12,372.50",BRIGH RATE15-16 REN/ELE/GAS/WAT AP-JUN15
+Ministry of Justice,CAFCASS,15/09/2015,Water Rates,HQ,HM Revenue & Customs,PINVP/00001563,88.98,BRIGH RATE15-16 REN/ELE/GAS/WAT AP-JUN15
+Ministry of Justice,CAFCASS,16/09/2015,Rent,HQ,GVA re London & Continental Railways,PINVP/00001564,"20,763.60",CROYDON RENT/SERV CHG 29/09-24/12/15
+Ministry of Justice,CAFCASS,16/09/2015,Service Charge,HQ,GVA re London & Continental Railways,PINVP/00001564,"10,832.40",CROYDON RENT/SERV CHG 29/09-24/12/15
+Ministry of Justice,CAFCASS,17/09/2015,Rates,HQ,Department For Work and Pensions,PINV/00379455,"10,008.83",LEEDS RATES SEPT 15 RENT AUG 15
+Ministry of Justice,CAFCASS,17/09/2015,Rent,HQ,Department For Work and Pensions,PINV/00379455,"45,245.96",LEEDS RATES SEPT 15 RENT AUG 15
+Ministry of Justice,CAFCASS,18/09/2015,Mobile Call Charges,HQ,Vodafone,CINV/00000505,217.39,Vodafone Aug 2015
+Ministry of Justice,CAFCASS,18/09/2015,Mobile Call Charges,Op Service Areas,Vodafone,CINV/00000505,"2,579.32",Vodafone Aug 2015
+Ministry of Justice,CAFCASS,18/09/2015,Mobile Phone Rental,HQ,Vodafone,CINV/00000505,"2,405.89",Vodafone Aug 2015
+Ministry of Justice,CAFCASS,18/09/2015,Mobile Phone Rental,Op Service Areas,Vodafone,CINV/00000505,"26,276.35",Vodafone Aug 2015
+Ministry of Justice,CAFCASS,25/09/2015,Agency Practitioners,Op Service Areas,Caritas Recruitment Ltd,PCRN/00007992,"-102,106.31",Agency Staff
+Ministry of Justice,CAFCASS,28/09/2015,Agency Practitioners,HQ,Capita Resourcing Ltd,PINV/00379786,"8,704.51",Agency Staff W/C 23/08/15
+Ministry of Justice,CAFCASS,28/09/2015,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00379786,"25,345.43",Agency Staff W/C 23/08/15
+Ministry of Justice,CAFCASS,02/10/2015,Travel and Subs - UK (Non-Taxable),HQ,Redfern Travel Limited,CINV/00000509,"21,264.89",Redfern September 15
+Ministry of Justice,CAFCASS,02/10/2015,Travel and Subs - UK (Non-Taxable),Op Service Areas,Redfern Travel Limited,CINV/00000509,"44,142.48",Redfern September 15
+Ministry of Justice,CAFCASS,02/10/2015,Travel and Subs - UK (Non-Taxable) hotel,HQ,Redfern Travel Limited,CINV/00000509,"6,522.56",Redfern September 15
+Ministry of Justice,CAFCASS,02/10/2015,Travel and Subs - UK (Non-Taxable) hotel,Op Service Areas,Redfern Travel Limited,CINV/00000509,"11,059.25",Redfern September 15

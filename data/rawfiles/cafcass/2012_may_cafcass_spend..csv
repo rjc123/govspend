@@ -1,0 +1,31 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Description
+Department for Education,CAFCASS,15/05/2012,Mobile Call Charges,HQ,Vodafone,CINV00000106,"1,014.29 ",Vodafone Feb 2012
+Department for Education,CAFCASS,15/05/2012,Mobile Phone Rental,HQ,Vodafone,CINV00000106,"1,846.75 ",Vodafone Feb 2012
+Department for Education,CAFCASS,15/05/2012,Mobile Phone Rental,Op Service Areas,Vodafone,CINV00000106,"12,539.75 ",Vodafone Feb 2012
+Department for Education,CAFCASS,15/05/2012,Mobile Call Charges,Op Service Areas,Vodafone,CINV00000106,"20,443.05 ",Vodafone Feb 2012
+Department for Education,CAFCASS,17/05/2012,Mobile Call Charges,HQ,Vodafone,CINV00000107,724.29 ,Vodafone Jan 2012
+Department for Education,CAFCASS,17/05/2012,Mobile Phone Rental,HQ,Vodafone,CINV00000107,"1,600.52 ",Vodafone Jan 2012
+Department for Education,CAFCASS,17/05/2012,Mobile Phone Rental,Op Service Areas,Vodafone,CINV00000107,"11,588.13 ",Vodafone Jan 2012
+Department for Education,CAFCASS,17/05/2012,Mobile Call Charges,Op Service Areas,Vodafone,CINV00000107,"15,449.55 ",Vodafone Jan 2012
+Department for Education,CAFCASS,18/05/2012,Mobile Call Charges,HQ,Vodafone,CINV00000108,"1,206.63 ",Vodafone Mar 2012
+Department for Education,CAFCASS,18/05/2012,Mobile Phone Rental,HQ,Vodafone,CINV00000108,"1,855.01 ",Vodafone Mar 2012
+Department for Education,CAFCASS,18/05/2012,Mobile Phone Rental,Op Service Areas,Vodafone,CINV00000108,"13,126.82 ",Vodafone Mar 2012
+Department for Education,CAFCASS,18/05/2012,Mobile Call Charges,Op Service Areas,Vodafone,CINV00000108,"19,989.74 ",Vodafone Mar 2012
+Department for Education,CAFCASS,21/05/2012,Mobile Call Charges,HQ,Vodafone,CINV00000109,"1,244.70 ",Vodafone Apr 2012
+Department for Education,CAFCASS,21/05/2012,Mobile Phone Rental,HQ,Vodafone,CINV00000109,"2,120.93 ",Vodafone Apr 2012
+Department for Education,CAFCASS,21/05/2012,Mobile Phone Rental,Op Service Areas,Vodafone,CINV00000109,"14,672.40 ",Vodafone Apr 2012
+Department for Education,CAFCASS,21/05/2012,Mobile Call Charges,Op Service Areas,Vodafone,CINV00000109,"21,797.23 ",Vodafone Apr 2012
+Department for Education,CAFCASS,06/06/2012,Travel and Subs - UK (Non-Taxable),HQ,Redfern Travel Limited,CINV00000119,"15,261.74 ",Redfern May 12
+Department for Education,CAFCASS,06/06/2012,Travel and Subs - UK (Non-Taxable),Op Service Areas,Redfern Travel Limited,CINV00000119,"18,183.43 ",Redfern May 12
+Department for Education,CAFCASS,01/05/2012,Partnerships - Commissioned Contact Serv,HQ,Core Childrens Services Ltd,PINV00328496,"26,091.75 ",Contract - Service area A2/N2
+Department for Education,CAFCASS,11/05/2012,Research,HQ,University of Exeter,PINV00329231,"66,000.00 ",University of Exeter Research costs for
+Department for Education,CAFCASS,16/05/2012,Archiving,HQ,TNT UK Limited,PINV00329420,"26,263.12 ",April 11 Archiving cost
+Department for Education,CAFCASS,21/05/2012,Partnerships - Commissioned Contact Serv,HQ,Families Forward,PINV00329703,"40,097.00 ",Commissioning and Partnership Contract 01/04/12-30/09/12
+Department for Education,CAFCASS,22/05/2012,Building Fit Out and Enhancements,HQ,DP Designs,PINV00329721,"38,306.84 ",DL - Canterbury - Fit out - Valuation 3
+Department for Education,CAFCASS,24/05/2012,Telephony Managed Service,HQ,DSGi Business,PINV00329917,"49,440.00 ",TMS April 2012
+Department for Education,CAFCASS,17/05/2012,Rent,HQ,Department for Education,PINVP00000526,"35,077.25 ",RUNCORN RENT 01/04-30/06/12
+Department for Education,CAFCASS,17/05/2012,Rent,HQ,Department for Education,PINVP00000527,"137,599.50 ",SANCTUARY BLG RENT 01/04-30/06/12
+Department for Education,CAFCASS,21/05/2012,Service Charge,HQ,Zurich Assurance Ltd,PINVP00000528,"10,936.74 ",SLOUGH RENT/SERV CHG 24/6-28/9/12
+Department for Education,CAFCASS,21/05/2012,Rent,HQ,Zurich Assurance Ltd,PINVP00000528,"23,387.40 ",SLOUGH RENT/SERV CHG 24/6-28/9/12
+Department for Education,CAFCASS,24/05/2012,Service Charge,HQ,Irwin Mitchell,PINVP00000533,"13,366.58 ",BIRMINGHAM RENT/SERV CHG JULY-AUG 12
+Department for Education,CAFCASS,24/05/2012,Rent,HQ,Irwin Mitchell,PINVP00000533,"23,877.00 ",BIRMINGHAM RENT/SERV CHG JULY-AUG 12

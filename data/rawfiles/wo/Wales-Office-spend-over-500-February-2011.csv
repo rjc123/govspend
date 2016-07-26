@@ -1,0 +1,18 @@
+ENTITY,EXPENSE_AREA,PAYMENT_DATE,PAYMENT_NUMBER,SUPPLIER_NAME,INVOICE_AMOUNT,NAC_DESCRIPTION,SERVICE SUPPLIED
+Wales Office,WZ900-Wales,4-Feb-11,1001280,GOVERNMENT CAR & DESPATCH AGENCY,826.17,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,WZ900-Wales,9-Feb-11,1001295,GOVERNMENT CAR & DESPATCH AGENCY,841.18,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,WZ900-Wales,21-Feb-11,1001322,GOVERNMENT CAR & DESPATCH AGENCY,1006.7,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,WZ900-Wales,25-Feb-11,1001333,GOVERNMENT CAR & DESPATCH AGENCY,7050.26,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,WZ900-Wales,23-Feb-11,1001330,BRITISH GAS BUSINESS,2839.61,222142-Utility - Electricity,Electricity supplied to London office
+Wales Office,WZ900-Wales,7-Feb-11,1001286,CARLISLE SECURITY SERVICES LTD,10565.46,222151-Security,24 hour Security for London office
+Wales Office,WZ900-Wales,8-Feb-11,1001293,LANCASTER OFFICE CLEANING CO LTD,2545.19,222152-Cleaning (excl Waste Collctn),Cleaning services for London office
+Wales Office,WZ900-Wales,14-Feb-11,1001306,CIVIC MAINTENANCE SERVICES LTD,870.58,222152-Cleaning (excl Waste Collctn),Cleaning services for Cardiff office
+Wales Office,WZ900-Wales,7-Feb-11,1001288,PHS GROUP PLC,1860.5,"222156-Wast Coll'n/Disposal, Confid'ial",Waste collection at Cardiff office
+Wales Office,WZ900-Wales,4-Feb-11,1001278,ARTS COUNCIL OF WALES,1890,223512-Stationery & Office Supplies,Provision and installation of artwork 
+Wales Office,WZ900-Wales,14-Feb-11,1001309,STRATAMATRIX LTD,705,223513-Design/Print/Reprographic Services,Media monitoring
+Wales Office,WZ900-Wales,15-Feb-11,1001315,STRATAMATRIX LTD,998.75,223513-Design/Print/Reprographic Services,Media monitoring
+Wales Office,WZ900-Wales,21-Feb-11,1001322,GOVERNMENT CAR & DESPATCH AGENCY,964.8,223517-IDS,Government internal mail service
+Wales Office,WZ900-Wales,8-Feb-11,1001292,JONES YARRELL & CO LTD,514.22,223520-Publications- incl. Online,Newspapers for London office
+Wales Office,WZ900-Wales,2-Feb-11,1001268,EDUSERV TECHNOLOGIES LTD,693.6,223536-IT Services incl Web Hosting,Web hosting for Wales Office websites
+Wales Office,WZ900-Wales,14-Feb-11,1001305,BUYING SOLUTIONS,13695.97,223541-Telecomms - Charges/Rental-non mobile,Central government contract for phone charges for land lines
+Wales Office,WZ900-Wales,7-Feb-11,1001287,PRESSDATA CYMRU,960,223513-Design/Print/Reprographic Services,Media monitoring

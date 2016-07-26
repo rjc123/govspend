@@ -1,0 +1,77 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,VAT registration number
+Dept of Health,MHRA,06/03/2014,Cost of Seminars,Communications,GLASGOWS,600086295,"£26,425.90",448190633
+Dept of Health,MHRA,06/03/2014,Third Party IT Contracts,Information Management,ACCENTURE,600086314,"£68,470.00",788629066
+Dept of Health,MHRA,10/03/2014,EU pre-financing project payment,Vigilance and Risk Management of Medicines,AGENCY FOR MEDICINAL PRODUCTS & MEDICAL DEVICES OF CROATIA,600086458,"£31,056.52",
+Dept of Health,MHRA,12/03/2014,EU pre-financing project payment,Vigilance and Risk Management of Medicines,AGENTSCHAP CBG-MEB,600086530,"£26,334.30",
+Dept of Health,MHRA,12/03/2014,UK Miscellaneous T&S,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600086440,£19.12,413640679
+Dept of Health,MHRA,12/03/2014,UK Air,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600086440,-£13.97,413640679
+Dept of Health,MHRA,12/03/2014,UK Hotel/Accommodation,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600086440,£5.53,413640679
+Dept of Health,MHRA,12/03/2014,UK Rail/Tube/Tram,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600086440,£43.11,413640679
+Dept of Health,MHRA,12/03/2014,Overseas Air,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600086440,"£2,206.42",413640679
+Dept of Health,MHRA,12/03/2014,Overseas Hotel/Accommodation,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600086440,£45.95,413640679
+Dept of Health,MHRA,12/03/2014,Overseas Private Vehicle Hire,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600086440,£146.95,413640679
+Dept of Health,MHRA,12/03/2014,UK Hotel/Accommodation,Communications,HOGG ROBINSON LTD,600086440,£88.53,413640679
+Dept of Health,MHRA,12/03/2014,UK Rail/Tube/Tram,Communications,HOGG ROBINSON LTD,600086440,£262.30,413640679
+Dept of Health,MHRA,12/03/2014,UK Miscellaneous T&S,Information Management,HOGG ROBINSON LTD,600086440,£9.56,413640679
+Dept of Health,MHRA,12/03/2014,UK Hotel/Accommodation,Information Management,HOGG ROBINSON LTD,600086440,£3.02,413640679
+Dept of Health,MHRA,12/03/2014,UK Rail/Tube/Tram,Information Management,HOGG ROBINSON LTD,600086440,£332.83,413640679
+Dept of Health,MHRA,12/03/2014,Overseas Air,Information Management,HOGG ROBINSON LTD,600086440,£204.22,413640679
+Dept of Health,MHRA,12/03/2014,Overseas Hotel/Accommodation,Information Management,HOGG ROBINSON LTD,600086440,£3.02,413640679
+Dept of Health,MHRA,12/03/2014,Overseas Rail/Tram,Information Management,HOGG ROBINSON LTD,600086440,£21.19,413640679
+Dept of Health,MHRA,12/03/2014,UK Miscellaneous T&S,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600086440,£29.57,413640679
+Dept of Health,MHRA,12/03/2014,UK Air,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600086440,"£2,466.33",413640679
+Dept of Health,MHRA,12/03/2014,UK Hotel/Accommodation,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600086440,"£21,000.97",413640679
+Dept of Health,MHRA,12/03/2014,UK Parking,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600086440,£12.66,413640679
+Dept of Health,MHRA,12/03/2014,UK Private Vehicle Hire,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600086440,£78.58,413640679
+Dept of Health,MHRA,12/03/2014,UK Rail/Tube/Tram,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600086440,"£11,806.81",413640679
+Dept of Health,MHRA,12/03/2014,Overseas Air,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600086440,"£50,746.88",413640679
+Dept of Health,MHRA,12/03/2014,Overseas Hotel/Accommodation,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600086440,£124.16,413640679
+Dept of Health,MHRA,12/03/2014,Overseas Private Vehicle Hire,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600086440,£729.95,413640679
+Dept of Health,MHRA,12/03/2014,Overseas Rail/Tram,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600086440,£250.50,413640679
+Dept of Health,MHRA,12/03/2014,UK Miscellaneous T&S,Licensing,HOGG ROBINSON LTD,600086440,£19.12,413640679
+Dept of Health,MHRA,12/03/2014,UK Air,Licensing,HOGG ROBINSON LTD,600086440,£28.16,413640679
+Dept of Health,MHRA,12/03/2014,UK Hotel/Accommodation,Licensing,HOGG ROBINSON LTD,600086440,£3.02,413640679
+Dept of Health,MHRA,12/03/2014,UK Rail/Tube/Tram,Licensing,HOGG ROBINSON LTD,600086440,£274.24,413640679
+Dept of Health,MHRA,12/03/2014,Overseas Air,Licensing,HOGG ROBINSON LTD,600086440,"£2,243.42",413640679
+Dept of Health,MHRA,12/03/2014,Overseas Hotel/Accommodation,Licensing,HOGG ROBINSON LTD,600086440,£13.08,413640679
+Dept of Health,MHRA,12/03/2014,Committee T&S,Licensing,HOGG ROBINSON LTD,600086440,£383.29,413640679
+Dept of Health,MHRA,12/03/2014,UK Miscellaneous T&S,Medical Devices,HOGG ROBINSON LTD,600086440,£66.92,413640679
+Dept of Health,MHRA,12/03/2014,UK Air,Medical Devices,HOGG ROBINSON LTD,600086440,£14.08,413640679
+Dept of Health,MHRA,12/03/2014,UK Hotel/Accommodation,Medical Devices,HOGG ROBINSON LTD,600086440,"£1,641.27",413640679
+Dept of Health,MHRA,12/03/2014,UK Rail/Tube/Tram,Medical Devices,HOGG ROBINSON LTD,600086440,"£1,906.29",413640679
+Dept of Health,MHRA,12/03/2014,Overseas Air,Medical Devices,HOGG ROBINSON LTD,600086440,-£479.94,413640679
+Dept of Health,MHRA,12/03/2014,Overseas Hotel/Accommodation,Medical Devices,HOGG ROBINSON LTD,600086440,£518.25,413640679
+Dept of Health,MHRA,12/03/2014,Overseas Rail/Tram,Medical Devices,HOGG ROBINSON LTD,600086440,£558.33,413640679
+Dept of Health,MHRA,12/03/2014,UK Rail/Tube/Tram,Finance & Procurement,HOGG ROBINSON LTD,600086440,£328.07,413640679
+Dept of Health,MHRA,12/03/2014,UK Rail/Tube/Tram,Facilities & Estates,HOGG ROBINSON LTD,600086440,£120.17,413640679
+Dept of Health,MHRA,12/03/2014,UK Air,Policy,HOGG ROBINSON LTD,600086440,£91.41,413640679
+Dept of Health,MHRA,12/03/2014,UK Hotel/Accommodation,Policy,HOGG ROBINSON LTD,600086440,£3.02,413640679
+Dept of Health,MHRA,12/03/2014,UK Rail/Tube/Tram,Policy,HOGG ROBINSON LTD,600086440,£30.69,413640679
+Dept of Health,MHRA,12/03/2014,Overseas Hotel/Accommodation,Policy,HOGG ROBINSON LTD,600086440,£203.21,413640679
+Dept of Health,MHRA,12/03/2014,Overseas Rail/Tram,Policy,HOGG ROBINSON LTD,600086440,£568.40,413640679
+Dept of Health,MHRA,12/03/2014,UK Air,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600086440,£424.97,413640679
+Dept of Health,MHRA,12/03/2014,Overseas Air,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600086440,"£3,693.50",413640679
+Dept of Health,MHRA,12/03/2014,Overseas Hotel/Accommodation,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600086440,£19.92,413640679
+Dept of Health,MHRA,14/03/2014,Rates,Facilities & Estates,WELWYN HATFIELD COUNCIL,600086639,"£39,042.00",
+Dept of Health,MHRA,14/03/2014,Professional Services,Finance & Procurement,PUBLIC HEALTH ENGLAND,600086644,"£183,000.00",888849628
+Dept of Health,MHRA,14/03/2014,IT Purchases,Information Management,ACCENTURE,600086628,"£89,681.63",788629066
+Dept of Health,MHRA,14/03/2014,Capital Expenditure,"Inspection, Enforcement & Standards",LGC (TEDDINGTON) LTD,600086610,"£35,586.00",674056721
+Dept of Health,MHRA,14/03/2014,EU pre-financing project payment,Vigilance and Risk Management of Medicines,AGENZIA ITALIANIA DEL FARMACO,600086499,"£30,903.36",
+Dept of Health,MHRA,18/03/2014,Capital Expenditure,Information Management,ACCENTURE,600086482,"£131,163.60",788629066
+Dept of Health,MHRA,18/03/2014,Computing Operation Costs,Information Management,ACCENTURE,600086483,"£220,446.98",788629066
+Dept of Health,MHRA,21/03/2014,Capital Expenditure,Clinical Practice Research Datalink,ACCENTURE,600086784,"£29,761.67",788629066
+Dept of Health,MHRA,25/03/2014,Third Party IT Contracts,Information Management,ACCENTURE,600086854,"£25,172.70",788629066
+Dept of Health,MHRA,25/03/2014,Capital Expenditure,"Inspection, Enforcement & Standards",LGC (TEDDINGTON) LTD,600086834,"£30,676.06",674056721
+Dept of Health,MHRA,25/03/2014,Capital Expenditure,"Inspection, Enforcement & Standards",LGC (TEDDINGTON) LTD,600086836,"£71,203.68",674056721
+Dept of Health,MHRA,25/03/2014,Capital Expenditure,"Inspection, Enforcement & Standards",LGC (TEDDINGTON) LTD,600086848,"£346,472.40",674056721
+Dept of Health,MHRA,25/03/2014,Capital Expenditure,"Inspection, Enforcement & Standards",LGC (TEDDINGTON) LTD,600086850,"£363,544.80",674056721
+Dept of Health,MHRA,26/03/2014,Premises Rental,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600086856,"£1,117,259.71",888825550
+Dept of Health,MHRA,26/03/2014,Rates,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600086856,"£641,213.35",888825550
+Dept of Health,MHRA,26/03/2014,Building Maintenance & Utilities,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600086856,"£139,780.82",888825550
+Dept of Health,MHRA,26/03/2014,Cleaning,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600086856,"£34,390.43",888825550
+Dept of Health,MHRA,26/03/2014,Security,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600086856,"£55,789.48",888825550
+Dept of Health,MHRA,26/03/2014,Facilities Management,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600086856,"£21,383.19",888825550
+Dept of Health,MHRA,26/03/2014,Computing Operation Costs,Information Management,ACCENTURE,600086858,"£539,820.00",788629066
+Dept of Health,MHRA,27/03/2014,Cost of Seminars,Communications,GLASGOWS,600086964,"£26,565.78",448190633
+Dept of Health,MHRA,27/03/2014,Computing Operation Costs,Information Management,ACCENTURE,600086493,"£29,256.00",788629066
+Dept of Health,MHRA,27/03/2014,Laboratory,"Inspection, Enforcement & Standards",LGC (TEDDINGTON) LTD,600086975,"£64,407.20",674056721

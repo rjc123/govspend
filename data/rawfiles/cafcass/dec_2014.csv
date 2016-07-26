@@ -1,0 +1,34 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Description
+Ministry of Justice,CAFCASS,09/12/2014,Mobile Call Charges,HQ,Vodafone,CINV/00000404,281.55,Vodafone November 14
+Ministry of Justice,CAFCASS,09/12/2014,Mobile Call Charges,Op Service Areas,Vodafone,CINV/00000404,"3,091.96",Vodafone November 14
+Ministry of Justice,CAFCASS,09/12/2014,Mobile Phone Rental,HQ,Vodafone,CINV/00000404,"2,462.00",Vodafone November 14
+Ministry of Justice,CAFCASS,09/12/2014,Mobile Phone Rental,Op Service Areas,Vodafone,CINV/00000404,"26,404.94",Vodafone November 14
+Ministry of Justice,CAFCASS,05/01/2015,Travel and Subs - UK (Non-Taxable),HQ,Redfern Travel Limited,CINV/00000409,"20,740.77",Redfern Dec 14
+Ministry of Justice,CAFCASS,05/01/2015,Travel and Subs - UK (Non-Taxable),Op Service Areas,Redfern Travel Limited,CINV/00000409,"26,345.32",Redfern Dec 14
+Ministry of Justice,CAFCASS,19/12/2014,Building Fit Out and Enhancements,HQ,Kier Services Ltd - Maintenance East,PCRN/00007784,"-104,187.31",DL - Chatham - Payment 1 - Credit
+Ministry of Justice,CAFCASS,01/12/2014,Other Fees/Services,Op Service Areas,Bold Moves Limited,PINV/00372995,"50,000.00",Group work programmes for service users
+Ministry of Justice,CAFCASS,11/12/2014,Agency Practice Managers,Op Service Areas,Capita Resourcing Ltd,PINV/00373002,"1,543.50",Temp Staff W/E 21/09/2014
+Ministry of Justice,CAFCASS,11/12/2014,Agency Practitioners,HQ,Capita Resourcing Ltd,PINV/00373002,"6,344.85",Temp Staff W/E 21/09/2014
+Ministry of Justice,CAFCASS,11/12/2014,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00373002,"26,468.23",Temp Staff W/E 21/09/2014
+Ministry of Justice,CAFCASS,01/12/2014,Agency Practice Managers,Op Service Areas,Capita Resourcing Ltd,PINV/00373005,"1,599.12",Temp Staff W/E 14/09/2014
+Ministry of Justice,CAFCASS,01/12/2014,Agency Practitioners,HQ,Capita Resourcing Ltd,PINV/00373005,"6,501.78",Temp Staff W/E 14/09/2014
+Ministry of Justice,CAFCASS,01/12/2014,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00373005,"18,154.44",Temp Staff W/E 14/09/2014
+Ministry of Justice,CAFCASS,05/12/2014,Agency Practice Managers,Op Service Areas,Capita Resourcing Ltd,PINV/00373050,"1,476.00",Temp Staff W/E 28/09/14
+Ministry of Justice,CAFCASS,05/12/2014,Agency Practitioners,HQ,Capita Resourcing Ltd,PINV/00373050,"6,187.67",Temp Staff W/E 28/09/14
+Ministry of Justice,CAFCASS,05/12/2014,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00373050,"20,332.97",Temp Staff W/E 28/09/14
+Ministry of Justice,CAFCASS,10/12/2014,Agency Practitioners,HQ,Capita Resourcing Ltd,PINV/00373148,"4,622.69",Temp Staff W/E 12/10/2014
+Ministry of Justice,CAFCASS,10/12/2014,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00373148,"25,096.04",Temp Staff W/E 12/10/2014
+Ministry of Justice,CAFCASS,08/12/2014,Rates,HQ,Department For Work and Pensions,PINV/00373170,"8,154.59",LEEDS RENT NOV 14 RATES DEC 14
+Ministry of Justice,CAFCASS,08/12/2014,Rent,HQ,Department For Work and Pensions,PINV/00373170,"44,636.54",LEEDS RENT NOV 14 RATES DEC 14
+Ministry of Justice,CAFCASS,10/12/2014,Agency Practitioners,HQ,Sanctuary Personnel Ltd,PINV/00373210,"3,305.40",Temp Staff W/E 23/11/2014
+Ministry of Justice,CAFCASS,10/12/2014,Agency Practitioners,Op Service Areas,Sanctuary Personnel Ltd,PINV/00373210,"28,960.30",Temp Staff W/E 23/11/2014
+Ministry of Justice,CAFCASS,11/12/2014,Agency Practitioners,HQ,Capita Resourcing Ltd,PINV/00373219,"6,451.02",Temp Staff various weeks 2014
+Ministry of Justice,CAFCASS,11/12/2014,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00373219,"29,451.74",Temp Staff various weeks 2014
+Ministry of Justice,CAFCASS,10/12/2014,Agency Practice Managers,Op Service Areas,Capita Resourcing Ltd,PINV/00373231,"3,124.80",Temp Staff W/E 12/10/14 & W/E 19/10/14
+Ministry of Justice,CAFCASS,10/12/2014,Agency Practitioners,HQ,Capita Resourcing Ltd,PINV/00373231,"7,083.66",Temp Staff W/E 12/10/14 & W/E 19/10/14
+Ministry of Justice,CAFCASS,10/12/2014,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00373231,"24,448.50",Temp Staff W/E 12/10/14 & W/E 19/10/14
+Ministry of Justice,CAFCASS,19/12/2014,Building Fit Out and Enhancements,HQ,Kier Services Ltd - Maintenance East,PINV/00373505,"104,187.31",DL - Chatham - Payment 1 - Incorrect inv
+Ministry of Justice,CAFCASS,08/12/2014,Telephony Managed Service,HQ,Indigo Telecom Group Ltd,PINVP/00001347,"113,328.00",Minimum Charge for Service
+Ministry of Justice,CAFCASS,10/12/2014,Rent,HQ,Durham Masonic Hall Management Committee,PINVP/00001351,"28,000.00",DURHAM RENT 25/12/14-24/12/15
+Ministry of Justice,CAFCASS,19/12/2014,Rent,HQ,University of Warwick Science Park,PINVP/00001357,"29,225.00",NBC RENT/SERV CHG JAN 15
+Ministry of Justice,CAFCASS,19/12/2014,Service Charge,HQ,University of Warwick Science Park,PINVP/00001357,"3,098.40",NBC RENT/SERV CHG JAN 15

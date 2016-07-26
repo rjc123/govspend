@@ -1,0 +1,37 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Description
+Ministry of Justice,CAFCASS,04/11/2015,Internal Auditor Fees,HQ,The Ministry of Justice,PINV/00380557,"29,596.80",Q2 Internal Audit Fee
+Ministry of Justice,CAFCASS,11/11/2015,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00380769,"35,174.38",Agency Staff W/E 04/10/15
+Ministry of Justice,CAFCASS,11/11/2015,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00380770,"41,383.09",Agency Staff W/E 18/10/15
+Ministry of Justice,CAFCASS,12/11/2015,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00380787,"38,040.41",Agency Staff W/E 25/10/15
+Ministry of Justice,CAFCASS,16/11/2015,Mobile Call Charges,HQ,Vodafone,CINV/00000526,218.22,Vodafone Oct 2015
+Ministry of Justice,CAFCASS,16/11/2015,Mobile Call Charges,Op Service Areas,Vodafone,CINV/00000526,"2,780.91",Vodafone Oct 2015
+Ministry of Justice,CAFCASS,16/11/2015,Mobile Phone Rental,HQ,Vodafone,CINV/00000526,"2,184.61",Vodafone Oct 2015
+Ministry of Justice,CAFCASS,16/11/2015,Mobile Phone Rental,Op Service Areas,Vodafone,CINV/00000526,"23,364.51",Vodafone Oct 2015
+Ministry of Justice,CAFCASS,16/11/2015,Rent,HQ,AMAS t/a JLL agent for Pace Trustees Ltd,PINV/00380849,"23,877.00",B'ham 2nd FL Rent S/C 24/06/15-28/09/15
+Ministry of Justice,CAFCASS,16/11/2015,Rent,HQ,AMAS t/a JLL agent for Pace Trustees Ltd,PINVP/00001593,"23,877.00",B'ham 2nd FL Rent S/C 29/09/15-24/12/15
+Ministry of Justice,CAFCASS,16/11/2015,Rent,HQ,University of Warwick Science Park,PINVP/00001594,"34,370.00",NBC Rent S/C 01/12/15 - 31/12/15
+Ministry of Justice,CAFCASS,16/11/2015,Service Charge,HQ,AMAS t/a JLL agent for Pace Trustees Ltd,PINV/00380849,"16,782.29",B'ham 2nd FL Rent S/C 24/06/15-28/09/15
+Ministry of Justice,CAFCASS,16/11/2015,Service Charge,HQ,AMAS t/a JLL agent for Pace Trustees Ltd,PINVP/00001593,"16,782.29",B'ham 2nd FL Rent S/C 29/09/15-24/12/15
+Ministry of Justice,CAFCASS,16/11/2015,Service Charge,HQ,University of Warwick Science Park,PINVP/00001594,"3,251.58",NBC Rent S/C 01/12/15 - 31/12/15
+Ministry of Justice,CAFCASS,19/11/2015,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00380900,"28,491.65",Agency Staff W/E 01/11/15
+Ministry of Justice,CAFCASS,23/11/2015,Electricity,HQ,Department for Business Innovation Skill,PINV/00380972,"2,960.50",Chelmsford Rent Rate SC 1/04/15-30/06/15
+Ministry of Justice,CAFCASS,23/11/2015,Electricity,HQ,Department for Business Innovation Skill,PINV/00380973,"2,960.50",Chelmsford Rent Rate SC 1/07/15-30/09/15
+Ministry of Justice,CAFCASS,23/11/2015,Gas,HQ,Department for Business Innovation Skill,PINV/00380972,986.5,Chelmsford Rent Rate SC 1/04/15-30/06/15
+Ministry of Justice,CAFCASS,23/11/2015,Gas,HQ,Department for Business Innovation Skill,PINV/00380973,986.5,Chelmsford Rent Rate SC 1/07/15-30/09/15
+Ministry of Justice,CAFCASS,23/11/2015,Rates,HQ,Department for Business Innovation Skill,PINV/00380972,"11,198.00",Chelmsford Rent Rate SC 1/04/15-30/06/15
+Ministry of Justice,CAFCASS,23/11/2015,Rates,HQ,Department for Business Innovation Skill,PINV/00380973,"11,198.00",Chelmsford Rent Rate SC 1/07/15-30/09/15
+Ministry of Justice,CAFCASS,23/11/2015,Rent,HQ,Department for Business Innovation Skill,PINV/00380972,"20,454.00",Chelmsford Rent Rate SC 1/04/15-30/06/15
+Ministry of Justice,CAFCASS,23/11/2015,Rent,HQ,Department for Business Innovation Skill,PINV/00380973,"20,454.00",Chelmsford Rent Rate SC 1/07/15-30/09/15
+Ministry of Justice,CAFCASS,23/11/2015,Service Charge,HQ,Department for Business Innovation Skill,PINV/00380972,"3,308.00",Chelmsford Rent Rate SC 1/04/15-30/06/15
+Ministry of Justice,CAFCASS,23/11/2015,Service Charge,HQ,Department for Business Innovation Skill,PINV/00380973,"3,308.00",Chelmsford Rent Rate SC 1/07/15-30/09/15
+Ministry of Justice,CAFCASS,23/11/2015,Water Rates,HQ,Department for Business Innovation Skill,PINV/00380972,178,Chelmsford Rent Rate SC 1/04/15-30/06/15
+Ministry of Justice,CAFCASS,23/11/2015,Water Rates,HQ,Department for Business Innovation Skill,PINV/00380973,178,Chelmsford Rent Rate SC 1/07/15-30/09/15
+Ministry of Justice,CAFCASS,24/11/2015,Rent,HQ,Colliers Agent for Sports Council Trust,PINVP/00001603,"139,577.75",Bloomsbury Rent S/C 25/12/15-24/03/16
+Ministry of Justice,CAFCASS,24/11/2015,Service Charge,HQ,Colliers Agent for Sports Council Trust,PINVP/00001603,"49,458.00",Bloomsbury Rent S/C 25/12/15-24/03/16
+Ministry of Justice,CAFCASS,25/11/2015,Other Fees/Services,HQ,Oxfordshire Family Mediation,PINV/00381065,"38,432.45",DNA Lab Pilot - Oct 2015 - OFM
+Ministry of Justice,CAFCASS,26/11/2015,Rent,HQ,GVA re London & Continental Railways,PINVP/00001605,"20,763.60",Croydon Rent S/C 25/12/15-24/03/16
+Ministry of Justice,CAFCASS,26/11/2015,Service Charge,HQ,GVA re London & Continental Railways,PINVP/00001605,"10,832.40",Croydon Rent S/C 25/12/15-24/03/16
+Ministry of Justice,CAFCASS,02/12/2015,Travel and Subs - UK (Non-Taxable),HQ,Redfern Travel Limited,CINV/00000531,"25,636.89",Redfern November 15
+Ministry of Justice,CAFCASS,02/12/2015,Travel and Subs - UK (Non-Taxable),Op Service Areas,Redfern Travel Limited,CINV/00000531,"44,124.56",Redfern November 15
+Ministry of Justice,CAFCASS,02/12/2015,Travel and Subs - UK (Non-Taxable) hotel,HQ,Redfern Travel Limited,CINV/00000531,"7,038.99",Redfern November 15
+Ministry of Justice,CAFCASS,02/12/2015,Travel and Subs - UK (Non-Taxable) hotel,Op Service Areas,Redfern Travel Limited,CINV/00000531,"9,948.37",Redfern November 15

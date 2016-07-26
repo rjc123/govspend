@@ -1,0 +1,9 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Description
+Department for Education,CAFCASS,05/09/2012,Travel and Subs - UK (Non-Taxable),HQ,Redfern Travel Limited,CINV00000143,"21,424.13 ",Redfern August 12
+Department for Education,CAFCASS,05/09/2012,Travel and Subs - UK (Non-Taxable),Op Service Areas,Redfern Travel Limited,CINV00000143,"28,968.70 ",Redfern August 12
+Department for Education,CAFCASS,06/09/2012,Mobile Call Charges,HQ,Vodafone,CINV00000144,"1,609.44 ",Vodafone August 2012
+Department for Education,CAFCASS,06/09/2012,Mobile Phone Rental,HQ,Vodafone,CINV00000144,"2,122.32 ",Vodafone August 2012
+Department for Education,CAFCASS,06/09/2012,Mobile Call Charges,Op Service Areas,Vodafone,CINV00000144,"26,395.02 ",Vodafone August 2012
+Department for Education,CAFCASS,06/09/2012,Mobile Phone Rental,Op Service Areas,Vodafone,CINV00000144,"29,397.91 ",Vodafone August 2012
+Department for Education,CAFCASS,20/08/2012,Electricity,HQ,Sanderson Weatherall,PINVP00000602,"9,503.52 ",MANCHESTER SERV CHG/ELEC
+Department for Education,CAFCASS,20/08/2012,Service Charge,HQ,Sanderson Weatherall,PINVP00000602,"28,717.52 ",MANCHESTER SERV CHG/ELEC

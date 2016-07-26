@@ -1,0 +1,40 @@
+ENTITY,EXPENSE_AREA_1,PAYMENT DATE,PAYMENT NUMBER,SUPPLIER NAME,INVOICE AMOUNT,NAC DESCRIPTION,SERVICE SUPPLIED
+Wales Office,Wales Office,1-May-12,1001102,BUREAU VERITAS UK LTD,850,222001-Maintenance,Maintenance advice
+Wales Office,COMMISSION ON DEVOLUTION,29-May-12,1001183,ICM RESEARCH,11880,223000-Other Expenditure,Research commissioned by the Commission
+Wales Office,Wales Office,10-May-12,1001126,LANCASTER CLEANING AND SUPPORT SERVICES,2139.87,222002-Other Property Costs,Cleaning services for London office
+Wales Office,Wales Office,10-May-12,1001123,DTZ ,3770.8,222001-Maintenance,Managing agent fees for 2010-11
+Wales Office,Wales Office,10-May-12,1001123,DTZ ,7247,222001-Maintenance,Managing agent fees for 2010-11
+Wales Office,Wales Office,2-May-12,1029,GOVERNMENT CAR & DESPATCH AGENCY,4935.59,223000-Other Expenditure,Ministerial car hire charges
+Wales Office,Wales Office,15-May-12,1036,GOVERNMENT CAR & DESPATCH AGENCY,562.99,223000-Other Expenditure,Ministerial car hire charges
+Wales Office,Wales Office,29-May-12,1041,GOVERNMENT CAR & DESPATCH AGENCY,8866.7,223000-Other Expenditure,Ministerial car hire charges
+Wales Office,Wales Office,10-May-12,1001132,PRECISE MEDIA MONITORING LTD,3756.24,263000-Other Contracted Out Services,Press cuttings
+Wales Office,Wales Office,15-May-12,1001141,J DUNTON ASSOCIATES LTD,510,222001-Maintenance,Reactive maintenance costs
+Wales Office,COMMISSION ON DEVOLUTION,8-May-12,1001112,BROOK STREET (UK) LTD,999.44,212001-Agency staff,Agency staff costs
+Wales Office,COMMISSION ON DEVOLUTION,8-May-12,1001112,BROOK STREET (UK) LTD,604.5,212001-Agency staff,Agency staff costs
+Wales Office,COMMISSION ON DEVOLUTION,16-May-12,1001143,BROOK STREET (UK) LTD,556.14,212001-Agency staff,Agency staff costs
+Wales Office,Wales Office,3-May-12,1033,HM PRISON SERVICE,8400,223000-Other Expenditure,Audit services
+Wales Office,COMMISSION ON DEVOLUTION,29-May-12,1001187,UBIQUS,2735,226000-Court Costs,Transcription services for Commission events
+Wales Office,Wales Office,2-May-12,1031,HM PRISON SERVICE,4400,223000-Other Expenditure,Audit services
+Wales Office,COMMISSION ON DEVOLUTION,29-May-12,1001187,UBIQUS,848.05,226000-Court Costs,Transcription services for Commission events
+Wales Office,Wales Office,22-May-12,1001160,CYMEN CYFYNGEDIG,800,223000-Other Expenditure,Welsh Translation Services 
+Wales Office,COMMISSION ON DEVOLUTION,29-May-12,1001182,CYMEN CYFYNGEDIG,1017,223000-Other Expenditure,Welsh Translation services for the Commission on Devolution in Wales
+Wales Office,COMMISSION ON DEVOLUTION,2-May-12,1001106,MEDIACOM,1750,223000-Other Expenditure,Publicising Commission Public events
+Wales Office,COMMISSION ON DEVOLUTION,2-May-12,1001106,MEDIACOM,6285,223000-Other Expenditure,Publicising Commission Public events
+Wales Office,COMMISSION ON DEVOLUTION,28-May-12,1001180,MEDIACOM,1750,223000-Other Expenditure,Publicising Commission Public events
+Wales Office,COMMISSION ON DEVOLUTION,17-May-12,1001152,MEDIACOM,4079,223000-Other Expenditure,Publicising Commission Public events
+Wales Office,COMMISSION ON DEVOLUTION,14-May-12,1001139,MEDIACOM,7460,223000-Other Expenditure,Publicising Commission Public events
+Wales Office,COMMISSION ON DEVOLUTION,21-May-12,1001158,MEDIACOM,1452,223000-Other Expenditure,Publicising Commission Public events
+Wales Office,Wales Office,9-May-12,1001115,CIVIC MAINTENANCE SERVICES LTD,595.48,222002-Other Property Costs,Cleaning services for Cardiff office
+Wales Office,Wales Office,31-May-12,1001194,CIVIC MAINTENANCE SERVICES LTD,595.48,222002-Other Property Costs,Cleaning services for Cardiff office
+Wales Office,Wales Office,2-May-12,1032,MINISTRY OF JUSTICE,1616.4,223001-Printing Postage and Office expenditure,Printing charges
+Wales Office,COMMISSION ON DEVOLUTION,30-May-12,1001188,CALDER CONFERENCES LTD,1410,223000-Other Expenditure,Events Facilities for Commission Public Events
+Wales Office,Wales Office,2-May-12,1001105,M J FERGUSON LTD,2992.26,222001-Maintenance,Replacement of fire door 
+Wales Office,Wales Office,8-May-12,1001114,M J FERGUSON LTD,3077.71,222001-Maintenance,Planned Preventative Maintenance 
+Wales Office,Wales Office,18-May-12,1001155,M J FERGUSON LTD,3488.06,222001-Maintenance,Reactive maintenance costs
+Wales Office,Wales Office,10-May-12,1001127,M J FERGUSON LTD,1517.71,222001-Maintenance,Reactive maintenance costs
+Wales Office,Wales Office,29-May-12,1001184,M J FERGUSON LTD,6012,222001-Maintenance,5 Year periodic electrical testing in Gwydyr House
+Wales Office,Wales Office,25-May-12,1040,GOVERNMENT PROCUREMENT SERVICE,2711.17,261000-Fuel and Utilities,Heating Charges 
+Wales Office,Wales Office,30-May-12,1001189,CARDA BUSINESS TRAVEL,586.25,223000-Other Expenditure,Transport for Wales Office Ministers whilst in Cardiff.
+Wales Office,Wales Office,16-May-12,1001145,CARDA BUSINESS TRAVEL,502.5,223000-Other Expenditure,Transport for Wales Office Ministers whilst in Cardiff.
+Wales Office,Wales Office,23-May-12,1001163,CARDIFF COUNTY COUNCIL,4317,221000-Property Rent and Rates,Rates for Cardiff office
+Wales Office,Wales Office,23-May-12,1001164,WESTMINSTER CITY COUNCIL,9560,221000-Property Rent and Rates,Rates for London office

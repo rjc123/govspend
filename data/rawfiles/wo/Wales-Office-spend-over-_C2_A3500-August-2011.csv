@@ -1,0 +1,22 @@
+ENTITY,EXPENSE_AREA_1,PAYMENT DATE,PAYMENT NUMBER,SUPPLIER NAME,INVOICE AMOUNT,NAC DESCRIPTION,SERVICE SUPPLIED
+Wales Office,Wales Office,11/Aug/2011 ,1000342,VODAFONE CORPORATE LTD,513.66,265000-IT & Telecommunications,Mobile rental and charges (July)
+Wales Office,Wales Office,05/Aug/2011 ,1000320,GOVERNMENT CAR & DESPATCH AGENCY,861.06,223001-Printing Postage and Office expenditure,Ministerial car hire charges
+Wales Office,Wales Office,08/Aug/2011 ,1000321,CARLISLE SECURITY SERVICES LTD,"10,356.48",222002-Other Property Costs,24 hour Security for London office
+Wales Office,Wales Office,19/Aug/2011 ,1000358,GOVERNMENT CAR & DESPATCH AGENCY,964.80,223001-Printing Postage and Office expenditure,Government internal mail service
+Wales Office,Wales Office,10/Aug/2011 ,1000336,PRESS DATA CYMRU,960.00,223001-Printing Postage and Office expenditure,Daily press cuttings
+Wales Office,Wales Office,19/Aug/2011 ,1000357,CYMEN CYFYNGEDIG,528.00,223000-Other Expenditure,Translation Services
+Wales Office,Wales Office,10/Aug/2011 ,1000332,CENTRAL OFFICE OF INFORMATION (COI),"6,000.00",223000-Other Expenditure,Media Monitoring (6 months)
+Wales Office,Wales Office,19/Aug/2011 ,1000356,CIVIC MAINTENANCE SERVICES LTD,712.22,222002-Other Property Costs,Cleaning services for Cardiff office June
+Wales Office,Wales Office,19/Aug/2011 ,1000356,CIVIC MAINTENANCE SERVICES LTD,712.22,222002-Other Property Costs,Cleaning services for Cardiff office July
+Wales Office,Wales Office,23/Aug/2011 ,1000364,CIVIC MAINTENANCE SERVICES LTD,712.22,222002-Other Property Costs,Cleaning services for Cardiff office August
+Wales Office,Wales Office,02/Aug/2011 ,1000311,HMCTS,"1,865.30",265000-IT & Telecommunications,Mobile rental and charges paid by HMCTS for quarter 1 2011
+Wales Office,Wales Office,10/Aug/2011 ,1000334,MINISTRY OF JUSTICE,"111,629.70",265000-IT & Telecommunications,Annual charge for Wales Office IT equipment and services 2010-11
+Wales Office,Wales Office,01/Aug/2011 ,1000309,EDUSERV TECHNOLOGIES LTD,693.60,265000-IT & Telecommunications,Web hosting for Wales Office websites (July)
+Wales Office,Wales Office,31/Aug/2011 ,1000383,EDUSERV TECHNOLOGIES LTD,693.60,265000-IT & Telecommunications,Web hosting for Wales Office websites (August)
+Wales Office,Wales Office,03/Aug/2011 ,1000318,M J FERGUSON LTD,567.86,222001-Maintenance,Accomodation Costs
+Wales Office,Wales Office,03/Aug/2011 ,1000318,M J FERGUSON LTD,965.36,222001-Maintenance,Accomodation & Security Costs
+Wales Office,Wales Office,09/Aug/2011 ,1000327,M J FERGUSON LTD,"4,746.86",222001-Maintenance,Monthly maintenance charge for London office
+Wales Office,Wales Office,18/Aug/2011 ,1000354,M J FERGUSON LTD,"1,745.75",222001-Maintenance,Accomodation Costs
+Wales Office,Wales Office,24/Aug/2011 ,1000375,MINISTRY OF JUSTICE,"1,720.80",223001-Printing Postage and Office expenditure,Printing charges for quarter 1 2011-12
+Wales Office,Wales Office,23/Aug/2011 ,1000361,CARDIFF COUNTY COUNCIL,"4,087.00",221000-Property Rent and Rates,Rates for Cardiff office
+Wales Office,Wales Office,23/Aug/2011 ,1000362,WESTMINSTER CITY COUNCIL,"8,023.00",221000-Property Rent and Rates,Rates for London office

@@ -1,0 +1,47 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,Description,Supplier Post Code
+Departmen of Health,NHS Business Services Authority,01/09/2014,Postage Charges,Prescription Pricing Division,ROYAL MAIL,0080048906,"36,143.40",July postage CPI EHIC,S49 1HQ
+Departmen of Health,NHS Business Services Authority,01/09/2014,Postage Charges,Prescription Pricing Division,ROYAL MAIL,0080049054,"33,338.73",PPC postage July,S49 1HQ
+Departmen of Health,NHS Business Services Authority,01/09/2014,Service Charges General,Corporate Services,IBREND ESTATES BV,0080049514,"33,094.60",SC 29 Sep  24 Dec 14,HG1 1TS
+Departmen of Health,NHS Business Services Authority,01/09/2014,Service Charges General,Corporate Services,IBREND ESTATES BV,0080049516,"33,094.60",SC 29 Sep  24 Dec 14 5F,HG1 1TS
+Departmen of Health,NHS Business Services Authority,01/09/2014,Dental Contractors,Dental Services ,,,"175,374,436.00",Payments to Dental Contractors,
+Departmen of Health,NHS Business Services Authority,01/09/2014,Pharmacy Contractors,Prescription Pricing ,,,"727,371,691.08",Payments to Pharmacy Contractors,
+Departmen of Health,NHS Business Services Authority,02/09/2014,Printing Charges (External),Prescription Pricing Division,3M SECURITY PRINTING & SYSTEMS LTD,0080049390,"54,120.38",3M priting July,RG12 1FE
+Departmen of Health,NHS Business Services Authority,02/09/2014,IT,Corporate Services,CAPITA BUSINESS SERVICES LTD,0080049486,"299,056.25",CHARGES MAY  JUNE 14,DL1 9HN
+Departmen of Health,NHS Business Services Authority,02/09/2014,Postage Charges,Dental Services Division,CAPITA BUSINESS SERVICES LTD,0080049486,"-5,895.91",POSTAGE CROSS CHARGE MAY 14,DL1 9HN
+Departmen of Health,NHS Business Services Authority,04/09/2014,Rates Charges,Corporate Services,NEWCASTLE CITY COUNCIL,0050029223,"29,402.00",RATES SEPT14,NE99 2PT
+Departmen of Health,NHS Business Services Authority,04/09/2014,Rates Charges,Corporate Services,NEWCASTLE CITY COUNCIL,0050029224,"36,632.00",RATES SEPT14,NE99 2PT
+Departmen of Health,NHS Business Services Authority,05/09/2014,Envision Payroll,Pensions Division,PAYMASTER (1836) LTD,0080049379,"33,537.21",EQUINITI PAYMASTER,RH10 1UH
+Departmen of Health,NHS Business Services Authority,05/09/2014,Envision Payroll,Pensions Division,PAYMASTER (1836) LTD,0080049380,"33,583.65",EQUINITI PAYMASTER,RH10 1UH
+Departmen of Health,NHS Business Services Authority,05/09/2014,Pharmacy Contractors,Prescription Pricing ,,,"1,377,663.87",Payments to Pharmacy Contractors,
+Departmen of Health,NHS Business Services Authority,08/09/2014,Carbon Tax,Corporate Services,DEPARTMENT OF ENERGY & CLIMATE CHANGE,0080049658,"39,204.00",CRC Phase 1 allowance payment 13 14,SW1A 2AW
+Departmen of Health,NHS Business Services Authority,11/09/2014,Temporary Staff,Unclassified,REDFERN TRAVEL,0050029252,"60,072.54",TRAVEL AUGUST 14,BD1 3AZ
+Departmen of Health,NHS Business Services Authority,11/09/2014,Service Charges General,NHS Protect,ALLIANZ IMMOBILIEN GMBH (RENT),0080049806,"37,410.90",Rent,MK9 1LR
+Departmen of Health,NHS Business Services Authority,12/09/2014,Childcare Vouchers,Childcare Voucher,CHILDCARE VOUCHERS LTD,0050029280,"60,268.77",VOUCHERS NHSE,SW1V 2RS
+Departmen of Health,NHS Business Services Authority,12/09/2014,Printing Charges (External),Prescription Pricing Division,WILLIAMS LEA LTD,0080049885,"48,953.92",Drug Tariff Annual Printing Costs,EC1M 4NA
+Departmen of Health,NHS Business Services Authority,15/09/2014,Service Charges General,Corporate Services,EMERSON MANAGEMENT SERVICES,0080049761,"137,469.00",SC 29 Sep  24 Dec 14,SK9 7LF
+Departmen of Health,NHS Business Services Authority,15/09/2014,Statutory Payments,Statutory Payments,CABINET OFFICE CIVIL SERVICE PENSIONS,0080049887,"72,562.22",DEDUCTIONS AUG 14,RG24 9NW
+Departmen of Health,NHS Business Services Authority,15/09/2014,Statutory Payments,Corporate Services,HMRC,,"1,223,011.72",NI & TAX,
+Departmen of Health,NHS Business Services Authority,15/09/2014,Statutory Payments,Corporate Services,HMRC,,"865,811.80",PENSIONS,
+Departmen of Health,NHS Business Services Authority,16/09/2014,Minor Works,Corporate Services,INTEGRATED HEALTH PROJECTS,0080049946,"151,096.61",IHP MW CERT 35 TASK 3.08,HP2 7TR
+Departmen of Health,NHS Business Services Authority,16/09/2014,Pharmacy Contractors,Prescription Pricing ,,,"19,903.45",Payments to Pharmacy Contractors,
+Departmen of Health,NHS Business Services Authority,17/09/2014,Minor Works,Corporate Services,INTEGRATED HEALTH PROJECTS,0080049945,"127,814.79",Integrated Health Projects,HP2 7TR
+Departmen of Health,NHS Business Services Authority,17/09/2014,General Maintenance,NHS Protect,INTEGRATED HEALTH PROJECTS,0080049945,"4,846.39",PMI 022 MW 3.06 FRA surveys,HP2 7TR
+Departmen of Health,NHS Business Services Authority,18/09/2014,Service Desk,Corporate Services,CAPITA BUSINESS SERVICES LTD,0080048949,"305,699.40",MITI VARIABLE CHARGES JUNE 14,DL1 9HN
+Departmen of Health,NHS Business Services Authority,18/09/2014,Data Communication Lines,NHS Protect,CAPITA BUSINESS SERVICES LTD,0080048949,"-77,215.96",MITI VARIABLE CHARGES JUNE 14,DL1 9HN
+Departmen of Health,NHS Business Services Authority,18/09/2014,Software Licences,Prescription Pricing Division,CAPITA BUSINESS SERVICES LTD,0080048949,"10,584.80",MITI VARIABLE CHARGES JUNE 14,DL1 9HN
+Departmen of Health,NHS Business Services Authority,18/09/2014,Service Desk,Corporate Services,CAPITA BUSINESS SERVICES LTD,0080048956,"334,952.76",MITI FIXED CHARGED JUNE 14,DL1 9HN
+Departmen of Health,NHS Business Services Authority,18/09/2014,Software Licences,Prescription Pricing Division,CAPITA BUSINESS SERVICES LTD,0080048956,772.61,MITI FIXED CHARGED JUNE 14,DL1 9HN
+Departmen of Health,NHS Business Services Authority,18/09/2014,Postage Charges,Prescription Pricing Division,ROYAL MAIL,0080049399,"50,228.62",POSTAGE,S49 1HQ
+Departmen of Health,NHS Business Services Authority,18/09/2014,Rent,Pensions Division,EUROPEAN PENSIONS MANAGEMENT LTD,0080049857,"160,000.00",240614  280914 HESKETH HOUSE RENT,SP3 5WY
+Departmen of Health,NHS Business Services Authority,18/09/2014,Temporary Staff,Pensions Division,PAYMASTER (1836) LTD,0080049860,"61,550.00",Equiniti Paymaster 2015 Scheme Hutton IT,RH10 1UH
+Departmen of Health,NHS Business Services Authority,23/09/2014,Insurance,Corporate Services,NHS LITIGATION AUTHORITY,0050029384,"71,077.00",GROSS CONTRIBUTION,SW1W 9SZ
+Departmen of Health,NHS Business Services Authority,24/09/2014,Temporary Staff,Dental Services Division,CAPITA BUSINESS SERVICES LTD,0050029312,"52,878.50",DENTAL PILOTS JUNE 14,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/09/2014,Envision Retained Services,Pensions Division,PAYMASTER (1836) LTD,0050029334,"883,873.66",RETAINED SERVICES,RH10 1UH
+Departmen of Health,NHS Business Services Authority,24/09/2014,Postage Charges,Prescription Pricing Division,ROYAL MAIL,0080049615,"31,596.46",PP postage,S49 1HQ
+Departmen of Health,NHS Business Services Authority,24/09/2014,Postage Charges,Prescription Pricing Division,ROYAL MAIL,0080049875,"26,061.40",Postage,S49 1HQ
+Departmen of Health,NHS Business Services Authority,24/09/2014,Temporary Staff,Prescription Pricing Division,ADVANTAGE TECHNICAL RESOURCING LTD,0080050103,"37,691.78",Temporary Staff,RG21 4FF
+Departmen of Health,NHS Business Services Authority,24/09/2014,Temporary Staff,Pensions Division,SAPIENT LIMITED,0080050194,"27,675.38",Change Request - Project BSA Delivery,E1 6DX
+Departmen of Health,NHS Business Services Authority,24/09/2014,Temporary Staff,Prescription Pricing Division,SAPIENT LIMITED,0080050198,"53,509.69",Temporary Staff,E1 6DX
+Departmen of Health,NHS Business Services Authority,25/09/2014,IT,Corporate Services,CAPITA BUSINESS SERVICES LTD,0080050175,"488,576.87",PCN JUNEJULY 14 POSTAGE CONTACT CENTRE,DL1 9HN
+Departmen of Health,NHS Business Services Authority,25/09/2014,Postage Charges,Dental Services Division,CAPITA BUSINESS SERVICES LTD,0080050175,"-7,171.35",PCN JUNEJULY 14 POSTAGE CONTACT CENTRE,DL1 9HN
+Departmen of Health,NHS Business Services Authority,30/09/2014,Pharmacy Contractors,Prescription Pricing ,,,"7,583,265.70",Payments to Pharmacy Contractors,

@@ -1,0 +1,13 @@
+ENTITY,EXPENSE_AREA,PAYMENT_DATE,PAYMENT_NUMBER,SUPPLIER_NAME,INVOICE_AMOUNT,NAC_DESCRIPTION,SERVICE SUPPLIED
+Wales Office,Wales Office,24-Jan-11,1001250,GOVERNMENT CAR & DESPATCH AGENCY,985.73,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,Wales Office,31-Jan-11,1001262,GOVERNMENT CAR & DESPATCH AGENCY,7050.26,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,Wales Office,17-Jan-11,1001227,BRITISH GAS BUSINESS,750.84,222142-Utility - Electricity,Electricity supplied to London office
+Wales Office,Wales Office,24-Jan-11,1001249,BUYING SOLUTIONS,3256.92,222143-Utility - Gas,Centralised government heating charges for London office
+Wales Office,Wales Office,11-Jan-11,1001216,CARLISLE SECURITY SERVICES LTD,10579.68,222151-Security,24 hour Security for London office
+Wales Office,Wales Office,13-Jan-11,1001225,LANCASTER OFFICE CLEANING CO LTD,2545.19,222152-Cleaning (excl Waste Collctn),Cleaning services for London office
+Wales Office,Wales Office,19-Jan-11,1001237,CIVIC MAINTENANCE SERVICES LTD,870.58,222152-Cleaning (excl Waste Collctn),Cleaning services for Cardiff office
+Wales Office,Wales Office,31-Jan-11,1001262,GOVERNMENT CAR & DESPATCH AGENCY,964.8,223517-IDS,Government internal mail service
+Wales Office,Wales Office,10-Jan-11,1001214,MR M M PATEL - M & M NEWSAGENTS,515.9,223520-Publications- incl. Online,Newspapers for Cardiff office
+Wales Office,Wales Office,10-Jan-11,1001214,MR M M PATEL - M & M NEWSAGENTS,505.3,223520-Publications- incl. Online,Newspapers for Cardiff office
+Wales Office,Wales Office,10-Jan-11,1001211,JONES YARRELL & CO LTD,502.33,223520-Publications- incl. Online,Newspapers for London office
+Wales Office,Wales Office,10-Jan-11,1001214,MR M M PATEL - M & M NEWSAGENTS,502.6,223520-Publications- incl. Online,Newspapers for Cardiff office

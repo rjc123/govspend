@@ -1,0 +1,15 @@
+ENTITY,EXPENSE_AREA_1,PAYMENT DATE,PAYMENT NUMBER,SUPPLIER NAME,INVOICE AMOUNT,NAC DESCRIPTION,SERVICE SUPPLIED
+Wales Office,Wales Office,1-Sep-11,1000386,GOVERNMENT CAR & DESPATCH AGENCY,"5,875.22",221410-Official Cars - Hire Charges,Ministerial car hire charges (August)
+Wales Office,Wales Office,16-Sep-11,1000433,GOVERNMENT CAR & DESPATCH AGENCY,"5,875.22",221410-Official Cars - Hire Charges,Ministerial car hire charges (September)
+Wales Office,Wales Office,8-Sep-11,1000408,CARLISLE SECURITY SERVICES LTD,"8,613.00",222151-Security,24 hour Security for London office
+Wales Office,Wales Office,14-Sep-11,1000422,GOVERNMENT CAR & DESPATCH AGENCY,804,223517-IDS,Government internal mail service
+Wales Office,Wales Office,14-Sep-11,1000423,PRESS DATA CYMRU,800,223513-Design/Print/Reprographic Services,Daily press cuttings
+Wales Office,Wales Office,23-Sep-11,1000451,CENTRAL OFFICE OF INFORMATION (COI),"17,000.00",223512-Stationery & Office Supplies,Parliamentary TV feed into London office April - November 2011
+Wales Office,Wales Office,28-Sep-11,1000461,CUSTOM SECURITY SOLUTIONS LTD,"8,626.00",222154-Equipment Maintenance,Annual security maintenance invoice
+Wales Office,Wales Office,23-Sep-11,1000452,CIVIC MAINTENANCE SERVICES LTD,593.52,222152-Cleaning (excl Waste Collctn),Cleaning services for Cardiff office
+Wales Office,Wales Office,2-Sep-11,1000393,HMCTS,937.38,223545-Telecomms - Charges/Rental - mobile,Mobile rental and charges from HMCTS
+Wales Office,Wales Office,23-Sep-11,1000453,MINISTRY OF JUSTICE,"4,829.31",223310-Liberata - Accounting Services,Quarterly payment for accounting services with shared service provider
+Wales Office,Wales Office,13-Sep-11,1000417,M J FERGUSON LTD,"3,955.72",222137-CIS Labour Build Maintenance Works,Monthly maintenance charge for London office
+Wales Office,Wales Office,7-Sep-11,1000401,BUYING SOLUTIONS,"11,427.31",223541-Telecomms - Charges/Rental-non mobile,Central government contract for phone charges for land lines
+Wales Office,Wales Office,23-Sep-11,1000455,CARDIFF COUNTY COUNCIL,"4,087.00",222111-Rates,Rates for Cardiff office
+Wales Office,Wales Office,23-Sep-11,1000456,WESTMINSTER CITY COUNCIL,"8,023.00",222111-Rates,Rates for London office

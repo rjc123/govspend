@@ -1,0 +1,49 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,VAT registration number
+Dept of Health,MHRA,01/12/2014,Computing Operation Costs,Information Management,ACCENTURE,600091948,203930.50,788629066
+Dept of Health,MHRA,05/12/2014,Telecommunications,"Inspection, Enforcement & Standards",EXPERIAN LTD,600092346,25919.22,887133593
+Dept of Health,MHRA,09/12/2014,UK Miscellaneous T&S,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600092457,9.56,413640679
+Dept of Health,MHRA,09/12/2014,UK Hotel/Accommodation,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600092457,639.42,413640679
+Dept of Health,MHRA,09/12/2014,UK Rail/Tube/Tram,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600092457,157.09,413640679
+Dept of Health,MHRA,09/12/2014,Overseas Air,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600092457,3479.10,413640679
+Dept of Health,MHRA,09/12/2014,Overseas Hotel/Accommodation,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600092457,31.38,413640679
+Dept of Health,MHRA,09/12/2014,UK Rail/Tube/Tram,Communications,HOGG ROBINSON LTD,600092457,407.61,413640679
+Dept of Health,MHRA,09/12/2014,Overseas Air,Communications,HOGG ROBINSON LTD,600092457,122.03,413640679
+Dept of Health,MHRA,09/12/2014,UK Rail/Tube/Tram,Human Resources,HOGG ROBINSON LTD,600092457,67.95,413640679
+Dept of Health,MHRA,09/12/2014,UK Rail/Tube/Tram,Information Management,HOGG ROBINSON LTD,600092457,202.33,413640679
+Dept of Health,MHRA,09/12/2014,UK Miscellaneous T&S,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600092457,34.72,413640679
+Dept of Health,MHRA,09/12/2014,UK Air,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600092457,1347.34,413640679
+Dept of Health,MHRA,09/12/2014,UK Hotel/Accommodation,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600092457,11759.91,413640679
+Dept of Health,MHRA,09/12/2014,UK Parking,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600092457,8.44,413640679
+Dept of Health,MHRA,09/12/2014,UK Private Vehicle Hire,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600092457,96.78,413640679
+Dept of Health,MHRA,09/12/2014,UK Rail/Tube/Tram,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600092457,16026.59,413640679
+Dept of Health,MHRA,09/12/2014,Overseas Air,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600092457,58197.84,413640679
+Dept of Health,MHRA,09/12/2014,Overseas Hotel/Accommodation,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600092457,80.90,413640679
+Dept of Health,MHRA,09/12/2014,Overseas Private Vehicle Hire,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600092457,632.72,413640679
+Dept of Health,MHRA,09/12/2014,Overseas Rail/Tram,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600092457,588.51,413640679
+Dept of Health,MHRA,09/12/2014,UK Air,Licensing,HOGG ROBINSON LTD,600092457,130.46,413640679
+Dept of Health,MHRA,09/12/2014,UK Hotel/Accommodation,Licensing,HOGG ROBINSON LTD,600092457,381.69,413640679
+Dept of Health,MHRA,09/12/2014,UK Rail/Tube/Tram,Licensing,HOGG ROBINSON LTD,600092457,253.78,413640679
+Dept of Health,MHRA,09/12/2014,Overseas Air,Licensing,HOGG ROBINSON LTD,600092457,4794.37,413640679
+Dept of Health,MHRA,09/12/2014,Overseas Hotel/Accommodation,Licensing,HOGG ROBINSON LTD,600092457,19.32,413640679
+Dept of Health,MHRA,09/12/2014,Committee T&S,Licensing,HOGG ROBINSON LTD,600092457,210.91,413640679
+Dept of Health,MHRA,09/12/2014,UK Miscellaneous T&S,Medical Devices,HOGG ROBINSON LTD,600092457,19.12,413640679
+Dept of Health,MHRA,09/12/2014,UK Hotel/Accommodation,Medical Devices,HOGG ROBINSON LTD,600092457,1680.57,413640679
+Dept of Health,MHRA,09/12/2014,UK Rail/Tube/Tram,Medical Devices,HOGG ROBINSON LTD,600092457,2646.86,413640679
+Dept of Health,MHRA,09/12/2014,Overseas Air,Medical Devices,HOGG ROBINSON LTD,600092457,236.48,413640679
+Dept of Health,MHRA,09/12/2014,Overseas Hotel/Accommodation,Medical Devices,HOGG ROBINSON LTD,600092457,6.04,413640679
+Dept of Health,MHRA,09/12/2014,Overseas Rail/Tram,Medical Devices,HOGG ROBINSON LTD,600092457,360.16,413640679
+Dept of Health,MHRA,09/12/2014,UK Rail/Tube/Tram,Finance & Procurement,HOGG ROBINSON LTD,600092457,254.92,413640679
+Dept of Health,MHRA,09/12/2014,Overseas Rail/Tram,Policy,HOGG ROBINSON LTD,600092457,202.21,413640679
+Dept of Health,MHRA,09/12/2014,UK Hotel/Accommodation,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600092457,91.34,413640679
+Dept of Health,MHRA,09/12/2014,UK Rail/Tube/Tram,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600092457,16.52,413640679
+Dept of Health,MHRA,09/12/2014,Overseas Air,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600092457,276.40,413640679
+Dept of Health,MHRA,09/12/2014,Overseas Hotel/Accommodation,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600092457,6.64,413640679
+Dept of Health,MHRA,09/12/2014,Overseas Rail/Tram,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600092457,310.86,413640679
+Dept of Health,MHRA,10/12/2014,Computing Operation Costs,Information Management,ACCENTURE,600092467,257054.40,788629066
+Dept of Health,MHRA,10/12/2014,Computing Operation Costs,Information Management,ACCENTURE,600092469,280209.30,788629066
+Dept of Health,MHRA,10/12/2014,Computing Operation Costs,Information Management,ACCENTURE,600092470,203930.50,788629066
+Dept of Health,MHRA,10/12/2014,Computing Operation Costs,Information Management,ACCENTURE,600092471,30296.72,788629066
+Dept of Health,MHRA,11/12/2014,IT Purchases,Information Management,ACCENTURE,600092050,43562.62,788629066
+Dept of Health,MHRA,15/12/2014,Third Party IT Contracts,Information Management,REDROCK CONSULTING LTD,600092460,54737.28,862247715
+Dept of Health,MHRA,15/12/2014,EU pre-financing project payment,Vigilance and Risk Management of Medicines,EPIDEMICO INC,600092678,45611.19,
+Dept of Health,MHRA,17/12/2014,Third Party IT Contracts,Information Management,REDROCK CONSULTING LTD,600092459,53719.73,862247715

@@ -1,0 +1,64 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction number,Amount
+Department of Health,Care Quality Commission,4/9/2010,IT Infrastructure,Finance and Corporate Services Directorate,Cable & Wireless,EFT0005923,155423.23
+Department of Health,Care Quality Commission,4/9/2010,IT Telecommunications,Finance and Corporate Services Directorate,Cable & Wireless,EFT0005923,17938.08
+Department of Health,Care Quality Commission,4/9/2010,"Property, Plant and Equipment",Finance and Corporate Services Directorate,Cable & Wireless,EFT0005923,72687.79
+Department of Health,Care Quality Commission,4/9/2010,Agency,"Chair, Chief Executive and Commission",Carlisle Managed Solutions,EFT0005927,5907.07
+Department of Health,Care Quality Commission,4/9/2010,Intangible Assets,Commission Wide,Carlisle Managed Solutions,EFT0005927,72699.02
+Department of Health,Care Quality Commission,4/9/2010,Agency,Engagement Directorate,Carlisle Managed Solutions,EFT0005927,24727.18
+Department of Health,Care Quality Commission,4/9/2010,Agency,Finance and Corporate Services Directorate,Carlisle Managed Solutions,EFT0005927,42252.32
+Department of Health,Care Quality Commission,4/9/2010,Agency,Intelligence Directorate,Carlisle Managed Solutions,EFT0005927,8164.76
+Department of Health,Care Quality Commission,4/9/2010,Agency,Operations Directorate,Carlisle Managed Solutions,EFT0005927,51105.46
+Department of Health,Care Quality Commission,4/9/2010,Agency,Organisational Development and Human Resources Directorate,Carlisle Managed Solutions,EFT0005927,34379.06
+Department of Health,Care Quality Commission,4/9/2010,Agency,Registration,Carlisle Managed Solutions,EFT0005927,774.64
+Department of Health,Care Quality Commission,4/9/2010,Agency,Regulation and Strategy Directorate,Carlisle Managed Solutions,EFT0005927,3426.46
+Department of Health,Care Quality Commission,4/9/2010,Agency,Transitions,Carlisle Managed Solutions,EFT0005927,2398.56
+Department of Health,Care Quality Commission,4/9/2010,IT Managed Service,Finance and Corporate Services Directorate,CSC Computer Science Ltd,EFT0005931,420086.06
+Department of Health,Care Quality Commission,4/9/2010,IT Website,Finance and Corporate Services Directorate,CSC Computer Science Ltd,EFT0005931,76834.34
+Department of Health,Care Quality Commission,4/9/2010,"Property, Plant and Equipment",Finance and Corporate Services Directorate,CSC Computer Science Ltd,EFT0005931,75742.37
+Department of Health,Care Quality Commission,4/9/2010,IT Annual Licences and Support,Finance and Corporate Services Directorate,EMC Computer Systems (UK) Ltd,EFT0005937,60261.03
+Department of Health,Care Quality Commission,4/9/2010,Maintenance / FM,Finance and Corporate Services Directorate,Europa,EFT0005940,40943.96
+Department of Health,Care Quality Commission,4/9/2010,Service User Strategy,Engagement Directorate,NCIL,EFT0005966,56025.38
+Department of Health,Care Quality Commission,4/9/2010,Consultancy,Regulation and Strategy Directorate,OPM,EFT0005971,31325.5
+Department of Health,Care Quality Commission,4/9/2010,Consultancy,Regulation and Strategy Directorate,PA Consulting Services Ltd,EFT0005973,29281
+Department of Health,Care Quality Commission,4/9/2010,Transitions,Transitions,Post Office,EFT0005982,29375
+Department of Health,Care Quality Commission,4/9/2010,Maintenance / FM,Finance and Corporate Services Directorate,Rocare Building Services Ltd,EFT0005990,44254.57
+Department of Health,Care Quality Commission,4/9/2010,Intangible Assets,Finance and Corporate Services Directorate,Sapient,EFT0005996,33176.13
+Department of Health,Care Quality Commission,4/9/2010,IT Infrastructure,Finance and Corporate Services Directorate,Sap (UK) Ltd,EFT0005997,66891.13
+Department of Health,Care Quality Commission,4/12/2010,Rates,Commission Wide,Newcastle City Council,"156,105",19143
+Department of Health,Care Quality Commission,4/13/2010,Rates,Commission Wide,Leeds City Council,"156,115",8361
+Department of Health,Care Quality Commission,4/14/2010,Contracted Lawyers / Legal Fees,Finance and Corporate Services Directorate,Bevan Brittan LLP,EFT0006021,28536.63
+Department of Health,Care Quality Commission,4/14/2010,Audit,Finance and Corporate Services Directorate,KPMG LLP,EFT0006063,34985.63
+Department of Health,Care Quality Commission,4/14/2010,Rates,Commission Wide,Bristol City Council,"156,123",6570.32
+Department of Health,Care Quality Commission,4/15/2010,Rates,Commission Wide,Preston City Council,"156,131",4392
+Department of Health,Care Quality Commission,4/22/2010,Consultancy,Organisational Development and Human Resources Directorate,Beamans Management Consultants,EFT0006117,27166.74
+Department of Health,Care Quality Commission,4/22/2010,IT Telecommunications,Finance and Corporate Services Directorate,Cable & Wireless,EFT0006123,37401.66
+Department of Health,Care Quality Commission,4/22/2010,Intangible Assets,Commission Wide,Carlisle Managed Solutions,EFT0006124,50720.23
+Department of Health,Care Quality Commission,4/22/2010,Agency,Finance and Corporate Services Directorate,Carlisle Managed Solutions,EFT0006124,2775.55
+Department of Health,Care Quality Commission,4/22/2010,Agency,Operations Directorate,Carlisle Managed Solutions,EFT0006124,2465.62
+Department of Health,Care Quality Commission,4/22/2010,Agency,Organisational Development and Human Resources Directorate,Carlisle Managed Solutions,EFT0006124,95202.02
+Department of Health,Care Quality Commission,4/22/2010,Intangible Assets,Finance and Corporate Services Directorate,Computacenter UK Limited,EFT0006130,41203.6
+Department of Health,Care Quality Commission,4/22/2010,IT Annual Licences and Support,Finance and Corporate Services Directorate,CSC Computer Science Ltd,EFT0006134,69227.48
+Department of Health,Care Quality Commission,4/22/2010,Maintenance / FM,Finance and Corporate Services Directorate,Europa,EFT0006148,94695.17
+Department of Health,Care Quality Commission,4/22/2010,Hotels and Conferences,Commission Wide,Expotel,EFT0006150,281121.21
+Department of Health,Care Quality Commission,4/22/2010,Travel and Subsistence,Commission Wide,FCm Travel Solutions,EFT0006151,148763.28
+Department of Health,Care Quality Commission,4/22/2010,Consultancy,Regulation and Strategy Directorate,McKinsey & Company Inc,EFT0006173,128700
+Department of Health,Care Quality Commission,4/22/2010,Professional Fees,Engagement Directorate,National Centre for Social Research,EFT0006176,25818
+Department of Health,Care Quality Commission,4/22/2010,Publishing & Branding,Engagement Directorate,Nunwood Consulting Ltd,EFT0006179,152750
+Department of Health,Care Quality Commission,4/22/2010,Consultancy,Registration,PA Consulting Services Ltd,EFT0006182,85711.56
+Department of Health,Care Quality Commission,4/22/2010,Transitions,Transitions,Post Office,EFT0006186,29375
+Department of Health,Care Quality Commission,4/22/2010,Intangible Assets,Finance and Corporate Services Directorate,Sapient,EFT0006196,50049.13
+Department of Health,Care Quality Commission,4/27/2010,Stationery and Other General Office Expenses,Finance and Corporate Services Directorate,Bravo Solutions UK Ltd,EFT0006227,39327.15
+Department of Health,Care Quality Commission,4/27/2010,Training & Development,Finance and Corporate Services Directorate,Bravo Solutions UK Ltd,EFT0006227,2425.22
+Department of Health,Care Quality Commission,4/27/2010,Intangible Assets,Finance and Corporate Services Directorate,Computacenter UK Limited,EFT0006232,50045.62
+Department of Health,Care Quality Commission,4/27/2010,Hotels and Conferences,Commission Wide,Expotel,EFT0006243,220817.29
+Department of Health,Care Quality Commission,4/27/2010,Rates,Commission Wide,Islington Council,EFT0006251,29139.11
+Department of Health,Care Quality Commission,4/27/2010,Consultancy,Operations Directorate,Pricewaterhouse Cooper LLP,EFT0006265,72348.16
+Department of Health,Care Quality Commission,4/27/2010,Intangible Assets,Finance and Corporate Services Directorate,Sapient,EFT0006269,226490.06
+Department of Health,Care Quality Commission,4/27/2010,Professional Fees,Finance and Corporate Services Directorate,Sapient,EFT0006269,12431.5
+Department of Health,Care Quality Commission,4/27/2010,Intangible Assets,Finance and Corporate Services Directorate,TrustMarque Solutions Ltd,EFT0006275,28883.24
+Department of Health,Care Quality Commission,4/30/2010,IT Telecommunications,Finance and Corporate Services Directorate,Buying Solutions,EFT0006290,198434.91
+Department of Health,Care Quality Commission,4/30/2010,Intangible Assets,Commission Wide,Carlisle Managed Solutions,EFT0006293,160386.78
+Department of Health,Care Quality Commission,4/30/2010,Agency,Finance and Corporate Services Directorate,Carlisle Managed Solutions,EFT0006293,12409.96
+Department of Health,Care Quality Commission,4/30/2010,Agency,Operations Directorate,Carlisle Managed Solutions,EFT0006293,6053.37
+Department of Health,Care Quality Commission,4/30/2010,Agency,Organisational Development and Human Resources Directorate,Carlisle Managed Solutions,EFT0006293,259760.97
+Department of Health,Care Quality Commission,4/30/2010,IT Managed Service,Finance and Corporate Services Directorate,Computacenter UK Limited,EFT0006297,182388.15

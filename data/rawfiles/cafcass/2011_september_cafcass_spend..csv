@@ -1,0 +1,18 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Description
+Department for Education,CAFCASS,22/09/2011,Distribution & Postage,HQ,DX Network Services Ltd,CINV00000054,"3,240.00",DX Annual Renewal 01/08/11-31/07/12
+Department for Education,CAFCASS,22/09/2011,Distribution & Postage,Op Service Areas,DX Network Services Ltd,CINV00000054,"65,658.64",DX Annual Renewal 01/08/11-31/07/12
+Department for Education,CAFCASS,05/10/2011,Travel and Subs - UK (Non-Taxable),HQ,Redfern Travel Limited,CINV00000061,"15,672.69",Redfern Sep 11
+Department for Education,CAFCASS,05/10/2011,Travel and Subs - UK (Non-Taxable),Op Service Areas,Redfern Travel Limited,CINV00000061,"39,854.28",Redfern Sep 11
+Department for Education,CAFCASS,29/09/2011,Line Rental,HQ,Frontier Voice and Data Ltd,PINV00312434,"50,756.52",Line rental July 2011
+Department for Education,CAFCASS,29/09/2011,Computing Consulting (Capital),HQ,Gartner UK Ltd,PINV00312440,"31,176.00",Benchmarking Statement of Works
+Department for Education,CAFCASS,29/09/2011,Telephony Managed Service,HQ,DSGi Business,PINV00312441,"71,452.04",Telephony Managed Service October 2011
+Department for Education,CAFCASS,01/09/2011,Service Charge,HQ,Stockland Anglo Ventures (Croydon) Ltd,PINVP00000247,"9,955.78",CROYDON RENT/ S/C 29/09-24/12/11
+Department for Education,CAFCASS,01/09/2011,Rent,HQ,Stockland Anglo Ventures (Croydon) Ltd,PINVP00000247,"29,970.00",CROYDON RENT/ S/C 29/09-24/12/11
+Department for Education,CAFCASS,01/09/2011,Service Charge,HQ,Irwin Mitchell,PINVP00000249,"13,294.79",BIRMINGHAM RENT/ S/C OCT-DEC 11
+Department for Education,CAFCASS,01/09/2011,Rent,HQ,Irwin Mitchell,PINVP00000249,"23,877.00",BIRMINGHAM RENT/ S/C OCT-DEC 11
+Department for Education,CAFCASS,05/09/2011,Rent,HQ,GVA Grimleys Ltd (Managing Agents),PINVP00000253,"40,050.00",RENT LEEDS 29/09-24/12/11
+Department for Education,CAFCASS,08/09/2011,Service Charge,HQ,CBRE,PINVP00000269,"8,230.80",MANCHESTER RENT/SERV CHG 29/9-24/12/11
+Department for Education,CAFCASS,08/09/2011,Rent,HQ,CBRE,PINVP00000269,"19,200.00",MANCHESTER RENT/SERV CHG 29/9-24/12/11
+Department for Education,CAFCASS,08/09/2011,Service Charge,HQ,Hortons Estate Ltd,PINVP00000270,"5,700.00",COVENTRY RENT/SERV CHG 29/9-24/12/11
+Department for Education,CAFCASS,08/09/2011,Rent,HQ,Hortons Estate Ltd,PINVP00000270,"19,395.00",COVENTRY RENT/SERV CHG 29/9-24/12/11
+Department for Education,CAFCASS,21/09/2011,Rent,HQ,DfE - Misc Receipts,PINVP00000297,"107,925.00",SANCTUARY BLG RENT 1/10-31/12/11

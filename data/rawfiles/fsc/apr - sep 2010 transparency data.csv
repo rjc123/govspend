@@ -1,0 +1,1253 @@
+Dept Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number ,Amount
+CLG,FSC,01/04/2010,Scrap Vehicles,Ops-Fireground,Common Road Dismantlers,PIN079159,608.06
+CLG,FSC,01/04/2010,Scrap Vehicles,Ops-Fireground,Common Road Dismantlers,PIN079159,1730
+CLG,FSC,01/04/2010,Electricity,Facilities Costs,EDF Electricity (Was London Electricity Plc),PCR003877,-11852.24
+CLG,FSC,01/04/2010,Electricity,Facilities Costs,EDF Electricity (Was London Electricity Plc),PCR003877,-8803.32
+CLG,FSC,01/04/2010,Electricity,Facilities Costs,EDF Electricity (Was London Electricity Plc),PIN079455,8713.65
+CLG,FSC,01/04/2010,Electricity,Facilities Costs,EDF Electricity (Was London Electricity Plc),PIN079120,8803.32
+CLG,FSC,01/04/2010,Electricity,Facilities Costs,EDF Electricity (Was London Electricity Plc),PIN079120,11852.24
+CLG,FSC,01/04/2010,Electricity,Facilities Costs,EDF Electricity (Was London Electricity Plc),PIN079455,11852.24
+CLG,FSC,01/04/2010,Catering - Other,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN079114,6595.16
+CLG,FSC,01/04/2010,Catering - Hospitality,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN079114,37629.19
+CLG,FSC,01/04/2010,Catering - Meals,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN079114,70662.76
+CLG,FSC,01/04/2010,Travel - Course Delivery,Incident Management,Expotel Hotel Reservations Ltd,PIN079182,-319.16
+CLG,FSC,01/04/2010,Travel - Course Delivery,Incident Management,Expotel Hotel Reservations Ltd,PIN079182,1.2
+CLG,FSC,01/04/2010,"VL,AL,VF Hotels & Meals",CSSC - FRS FS Trng,Expotel Hotel Reservations Ltd,PIN079183,16.23
+CLG,FSC,01/04/2010,"VL,AL,VF Hotels & Meals",CSSC - FRS FS Trng,Expotel Hotel Reservations Ltd,PIN079183,92.5
+CLG,FSC,01/04/2010,"VL,AL,VF Hotels & Meals",CSSC - FRS FS Trng,Expotel Hotel Reservations Ltd,PIN079183,92.5
+CLG,FSC,01/04/2010,"VL,AL,VF Hotels & Meals",CSSC - FRS FS Trng,Expotel Hotel Reservations Ltd,PIN079183,370
+CLG,FSC,01/04/2010,Travel - Course Delivery,Special Ops,Expotel Hotel Reservations Ltd,PIN079182,2960
+CLG,FSC,01/04/2010,Travel - Course Delivery,Incident Management,Expotel Hotel Reservations Ltd,PIN079182,6200
+CLG,FSC,01/04/2010,Travel - Course Delivery,Incident Management,Expotel Hotel Reservations Ltd,PIN079182,9250
+CLG,FSC,01/04/2010,Soft services contract,Int Facilities Mgmt,Fire Service College Mess Club,PIN079277,1333.33
+CLG,FSC,01/04/2010,Marketing - Exhibitions,Marketing,Institution of Fire Engineers (Publications),PIN080555,3000
+CLG,FSC,01/04/2010,Prepayments,IT Section,IRIS Enterprise Software Ltd,PIN079365,9527
+CLG,FSC,01/04/2010,Fireground Consumables,Ops-Fireground,James Latham Western - Lathams Ltd,PIN079210,7725
+CLG,FSC,01/04/2010,Telephone Charges,IT Section,Kcom,PIN079209,1217.37
+CLG,FSC,01/04/2010,Prepayments,Publications,OCE (UK) Ltd.,PIN079156,11255.12
+CLG,FSC,01/04/2010,L&B - WIP,Default Cost Centre,Peter Evans Partnership,PIN079176,1899.44
+CLG,FSC,01/04/2010,"VL,AT,RP Fees",Incident Management,SHD Consulting Ltd.,PIN079275,1052
+CLG,FSC,01/04/2010,IT Hardware - Rental,IT Section,Star Technology Services Ltd.,PIN079304,3779.66
+CLG,FSC,01/04/2010,Water Hygiene & Pollution Control,Prop & Maint Costs,WCS Environmental Ltd,PIN079685,1315.95
+CLG,FSC,04/04/2010,"VL,AT,RP Fees",Incident Management,CodexR Ltd,PIN079276,201.6
+CLG,FSC,04/04/2010,"VL,AT,RP Fees",Incident Management,CodexR Ltd,PIN079276,3600
+CLG,FSC,04/04/2010,"VL,AT,RP Fees",Incident Management,CodexR Ltd,PIN079276,6100
+CLG,FSC,05/04/2010,"Student - Travel, etc",Transport,ETC Private Hire & Chauffeur Services,PIN079603,1020
+CLG,FSC,06/04/2010,Non-Fgnd Training - Eqpt Rental,Firefighter Training,Cotswold Marquees Ltd.,PIN079270,557.66
+CLG,FSC,06/04/2010,Licences and PRS/PPL fees,Facilities Costs,Environment Agency,PIN079635,3420
+CLG,FSC,06/04/2010,Core Variable Costs,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN079150,18116.59
+CLG,FSC,06/04/2010,Core Fixed Costs,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN079151,36463.03
+CLG,FSC,06/04/2010,Core Fixed Costs,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN079151,38431.27
+CLG,FSC,06/04/2010,Copyright fees,Information Services,The Copyright Licensing Agency Ltd,PIN079682,1446.12
+CLG,FSC,07/04/2010,USAR consumables,USAR,Clucas MOE Ltd.,PIN079376,25
+CLG,FSC,07/04/2010,USAR consumables,USAR,Clucas MOE Ltd.,PIN079376,930
+CLG,FSC,07/04/2010,Seconded Salary,Default Cost Centre,Fife Council,PIN079099,12293.82
+CLG,FSC,07/04/2010,"VL,AT,RP Fees",Incident Management,KA C&CC,PIN079250,7307.33
+CLG,FSC,07/04/2010,Prepayments,Facilities Costs,TV Licensing,PIN079148,8875.5
+CLG,FSC,07/04/2010,Agency Costs (Admin),Finance Department,Venn Group Limited,PIN079147,2870.9
+CLG,FSC,08/04/2010,Reactive Maintenance,Facilities Costs,BMD Fabrications Ltd.,PIN079160,684
+CLG,FSC,08/04/2010,Planned Maintenance,Facilities Costs,Buzz Electrical Ltd,PIN079161,1355.78
+CLG,FSC,08/04/2010,Vehicles - External Repairs,Ops-Workshops,Direct Access Platforms Ltd,PIN079428,900
+CLG,FSC,08/04/2010,Agency Costs (Admin),Marketing,Hays Sales & Marketing,PIN079164,1160
+CLG,FSC,08/04/2010,Relocation - Seconded (NT) ,Human Resources,Julian Fountaine,PIN079201,1615.62
+CLG,FSC,08/04/2010,Seconded Salary,Default Cost Centre,Norfolk County Council,PIN079280,12722.28
+CLG,FSC,08/04/2010,Fireground Consumables,Ops-Fireground,Thomas Gaden,PIN079220,1000
+CLG,FSC,09/04/2010,Maintenance - Consumables ,Prop & Maint Costs,Bio-Lab UK,PIN079483,5.2
+CLG,FSC,09/04/2010,Maintenance - Consumables ,Prop & Maint Costs,Bio-Lab UK,PIN079483,11.82
+CLG,FSC,09/04/2010,Maintenance - Consumables ,Prop & Maint Costs,Bio-Lab UK,PIN079483,12.24
+CLG,FSC,09/04/2010,Maintenance - Consumables ,Prop & Maint Costs,Bio-Lab UK,PIN079483,14.46
+CLG,FSC,09/04/2010,Maintenance - Consumables ,Prop & Maint Costs,Bio-Lab UK,PIN079483,22
+CLG,FSC,09/04/2010,Maintenance - Consumables ,Prop & Maint Costs,Bio-Lab UK,PIN079483,198.96
+CLG,FSC,09/04/2010,Maintenance - Consumables ,Prop & Maint Costs,Bio-Lab UK,PIN079483,226.98
+CLG,FSC,09/04/2010,Maintenance - Consumables ,Prop & Maint Costs,Bio-Lab UK,PIN079483,323.6
+CLG,FSC,09/04/2010,USAR consumables,USAR,E.C.Hopkins Limited,PIN079724,8.88
+CLG,FSC,09/04/2010,USAR consumables,USAR,E.C.Hopkins Limited,PIN079724,625
+CLG,FSC,09/04/2010,USAR consumables,USAR,E.C.Hopkins Limited,PIN079724,730.12
+CLG,FSC,09/04/2010,USAR consumables,USAR,E.C.Hopkins Limited,PIN079724,1375.34
+CLG,FSC,09/04/2010,"Fgnd Eqpt, etc - Purchases",USAR,Lyon Equipment,PIN079375,597.2
+CLG,FSC,12/04/2010,Marketing - Exhibitions,Marketing,Central Fire Station,PIN079267,180
+CLG,FSC,12/04/2010,Marketing - Exhibitions,Marketing,Central Fire Station,PIN079267,690
+CLG,FSC,12/04/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN079196,360
+CLG,FSC,12/04/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN079196,634.5
+CLG,FSC,12/04/2010,"Petrol, Oil, Tyres",Ops-Fireground,Pace Fuelcare Ltd,PIN079348,9415.81
+CLG,FSC,12/04/2010,"Petrol, Oil, Tyres",Ops-Fireground,Pace Fuelcare Ltd,PIN079349,10214
+CLG,FSC,12/04/2010,Travel - Other,Firefighter Training,Robert Rearie,PIN079155,576
+CLG,FSC,12/04/2010,Travel - Other,Internat'al Business,SDO John Lowe,PIN079157,877.3
+CLG,FSC,12/04/2010,Vehicles - Consumables,Ops-Workshops,Wurth UK Limited,PIN079339,735.36
+CLG,FSC,13/04/2010,Admin - Stationery,Facilities Costs,Blenheim Colour Ltd,PIN080196,640
+CLG,FSC,13/04/2010,Natural Gas,Facilities Costs,Corona Energy,PIN079296,27078.66
+CLG,FSC,13/04/2010,USAR consumables,USAR,G.B Civil Engineering,PIN079256,1888.02
+CLG,FSC,13/04/2010,USAR consumables,USAR,G.B Civil Engineering,PIN079256,3470.72
+CLG,FSC,13/04/2010,Scrap Vehicles,Ops-Fireground,John Lamb,PIN079198,1800
+CLG,FSC,13/04/2010,Retentions,Default Cost Centre,Smith's (Gloucester) Limited,PIN079402,-1784.56
+CLG,FSC,13/04/2010,Reactive Maintenance,Capital Costs,Smith's (Gloucester) Limited,PIN079402,35691.16
+CLG,FSC,13/04/2010,Legal Fees,Facilities Costs,Veale Wasbrough Vizards,PIN079707,600
+CLG,FSC,14/04/2010,Seconded Salary,Default Cost Centre,Bristol City Council,PIN079328,17175.21
+CLG,FSC,14/04/2010,Other Professional Fees,Facilities Costs,Cotswold District Council,PIN079268,500
+CLG,FSC,14/04/2010,Statutory Maintenance,Prop & Maint Costs,Trent Valley Restoration UK Ltd,PIN079300,2699.9
+CLG,FSC,15/04/2010,Seconded Salary,Default Cost Centre,Dumfries & Galloway Council,PIN079329,11083.93
+CLG,FSC,15/04/2010,Travel - Course Delivery,Incident Management,Expotel Hotel Reservations Ltd,PIN079291,1.2
+CLG,FSC,15/04/2010,Travel - Course Delivery,Incident Management,Expotel Hotel Reservations Ltd,PIN079291,4.23
+CLG,FSC,15/04/2010,Travel - Course Delivery,Incident Management,Expotel Hotel Reservations Ltd,PIN079291,1520
+CLG,FSC,15/04/2010,Agency Costs (Admin),CSSC - FRS FS Trng,Hays Sales & Marketing,PIN079673,1305
+CLG,FSC,15/04/2010,Payroll Fees,Human Resources,Home Office Pay & Pension Service,PIN079227,1092.75
+CLG,FSC,15/04/2010,Scrap Vehicles,Ops-Fireground,John Lamb,PIN079357,1800
+CLG,FSC,15/04/2010,IT Printers - Consumables & Maintenance,IT Section,Kelway UK Ltd.,PIN079371,119
+CLG,FSC,15/04/2010,IT Printers - Consumables & Maintenance,IT Section,Kelway UK Ltd.,PIN079371,209
+CLG,FSC,15/04/2010,IT Printers - Consumables & Maintenance,IT Section,Kelway UK Ltd.,PIN079371,525
+CLG,FSC,15/04/2010,Books,Library,The Stationery Office Ltd   A/C 853300030,PIN079379,964.06
+CLG,FSC,16/04/2010,Reactive Maintenance,Facilities Costs,Mansell Construction Services Ltd,PIN079284,16702.76
+CLG,FSC,16/04/2010,Seconded Salary,Default Cost Centre,Merseyside Fire & Rescue Authority,PIN079282,2853.95
+CLG,FSC,16/04/2010,Seconded Salary,Default Cost Centre,Merseyside Fire & Rescue Authority,PIN079281,18139.76
+CLG,FSC,16/04/2010,Seconded Salary,Default Cost Centre,Norfolk County Council,PCR003874,-12722.28
+CLG,FSC,16/04/2010,Seconded Salary,Default Cost Centre,Norfolk County Council,PIN079306,13557.3
+CLG,FSC,16/04/2010,"VL,AT,RP Fees",Incident Management,Principea Consulting Ltd,PIN079359,800
+CLG,FSC,19/04/2010,USAR consumables,USAR,BMD Fabrications Ltd.,PIN079305,450
+CLG,FSC,19/04/2010,USAR consumables,USAR,BMD Fabrications Ltd.,PIN079305,960
+CLG,FSC,19/04/2010,"Student - Travel, etc",Transport,ETC Private Hire & Chauffeur Services,PIN079604,1050
+CLG,FSC,19/04/2010,Consultancy,National Resilience,Hanover Associates (UK) Ltd,PIN079873,3162.28
+CLG,FSC,19/04/2010,Consultancy,National Resilience,Hanover Associates (UK) Ltd,PIN079916,3715.68
+CLG,FSC,20/04/2010,"Petrol, Oil, Tyres",Ops-Fireground,BP LPG UK,PIN079692,13.56
+CLG,FSC,20/04/2010,"Petrol, Oil, Tyres",Ops-Fireground,BP LPG UK,PIN079692,865.45
+CLG,FSC,20/04/2010,Seconded Salary,Default Cost Centre,Devon Fire Authority,PIN079330,32991.96
+CLG,FSC,20/04/2010,Core Fixed Costs,Int Facilities Mgmt,Europa Facilities Management Ltd,PCR003922,-81275.33
+CLG,FSC,20/04/2010,IT Software - Purchases,Head Policy & Media,PastPerfect Software Inc,PIN079764,32.11
+CLG,FSC,20/04/2010,IT Software - Purchases,Head Policy & Media,PastPerfect Software Inc,PIN079764,264.28
+CLG,FSC,20/04/2010,IT Software - Purchases,Head Policy & Media,PastPerfect Software Inc,PIN079764,621.42
+CLG,FSC,20/04/2010,L&B - WIP,Default Cost Centre,Veale Wasbrough Vizards,PIN079396,708
+CLG,FSC,20/04/2010,L&B - WIP,Default Cost Centre,Veale Wasbrough Vizards,PIN079396,708
+CLG,FSC,21/04/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN079361,900
+CLG,FSC,21/04/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN079362,900
+CLG,FSC,21/04/2010,"Petrol, Oil, Tyres",Ops-Fireground,Pace Fuelcare Ltd,PIN079404,3080.4
+CLG,FSC,21/04/2010,Legal Fees,Facilities Costs,Veale Wasbrough Vizards,PIN079766,622
+CLG,FSC,22/04/2010,"Student - Travel, etc",Transport,Bakers Commercial Services Ltd.,PIN079608,1050
+CLG,FSC,22/04/2010,Rechargeable Costs,Internat'al Business,Fire Protection Association,PIN079983,10
+CLG,FSC,22/04/2010,Rechargeable Costs,Internat'al Business,Fire Protection Association,PIN079983,99.5
+CLG,FSC,22/04/2010,Rechargeable Costs,Internat'al Business,Fire Protection Association,PIN079983,99.5
+CLG,FSC,22/04/2010,Rechargeable Costs,Internat'al Business,Fire Protection Association,PIN079983,99.5
+CLG,FSC,22/04/2010,Rechargeable Costs,Internat'al Business,Fire Protection Association,PIN079983,289.95
+CLG,FSC,22/04/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN079463,1200
+CLG,FSC,22/04/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN079464,1200
+CLG,FSC,22/04/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN079631,1200
+CLG,FSC,22/04/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN079630,1600
+CLG,FSC,22/04/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN079509,509.47
+CLG,FSC,23/04/2010,Prepayments,IT Section,Dell Corporation Ltd,PIN079441,-500
+CLG,FSC,23/04/2010,Prepayments,IT Section,Dell Corporation Ltd,PIN079441,3840
+CLG,FSC,23/04/2010,"VL,AT,RP Fees",Incident Management,Fisher Scoggins LLP,PIN079440,851.84
+CLG,FSC,23/04/2010,"VL,AT,RP Fees",Hazmats,HazmatLINK Ltd,PIN079403,500
+CLG,FSC,23/04/2010,"VL,AT,RP Fees",Hazmats,HazmatLINK Ltd,PIN079403,500
+CLG,FSC,23/04/2010,"VL,AT,RP Fees",Hazmats,HazmatLINK Ltd,PIN079403,500
+CLG,FSC,23/04/2010,"VL,AT,RP Fees",Hazmats,HazmatLINK Ltd,PIN079403,500
+CLG,FSC,23/04/2010,"VL,AT,RP Fees",Hazmats,HazmatLINK Ltd,PIN079403,500
+CLG,FSC,26/04/2010,Water Charges,Facilities Costs,ADSM Plc,PIN080144,6466.78
+CLG,FSC,26/04/2010,Barclaycard - Travel & Subs,UKFRS RMT,Company Barclaycard Business,PPI004601,19.16
+CLG,FSC,26/04/2010,Barclaycard - Travel & Subs,Dir. of Serv. Deliv.,Company Barclaycard Business,PPI004601,31.7
+CLG,FSC,26/04/2010,Barclaycard - Travel & Subs,Internat'al Business,Company Barclaycard Business,PPI004601,103.99
+CLG,FSC,26/04/2010,Barclaycard - Travel & Subs,Internat'al Business,Company Barclaycard Business,PPI004601,168.6
+CLG,FSC,26/04/2010,Barclaycard - Travel & Subs,USAR,Company Barclaycard Business,PPI004601,253.5
+CLG,FSC,26/04/2010,Barclaycard - Travel & Subs,Directors,Company Barclaycard Business,PPI004601,546.8
+CLG,FSC,26/04/2010,Barclaycard - Travel & Subs,Head Policy & Media,Company Barclaycard Business,PPI004601,634.13
+CLG,FSC,26/04/2010,Barclaycard - Travel & Subs,Internat'al Business,Company Barclaycard Business,PPI004601,4041.83
+CLG,FSC,26/04/2010,Agency Costs (Admin),Chief Info. Officer,Computer People,PIN079511,13934.5
+CLG,FSC,26/04/2010,Seconded Salary,Default Cost Centre,Devon Fire Authority,PCR003876,-907.49
+CLG,FSC,26/04/2010,Electricity,Facilities Costs,EDF Electricity (Was London Electricity Plc),PCR003878,-22640.03
+CLG,FSC,26/04/2010,Electricity,Facilities Costs,EDF Electricity (Was London Electricity Plc),PIN079456,22484.21
+CLG,FSC,26/04/2010,Reactive Maintenance,Prop & Maint Costs,Edmundsons Electrical Ltd,PIN079576,33.2
+CLG,FSC,26/04/2010,Reactive Maintenance,Prop & Maint Costs,Edmundsons Electrical Ltd,PIN079576,357.6
+CLG,FSC,26/04/2010,Reactive Maintenance,Prop & Maint Costs,Edmundsons Electrical Ltd,PIN079576,390
+CLG,FSC,26/04/2010,Membership Fees,Internat'al Business,Fire Industry Association Ltd (FIA),PIN079469,1175
+CLG,FSC,26/04/2010,Consultancy,Incident Management,Hanover Associates (UK) Ltd,PIN079520,675
+CLG,FSC,26/04/2010,Relocation - Seconded (NT) ,Human Resources,Keith Morrison,PIN079421,2300
+CLG,FSC,26/04/2010,IT - WIP,Default Cost Centre,Logicalis UK Limited,PIN079517,815.31
+CLG,FSC,26/04/2010,IT - WIP,Default Cost Centre,Logicalis UK Limited,PIN079517,5352.49
+CLG,FSC,26/04/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,NPIA,PIN079416,300
+CLG,FSC,26/04/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,NPIA,PIN079416,2785
+CLG,FSC,26/04/2010,"VL,AL,VF Hotels & Meals",CSSC - FRS FS Trng,Paul Harrison Fire Safety Consultancy Ltd,PIN079763,87.2
+CLG,FSC,26/04/2010,"VL,AL,VF Hotels & Meals",CSSC - FRS FS Trng,Paul Harrison Fire Safety Consultancy Ltd,PIN079763,423
+CLG,FSC,26/04/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,Paul Harrison Fire Safety Consultancy Ltd,PIN079763,2200
+CLG,FSC,27/04/2010,"VL,AT,RP Fees",High Potential Lship,Alison Charlotte Hume,PIN079666,168.05
+CLG,FSC,27/04/2010,"VL,AT,RP Fees",High Potential Lship,Alison Charlotte Hume,PIN079666,1500
+CLG,FSC,27/04/2010,"Student - Travel, etc",Transport,Bakers Commercial Services Ltd.,PIN079609,525
+CLG,FSC,27/04/2010,"VL,AT,RP Fees",Incident Management,CodexR Ltd,PIN079500,11901.6
+CLG,FSC,27/04/2010,Agency Costs (Admin),Dir of Sales&Mrkting,Odgersinterim,PIN079590,22500
+CLG,FSC,27/04/2010,Consultancy,Director of Finance,Terry Price Associates,PIN079705,668
+CLG,FSC,28/04/2010,"Petrol, Oil, Tyres",Ops-Fireground,BP LPG UK,PIN079521,1711.66
+CLG,FSC,28/04/2010,"Compressed Air, Cooling & Ventilation",Prop & Maint Costs,Central Compressor Consultants Ltd.,PIN080241,727.14
+CLG,FSC,28/04/2010,Audit Fees,Risk & Governance,DCLG,PIN080356,8145.41
+CLG,FSC,28/04/2010,Postal Charges,Internat'al Business,DHL Express UK ltd,PIN079484,149.52
+CLG,FSC,28/04/2010,Postal Charges,Internat'al Business,DHL Express UK ltd,PIN079484,815.78
+CLG,FSC,28/04/2010,Catering - Other,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN079819,4909.89
+CLG,FSC,28/04/2010,Catering - Hospitality,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN079819,24879.3
+CLG,FSC,28/04/2010,Catering - Meals,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN079819,51038.59
+CLG,FSC,28/04/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN079459,900
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Logicalis UK Limited,PIN079478,937.5
+CLG,FSC,28/04/2010,Agency Costs (Admin),Director of Finance,Odgersinterim,PIN079591,12626.7
+CLG,FSC,28/04/2010,Reactive Maintenance,Int Facilities Mgmt,T.W.O. Services Ltd,PIN079637,750
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Viglen Ltd.,PIN079501,23
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Viglen Ltd.,PIN079502,708
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Viglen Ltd.,PIN079501,750
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Viglen Ltd.,PIN079501,1011
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Viglen Ltd.,PIN079501,1025
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Viglen Ltd.,PIN079502,1220
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Viglen Ltd.,PIN079501,1440
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Viglen Ltd.,PIN079501,1784
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Viglen Ltd.,PIN079501,1900
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Viglen Ltd.,PIN079501,1980
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Viglen Ltd.,PIN079501,2100
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Viglen Ltd.,PIN079501,2470
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Viglen Ltd.,PIN079502,3985
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Viglen Ltd.,PIN079502,4230
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Viglen Ltd.,PIN079501,6175
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Viglen Ltd.,PIN079501,6870
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Viglen Ltd.,PIN079501,7350
+CLG,FSC,28/04/2010,IT - WIP,Default Cost Centre,Viglen Ltd.,PIN079501,15355
+CLG,FSC,29/04/2010,USAR consumables,USAR,Air Products PLC,PIN079556,127.24
+CLG,FSC,29/04/2010,USAR consumables,USAR,Air Products PLC,PIN079556,640.34
+CLG,FSC,29/04/2010,USAR consumables,USAR,Building and Plumbing Supplies Ltd.,PIN079568,96.93
+CLG,FSC,29/04/2010,USAR consumables,USAR,Building and Plumbing Supplies Ltd.,PIN079568,480
+CLG,FSC,29/04/2010,USAR consumables,USAR,Building and Plumbing Supplies Ltd.,PIN079568,549.5
+CLG,FSC,29/04/2010,USAR consumables,USAR,Building and Plumbing Supplies Ltd.,PIN079568,569.03
+CLG,FSC,29/04/2010,USAR consumables,USAR,Building and Plumbing Supplies Ltd.,PIN079568,737.5
+CLG,FSC,29/04/2010,"VL,AT,RP Fees",Incident Management,Consultancy Services Ltd.,PIN079919,1371.5
+CLG,FSC,29/04/2010,Agency Costs (Admin),CSSC - FRS FS Trng,Hays Sales & Marketing,PIN079672,1450
+CLG,FSC,29/04/2010,VAT Payments/Refunds,Default Cost Centre,HM Revenue & Customs,PIN079467,67803.49
+CLG,FSC,29/04/2010,Agency Costs (Admin),Director of Finance,Odgersinterim,PIN079592,700
+CLG,FSC,29/04/2010,L&B - WIP,Default Cost Centre,Peter Evans Partnership,PIN079727,1275.31
+CLG,FSC,29/04/2010,"VL,AT,RP Fees",High Potential Lship,Serco Limited,PIN079780,500
+CLG,FSC,29/04/2010,Consultancy,Dir of Sales&Mrkting,Stephen Copley,PCR003888,-1950
+CLG,FSC,29/04/2010,Consultancy,Dir of Sales&Mrkting,Stephen Copley,PIN079466,1950
+CLG,FSC,29/04/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN079508,531.05
+CLG,FSC,30/04/2010,Other Professional Fees,Cent. For Leadership,ASK Europe,PIN079972,1985.88
+CLG,FSC,30/04/2010,L&B - WIP,Default Cost Centre,BRD Environmental Ltd,PIN079490,1320
+CLG,FSC,30/04/2010,Statutory Maintenance,Prop & Maint Costs,Cotswold Technical Services,PIN079498,8800
+CLG,FSC,30/04/2010,IT Consultancies,Directors,Dbi Consulting,PIN079567,2620
+CLG,FSC,30/04/2010,Reactive Maintenance,Prop & Maint Costs,Edmundsons Electrical Ltd,PIN079577,11.16
+CLG,FSC,30/04/2010,Reactive Maintenance,Prop & Maint Costs,Edmundsons Electrical Ltd,PIN079577,100.8
+CLG,FSC,30/04/2010,Reactive Maintenance,Prop & Maint Costs,Edmundsons Electrical Ltd,PIN079577,160.8
+CLG,FSC,30/04/2010,Reactive Maintenance,Prop & Maint Costs,Edmundsons Electrical Ltd,PIN079577,388.8
+CLG,FSC,30/04/2010,Core Variable Costs,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN079821,12151.5
+CLG,FSC,30/04/2010,Core Fixed Costs,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN079818,69170.49
+CLG,FSC,30/04/2010,Rechargeable Costs,Estates Contracts,Expotel Hotel Reservations Ltd,PIN079856,3360.58
+CLG,FSC,30/04/2010,Planned Maintenance,Facilities Costs,Hydroflow Ltd,PIN079598,590
+CLG,FSC,30/04/2010,External Course/Seminar Delivery,USAR,Mines Rescue Services Ltd,PIN080053,750
+CLG,FSC,30/04/2010,"VL,AT,RP Fees",OGA,Mines Rescue Services Ltd,PIN080053,750
+CLG,FSC,30/04/2010,Media - Student Stationery,Publications,Office Depot UK Ltd,PIN079731,939.41
+CLG,FSC,30/04/2010,Admin - Stationery,Facilities Costs,Office Depot UK Ltd,PIN079699,1408.76
+CLG,FSC,30/04/2010,Heating & Hot Water,Prop & Maint Costs,QTS Associates Ltd,PIN079553,1956.24
+CLG,FSC,30/04/2010,"Heating Planned, Water Softeners",Prop & Maint Costs,QTS Associates Ltd,PIN079553,1956.24
+CLG,FSC,01/05/2010,Prepayments,Business Management,British Quality Foundation,PIN079279,587.5
+CLG,FSC,01/05/2010,Electricity,Facilities Costs,EDF Electricity (Was London Electricity Plc),PIN079513,17729.31
+CLG,FSC,01/05/2010,Marketing - Exhibitions,Marketing,Emergency Services (MMC) Ltd,PIN079677,2070
+CLG,FSC,01/05/2010,Catering - Hospitality,Int Facilities Mgmt,Europa Facilities Management Ltd,PCR003889,-6715
+CLG,FSC,01/05/2010,Telephone Charges,IT Section,Kcom,PIN079572,717
+CLG,FSC,01/05/2010,IT Hardware - Rental,IT Section,Star Technology Services Ltd.,PIN079747,3779.66
+CLG,FSC,01/05/2010,Water Hygiene & Pollution Control,Prop & Maint Costs,WCS Environmental Ltd,PIN079686,1315.95
+CLG,FSC,04/05/2010,"VL,AT,RP Fees",Incident Management,KA C&CC,PIN079643,4833.63
+CLG,FSC,04/05/2010,Postal Charges,Facilities Costs,Neopost Ltd,PIN079489,500
+CLG,FSC,04/05/2010,Postal Charges,Facilities Costs,Neopost Ltd,PIN079489,500
+CLG,FSC,04/05/2010,Books,Library,SAI Global,PIN079514,693.34
+CLG,FSC,05/05/2010,IT - WIP,Default Cost Centre,Dell Corporation Ltd,PIN079648,2363.6
+CLG,FSC,05/05/2010,Non-Fgnd Training - Eqpt Purchases,Estate Support,S P Services (UK) Ltd.,PIN079588,0.04
+CLG,FSC,05/05/2010,Non-Fgnd Training - Eqpt Purchases,Estate Support,S P Services (UK) Ltd.,PIN079588,535.8
+CLG,FSC,05/05/2010,"Fgnd Eqpt, etc - Rental",USAR,Wiltshire College,PIN079781,684
+CLG,FSC,05/05/2010,"VL,AT,RP Fees",USAR,Wiltshire College,PIN079781,9352.51
+CLG,FSC,06/05/2010,Sundry low value purchase,Resourcing,Barclays HMG Procurement Card,PPI004615,261.97
+CLG,FSC,06/05/2010,Sundry low value purchase,Nursery,Barclays HMG Procurement Card,PPI004615,300.4
+CLG,FSC,06/05/2010,Sundry low value purchase,Directors,Barclays HMG Procurement Card,PPI004615,516.93
+CLG,FSC,06/05/2010,Sundry low value purchase,Risk & Governance,Barclays HMG Procurement Card,PPI004615,16353.44
+CLG,FSC,06/05/2010,Consultancy,Course Curr&Dev Cont,Boost Marketing Ltd,PIN079583,1500
+CLG,FSC,06/05/2010,Seconded Salary,Default Cost Centre,Dorset Fire Authority,PIN079615,23652.55
+CLG,FSC,06/05/2010,Agency Costs (Admin),CSSC - FRS FS Trng,Hays Sales & Marketing,PIN079671,1450
+CLG,FSC,06/05/2010,"VL,AT,RP Fees",Cent. For Leadership,John Potter Global Consulting,PIN079704,1200
+CLG,FSC,06/05/2010,Fix/Fitt - Purchases,Facilities Costs,Kalamazoo Security Print Ltd,PIN079573,-0.35
+CLG,FSC,06/05/2010,Fix/Fitt - Purchases,Facilities Costs,Kalamazoo Security Print Ltd,PIN079573,9.95
+CLG,FSC,06/05/2010,Fix/Fitt - Purchases,Facilities Costs,Kalamazoo Security Print Ltd,PIN079573,222.6
+CLG,FSC,06/05/2010,Fix/Fitt - Purchases,Facilities Costs,Kalamazoo Security Print Ltd,PIN079573,535.8
+CLG,FSC,06/05/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN079632,1200
+CLG,FSC,06/05/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN079633,1200
+CLG,FSC,06/05/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN079634,1600
+CLG,FSC,06/05/2010,Occupational health,Course Curr&Dev Cont,Posturite (UK) LTD,PIN079574,17.5
+CLG,FSC,06/05/2010,Occupational health,Course Curr&Dev Cont,Posturite (UK) LTD,PIN079574,612.5
+CLG,FSC,07/05/2010,Reactive Maintenance,Prop & Maint Costs,Edmundsons Electrical Ltd,PIN079841,14.5
+CLG,FSC,07/05/2010,Reactive Maintenance,Prop & Maint Costs,Edmundsons Electrical Ltd,PIN079841,15
+CLG,FSC,07/05/2010,Reactive Maintenance,Prop & Maint Costs,Edmundsons Electrical Ltd,PIN079841,21.63
+CLG,FSC,07/05/2010,Reactive Maintenance,Prop & Maint Costs,Edmundsons Electrical Ltd,PIN079841,38.8
+CLG,FSC,07/05/2010,Reactive Maintenance,Prop & Maint Costs,Edmundsons Electrical Ltd,PIN079841,177.6
+CLG,FSC,07/05/2010,Reactive Maintenance,Prop & Maint Costs,Edmundsons Electrical Ltd,PIN079841,248.8
+CLG,FSC,07/05/2010,"VL,AT,RP Fees",Incident Management,HZL Ltd.,PIN079651,900
+CLG,FSC,07/05/2010,"VL,AT,RP Fees",UK Private Sector,UKOPA,PIN079618,5400
+CLG,FSC,10/05/2010,Reactive Maintenance,Prop & Maint Costs,Gaffey Technical Services Ltd,PIN079817,6.15
+CLG,FSC,10/05/2010,Reactive Maintenance,Prop & Maint Costs,Gaffey Technical Services Ltd,PIN079817,6.6
+CLG,FSC,10/05/2010,Reactive Maintenance,Prop & Maint Costs,Gaffey Technical Services Ltd,PIN079817,6.65
+CLG,FSC,10/05/2010,Reactive Maintenance,Prop & Maint Costs,Gaffey Technical Services Ltd,PIN079817,8.75
+CLG,FSC,10/05/2010,Reactive Maintenance,Prop & Maint Costs,Gaffey Technical Services Ltd,PIN079817,10.5
+CLG,FSC,10/05/2010,Reactive Maintenance,Prop & Maint Costs,Gaffey Technical Services Ltd,PIN079817,12.7
+CLG,FSC,10/05/2010,Reactive Maintenance,Prop & Maint Costs,Gaffey Technical Services Ltd,PIN079817,23.7
+CLG,FSC,10/05/2010,Reactive Maintenance,Prop & Maint Costs,Gaffey Technical Services Ltd,PIN079817,24.4
+CLG,FSC,10/05/2010,Reactive Maintenance,Prop & Maint Costs,Gaffey Technical Services Ltd,PIN079817,98.15
+CLG,FSC,10/05/2010,Reactive Maintenance,Prop & Maint Costs,Gaffey Technical Services Ltd,PIN079817,166
+CLG,FSC,10/05/2010,Reactive Maintenance,Prop & Maint Costs,Gaffey Technical Services Ltd,PIN079817,275
+CLG,FSC,10/05/2010,IT Hardware - Maintenance,IT Section,Logicalis UK Limited,PIN079625,564.29
+CLG,FSC,10/05/2010,Promotional events and activities,Marketing,Magic Touch Promotions Ltd,PIN080399,1359
+CLG,FSC,10/05/2010,Promotional events and activities,Incident Management,Magic Touch Promotions Ltd,PIN079829,2036
+CLG,FSC,11/05/2010,Natural Gas,Facilities Costs,Corona Energy,PCR003892,-13071.95
+CLG,FSC,11/05/2010,Natural Gas,Facilities Costs,Corona Energy,PIN079756,13071.95
+CLG,FSC,11/05/2010,Natural Gas,Facilities Costs,Corona Energy,PIN079860,13071.95
+CLG,FSC,11/05/2010,Consultancy,Incident Management,Hanover Associates (UK) Ltd,PIN079628,675
+CLG,FSC,11/05/2010,"VL,AT,RP Fees",Incident Management,SHD Consulting Ltd.,PIN079650,2080
+CLG,FSC,11/05/2010,Water Charges,Facilities Costs,Thames Water,PIN079703,9342.61
+CLG,FSC,12/05/2010,"VL,AT,RP Fees",Hazmats,Avon Fire & Rescue Service,PIN079733,1058.82
+CLG,FSC,12/05/2010,Consultancy,CSSC - FRS FS Trng,QA Associates Ltd,PIN079616,1442.4
+CLG,FSC,12/05/2010,"Fgnd Eqpt, etc - Purchases",USAR,Red Box International Ltd.,PIN079658,25
+CLG,FSC,12/05/2010,"Fgnd Eqpt, etc - Purchases",USAR,Red Box International Ltd.,PIN079658,522
+CLG,FSC,13/05/2010,Scrap Vehicles,Ops-Fireground,Common Road Dismantlers,PIN079663,2537.5
+CLG,FSC,13/05/2010,"Fgnd Eqpt, etc - Maintenance",Ops-Fireground,Fire Hosetech,PIN079684,7490.9
+CLG,FSC,13/05/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,Forensic Science Service,PIN079749,161.3
+CLG,FSC,13/05/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,Forensic Science Service,PIN079749,1294.5
+CLG,FSC,13/05/2010,Agency Costs (Admin),CSSC - FRS FS Trng,Hays Sales & Marketing,PIN079674,1160
+CLG,FSC,13/05/2010,Consultancy,CSSC - FRS FS Trng,QA Associates Ltd,PIN079653,2701.4
+CLG,FSC,14/05/2010,"VL,AT,RP Fees",Cent. For Leadership,Centre of Applied Positive,PIN079957,750
+CLG,FSC,14/05/2010,Seconded Salary,Default Cost Centre,Devon Fire Authority,PIN080330,11906.55
+CLG,FSC,14/05/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN079669,900
+CLG,FSC,14/05/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN079670,900
+CLG,FSC,14/05/2010,Payroll Fees,Human Resources,Home Office Pay & Pension Service,PIN079690,1069.25
+CLG,FSC,14/05/2010,Reactive Maintenance,Prop & Maint Costs,Mansell Construction Services Ltd,PIN079689,13761.89
+CLG,FSC,15/05/2010,"VL,AT,RP Fees",Special Ops,Casualties Union,PIN079755,616
+CLG,FSC,17/05/2010,Agency Costs (Admin),Chief Info. Officer,Computer People,PIN079791,4045.5
+CLG,FSC,17/05/2010,"Student - Travel, etc",Transport,ETC Private Hire & Chauffeur Services,PIN079782,170
+CLG,FSC,17/05/2010,"Student - Travel, etc",Transport,ETC Private Hire & Chauffeur Services,PIN079782,870
+CLG,FSC,17/05/2010,"VL,AT,RP Fees",Incident Management,Fisher Scoggins LLP,PIN079734,840.3
+CLG,FSC,17/05/2010,"Fgnd Eqpt, etc - Purchases",Ops-Fireground,Holmatro UK Ltd.,PIN079954,113.9
+CLG,FSC,17/05/2010,"Fgnd Eqpt, etc - Purchases",Ops-Fireground,Holmatro UK Ltd.,PIN079954,8000
+CLG,FSC,17/05/2010,Audit Fees,Risk & Governance,Price Waterhouse Coopers LLP,PIN079765,1036.68
+CLG,FSC,17/05/2010,"VL,AT,RP Fees",Incident Management,Principea Consulting Ltd,PIN079960,800
+CLG,FSC,17/05/2010,Prepayments,IT Section,Softbrands,PIN079693,1168.02
+CLG,FSC,18/05/2010,"VL,AT,RP Fees",USAR,Norfolk County Council,PIN079816,120
+CLG,FSC,18/05/2010,"VL,AT,RP Fees",USAR,Norfolk County Council,PIN079816,3600
+CLG,FSC,18/05/2010,"Petrol, Oil, Tyres",Ops-Fireground,Pace Fuelcare Ltd,PIN079770,7971.14
+CLG,FSC,18/05/2010,Admin - Stationery,IT Section,Seton Ltd,PIN079772,13.95
+CLG,FSC,18/05/2010,Admin - Stationery,IT Section,Seton Ltd,PIN079772,576.3
+CLG,FSC,19/05/2010,USAR consumables,USAR,Building and Plumbing Supplies Ltd.,PIN079735,614.9
+CLG,FSC,19/05/2010,USAR consumables,USAR,Building and Plumbing Supplies Ltd.,PIN079735,626.01
+CLG,FSC,19/05/2010,USAR consumables,USAR,Building and Plumbing Supplies Ltd.,PIN079735,1209
+CLG,FSC,19/05/2010,Reactive Maintenance,Capital Costs,Smith's (Gloucester) Limited,PIN080050,177.74
+CLG,FSC,19/05/2010,Reactive Maintenance,Capital Costs,Smith's (Gloucester) Limited,PIN080050,9288.26
+CLG,FSC,20/05/2010,Electrical Testing,Prop & Maint Costs,Buzz Electrical Ltd,PIN080093,1668.97
+CLG,FSC,20/05/2010,Travel - Course Delivery,Incident Management,Expotel Hotel Reservations Ltd,PIN079759,749.76
+CLG,FSC,20/05/2010,Agency Costs (Admin),CSSC - FRS FS Trng,Hays Sales & Marketing,PIN079750,1450
+CLG,FSC,20/05/2010,Fire Alarms,Prop & Maint Costs,Johnson Controls Fire & Security,PIN079892,2273.91
+CLG,FSC,20/05/2010,L&B - WIP,Default Cost Centre,Peter Evans Partnership,PIN079836,827.65
+CLG,FSC,20/05/2010,L&B - WIP,Default Cost Centre,Peter Evans Partnership,PIN079836,984.9
+CLG,FSC,20/05/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN079784,518.1
+CLG,FSC,20/05/2010,Legal Fees,Information Services,Veale Wasbrough Vizards,PIN079929,2000
+CLG,FSC,21/05/2010,Fire Alarms,Prop & Maint Costs,Johnson Controls Fire & Security,PIN079891,4200
+CLG,FSC,21/05/2010,Legal Fees,Finance Department,Veale Wasbrough Vizards,PIN079986,2007
+CLG,FSC,23/05/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,MSA (Britain) Limited,PIN079850,975
+CLG,FSC,24/05/2010,Non-Fgnd Training - Eqpt Purchases,Estate Support,Leisure Lakes c2w,PIN079852,1999.88
+CLG,FSC,24/05/2010,"VL,AT,RP Fees",Hazmats,Warwickshire Fire & Rescue Service,PIN079987,5200
+CLG,FSC,25/05/2010,Barclaycard - Travel & Subs,UKFRS RMT,Company Barclaycard Business,PPI004631,30.76
+CLG,FSC,25/05/2010,Barclaycard - Travel & Subs,Director of Finance,Company Barclaycard Business,PPI004631,37.3
+CLG,FSC,25/05/2010,Barclaycard - Travel & Subs,Information Services,Company Barclaycard Business,PPI004631,104.3
+CLG,FSC,25/05/2010,Barclaycard - Travel & Subs,Qualifications Man.,Company Barclaycard Business,PPI004631,115.2
+CLG,FSC,25/05/2010,Barclaycard - Travel & Subs,Directors,Company Barclaycard Business,PPI004631,467.9
+CLG,FSC,25/05/2010,Barclaycard - Travel & Subs,USAR,Company Barclaycard Business,PPI004631,792.52
+CLG,FSC,25/05/2010,Barclaycard - Travel & Subs,Internat'al Business,Company Barclaycard Business,PPI004631,2905.78
+CLG,FSC,25/05/2010,Consultancy,Facilities Costs,Four Communciations,PIN079834,850
+CLG,FSC,25/05/2010,Prepayments,IT Section,Gladstone Health & Leisure,PIN079889,-0.12
+CLG,FSC,25/05/2010,Prepayments,IT Section,Gladstone Health & Leisure,PIN079889,2367.08
+CLG,FSC,25/05/2010,"VL,AT,RP Fees",Hazmats,Quicksilver UK Limited,PIN079882,43.48
+CLG,FSC,25/05/2010,"VL,AT,RP Fees",Hazmats,Quicksilver UK Limited,PIN079882,2000.43
+CLG,FSC,25/05/2010,Legal Fees,Facilities Costs,Veale Wasbrough Vizards,PIN080004,524
+CLG,FSC,25/05/2010,Mobile phone charges,Resourcing,Vodafone Corporate Ltd,PIN079798,11.35
+CLG,FSC,25/05/2010,Mobile phone charges,Nursery,Vodafone Corporate Ltd,PIN079798,13.53
+CLG,FSC,25/05/2010,Mobile phone charges,OGA,Vodafone Corporate Ltd,PIN079798,14.22
+CLG,FSC,25/05/2010,Mobile phone charges,Events & Infra. Sale,Vodafone Corporate Ltd,PIN079798,23
+CLG,FSC,25/05/2010,Mobile phone charges,Director of  Estates,Vodafone Corporate Ltd,PIN079798,32.04
+CLG,FSC,25/05/2010,Mobile phone charges,National Resilience,Vodafone Corporate Ltd,PIN079798,33.75
+CLG,FSC,25/05/2010,Mobile phone charges,Firefighter Training,Vodafone Corporate Ltd,PIN079798,35.12
+CLG,FSC,25/05/2010,Mobile phone charges,CSSC - FRS FS Trng,Vodafone Corporate Ltd,PIN079798,35.69
+CLG,FSC,25/05/2010,Mobile phone charges,Estate Support,Vodafone Corporate Ltd,PIN079798,42.1
+CLG,FSC,25/05/2010,Mobile phone charges,Ops-Workshops,Vodafone Corporate Ltd,PIN079798,61.82
+CLG,FSC,25/05/2010,Mobile phone charges,Director of Finance,Vodafone Corporate Ltd,PIN079798,65.89
+CLG,FSC,25/05/2010,Mobile phone charges,Business Management,Vodafone Corporate Ltd,PIN079798,67.84
+CLG,FSC,25/05/2010,Mobile phone charges,Fire Gateway,Vodafone Corporate Ltd,PIN079798,69.24
+CLG,FSC,25/05/2010,Mobile phone charges,Head Policy & Media,Vodafone Corporate Ltd,PIN079798,70.06
+CLG,FSC,25/05/2010,Mobile phone charges,Qualifications Man.,Vodafone Corporate Ltd,PIN079798,71.89
+CLG,FSC,25/05/2010,Mobile phone charges,Higher Education,Vodafone Corporate Ltd,PIN079798,74.79
+CLG,FSC,25/05/2010,Mobile phone charges,Marketing,Vodafone Corporate Ltd,PIN079798,76.48
+CLG,FSC,25/05/2010,Mobile phone charges,Delivery Management,Vodafone Corporate Ltd,PIN079798,76.58
+CLG,FSC,25/05/2010,Mobile phone charges,Curriculum Design Ma,Vodafone Corporate Ltd,PIN079798,88.09
+CLG,FSC,25/05/2010,Mobile phone charges,Director of HR,Vodafone Corporate Ltd,PIN079798,95.55
+CLG,FSC,25/05/2010,Mobile phone charges,Dir. of Serv. Deliv.,Vodafone Corporate Ltd,PIN079798,104.51
+CLG,FSC,25/05/2010,Mobile phone charges,Dir of Sales&Mrkting,Vodafone Corporate Ltd,PIN079798,117.77
+CLG,FSC,25/05/2010,Mobile phone charges,UK Private Sector,Vodafone Corporate Ltd,PIN079798,121.8
+CLG,FSC,25/05/2010,Mobile phone charges,Chief Info. Officer,Vodafone Corporate Ltd,PIN079798,146.06
+CLG,FSC,25/05/2010,Mobile phone charges,Hazmats,Vodafone Corporate Ltd,PIN079798,151.29
+CLG,FSC,25/05/2010,Mobile phone charges,Prop & Maint Costs,Vodafone Corporate Ltd,PIN079798,189.16
+CLG,FSC,25/05/2010,Mobile phone charges,Facilities Costs,Vodafone Corporate Ltd,PIN079798,214.03
+CLG,FSC,25/05/2010,Mobile phone charges,Directors,Vodafone Corporate Ltd,PIN079798,290.72
+CLG,FSC,25/05/2010,Mobile phone charges,USAR,Vodafone Corporate Ltd,PIN079798,303.27
+CLG,FSC,25/05/2010,Mobile phone charges,Cent. For Leadership,Vodafone Corporate Ltd,PIN079798,309.32
+CLG,FSC,25/05/2010,Mobile phone charges,IT Section,Vodafone Corporate Ltd,PIN079798,339.98
+CLG,FSC,25/05/2010,Mobile phone charges,UKFRS RMT,Vodafone Corporate Ltd,PIN079798,385.07
+CLG,FSC,25/05/2010,Mobile phone charges,Ops-Fireground,Vodafone Corporate Ltd,PIN079798,394.87
+CLG,FSC,25/05/2010,Mobile phone charges,Special Ops,Vodafone Corporate Ltd,PIN079798,641.18
+CLG,FSC,25/05/2010,Mobile phone charges,Incident Management,Vodafone Corporate Ltd,PIN079798,781.76
+CLG,FSC,25/05/2010,Mobile phone charges,Internat'al Business,Vodafone Corporate Ltd,PIN079798,1759.09
+CLG,FSC,26/05/2010,Staff Development - Skill Specific,Directors,CMPS (National School of Government),PIN079942,10
+CLG,FSC,26/05/2010,Staff Development - Skill Specific,Directors,CMPS (National School of Government),PIN079942,665
+CLG,FSC,26/05/2010,"VL,AT,RP Fees",Incident Management,CodexR Ltd,PIN079814,9901.6
+CLG,FSC,26/05/2010,"VL,AT,RP Fees",Incident Management,Consultancy Services Ltd.,PIN079920,1323
+CLG,FSC,26/05/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN079838,900
+CLG,FSC,26/05/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN079839,900
+CLG,FSC,27/05/2010,Non-Training Eqpt - Purchases,Ops-Workshops,Cromwell Tools (Basingstoke),PIN079996,1367.87
+CLG,FSC,27/05/2010,Catering - Other,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN079989,4935.26
+CLG,FSC,27/05/2010,Core Variable Costs,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN079879,17093.35
+CLG,FSC,27/05/2010,Catering - Hospitality,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN079989,41578.32
+CLG,FSC,27/05/2010,Core Fixed Costs,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN079878,69216.51
+CLG,FSC,27/05/2010,Catering - Meals,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN079989,79387.61
+CLG,FSC,27/05/2010,Agency Costs (Admin),Marketing,Hays Sales & Marketing,PIN079840,1305
+CLG,FSC,27/05/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN079902,1200
+CLG,FSC,27/05/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN079903,1200
+CLG,FSC,27/05/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN079904,1800
+CLG,FSC,27/05/2010,"VL,AT,RP Fees",Special Ops,N P Lacey,PIN081074,80
+CLG,FSC,27/05/2010,"VL,AT,RP Fees",Special Ops,N P Lacey,PIN081074,280
+CLG,FSC,27/05/2010,"VL,AT,RP Fees",Special Ops,N P Lacey,PIN081074,540
+CLG,FSC,27/05/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN079980,146.13
+CLG,FSC,27/05/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN079980,402.19
+CLG,FSC,27/05/2010,Water Charges,Facilities Costs,Thames Water,PIN079934,7876.69
+CLG,FSC,27/05/2010,"Fgnd Eqpt, etc - Rental",OGA,The Outreach Organisation Ltd.,PIN080054,760
+CLG,FSC,27/05/2010,"Fgnd Eqpt, etc - Rental",OGA,The Outreach Organisation Ltd.,PIN080055,760
+CLG,FSC,27/05/2010,"Fgnd Eqpt, etc - Rental",USAR,The Outreach Organisation Ltd.,PIN080056,760
+CLG,FSC,27/05/2010,"Fgnd Eqpt, etc - Rental",USAR,The Outreach Organisation Ltd.,PIN080057,760
+CLG,FSC,27/05/2010,"Fgnd Eqpt, etc - Rental",USAR,The Outreach Organisation Ltd.,PIN080058,760
+CLG,FSC,27/05/2010,Fees - Non Payrol AT,USAR,The Outreach Organisation Ltd.,PIN080056,1260
+CLG,FSC,27/05/2010,Fees - Non Payrol AT,OGA,The Outreach Organisation Ltd.,PIN080055,3600
+CLG,FSC,27/05/2010,Fees - Non Payrol AT,OGA,The Outreach Organisation Ltd.,PIN080054,3780
+CLG,FSC,27/05/2010,Fees - Non Payrol AT,USAR,The Outreach Organisation Ltd.,PIN080057,5040
+CLG,FSC,27/05/2010,Fees - Non Payrol AT,USAR,The Outreach Organisation Ltd.,PIN080058,6300
+CLG,FSC,28/05/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,E.G. Training & Consultancy,PIN079976,89.3
+CLG,FSC,28/05/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,E.G. Training & Consultancy,PIN079975,91.2
+CLG,FSC,28/05/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,E.G. Training & Consultancy,PIN079976,91.2
+CLG,FSC,28/05/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,E.G. Training & Consultancy,PIN079975,850
+CLG,FSC,28/05/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,E.G. Training & Consultancy,PIN079976,1450
+CLG,FSC,28/05/2010,External Course/Seminar Delivery,USAR,Mines Rescue Services Ltd,PIN079936,750
+CLG,FSC,28/05/2010,Heating & Hot Water,Prop & Maint Costs,QTS Associates Ltd,PIN079944,2143.74
+CLG,FSC,28/05/2010,Heating & Hot Water,Prop & Maint Costs,QTS Associates Ltd,PIN079944,2143.74
+CLG,FSC,29/05/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080365,800
+CLG,FSC,31/05/2010,L&B - WIP,Default Cost Centre,BRD Environmental Ltd,PIN079897,1205.58
+CLG,FSC,31/05/2010,IT Consultancies,Directors,Dbi Consulting,PIN079968,4978
+CLG,FSC,31/05/2010,Soft services contract,Int Facilities Mgmt,Fire Service College Mess Club,PIN079664,1333.33
+CLG,FSC,31/05/2010,Agency Costs (Admin),Director of Finance,Odgersinterim,PIN079918,13300
+CLG,FSC,31/05/2010,Admin - Stationery,Facilities Costs,Office Depot UK Ltd,PIN080148,518.7
+CLG,FSC,31/05/2010,USAR consumables,USAR,Somerscales (timber merchants) Ltd,PIN080170,1000
+CLG,FSC,31/05/2010,Miscellaneous,Prop & Maint Costs,Weatherite Shopfronts & Shutters Ltd.,PIN079921,566.4
+CLG,FSC,31/05/2010,Reactive Maintenance,Prop & Maint Costs,Weatherite Shopfronts & Shutters Ltd.,PIN080081,723.4
+CLG,FSC,01/06/2010,IT Software - Maintenance,IT Section,Data Track PLC,PIN080010,512.41
+CLG,FSC,01/06/2010,External training materials and fees,Firefighter Training,Duradiamond Healthcare Ltd.,PIN080334,7202
+CLG,FSC,01/06/2010,"VL,AT,RP Fees",Hazmats,East Sussex Fire Authority,PIN079871,102.36
+CLG,FSC,01/06/2010,"VL,AT,RP Fees",Hazmats,East Sussex Fire Authority,PIN079871,1000
+CLG,FSC,01/06/2010,Electricity,Facilities Costs,EDF Electricity (Was London Electricity Plc),PIN079893,16461.72
+CLG,FSC,01/06/2010,"Student - Travel, etc",Transport,ETC Private Hire & Chauffeur Services,PIN079953,544
+CLG,FSC,01/06/2010,"Student - Travel, etc",Transport,ETC Private Hire & Chauffeur Services,PIN079953,630
+CLG,FSC,01/06/2010,Telephone Charges,IT Section,Kcom,PIN081177,803.71
+CLG,FSC,01/06/2010,"VL,AT,RP Fees",USAR,Northumberland County Council,PIN080417,1240
+CLG,FSC,01/06/2010,IT Hardware - Rental,IT Section,Star Technology Services Ltd.,PIN079912,3779.66
+CLG,FSC,01/06/2010,Water Hygiene & Pollution Control,Prop & Maint Costs,WCS Environmental Ltd,PIN080022,1315.96
+CLG,FSC,02/06/2010,Miscellaneous,Prop & Maint Costs,Edmundsons Electrical Ltd,PIN080067,635.2
+CLG,FSC,02/06/2010,Consultancy,CSSC - FRS FS Trng,QA Associates Ltd,PIN079895,863.8
+CLG,FSC,03/06/2010,Travel - Other,Internat'al Business,ETC Private Hire & Chauffeur Services,PIN079872,95
+CLG,FSC,03/06/2010,Travel - Other,Internat'al Business,ETC Private Hire & Chauffeur Services,PIN079872,95
+CLG,FSC,03/06/2010,Travel - Other,Internat'al Business,ETC Private Hire & Chauffeur Services,PIN079872,95
+CLG,FSC,03/06/2010,Travel - Other,Internat'al Business,ETC Private Hire & Chauffeur Services,PIN079872,95
+CLG,FSC,03/06/2010,Travel - Other,Internat'al Business,ETC Private Hire & Chauffeur Services,PIN079872,140
+CLG,FSC,03/06/2010,Travel - Other,Internat'al Business,ETC Private Hire & Chauffeur Services,PIN079872,140
+CLG,FSC,03/06/2010,Staff Development - Skill Specific,Staff Development,Ian Stroud,PIN079861,854.69
+CLG,FSC,03/06/2010,"Fgnd Eqpt, etc - Purchases",USAR,Lyon Equipment,PIN079999,2212.01
+CLG,FSC,03/06/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN079888,518.1
+CLG,FSC,03/06/2010,"VL,AT,RP Fees",USAR,Wiltshire College,PIN079884,4676
+CLG,FSC,04/06/2010,Vehicles - Consumables,Ops-Workshops,ATS Euromaster Ltd,PIN079993,1257.04
+CLG,FSC,04/06/2010,"Fgnd Eqpt, etc - Maintenance",Ops-Fireground,Barber Brothers,PIN080095,240
+CLG,FSC,04/06/2010,"Fgnd Eqpt, etc - Maintenance",Ops-Fireground,Barber Brothers,PIN080095,275
+CLG,FSC,04/06/2010,Other Fuels (Heating+Lighting),Facilities Costs,Total Butler,PIN079984,250.51
+CLG,FSC,04/06/2010,Other Fuels (Heating+Lighting),Facilities Costs,Total Butler,PIN079984,700
+CLG,FSC,05/06/2010,USAR consumables,USAR,Building and Plumbing Supplies Ltd.,PIN079890,820
+CLG,FSC,07/06/2010,"VL,AT,RP Fees",USAR,Avon Fire & Rescue Service,PIN080021,40
+CLG,FSC,07/06/2010,"VL,AT,RP Fees",USAR,Avon Fire & Rescue Service,PIN080021,1000
+CLG,FSC,07/06/2010,Consultancy,Incident Management,KA C&CC,PIN080011,1352.5
+CLG,FSC,08/06/2010,Other Professional Fees,Cent. For Leadership,Warwick Business School,PIN080321,4200
+CLG,FSC,08/06/2010,Other Professional Fees,Cent. For Leadership,Warwick Business School,PIN080322,114604
+CLG,FSC,09/06/2010,"Petrol, Oil, Tyres",Ops-Fireground,BP LPG UK,PIN080080,1328.18
+CLG,FSC,09/06/2010,"VL,AT,RP Fees",Hazmats,Draeger Safety UK Ltd.,PIN079992,1150
+CLG,FSC,09/06/2010,"VL,AT,RP Fees",Hazmats,Draeger Safety UK Ltd.,PIN079992,1150
+CLG,FSC,09/06/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN079981,540
+CLG,FSC,09/06/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN079982,900
+CLG,FSC,09/06/2010,Other Professional Fees,Facilities Costs,Knight Frank LLP (Bristol),PIN080005,1500
+CLG,FSC,10/06/2010,"Fgnd Eqpt, etc - Maintenance",USAR,Banbury Plant Hire,PIN080087,1640
+CLG,FSC,10/06/2010,Natural Gas,Facilities Costs,Corona Energy,PIN080083,10838.71
+CLG,FSC,10/06/2010,Catering - Other,Int Facilities Mgmt,Fire Service College Mess Club,PIN079985,1333.33
+CLG,FSC,10/06/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080363,1600
+CLG,FSC,10/06/2010,"VL,AT,RP Fees",Hazmats,Nottinghamshire Fire & Rescue Service,PIN080020,1040
+CLG,FSC,10/06/2010,Relocation - Seconded (NT) ,Human Resources,Pickfords Ltd.,PIN079994,-14.87
+CLG,FSC,10/06/2010,Relocation - Seconded (NT) ,Human Resources,Pickfords Ltd.,PIN079994,844
+CLG,FSC,10/06/2010,Staff Development - Skill Specific,Staff Development,Supply 999 Limited,PIN079990,1470
+CLG,FSC,10/06/2010,Staff Development - Skill Specific,Staff Development,Supply 999 Limited,PIN079990,1470
+CLG,FSC,10/06/2010,"VL,AT,RP Fees",Hazmats,VT Group,PIN080240,3113.75
+CLG,FSC,11/06/2010,Agency Costs (Admin),Marketing,Hays Sales & Marketing,PIN080014,870
+CLG,FSC,11/06/2010,Agency Costs (Admin),Marketing,Hays Sales & Marketing,PIN080013,1450
+CLG,FSC,11/06/2010,Payroll Fees,Human Resources,Home Office Pay & Pension Service,PIN080003,1069.25
+CLG,FSC,11/06/2010,Fireground Consumables,Ops-Fireground,James Latham Western - Lathams Ltd,PIN080089,8250
+CLG,FSC,14/06/2010,Consultancy,CSSC - FRS FS Trng,QA Associates Ltd,PIN080045,1923.2
+CLG,FSC,14/06/2010,USAR consumables,USAR,Smith's (Gloucester) Limited,PIN081005,6355
+CLG,FSC,15/06/2010,Miscellaneous,Prop & Maint Costs,Amity Insulation Services Ltd,PIN080174,562.5
+CLG,FSC,15/06/2010,Sundry low value purchase,Resourcing,Barclays HMG Procurement Card,PPI004644,55.5
+CLG,FSC,15/06/2010,Sundry low value purchase,Directors,Barclays HMG Procurement Card,PPI004644,92.93
+CLG,FSC,15/06/2010,Sundry low value purchase,Library,Barclays HMG Procurement Card,PPI004644,136.05
+CLG,FSC,15/06/2010,Sundry low value purchase,Nursery,Barclays HMG Procurement Card,PPI004644,320.84
+CLG,FSC,15/06/2010,Sundry low value purchase,Risk & Governance,Barclays HMG Procurement Card,PPI004644,22359.49
+CLG,FSC,15/06/2010,Business Rates (Cilor),Prop & Maint Costs,Cotswold District Council,PIN080072,-257.78
+CLG,FSC,15/06/2010,Business Rates (Cilor),Prop & Maint Costs,Cotswold District Council,PIN080072,-121.24
+CLG,FSC,15/06/2010,Business Rates (Cilor),Prop & Maint Costs,Cotswold District Council,PIN080072,1470.15
+CLG,FSC,15/06/2010,"VL,AT,RP Fees",Hazmats,East Sussex Fire Authority,PCR003901,-1102.36
+CLG,FSC,15/06/2010,"VL,AT,RP Fees",Hazmats,East Sussex Fire Authority,PIN080091,1040
+CLG,FSC,15/06/2010,Prepayments,IT Section,IMC (UK) Learning Ltd,PIN080180,15783.33
+CLG,FSC,15/06/2010,Building / Plumbing Maintenance,Prop & Maint Costs,Mansell Construction Services Ltd,PIN080061,12337.25
+CLG,FSC,15/06/2010,Audit Fees,Risk & Governance,Price Waterhouse Coopers LLP,PIN080289,848
+CLG,FSC,16/06/2010,"Student - Travel, etc",Transport,Bakers Commercial Services Ltd.,PIN080306,525
+CLG,FSC,16/06/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN080073,900
+CLG,FSC,16/06/2010,Reactive Maintenance,Prop & Maint Costs,KPR Engineering (M&E) Ltd.,PIN080075,2973
+CLG,FSC,16/06/2010,External Accreditation Costs,Higher Education,NCFE,PIN080079,500
+CLG,FSC,17/06/2010,Scrap Vehicles,Ops-Fireground,Common Road Dismantlers,PIN080175,2537.5
+CLG,FSC,17/06/2010,Seconded Salary,Default Cost Centre,Gloucestershire County Council,PIN080106,14562.09
+CLG,FSC,17/06/2010,Seconded Salary,Default Cost Centre,Gloucestershire County Council,PIN080107,16847.94
+CLG,FSC,17/06/2010,Agency Costs (Admin),Marketing,Hays Sales & Marketing,PIN080074,1450
+CLG,FSC,17/06/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080364,2000
+CLG,FSC,17/06/2010,L&B - WIP,Default Cost Centre,Peter Evans Partnership,PIN080533,684.9
+CLG,FSC,17/06/2010,L&B - WIP,Default Cost Centre,Peter Evans Partnership,PIN080533,1015.1
+CLG,FSC,17/06/2010,L&B - WIP,Default Cost Centre,Peter Evans Partnership,PIN080533,3300
+CLG,FSC,17/06/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN080110,574.23
+CLG,FSC,18/06/2010,Miscellaneous,Prop & Maint Costs,KPR Engineering (M&E) Ltd.,PIN080183,843
+CLG,FSC,18/06/2010,Training Rigs / Infrastructure,Prop & Maint Costs,Minerva Simulator Facilities Ltd,PIN080135,638
+CLG,FSC,18/06/2010,"VL,AT,RP Fees",USAR,Norfolk County Council,PIN080141,40
+CLG,FSC,18/06/2010,"VL,AT,RP Fees",USAR,Norfolk County Council,PIN080141,1200
+CLG,FSC,18/06/2010,Marketing - Corporate Image,Events & Infra. Sale,Staples Promotional Products Europe Ltd,PIN080129,50
+CLG,FSC,18/06/2010,Marketing - Corporate Image,Events & Infra. Sale,Staples Promotional Products Europe Ltd,PIN080129,870
+CLG,FSC,19/06/2010,Leasing Charges,Facilities Costs,Ambius (Rentokil Tropical Plants),PIN080223,802.12
+CLG,FSC,21/06/2010,L&B - WIP,Default Cost Centre,Hyder Consulting (UK) Ltd.,PIN080177,1000
+CLG,FSC,21/06/2010,L&B - WIP,Default Cost Centre,Hyder Consulting (UK) Ltd.,PIN080177,2000
+CLG,FSC,21/06/2010,Promotional events and activities,Events & Infra. Sale,Redbows Ltd,PIN080376,20
+CLG,FSC,21/06/2010,Promotional events and activities,Events & Infra. Sale,Redbows Ltd,PIN080376,50
+CLG,FSC,21/06/2010,Promotional events and activities,Events & Infra. Sale,Redbows Ltd,PIN080376,1468.5
+CLG,FSC,21/06/2010,Admin - Photocopier Costs,Facilities Costs,RICOH UK Ltd,PIN080524,817.2
+CLG,FSC,21/06/2010,Media - Rental,Publications,RICOH UK Ltd,PIN080527,7048.45
+CLG,FSC,21/06/2010,"Fgnd Eqpt, etc - Maintenance",Ops-Fireground,Supply 999 Limited,PIN080120,7.25
+CLG,FSC,21/06/2010,"Fgnd Eqpt, etc - Maintenance",Ops-Fireground,Supply 999 Limited,PIN080120,1675.96
+CLG,FSC,21/06/2010,Water Charges,Facilities Costs,Thames Water,PIN080157,4453.44
+CLG,FSC,21/06/2010,Rechargeable Costs,Director of  Estates,Veale Wasbrough Vizards,PIN080176,3564
+CLG,FSC,22/06/2010,Legal Fees,Facilities Costs,Harrison & Hardie,PIN080137,261.56
+CLG,FSC,22/06/2010,Legal Fees,Facilities Costs,Harrison & Hardie,PIN080137,3402.6
+CLG,FSC,22/06/2010,Training Rigs / Infrastructure,Prop & Maint Costs,KPR Engineering (M&E) Ltd.,PIN080613,1530
+CLG,FSC,22/06/2010,Legal Fees,Facilities Costs,Veale Wasbrough Vizards,PIN080400,943.53
+CLG,FSC,22/06/2010,Legal Fees,Information Services,Veale Wasbrough Vizards,PIN080228,2200
+CLG,FSC,23/06/2010,USAR consumables,USAR,Dewalt (Black & Decker),PIN080468,215.3
+CLG,FSC,23/06/2010,USAR consumables,USAR,Dewalt (Black & Decker),PIN080468,485.07
+CLG,FSC,23/06/2010,"VL,AT,RP Fees",Hazmats,Merseyside Fire & Rescue Service,PIN080189,1040
+CLG,FSC,24/06/2010,Non-Training Eqpt - Purchases,Ops-Workshops,Cromwell Tools (Basingstoke),PIN080235,536.27
+CLG,FSC,24/06/2010,L&B - WIP,Director of  Estates,Knight Frank (Manchester),PIN080198,13128.29
+CLG,FSC,24/06/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,NPIA,PIN080160,2785
+CLG,FSC,24/06/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN080195,500.83
+CLG,FSC,24/06/2010,Consultancy,Director of Finance,Terry Price Associates,PIN080232,668
+CLG,FSC,25/06/2010,USAR consumables,Ops-Fireground,Concept Engineering LTD,PIN080188,10
+CLG,FSC,25/06/2010,USAR consumables,Ops-Fireground,Concept Engineering LTD,PIN080188,768.48
+CLG,FSC,25/06/2010,Reactive Maintenance,Prop & Maint Costs,Edmundsons Electrical Ltd,PIN080251,0.04
+CLG,FSC,25/06/2010,Reactive Maintenance,Prop & Maint Costs,Edmundsons Electrical Ltd,PIN080251,31.23
+CLG,FSC,25/06/2010,Reactive Maintenance,Prop & Maint Costs,Edmundsons Electrical Ltd,PIN080251,83.13
+CLG,FSC,25/06/2010,Reactive Maintenance,Prop & Maint Costs,Edmundsons Electrical Ltd,PIN080251,394
+CLG,FSC,25/06/2010,Consultancy,Facilities Costs,Entec UK Limited,PIN080429,1762.5
+CLG,FSC,25/06/2010,"VL,AT,RP Fees",Hazmats,Merseyside Fire & Rescue Service,PIN080221,1040
+CLG,FSC,27/06/2010,Prepayments,IT Section,Northgate Arinso,PIN080320,7448.67
+CLG,FSC,28/06/2010,Postal Charges,Finance Department,DHL Express UK ltd,PIN080268,63.96
+CLG,FSC,28/06/2010,Postal Charges,Internat'al Business,DHL Express UK ltd,PIN080268,89.61
+CLG,FSC,28/06/2010,Postal Charges,Infill,DHL Express UK ltd,PIN080268,131.66
+CLG,FSC,28/06/2010,Postal Charges,CSSC - FRS FS Trng,DHL Express UK ltd,PIN080268,147.77
+CLG,FSC,28/06/2010,Postal Charges,Internat'al Business,DHL Express UK ltd,PIN080268,177.07
+CLG,FSC,28/06/2010,Prepayments,Library,EduServ,PIN080215,715
+CLG,FSC,28/06/2010,Structure Maint. - Steelwork & Respray,Prop & Maint Costs,Lilleshall Steel Services Ltd,PIN080439,26
+CLG,FSC,28/06/2010,Structure Maint. - Steelwork & Respray,Prop & Maint Costs,Lilleshall Steel Services Ltd,PIN080439,480
+CLG,FSC,28/06/2010,Travel - Other,Library,RSP Rail Travel Account,PPI004652,30
+CLG,FSC,28/06/2010,Travel - Other,Library,RSP Rail Travel Account,PPI004652,30.2
+CLG,FSC,28/06/2010,Travel - Other,Higher Education,RSP Rail Travel Account,PPI004652,37.3
+CLG,FSC,28/06/2010,Travel - Other,Director of HR,RSP Rail Travel Account,PPI004652,40.8
+CLG,FSC,28/06/2010,Travel - Other,Higher Education,RSP Rail Travel Account,PPI004652,48.8
+CLG,FSC,28/06/2010,Travel - Other,Library,RSP Rail Travel Account,PPI004652,53.7
+CLG,FSC,28/06/2010,Travel - Other,Facilities Costs,RSP Rail Travel Account,PPI004652,66
+CLG,FSC,28/06/2010,Travel - Other,Prop & Maint Costs,RSP Rail Travel Account,PPI004652,144.5
+CLG,FSC,28/06/2010,Travel - Other,Incident Management,RSP Rail Travel Account,PPI004652,148
+CLG,FSC,28/06/2010,Travel - Other,Library,RSP Rail Travel Account,PPI004652,148.7
+CLG,FSC,28/06/2010,Seconded Salary,Default Cost Centre,Staffordshire Fire & Rescue Service,PIN080327,12277.23
+CLG,FSC,28/06/2010,Seconded Salary,Default Cost Centre,Staffordshire Fire & Rescue Service,PIN080326,17520.93
+CLG,FSC,28/06/2010,"VL,AT,RP Fees",Hazmats,VT Group,PCR003906,-3113.75
+CLG,FSC,29/06/2010,"Student - Travel, etc",Special Ops,Bakers Commercial Services Ltd.,PIN080462,1275
+CLG,FSC,29/06/2010,Catering - Other,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN080529,4749.23
+CLG,FSC,29/06/2010,Catering - Hospitality,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN080529,12288.55
+CLG,FSC,29/06/2010,Core Variable Costs,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN080257,15100.97
+CLG,FSC,29/06/2010,Catering - Hospitality,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN080529,16042.38
+CLG,FSC,29/06/2010,Catering - Meals,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN080529,43076.69
+CLG,FSC,29/06/2010,Core Fixed Costs,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN080256,69216.51
+CLG,FSC,29/06/2010,Seconded Salary,Default Cost Centre,L.F.E.P.A.,PIN080324,24493.44
+CLG,FSC,29/06/2010,"Fgnd Eqpt, etc - Purchases",USAR,Total Worx (Safequip) Ltd,PIN080261,247.52
+CLG,FSC,29/06/2010,"Fgnd Eqpt, etc - Purchases",USAR,Total Worx (Safequip) Ltd,PIN080261,660
+CLG,FSC,29/06/2010,"Fgnd Eqpt, etc - Rental",USAR,Wiltshire College,PIN080236,684
+CLG,FSC,29/06/2010,"VL,AT,RP Fees",USAR,Wiltshire College,PIN080236,9352.51
+CLG,FSC,30/06/2010,"Compressed Air, Cooling & Ventilation",Prop & Maint Costs,A.M.S. Refrigeration Ltd.,PIN080388,630
+CLG,FSC,30/06/2010,Training Rigs / Infrastructure,Prop & Maint Costs,Buzz Electrical Ltd,PIN080286,559.05
+CLG,FSC,30/06/2010,Electrical Testing,Prop & Maint Costs,Buzz Electrical Ltd,PIN080288,1412
+CLG,FSC,30/06/2010,Training Rigs / Infrastructure,Prop & Maint Costs,Buzz Electrical Ltd,PIN080284,1709
+CLG,FSC,30/06/2010,Electrical Testing,Prop & Maint Costs,Buzz Electrical Ltd,PIN080283,2340
+CLG,FSC,30/06/2010,Electrical Testing,Prop & Maint Costs,Buzz Electrical Ltd,PIN080287,2468
+CLG,FSC,30/06/2010,Training Rigs / Infrastructure,Prop & Maint Costs,Buzz Electrical Ltd,PIN080285,7536
+CLG,FSC,30/06/2010,Barclaycard - Travel & Subs,Cent. For Leadership,Company Barclaycard Business,PPI004654,32.2
+CLG,FSC,30/06/2010,Barclaycard - Travel & Subs,Dir. of Serv. Deliv.,Company Barclaycard Business,PPI004654,81.7
+CLG,FSC,30/06/2010,Barclaycard - Travel & Subs,Information Services,Company Barclaycard Business,PPI004654,102.8
+CLG,FSC,30/06/2010,Barclaycard - Travel & Subs,Qualifications Man.,Company Barclaycard Business,PPI004654,150.9
+CLG,FSC,30/06/2010,Barclaycard - Travel & Subs,USAR,Company Barclaycard Business,PPI004654,285.55
+CLG,FSC,30/06/2010,Barclaycard - Travel & Subs,Directors,Company Barclaycard Business,PPI004654,445
+CLG,FSC,30/06/2010,Barclaycard - Travel & Subs,Dir of Sales&Mrkting,Company Barclaycard Business,PPI004654,1368.38
+CLG,FSC,30/06/2010,Barclaycard - Travel & Subs,Internat'al Business,Company Barclaycard Business,PPI004654,5140.02
+CLG,FSC,30/06/2010,IT Consultancies,Directors,Dbi Consulting,PIN080369,4978
+CLG,FSC,30/06/2010,Seconded Salary,Default Cost Centre,Durham & Darlington Fire & Rescue Service,PIN080329,16848
+CLG,FSC,30/06/2010,Rechargeable Costs,Estates Contracts,Expotel Hotel Reservations Ltd,PIN081353,2588.92
+CLG,FSC,30/06/2010,Rechargeable Costs,Estates Contracts,Expotel Hotel Reservations Ltd,PIN080282,2982.95
+CLG,FSC,30/06/2010,Provisions,Default Cost Centre,HMRC,PIN080377,250000
+CLG,FSC,30/06/2010,External Accommodation - Hotels,Special Ops,HMS Nelson Wardroom,PIN080341,273.12
+CLG,FSC,30/06/2010,External Accommodation - Hotels,Special Ops,HMS Nelson Wardroom,PIN080341,291.7
+CLG,FSC,30/06/2010,Rechargeable Costs,Director of  Estates,Knight Frank (Manchester),PIN080561,4207.5
+CLG,FSC,30/06/2010,Rechargeable Costs,Events & Infra. Sale,Mason Navarro Pledge,PIN080892,837
+CLG,FSC,30/06/2010,External Course/Seminar Delivery,OGA,Mines Rescue Services Ltd,PIN080384,881.25
+CLG,FSC,30/06/2010,Postal Charges,Facilities Costs,Neopost Ltd,PIN080227,3.43
+CLG,FSC,30/06/2010,Postal Charges,Facilities Costs,Neopost Ltd,PIN080227,500
+CLG,FSC,30/06/2010,Postal Charges,Facilities Costs,Neopost Ltd,PIN080227,996.57
+CLG,FSC,30/06/2010,Admin - Stationery,Prop & Maint Costs,Office Depot UK Ltd,PIN080532,1083.25
+CLG,FSC,30/06/2010,Media - Student Stationery,Publications,Office Depot UK Ltd,PIN080366,1156.18
+CLG,FSC,30/06/2010,Admin - Stationery,Prop & Maint Costs,Office Depot UK Ltd,PIN080531,1456.42
+CLG,FSC,30/06/2010,Admin - Stationery,Facilities Costs,Office Depot UK Ltd,PIN080266,1637.06
+CLG,FSC,30/06/2010,Reactive Maintenance,Prop & Maint Costs,QTS Associates Ltd,PIN080272,4923.99
+CLG,FSC,30/06/2010,Scrap Vehicles,Ops-Fireground,Smiths of Bloxham,PIN080547,16960
+CLG,FSC,30/06/2010,Seconded Salary,Default Cost Centre,South Yorkshire Fire & Rescue,PIN080325,14121.92
+CLG,FSC,30/06/2010,Copyright fees,Information Services,The Newspaper Licensing Agency Ltd,PIN080267,851
+CLG,FSC,01/07/2010,Electricity,Facilities Costs,EDF Electricity (Was London Electricity Plc),PIN080262,16144.15
+CLG,FSC,01/07/2010,"Student - Travel, etc",Transport,ETC Private Hire & Chauffeur Services,PIN080461,256
+CLG,FSC,01/07/2010,"Student - Travel, etc",Transport,ETC Private Hire & Chauffeur Services,PIN080461,474
+CLG,FSC,01/07/2010,"Student - Travel, etc",Transport,ETC Private Hire & Chauffeur Services,PIN080461,1000
+CLG,FSC,01/07/2010,Catering - Other,Int Facilities Mgmt,Fire Service College Mess Club,PIN080463,1333.33
+CLG,FSC,01/07/2010,Agency Costs (Admin),Marketing,Hays Sales & Marketing,PIN081137,1450
+CLG,FSC,01/07/2010,Telephone Charges,IT Section,Kcom,PIN080408,977.03
+CLG,FSC,01/07/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080318,1400
+CLG,FSC,01/07/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080354,1400
+CLG,FSC,01/07/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080355,1400
+CLG,FSC,01/07/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080316,1800
+CLG,FSC,01/07/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080707,2350
+CLG,FSC,01/07/2010,Relocation - Seconded (NT) ,Human Resources,Neil Pederson,PIN080245,1500
+CLG,FSC,01/07/2010,IT Hardware - Rental,IT Section,Star Technology Services Ltd.,PIN080503,3779.66
+CLG,FSC,01/07/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN080293,673.53
+CLG,FSC,02/07/2010,Marketing - Exhibitions,Marketing,Deutsche Messe AG,PIN080718,2469.96
+CLG,FSC,02/07/2010,Marketing - Exhibitions,Marketing,Emergency Services (MMC) Ltd,PIN080585,1656
+CLG,FSC,02/07/2010,Prepayments,Publications,OCE (UK) Ltd.,PIN080411,11986.7
+CLG,FSC,03/07/2010,USAR consumables,USAR,K G Morris Timber Merchants,PIN080310,875
+CLG,FSC,05/07/2010,Consultancy,Incident Management,KA C&CC,PIN080308,5806.86
+CLG,FSC,05/07/2010,External Course/Seminar Delivery,USAR,Mines Rescue Services Ltd,PIN080372,7159.47
+CLG,FSC,05/07/2010,Relocation - Seconded (NT) ,Human Resources,SubO Dave Carson,PIN080333,2297.99
+CLG,FSC,06/07/2010,Water Hygiene & Pollution Control,Prop & Maint Costs,Bale Group,PIN081018,2396.35
+CLG,FSC,06/07/2010,USAR consumables,USAR,Clucas MOE Ltd.,PIN080337,25
+CLG,FSC,06/07/2010,USAR consumables,USAR,Clucas MOE Ltd.,PIN080337,30
+CLG,FSC,06/07/2010,USAR consumables,USAR,Clucas MOE Ltd.,PIN080337,1100
+CLG,FSC,06/07/2010,IT - WIP,Default Cost Centre,Display I.T. International Limited,PIN080386,555
+CLG,FSC,06/07/2010,"Petrol, Oil, Tyres",Ops-Fireground,GB Oils,PIN080469,9769
+CLG,FSC,06/07/2010,Seconded Salary,Default Cost Centre,Kent Fire & Rescue Service,PIN080459,16515.74
+CLG,FSC,06/07/2010,"VL,AT,RP Fees",USAR,Merseyside Fire & Rescue Service,PIN080460,1150
+CLG,FSC,06/07/2010,"VL,AT,RP Fees",USAR,Northumberland County Council,PIN080904,1043.89
+CLG,FSC,06/07/2010,"VL,AT,RP Fees",USAR,Northumberland Fire & Rescue Service,PIN080407,1043.89
+CLG,FSC,06/07/2010,Staff Development - Skill Specific,Staff Development,Total Worx (Safequip) Ltd,PIN080430,1760
+CLG,FSC,07/07/2010,Audit Fees,Business Management,DNV Certification Ltd.,PIN080387,138
+CLG,FSC,07/07/2010,Audit Fees,Business Management,DNV Certification Ltd.,PIN080387,728
+CLG,FSC,07/07/2010,"VL,AT,RP Fees",Hazmats,Pycko Scientific Ltd.,PIN080393,650
+CLG,FSC,07/07/2010,"VL,AT,RP Fees",Hazmats,Pycko Scientific Ltd.,PIN080393,650
+CLG,FSC,07/07/2010,"VL,AT,RP Fees",Hazmats,Pycko Scientific Ltd.,PIN080393,650
+CLG,FSC,07/07/2010,"VL,AT,RP Fees",USAR,Wiltshire College,PIN080394,4676
+CLG,FSC,07/07/2010,"VL,AT,RP Fees",USAR,Wiltshire College,PIN080395,4676
+CLG,FSC,08/07/2010,Seconded Salary,Default Cost Centre,City of Sunderland,PIN080569,100908.5
+CLG,FSC,08/07/2010,Seconded Salary,Default Cost Centre,Cleveland Fire Authority,PIN080403,17183.94
+CLG,FSC,08/07/2010,Seconded Salary,Default Cost Centre,Dumfries & Galloway Council,PIN080458,10110.68
+CLG,FSC,08/07/2010,Agency Costs (Admin),Marketing,Hays Sales & Marketing,PIN081138,1450
+CLG,FSC,08/07/2010,Travel - Other,Incident Management,London Fire Brigade,PIN080504,4
+CLG,FSC,08/07/2010,Travel - Other,Incident Management,London Fire Brigade,PIN080504,1971
+CLG,FSC,08/07/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080706,2350
+CLG,FSC,08/07/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN080422,57.46
+CLG,FSC,08/07/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN080422,460.64
+CLG,FSC,08/07/2010,Seconded Salary,Default Cost Centre,Suffolk County Council,PIN080404,14686.29
+CLG,FSC,08/07/2010,"V,F&F - WIP",Default Cost Centre,Witham Specialist Vehicles Ltd.,PIN080498,1500
+CLG,FSC,09/07/2010,"Petrol, Oil, Tyres",Ops-Fireground,BP LPG UK,PIN080560,2043.27
+CLG,FSC,09/07/2010,USAR consumables,USAR,Building and Plumbing Supplies Ltd.,PIN080444,1209
+CLG,FSC,09/07/2010,USAR consumables,USAR,Building and Plumbing Supplies Ltd.,PIN080444,1252.02
+CLG,FSC,09/07/2010,"VL,AT,RP Fees",Incident Management,CodexR Ltd,PIN080413,1600.8
+CLG,FSC,09/07/2010,Natural Gas,Facilities Costs,Corona Energy,PIN080452,6302.06
+CLG,FSC,09/07/2010,IT Hardware - Purchases,IT Section,Dell Corporation Ltd,PIN080502,959.49
+CLG,FSC,09/07/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,Paul Harrison Fire Safety Consultancy Ltd,PIN080446,9.6
+CLG,FSC,09/07/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,Paul Harrison Fire Safety Consultancy Ltd,PIN080446,51
+CLG,FSC,09/07/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,Paul Harrison Fire Safety Consultancy Ltd,PIN080446,87.2
+CLG,FSC,09/07/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,Paul Harrison Fire Safety Consultancy Ltd,PIN080446,423
+CLG,FSC,09/07/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,Paul Harrison Fire Safety Consultancy Ltd,PIN080446,2200
+CLG,FSC,09/07/2010,Non-Training Eqpt - Purchases,Head Policy & Media,Selquin Ltd,PIN080428,869
+CLG,FSC,09/07/2010,Non-Training Eqpt - Purchases,Head Policy & Media,Selquin Ltd,PIN080428,895
+CLG,FSC,10/07/2010,Consultancy,Director of Finance,Terry Price Associates,PIN080466,668
+CLG,FSC,12/07/2010,SI - WIP,Default Cost Centre,Cotswold Technical Services,PIN080434,11172
+CLG,FSC,12/07/2010,Payroll Fees,Human Resources,Home Office Pay & Pension Service,PIN080721,1063.38
+CLG,FSC,12/07/2010,Relocation - Seconded (NT) ,Human Resources,Neil Pederson,PIN080449,1606.45
+CLG,FSC,12/07/2010,Audit Fees,Risk & Governance,Price Waterhouse Coopers LLP,PIN080490,2383
+CLG,FSC,12/07/2010,Vehicles - Consumables,Ops-Workshops,T. H. White Ltd,PIN081378,1519.49
+CLG,FSC,13/07/2010,Agency Costs (Admin),Director of Finance,Odgersinterim,PIN080497,15400
+CLG,FSC,13/07/2010,Seconded Salary,Default Cost Centre,Suffolk County Council,PIN080457,14686.29
+CLG,FSC,14/07/2010,"V,F&F - WIP",Default Cost Centre,Ideal Catering Solutions,PIN080470,593.4
+CLG,FSC,14/07/2010,"V,F&F - WIP",Default Cost Centre,Ideal Catering Solutions,PIN080470,1724.98
+CLG,FSC,14/07/2010,"V,F&F - WIP",Default Cost Centre,Ideal Catering Solutions,PIN080470,25782.64
+CLG,FSC,14/07/2010,Doors,Prop & Maint Costs,Mansell Construction Services Ltd,PIN080454,9693.07
+CLG,FSC,14/07/2010,Reactive Maintenance,Prop & Maint Costs,Mansell Construction Services Ltd,PIN080455,13954.48
+CLG,FSC,14/07/2010,Seconded Salary,Default Cost Centre,Northamptonshire County Council,PIN080500,11211.94
+CLG,FSC,14/07/2010,Seconded Salary,Default Cost Centre,Northamptonshire County Council,PIN080499,16817.5
+CLG,FSC,15/07/2010,Payroll Fees,Human Resources,Department for Work and Pensions,PIN080652,2460.92
+CLG,FSC,15/07/2010,Agency Costs (Admin),Marketing,Hays Sales & Marketing,PIN081172,720
+CLG,FSC,15/07/2010,Agency Costs (Admin),Marketing,Hays Sales & Marketing,PIN081172,730
+CLG,FSC,15/07/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080733,2000
+CLG,FSC,15/07/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080705,2350
+CLG,FSC,15/07/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN080506,518.1
+CLG,FSC,15/07/2010,Seconded Salary,Default Cost Centre,Suffolk County Council,PCR003910,-14686.29
+CLG,FSC,15/07/2010,Seconded Salary,Default Cost Centre,West Yorkshire F.C.D.A.,PIN080583,14100.12
+CLG,FSC,15/07/2010,Seconded Salary,Default Cost Centre,West Yorkshire F.C.D.A.,PIN080584,16543.94
+CLG,FSC,15/07/2010,Seconded Salary,Default Cost Centre,West Yorkshire F.C.D.A.,PIN080582,17533.56
+CLG,FSC,16/07/2010,Seconded Salary,Default Cost Centre,Devon Fire Authority,PIN080501,16975.18
+CLG,FSC,16/07/2010,"Lamps, Batteries & Control Gear",Prop & Maint Costs,Edmundsons Electrical Ltd,PIN080837,63
+CLG,FSC,16/07/2010,"Lamps, Batteries & Control Gear",Prop & Maint Costs,Edmundsons Electrical Ltd,PIN080837,84
+CLG,FSC,16/07/2010,"Lamps, Batteries & Control Gear",Prop & Maint Costs,Edmundsons Electrical Ltd,PIN080837,127.5
+CLG,FSC,16/07/2010,"Lamps, Batteries & Control Gear",Prop & Maint Costs,Edmundsons Electrical Ltd,PIN080837,277
+CLG,FSC,16/07/2010,Seconded Salary,Default Cost Centre,Greater Manchester Fire & Rescue Service,PIN080619,19115.45
+CLG,FSC,16/07/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN080491,900
+CLG,FSC,16/07/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN080492,900
+CLG,FSC,16/07/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN080493,900
+CLG,FSC,16/07/2010,"VL,AT,RP Fees",Internat'al Business,Mr I Andrews,PIN080653,1642.15
+CLG,FSC,16/07/2010,Prepayments,IT Section,QUBE  Global Software - Planet,PIN080542,10.58
+CLG,FSC,16/07/2010,Prepayments,IT Section,QUBE  Global Software - Planet,PIN080542,4967.8
+CLG,FSC,17/07/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,Metasolutions (Fire Safety Engineering) Ltd,PIN080517,52
+CLG,FSC,17/07/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,Metasolutions (Fire Safety Engineering) Ltd,PIN080517,1200
+CLG,FSC,19/07/2010,Seconded Salary,Default Cost Centre,City of Sunderland,PIN080570,14495.34
+CLG,FSC,19/07/2010,Seconded Salary,Default Cost Centre,City of Sunderland,PIN080570,14668.66
+CLG,FSC,19/07/2010,Seconded Salary,Default Cost Centre,City of Sunderland,PIN080570,15983.94
+CLG,FSC,19/07/2010,Seconded Salary,Default Cost Centre,City of Sunderland,PIN080570,18430.85
+CLG,FSC,19/07/2010,Seconded Salary,Default Cost Centre,City of Sunderland,PIN080570,18481.94
+CLG,FSC,19/07/2010,Non-Fgnd Training - Eqpt Purchases,Estate Support,Leisure Lakes c2w,PIN080678,795.73
+CLG,FSC,19/07/2010,Miscellaneous,Prop & Maint Costs,Riggott & Co LTD,PIN080778,1936.2
+CLG,FSC,20/07/2010,Seconded Salary,Default Cost Centre,City of Sunderland,PCR003916,-100908.5
+CLG,FSC,20/07/2010,"VL,AT,RP Fees",Hazmats,Cornwall Fire & Rescue Service,PIN080546,200
+CLG,FSC,20/07/2010,"VL,AT,RP Fees",Hazmats,Cornwall Fire & Rescue Service,PIN080546,5000
+CLG,FSC,20/07/2010,Business Rates (Cilor),Prop & Maint Costs,Cotswold District Council,PIN080600,-491.39
+CLG,FSC,20/07/2010,Business Rates (Cilor),Prop & Maint Costs,Cotswold District Council,PIN080600,-97.88
+CLG,FSC,20/07/2010,Business Rates (Cilor),Prop & Maint Costs,Cotswold District Council,PIN080600,1470.15
+CLG,FSC,20/07/2010,L&B - WIP,Default Cost Centre,Four Communciations,PIN080550,2750
+CLG,FSC,20/07/2010,"Petrol, Oil, Tyres",Ops-Fireground,GB Oils,PIN080588,4973
+CLG,FSC,20/07/2010,Prepayments,Higher Education,NCFE,PIN080590,2000
+CLG,FSC,20/07/2010,Seconded Salary,Default Cost Centre,Norfolk County Council,PIN080572,16848.09
+CLG,FSC,20/07/2010,"VL,AT,RP Fees",USAR,Shropshire FRS HQ,PIN080621,1040
+CLG,FSC,20/07/2010,Consultancy,Cent. For Leadership,The Leadership Network Ltd,PIN080530,182.4
+CLG,FSC,20/07/2010,Consultancy,Cent. For Leadership,The Leadership Network Ltd,PIN080530,2000
+CLG,FSC,20/07/2010,Rechargeable Costs,Director of  Estates,Veale Wasbrough Vizards,PIN080995,1936
+CLG,FSC,20/07/2010,Rechargeable Costs,Director of  Estates,Veale Wasbrough Vizards,PIN080995,2128
+CLG,FSC,21/07/2010,Building / Plumbing Maintenance,Prop & Maint Costs,Banbury Plant Hire,PIN080567,1380
+CLG,FSC,21/07/2010,Building / Plumbing Maintenance,Prop & Maint Costs,Banbury Plant Hire,PIN080565,2064
+CLG,FSC,21/07/2010,Building / Plumbing Maintenance,Prop & Maint Costs,Banbury Plant Hire,PIN080564,2124
+CLG,FSC,21/07/2010,Building / Plumbing Maintenance,Prop & Maint Costs,Banbury Plant Hire,PIN080566,2324
+CLG,FSC,21/07/2010,Non-Training Eqpt - Maintenance,Ops-Fireground,Draeger Safety UK Ltd.,PIN080563,524.75
+CLG,FSC,21/07/2010,Seconded Salary,Default Cost Centre,Merseyside Fire & Rescue Authority,PIN080663,12450.63
+CLG,FSC,21/07/2010,Seconded Salary,Default Cost Centre,Merseyside Fire & Rescue Authority,PIN080574,15351.31
+CLG,FSC,21/07/2010,Seconded Salary,Default Cost Centre,Merseyside Fire & Rescue Authority,PIN080573,15887.06
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,0.03
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,5.39
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,8.98
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,12.58
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,17.99
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,21.57
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,23.38
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,23.38
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,23.38
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,26.99
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,26.99
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,37.76
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,44.99
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,70.14
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,70.14
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,89.9
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,89.98
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,102.54
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,103.45
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,125.9
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,129.48
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,179.95
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,206.9
+CLG,FSC,21/07/2010,Fix/Fitt - Purchases,Int Facilities Mgmt,Nisbets,PIN080833,359.9
+CLG,FSC,21/07/2010,Consultancy,CSSC - FRS FS Trng,QA Associates Ltd,PCR003939,-4882.2
+CLG,FSC,21/07/2010,Consultancy,CSSC - FRS FS Trng,QA Associates Ltd,PCR003939,-4762.2
+CLG,FSC,21/07/2010,Consultancy,CSSC - FRS FS Trng,QA Associates Ltd,PIN080549,4762.2
+CLG,FSC,21/07/2010,Consultancy,CSSC - FRS FS Trng,QA Associates Ltd,PIN080549,4882.2
+CLG,FSC,22/07/2010,Staff Development - Skill Specific,Staff Development,Beamans Ltd.,PIN080592,1588
+CLG,FSC,22/07/2010,Agency Costs (Admin),Marketing,Hays Sales & Marketing,PIN080548,1450
+CLG,FSC,22/07/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080701,1410
+CLG,FSC,22/07/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080702,1880
+CLG,FSC,22/07/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080704,2350
+CLG,FSC,22/07/2010,Fireground Consumables,Ops-Fireground,R J W Phipp & Sons,PIN080628,800
+CLG,FSC,22/07/2010,Water Charges,Facilities Costs,Thames Water,PIN080587,6713.82
+CLG,FSC,22/07/2010,Legal Fees,Information Services,Veale Wasbrough Vizards,PIN080756,2264.5
+CLG,FSC,23/07/2010,SI - WIP,Prop & Maint Costs,A.M.S. Refrigeration Ltd.,PIN080612,2907
+CLG,FSC,23/07/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,E.G. Training & Consultancy,PIN080655,1674
+CLG,FSC,23/07/2010,Admin - Photocopier Costs,Facilities Costs,RICOH UK Ltd,PIN080985,505.2
+CLG,FSC,23/07/2010,Media - Rental,Publications,RICOH UK Ltd,PIN080940,14652
+CLG,FSC,23/07/2010,Seconded Salary,Default Cost Centre,West Midlands Fire Service,PIN080664,14109.51
+CLG,FSC,23/07/2010,Seconded Salary,Default Cost Centre,West Midlands Fire Service,PIN080664,15211.83
+CLG,FSC,23/07/2010,Seconded Salary,Default Cost Centre,West Midlands Fire Service,PIN080664,16277.11
+CLG,FSC,26/07/2010,Miscellaneous,Prop & Maint Costs,Chubb Fire Ltd.,PIN080740,180.79
+CLG,FSC,26/07/2010,Miscellaneous,Prop & Maint Costs,Chubb Fire Ltd.,PIN080740,1200
+CLG,FSC,26/07/2010,Barclaycard - Travel & Subs,CSSC - FRS FS Trng,Company Barclaycard Business,PPI004675,10
+CLG,FSC,26/07/2010,Barclaycard - Travel & Subs,UKFRS RMT,Company Barclaycard Business,PPI004675,15.46
+CLG,FSC,26/07/2010,Barclaycard - Travel & Subs,UKFRS RMT,Company Barclaycard Business,PPI004675,34.6
+CLG,FSC,26/07/2010,Barclaycard - Travel & Subs,Director of Finance,Company Barclaycard Business,PPI004675,40.8
+CLG,FSC,26/07/2010,Barclaycard - Travel & Subs,Dir of Sales&Mrkting,Company Barclaycard Business,PPI004675,56.8
+CLG,FSC,26/07/2010,Barclaycard - Travel & Subs,Qualifications Man.,Company Barclaycard Business,PPI004675,94
+CLG,FSC,26/07/2010,Barclaycard - Travel & Subs,Dir. of Serv. Deliv.,Company Barclaycard Business,PPI004675,96.65
+CLG,FSC,26/07/2010,Barclaycard - Travel & Subs,USAR,Company Barclaycard Business,PPI004675,232.04
+CLG,FSC,26/07/2010,Barclaycard - Travel & Subs,Internat'al Business,Company Barclaycard Business,PPI004675,239.15
+CLG,FSC,26/07/2010,Barclaycard - Travel & Subs,Directors,Company Barclaycard Business,PPI004675,383.9
+CLG,FSC,26/07/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN080596,900
+CLG,FSC,26/07/2010,Relocation - Seconded (NT) ,Human Resources,Horsleys National & Intern. Removers,PIN080606,1186
+CLG,FSC,26/07/2010,External Course/Seminar Delivery,USAR,Mines Rescue Services Ltd,PIN080607,750
+CLG,FSC,26/07/2010,Doors,Prop & Maint Costs,Weatherite Shopfronts & Shutters Ltd.,PIN080686,323
+CLG,FSC,26/07/2010,Doors,Prop & Maint Costs,Weatherite Shopfronts & Shutters Ltd.,PIN080686,437
+CLG,FSC,26/07/2010,Doors,Prop & Maint Costs,Weatherite Shopfronts & Shutters Ltd.,PIN080686,558
+CLG,FSC,27/07/2010,Miscellaneous,Prop & Maint Costs,A.M.S. Refrigeration Ltd.,PIN080730,631
+CLG,FSC,27/07/2010,Business Rates (Cilor),Prop & Maint Costs,Cotswold District Council,PIN080659,830.13
+CLG,FSC,27/07/2010,Other Professional Fees,Special Ops,Edexcel Enterprises,PIN080605,1035
+CLG,FSC,27/07/2010,Miscellaneous,Prop & Maint Costs,Fosseway Hire,PIN080744,639.25
+CLG,FSC,27/07/2010,Prepayments,IT Section,Keysource,PIN080682,868
+CLG,FSC,28/07/2010,Reactive Maintenance,Prop & Maint Costs,A.M.S. Refrigeration Ltd.,PIN080731,840
+CLG,FSC,28/07/2010,Training Rigs / Infrastructure,Prop & Maint Costs,Buzz Electrical Ltd,PIN080636,512.2
+CLG,FSC,28/07/2010,Electrical Testing,Prop & Maint Costs,Buzz Electrical Ltd,PIN080627,843.16
+CLG,FSC,28/07/2010,Electrical Testing,Prop & Maint Costs,Buzz Electrical Ltd,PIN080632,1079.22
+CLG,FSC,28/07/2010,Training Rigs / Infrastructure,Prop & Maint Costs,Buzz Electrical Ltd,PIN080629,1709
+CLG,FSC,28/07/2010,Electrical Testing,Prop & Maint Costs,Buzz Electrical Ltd,PIN080631,2557
+CLG,FSC,28/07/2010,Electrical Testing,Prop & Maint Costs,Buzz Electrical Ltd,PIN080630,2828
+CLG,FSC,28/07/2010,Training Rigs / Infrastructure,Prop & Maint Costs,Buzz Electrical Ltd,PIN080636,5024
+CLG,FSC,28/07/2010,SI - WIP,Default Cost Centre,Buzz Electrical Ltd,PIN080635,6557.6
+CLG,FSC,28/07/2010,L&B - WIP,Director of  Estates,Peter Evans Partnership,PIN080755,2469.33
+CLG,FSC,28/07/2010,Agency Costs (Admin),Resourcing,Premiere Employment Group Ltd,PIN080666,514.23
+CLG,FSC,28/07/2010,Seconded Salary,Default Cost Centre,South Wales Fire & Rescue Service,PIN080661,17360.84
+CLG,FSC,28/07/2010,Staff Development - Skill Specific,Staff Development,W.A.B.B.A.,PIN080680,548.94
+CLG,FSC,29/07/2010,Agency Costs (Admin),Chief Info. Officer,Computer People,PIN080646,1123.75
+CLG,FSC,29/07/2010,Agency Costs (Admin),Chief Info. Officer,Computer People,PIN080645,5169.25
+CLG,FSC,29/07/2010,Audit Fees,Risk & Governance,DCLG,PIN080691,4009.25
+CLG,FSC,29/07/2010,Core Fixed Costs,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN080736,69216.51
+CLG,FSC,29/07/2010,Seconded Salary,Default Cost Centre,Fife Council,PIN080662,10485.54
+CLG,FSC,29/07/2010,Corporate Charges,Head Policy & Media,Formara Ltd,PIN080809,601.05
+CLG,FSC,29/07/2010,Seconded Salary,Default Cost Centre,Greater Manchester Fire & Rescue Service,PIN080620,18168.22
+CLG,FSC,29/07/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080734,2000
+CLG,FSC,29/07/2010,USAR consumables,USAR,Ruth Lee Ltd,PIN080634,15.75
+CLG,FSC,29/07/2010,USAR consumables,USAR,Ruth Lee Ltd,PIN080634,120
+CLG,FSC,29/07/2010,USAR consumables,USAR,Ruth Lee Ltd,PIN080634,270
+CLG,FSC,29/07/2010,USAR consumables,USAR,Ruth Lee Ltd,PIN080634,485
+CLG,FSC,29/07/2010,USAR consumables,USAR,Ruth Lee Ltd,PIN080634,1164
+CLG,FSC,29/07/2010,USAR consumables,USAR,Ruth Lee Ltd,PIN080634,2300
+CLG,FSC,29/07/2010,Corporate Charges,Head Policy & Media,The Domarn Group,PIN080885,4725
+CLG,FSC,30/07/2010,Reactive Maintenance,Prop & Maint Costs,A.M.S. Refrigeration Ltd.,PIN080729,926
+CLG,FSC,30/07/2010,Other Professional Fees,Cent. For Leadership,Ashridge,PIN080937,18500
+CLG,FSC,30/07/2010,IT Consultancies,Directors,Dbi Consulting,PIN080795,4454
+CLG,FSC,30/07/2010,Seconded Salary,Default Cost Centre,Grampian Fire and Rescue Service,PIN080722,11174.42
+CLG,FSC,30/07/2010,Training Rigs / Infrastructure,Prop & Maint Costs,KPR Engineering (M&E) Ltd.,PIN080754,2633
+CLG,FSC,30/07/2010,"VL,AT,RP Fees",Incident Management,Miltrain Ltd,PIN080894,1500
+CLG,FSC,30/07/2010,Consultancy,Int Facilities Mgmt,Panache Consultancy Limited,PIN080757,1487.5
+CLG,FSC,30/07/2010,"Fgnd Eqpt, etc - Rental",USAR,The Outreach Organisation Ltd.,PIN081039,760
+CLG,FSC,30/07/2010,"Fgnd Eqpt, etc - Rental",USAR,The Outreach Organisation Ltd.,PIN081039,760
+CLG,FSC,30/07/2010,"Fgnd Eqpt, etc - Rental",USAR,The Outreach Organisation Ltd.,PIN081039,760
+CLG,FSC,30/07/2010,"Fgnd Eqpt, etc - Rental",USAR,The Outreach Organisation Ltd.,PIN081039,760
+CLG,FSC,30/07/2010,"VL,AT,RP Fees",USAR,The Outreach Organisation Ltd.,PIN081039,2520
+CLG,FSC,30/07/2010,"VL,AT,RP Fees",USAR,The Outreach Organisation Ltd.,PIN081039,3780
+CLG,FSC,30/07/2010,"VL,AT,RP Fees",USAR,The Outreach Organisation Ltd.,PIN081039,5040
+CLG,FSC,30/07/2010,"VL,AT,RP Fees",USAR,The Outreach Organisation Ltd.,PIN081039,6300
+CLG,FSC,31/07/2010,Non-Training Eqpt - Purchases,Ops-Workshops,Angloco Ltd,PIN080866,22.5
+CLG,FSC,31/07/2010,Non-Training Eqpt - Purchases,Ops-Workshops,Angloco Ltd,PIN080866,650
+CLG,FSC,31/07/2010,Staff Development - Skill Specific,Staff Development,Angloco Ltd,PIN080865,1136
+CLG,FSC,31/07/2010,Sundry low value purchase,Risk & Governance,Barclays HMG Procurement Card,PIN080696,-412.14
+CLG,FSC,31/07/2010,Sundry low value purchase,Nursery,Barclays HMG Procurement Card,PIN080696,319.66
+CLG,FSC,31/07/2010,Sundry low value purchase,Risk & Governance,Barclays HMG Procurement Card,PIN080696,1877.79
+CLG,FSC,31/07/2010,Prepayments,Estate Support,BOC Ltd,PIN080931,2937.6
+CLG,FSC,31/07/2010,Rechargeable Costs,Estates Contracts,Expotel Hotel Reservations Ltd,PIN080840,243.06
+CLG,FSC,31/07/2010,Rechargeable Costs,Estates Contracts,Expotel Hotel Reservations Ltd,PIN080840,405.11
+CLG,FSC,31/07/2010,Rechargeable Costs,Estates Contracts,Expotel Hotel Reservations Ltd,PIN080840,1080.29
+CLG,FSC,31/07/2010,Agency Costs (Admin),Director of Finance,Odgersinterim,PIN080715,17272.5
+CLG,FSC,31/07/2010,Reactive Maintenance,Prop & Maint Costs,QTS Associates Ltd,PIN080764,4399.65
+CLG,FSC,31/07/2010,Water Hygiene & Pollution Control,Prop & Maint Costs,WCS Environmental Ltd,PIN080813,2831.4
+CLG,FSC,01/08/2010,Catering - Other,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN080738,1360.67
+CLG,FSC,01/08/2010,Catering - Other,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN080738,3258.44
+CLG,FSC,01/08/2010,Catering - Hospitality,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN080738,31630.93
+CLG,FSC,01/08/2010,Catering - Meals,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN080738,66896.06
+CLG,FSC,01/08/2010,Catering - Other,Int Facilities Mgmt,Fire Service College Mess Club,PIN080783,1333.33
+CLG,FSC,01/08/2010,Telephone Charges,IT Section,Kcom,PIN080796,899.86
+CLG,FSC,01/08/2010,"Fgnd Eqpt, etc - Purchases",Ops-Fireground,Ruth Lee Ltd,PIN081021,10.5
+CLG,FSC,01/08/2010,"Fgnd Eqpt, etc - Purchases",Ops-Fireground,Ruth Lee Ltd,PIN081021,55.6
+CLG,FSC,01/08/2010,"Fgnd Eqpt, etc - Purchases",Ops-Fireground,Ruth Lee Ltd,PIN081021,76
+CLG,FSC,01/08/2010,"Fgnd Eqpt, etc - Purchases",Ops-Fireground,Ruth Lee Ltd,PIN081021,310
+CLG,FSC,01/08/2010,"Fgnd Eqpt, etc - Purchases",Ops-Fireground,Ruth Lee Ltd,PIN081021,1940
+CLG,FSC,01/08/2010,IT Hardware - Rental,IT Section,Star Technology Services Ltd.,PIN080753,3779.66
+CLG,FSC,02/08/2010,Relocation - Seconded (NT) ,Human Resources,Britannia Bennetts,PIN080713,2455
+CLG,FSC,02/08/2010,Scrap Vehicles,Ops-Fireground,Common Road Dismantlers,PIN080689,2537.5
+CLG,FSC,02/08/2010,External training materials and fees,Firefighter Training,Duradiamond Healthcare Ltd.,PCR003928,-7202
+CLG,FSC,02/08/2010,External training materials and fees,Firefighter Training,Duradiamond Healthcare Ltd.,PIN081037,260
+CLG,FSC,02/08/2010,External training materials and fees,Firefighter Training,Duradiamond Healthcare Ltd.,PIN081037,672
+CLG,FSC,02/08/2010,External training materials and fees,Firefighter Training,Duradiamond Healthcare Ltd.,PIN081037,5000
+CLG,FSC,02/08/2010,Postal Charges,Facilities Costs,Neopost Ltd,PIN080650,500
+CLG,FSC,02/08/2010,"Fgnd Eqpt, etc - Rental",USAR,The Outreach Organisation Ltd.,PIN080897,760
+CLG,FSC,02/08/2010,"Fgnd Eqpt, etc - Rental",OGA,The Outreach Organisation Ltd.,PIN080897,760
+CLG,FSC,02/08/2010,"VL,AT,RP Fees",OGA,The Outreach Organisation Ltd.,PIN080897,3780
+CLG,FSC,02/08/2010,"VL,AT,RP Fees",USAR,The Outreach Organisation Ltd.,PIN080897,6300
+CLG,FSC,03/08/2010,Other Professional Fees,Cent. For Leadership,Ashridge,PCR003926,-18500
+CLG,FSC,03/08/2010,External training materials and fees,Cent. For Leadership,Ashridge,PIN080938,4625
+CLG,FSC,03/08/2010,"Petrol, Oil, Tyres",Ops-Fireground,BP LPG UK,PIN080870,1612.11
+CLG,FSC,03/08/2010,"Student - Travel, etc",Internat'al Business,ETC Private Hire & Chauffeur Services,PIN080893,892
+CLG,FSC,03/08/2010,"Student - Travel, etc",Transport,ETC Private Hire & Chauffeur Services,PIN080893,1426
+CLG,FSC,03/08/2010,Consultancy,CSSC - FRS FS Trng,QA Associates Ltd,PCR003931,-2528.6
+CLG,FSC,03/08/2010,Consultancy,CSSC - FRS FS Trng,QA Associates Ltd,PCR003931,-2419
+CLG,FSC,03/08/2010,Consultancy,CSSC - FRS FS Trng,QA Associates Ltd,PIN080946,2419
+CLG,FSC,03/08/2010,Consultancy,CSSC - FRS FS Trng,QA Associates Ltd,PIN080946,2528.6
+CLG,FSC,05/08/2010,Business Rates (Cilor),Prop & Maint Costs,Cotswold District Council,PIN080805,-491.39
+CLG,FSC,05/08/2010,Business Rates (Cilor),Prop & Maint Costs,Cotswold District Council,PIN080805,-97.88
+CLG,FSC,05/08/2010,Business Rates (Cilor),Prop & Maint Costs,Cotswold District Council,PIN080805,1470.15
+CLG,FSC,05/08/2010,Travel - Course Delivery,CSSC - FRS FS Trng,Expotel Hotel Reservations Ltd,PIN080922,-0.03
+CLG,FSC,05/08/2010,"VL,AL,VF Hotels & Meals",CSSC - FRS FS Trng,Expotel Hotel Reservations Ltd,PIN080771,224.91
+CLG,FSC,05/08/2010,Travel - Course Delivery,Incident Management,Expotel Hotel Reservations Ltd,PIN080770,291.76
+CLG,FSC,05/08/2010,"VL,AL,VF Hotels & Meals",CSSC - FRS FS Trng,Expotel Hotel Reservations Ltd,PIN080771,309.52
+CLG,FSC,05/08/2010,Travel - Course Delivery,Incident Management,Expotel Hotel Reservations Ltd,PIN080770,319
+CLG,FSC,05/08/2010,Travel - Course Delivery,Incident Management,Expotel Hotel Reservations Ltd,PIN080748,622.5
+CLG,FSC,05/08/2010,"VL,AL,VF Hotels & Meals",CSSC - FRS FS Trng,Expotel Hotel Reservations Ltd,PIN080767,656.01
+CLG,FSC,05/08/2010,Travel - Course Delivery,CSSC - FRS FS Trng,Expotel Hotel Reservations Ltd,PIN080922,953.3
+CLG,FSC,05/08/2010,Agency Costs (Admin),Marketing,Hays Sales & Marketing,PIN080752,1450
+CLG,FSC,05/08/2010,Consultancy,Incident Management,KA C&CC,PIN080747,4638.3
+CLG,FSC,05/08/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080945,930
+CLG,FSC,05/08/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080945,1070
+CLG,FSC,05/08/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080935,1400
+CLG,FSC,05/08/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN080936,2000
+CLG,FSC,05/08/2010,"VL,AT,RP Fees",Hazmats,Quicksilver UK Limited,PIN080834,15
+CLG,FSC,05/08/2010,"VL,AT,RP Fees",Hazmats,Quicksilver UK Limited,PIN080834,412.5
+CLG,FSC,05/08/2010,"VL,AT,RP Fees",Hazmats,Quicksilver UK Limited,PIN080834,1312.5
+CLG,FSC,05/08/2010,"VL,AT,RP Fees",USAR,Staffordshire Fire & Rescue Service,PIN080838,3320
+CLG,FSC,05/08/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN080797,631.72
+CLG,FSC,06/08/2010,"VL,AT,RP Fees",Hazmats,HazmatLINK Ltd,PIN080839,500
+CLG,FSC,06/08/2010,"VL,AT,RP Fees",Hazmats,HazmatLINK Ltd,PIN080839,500
+CLG,FSC,06/08/2010,IT Hardware - Purchases,IT Section,Viglen Ltd.,PIN080925,2500
+CLG,FSC,08/08/2010,Relocation - Seconded (NT) ,Human Resources,Journeys Removals,PIN080819,1320.12
+CLG,FSC,09/08/2010,Relocation - Seconded (NT) ,Human Resources,Dale Mills,PIN080758,2540
+CLG,FSC,10/08/2010,Electricity,Facilities Costs,EDF Electricity (Was London Electricity Plc),PIN080762,16543.2
+CLG,FSC,11/08/2010,Training Rigs / Infrastructure,Prop & Maint Costs,Kidde Fire Trainers,PIN080842,13000
+CLG,FSC,11/08/2010,Staff Development - Skill Specific,Staff Development,Kidde Fire Trainers GmbH,PIN080841,693.33
+CLG,FSC,12/08/2010,Natural Gas,Facilities Costs,Corona Energy,PIN080801,6434.34
+CLG,FSC,12/08/2010,Relocation - Seconded (NT) ,Human Resources,Dave Newman,PIN080808,3500
+CLG,FSC,12/08/2010,Payroll Fees,Human Resources,Home Office Pay & Pension Service,PIN080787,1063.38
+CLG,FSC,12/08/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN080920,552.76
+CLG,FSC,13/08/2010,Building / Plumbing Maintenance,Prop & Maint Costs,Banbury Plant Hire,PIN080844,1880
+CLG,FSC,13/08/2010,Building / Plumbing Maintenance,Prop & Maint Costs,Banbury Plant Hire,PIN080824,1960
+CLG,FSC,13/08/2010,Building / Plumbing Maintenance,Prop & Maint Costs,Banbury Plant Hire,PIN080823,2280
+CLG,FSC,16/08/2010,"Fgnd Eqpt, etc - Purchases",Ops-Fireground,Buck & Hickman Ltd.,PIN080928,554.46
+CLG,FSC,16/08/2010,Roofing,Prop & Maint Costs,W.J. Morley & Sons,PIN080888,962
+CLG,FSC,16/08/2010,Roofing,Prop & Maint Costs,W.J. Morley & Sons,PIN080887,1440
+CLG,FSC,16/08/2010,Roofing,Prop & Maint Costs,W.J. Morley & Sons,PIN080886,2388
+CLG,FSC,16/08/2010,HVE E-Resources,Library,Zetoc Helpdesk,PIN080934,500
+CLG,FSC,17/08/2010,Other Professional Fees,Special Ops,Edexcel Enterprises,PIN080848,1242
+CLG,FSC,17/08/2010,Relocation - Seconded (NT) ,Human Resources,Paul Brown,PIN080807,500
+CLG,FSC,18/08/2010,Prepayments,Library,IHS Technical Indexes Ltd,PIN080944,3616
+CLG,FSC,18/08/2010,Doors,Prop & Maint Costs,Mansell Construction Services Ltd,PIN081101,6555.63
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PCR003944,-106.8
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PCR003944,-106.8
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PCR003944,-106.8
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PCR003944,-59.9
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PCR003944,-59.9
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PCR003944,-39.3
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PCR003944,-39.3
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PCR003944,-39.3
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PCR003944,-37.8
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PCR003944,-37.8
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PCR003944,-37.8
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PCR003944,-37.8
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PCR003944,-35.8
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PCR003944,-29.95
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PCR003944,-29.95
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PIN081187,-0.05
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PCR003944,0.05
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PIN081187,29.95
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PIN081187,29.95
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PIN081187,35.8
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PIN081187,37.8
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PIN081187,37.8
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PIN081187,37.8
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PIN081187,37.8
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PIN081187,39.3
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PIN081187,39.3
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PIN081187,39.3
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PIN081187,59.9
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PIN081187,59.9
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PIN081187,106.8
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PIN081187,106.8
+CLG,FSC,18/08/2010,Uniform/Prot Clthg - Direct (NT),Ops-Fireground,Monsoon Marketing Ltd,PIN081187,106.8
+CLG,FSC,18/08/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,NPIA,PIN080867,380
+CLG,FSC,18/08/2010,"VL,AT,RP Fees",CSSC - FRS FS Trng,NPIA,PIN080867,2785
+CLG,FSC,18/08/2010,Corporate Charges,Head Policy & Media,The Stationery Office,PIN080873,500
+CLG,FSC,18/08/2010,Seconded Salary,Default Cost Centre,Warwickshire County Council,PIN080914,4914.94
+CLG,FSC,18/08/2010,Seconded Salary,Default Cost Centre,Warwickshire County Council,PIN080915,14744.82
+CLG,FSC,19/08/2010,Agency Costs (Admin),Marketing,Hays Sales & Marketing,PIN080871,1160
+CLG,FSC,19/08/2010,Reactive Maintenance,Prop & Maint Costs,Mansell Construction Services Ltd,PIN081102,17574.47
+CLG,FSC,19/08/2010,Building / Plumbing Maintenance,Prop & Maint Costs,Mansell Construction Services Ltd,PIN081202,21124.68
+CLG,FSC,19/08/2010,Audit Fees,Business Management,Skills for Justice,PIN080874,1500
+CLG,FSC,20/08/2010,Fix/Fitt - Purchases,Prop & Maint Costs,Harrow Green Ltd.,PIN080872,-0.05
+CLG,FSC,20/08/2010,Fix/Fitt - Purchases,Prop & Maint Costs,Harrow Green Ltd.,PIN080872,4429.05
+CLG,FSC,20/08/2010,Training Rigs / Infrastructure,Prop & Maint Costs,Kidde Fire Trainers GmbH,PIN080932,1413.33
+CLG,FSC,20/08/2010,Admin - Photocopier Costs,Facilities Costs,RICOH UK Ltd,PIN080983,1002.33
+CLG,FSC,20/08/2010,Legal Fees,Information Services,Veale Wasbrough Vizards,PIN080969,1500
+CLG,FSC,23/08/2010,Business Rates (Cilor),Facilities Costs,Knight Frank LLP,PIN080982,19551
+CLG,FSC,23/08/2010,Non-Fgnd Training - Eqpt Purchases,Estate Support,Leisure Lakes c2w,PIN080998,34.99
+CLG,FSC,23/08/2010,Non-Fgnd Training - Eqpt Purchases,Estate Support,Leisure Lakes c2w,PIN080998,735.54
+CLG,FSC,24/08/2010,Electrical Testing,Prop & Maint Costs,Buzz Electrical Ltd,PIN080901,903.41
+CLG,FSC,25/08/2010,SI - WIP,Default Cost Centre,Buzz Electrical Ltd,PIN080930,150
+CLG,FSC,25/08/2010,SI - WIP,Default Cost Centre,Buzz Electrical Ltd,PIN080930,2810.4
+CLG,FSC,25/08/2010,Barclaycard - Travel & Subs,Head Policy & Media,Company Barclaycard Business,PPI004689,43.8
+CLG,FSC,25/08/2010,Barclaycard - Travel & Subs,Incident Management,Company Barclaycard Business,PPI004689,63.8
+CLG,FSC,25/08/2010,Barclaycard - Travel & Subs,Qualifications Man.,Company Barclaycard Business,PPI004689,115.2
+CLG,FSC,25/08/2010,Barclaycard - Travel & Subs,Directors,Company Barclaycard Business,PPI004689,410.6
+CLG,FSC,25/08/2010,Barclaycard - Travel & Subs,USAR,Company Barclaycard Business,PPI004689,497
+CLG,FSC,25/08/2010,Non-Training Eqpt - Maintenance,Ops-Workshops,Terex-Demag Ltd,PIN080903,850
+CLG,FSC,25/08/2010,Water Charges,Facilities Costs,Thames Water,PIN080979,6353.33
+CLG,FSC,25/08/2010,Mobile phone charges,Resourcing,Vodafone Corporate Ltd,PIN080913,11.25
+CLG,FSC,25/08/2010,Mobile phone charges,Nursery,Vodafone Corporate Ltd,PIN080913,13.52
+CLG,FSC,25/08/2010,Mobile phone charges,Director of  Estates,Vodafone Corporate Ltd,PIN080913,19.23
+CLG,FSC,25/08/2010,Mobile phone charges,Events & Infra. Sale,Vodafone Corporate Ltd,PIN080913,22.94
+CLG,FSC,25/08/2010,Mobile phone charges,OGA,Vodafone Corporate Ltd,PIN080913,27.52
+CLG,FSC,25/08/2010,Mobile phone charges,National Resilience,Vodafone Corporate Ltd,PIN080913,33.75
+CLG,FSC,25/08/2010,Mobile phone charges,Firefighter Training,Vodafone Corporate Ltd,PIN080913,38.42
+CLG,FSC,25/08/2010,Mobile phone charges,CSSC - FRS FS Trng,Vodafone Corporate Ltd,PIN080913,45.98
+CLG,FSC,25/08/2010,Mobile phone charges,Estate Support,Vodafone Corporate Ltd,PIN080913,49.49
+CLG,FSC,25/08/2010,Mobile phone charges,Ops-Fireground,Vodafone Corporate Ltd,PIN080913,54.54
+CLG,FSC,25/08/2010,Mobile phone charges,Head Policy & Media,Vodafone Corporate Ltd,PIN080913,63.8
+CLG,FSC,25/08/2010,Mobile phone charges,Business Management,Vodafone Corporate Ltd,PIN080913,69.82
+CLG,FSC,25/08/2010,Mobile phone charges,Qualifications Man.,Vodafone Corporate Ltd,PIN080913,71.21
+CLG,FSC,25/08/2010,Mobile phone charges,Higher Education,Vodafone Corporate Ltd,PIN080913,80.93
+CLG,FSC,25/08/2010,Mobile phone charges,Marketing,Vodafone Corporate Ltd,PIN080913,81.32
+CLG,FSC,25/08/2010,Mobile phone charges,Director of Finance,Vodafone Corporate Ltd,PIN080913,82.42
+CLG,FSC,25/08/2010,Mobile phone charges,Director of HR,Vodafone Corporate Ltd,PIN080913,84.32
+CLG,FSC,25/08/2010,Mobile phone charges,Curriculum Design Ma,Vodafone Corporate Ltd,PIN080913,88.09
+CLG,FSC,25/08/2010,Mobile phone charges,Delivery Management,Vodafone Corporate Ltd,PIN080913,96.72
+CLG,FSC,25/08/2010,Mobile phone charges,UK Private Sector,Vodafone Corporate Ltd,PIN080913,103.62
+CLG,FSC,25/08/2010,Mobile phone charges,Hazmats,Vodafone Corporate Ltd,PIN080913,106.19
+CLG,FSC,25/08/2010,Mobile phone charges,Chief Info. Officer,Vodafone Corporate Ltd,PIN080913,126.89
+CLG,FSC,25/08/2010,Mobile phone charges,Dir. of Serv. Deliv.,Vodafone Corporate Ltd,PIN080913,155.82
+CLG,FSC,25/08/2010,Mobile phone charges,Dir of Sales&Mrkting,Vodafone Corporate Ltd,PIN080913,167.81
+CLG,FSC,25/08/2010,Mobile phone charges,Prop & Maint Costs,Vodafone Corporate Ltd,PIN080913,211.16
+CLG,FSC,25/08/2010,Mobile phone charges,Facilities Costs,Vodafone Corporate Ltd,PIN080913,219.59
+CLG,FSC,25/08/2010,Mobile phone charges,USAR,Vodafone Corporate Ltd,PIN080913,260.46
+CLG,FSC,25/08/2010,Mobile phone charges,Special Ops,Vodafone Corporate Ltd,PIN080913,283
+CLG,FSC,25/08/2010,Mobile phone charges,Cent. For Leadership,Vodafone Corporate Ltd,PIN080913,308.22
+CLG,FSC,25/08/2010,Mobile phone charges,Directors,Vodafone Corporate Ltd,PIN080913,358.07
+CLG,FSC,25/08/2010,Mobile phone charges,Ops-Fireground,Vodafone Corporate Ltd,PIN080913,375.82
+CLG,FSC,25/08/2010,Mobile phone charges,IT Section,Vodafone Corporate Ltd,PIN080913,395.06
+CLG,FSC,25/08/2010,Mobile phone charges,UKFRS RMT,Vodafone Corporate Ltd,PIN080913,403.36
+CLG,FSC,25/08/2010,Mobile phone charges,Incident Management,Vodafone Corporate Ltd,PIN080913,575.59
+CLG,FSC,25/08/2010,Mobile phone charges,Internat'al Business,Vodafone Corporate Ltd,PIN080913,855.61
+CLG,FSC,26/08/2010,External Accommodation - Hotels,Internat'al Business,Expotel Hotel Reservations Ltd,PIN080986,826.99
+CLG,FSC,26/08/2010,Agency Costs (Admin),Marketing,Hays Sales & Marketing,PIN080924,1450
+CLG,FSC,26/08/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN081035,2000
+CLG,FSC,26/08/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN081036,2000
+CLG,FSC,27/08/2010,SI - WIP,Default Cost Centre,Buzz Electrical Ltd,PIN080960,5680.8
+CLG,FSC,27/08/2010,Relocation - Seconded (NT) ,Human Resources,Charles Wood & Sons,PIN080953,74.34
+CLG,FSC,27/08/2010,Relocation - Seconded (NT) ,Human Resources,Charles Wood & Sons,PIN080953,590
+CLG,FSC,27/08/2010,Catering - Other,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN081087,5039.8
+CLG,FSC,27/08/2010,Core Variable Costs,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN081046,8423.85
+CLG,FSC,27/08/2010,Catering - Hospitality,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN081087,11754.85
+CLG,FSC,27/08/2010,Catering - Meals,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN081087,18777.82
+CLG,FSC,27/08/2010,Core Fixed Costs,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN081045,69216.51
+CLG,FSC,27/08/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN080690,552.76
+CLG,FSC,28/08/2010,Core Variable Costs,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN080737,16191.68
+CLG,FSC,31/08/2010,Sundry low value purchase,Library,Barclays HMG Procurement Card,PIN081000,257.47
+CLG,FSC,31/08/2010,Sundry low value purchase,Nursery,Barclays HMG Procurement Card,PIN081000,284.5
+CLG,FSC,31/08/2010,Sundry low value purchase,Risk & Governance,Barclays HMG Procurement Card,PIN081000,12111.02
+CLG,FSC,31/08/2010,SI - WIP,Default Cost Centre,Cotswold Technical Services,PIN081006,2793
+CLG,FSC,31/08/2010,IT Consultancies,Dir of Sales&Mrkting,Dbi Consulting,PIN081075,1572
+CLG,FSC,31/08/2010,Rechargeable Costs,Estates Contracts,Expotel Hotel Reservations Ltd,PIN081041,1344.27
+CLG,FSC,31/08/2010,Miscellaneous,Prop & Maint Costs,Hydroflow Ltd,PIN081019,590
+CLG,FSC,31/08/2010,Rechargeable Costs,Director of  Estates,Knight Frank (Manchester),PIN081342,792.5
+CLG,FSC,31/08/2010,Rechargeable Costs,Director of  Estates,Knight Frank (Manchester),PIN081342,2830
+CLG,FSC,31/08/2010,L&B - WIP,Default Cost Centre,Knight Frank LLP,PIN081072,3700
+CLG,FSC,31/08/2010,Admin - Stationery,Prop & Maint Costs,Office Depot UK Ltd,PIN081148,848.94
+CLG,FSC,31/08/2010,Consultancy,Int Facilities Mgmt,Panache Consultancy Limited,PIN080967,1487.5
+CLG,FSC,31/08/2010,Reactive Maintenance,Prop & Maint Costs,QTS Associates Ltd,PIN081294,2419.56
+CLG,FSC,31/08/2010,Scrap Vehicles,Ops-Fireground,Smiths of Bloxham,PIN081259,3920
+CLG,FSC,31/08/2010,IT Hardware - Purchases,IT Section,Viglen Ltd.,PCR003943,-2937.5
+CLG,FSC,01/09/2010,USAR consumables,USAR,Building and Plumbing Supplies Ltd.,PIN081095,387
+CLG,FSC,01/09/2010,USAR consumables,USAR,Building and Plumbing Supplies Ltd.,PIN081095,614.9
+CLG,FSC,01/09/2010,IT Hardware - Purchases,IT Section,Display I.T. International Limited,PIN081250,5616
+CLG,FSC,01/09/2010,Electricity,Facilities Costs,EDF Electricity (Was London Electricity Plc),PIN080997,15767.15
+CLG,FSC,01/09/2010,"Student - Travel, etc",Transport,ETC Private Hire & Chauffeur Services,PIN081348,735
+CLG,FSC,01/09/2010,Telephone Charges,IT Section,Kcom,PIN081088,1064.45
+CLG,FSC,01/09/2010,Postal Charges,Facilities Costs,Neopost Ltd,PPI004696,500
+CLG,FSC,01/09/2010,IT Hardware - Rental,IT Section,Star Technology Services Ltd.,PIN081071,3779.66
+CLG,FSC,02/09/2010,Staff Development - Skill Specific,Staff Development,Cosalt International Ltd,PIN081028,96
+CLG,FSC,02/09/2010,Staff Development - Skill Specific,Staff Development,Cosalt International Ltd,PIN081028,645
+CLG,FSC,02/09/2010,Business Rates (Cilor),Prop & Maint Costs,Cotswold District Council,PIN081215,-660.56
+CLG,FSC,02/09/2010,Business Rates (Cilor),Prop & Maint Costs,Cotswold District Council,PIN081215,-80.96
+CLG,FSC,02/09/2010,Business Rates (Cilor),Prop & Maint Costs,Cotswold District Council,PIN081215,1470.15
+CLG,FSC,02/09/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN080971,900
+CLG,FSC,02/09/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN080972,900
+CLG,FSC,02/09/2010,Agency Costs (Admin),Marketing,Hays Sales & Marketing,PIN080970,1450
+CLG,FSC,02/09/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN081020,251.13
+CLG,FSC,02/09/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN081020,306.27
+CLG,FSC,03/09/2010,Fire Alarms,Prop & Maint Costs,Nigel Hughes,PCR003950,-359.34
+CLG,FSC,03/09/2010,Fire Alarms,Prop & Maint Costs,Nigel Hughes,PCR003950,-221.98
+CLG,FSC,03/09/2010,Fire Alarms,Prop & Maint Costs,Nigel Hughes,PIN081355,218.98
+CLG,FSC,03/09/2010,Fire Alarms,Prop & Maint Costs,Nigel Hughes,PIN081325,221.98
+CLG,FSC,03/09/2010,Fire Alarms,Prop & Maint Costs,Nigel Hughes,PIN081325,359.34
+CLG,FSC,03/09/2010,Fire Alarms,Prop & Maint Costs,Nigel Hughes,PIN081355,359.34
+CLG,FSC,03/09/2010,Occupational health,Course Curr&Dev Cont,Posturite (UK) LTD,PIN081062,17.5
+CLG,FSC,03/09/2010,Occupational health,Course Curr&Dev Cont,Posturite (UK) LTD,PIN081062,595
+CLG,FSC,03/09/2010,Roofing,Prop & Maint Costs,W.J. Morley & Sons,PIN081029,4586
+CLG,FSC,04/09/2010,Consultancy,Incident Management,KA C&CC,PIN081040,4496.53
+CLG,FSC,05/09/2010,Non-Fgnd Training - Eqpt Purchases,Estate Support,Leisure Lakes c2w,PIN081022,677.45
+CLG,FSC,06/09/2010,"VL,AT,RP Fees",Hazmats,Draeger Safety UK Ltd.,PIN081089,1150
+CLG,FSC,06/09/2010,"VL,AT,RP Fees",Hazmats,Draeger Safety UK Ltd.,PIN081089,1150
+CLG,FSC,06/09/2010,Consultancy,CSSC - FRS FS Trng,QA Associates Ltd,PIN081100,4665.6
+CLG,FSC,06/09/2010,Consultancy,Int Facilities Mgmt,The Litmus Partnership Ltd,PIN081054,4125
+CLG,FSC,07/09/2010,Admin - Photocopier Costs,Estates Contracts,Abbey Business Equipment,PIN081296,696.39
+CLG,FSC,07/09/2010,Occupational health,Human Resources,Atos Origin,PIN081027,719.4
+CLG,FSC,07/09/2010,Marketing - Exhibitions,Marketing,Deutsche Messe AG,PIN081047,30.32
+CLG,FSC,07/09/2010,Marketing - Exhibitions,Marketing,Deutsche Messe AG,PIN081047,175
+CLG,FSC,07/09/2010,Marketing - Exhibitions,Marketing,Deutsche Messe AG,PIN081047,186
+CLG,FSC,07/09/2010,Marketing - Exhibitions,Marketing,Deutsche Messe AG,PIN081047,221
+CLG,FSC,07/09/2010,Audit Fees,Risk & Governance,Price Waterhouse Coopers LLP,PIN081314,3932
+CLG,FSC,08/09/2010,USAR consumables,Ops-Fireground,Building and Plumbing Supplies Ltd.,PIN081221,410
+CLG,FSC,08/09/2010,USAR consumables,Ops-Fireground,Building and Plumbing Supplies Ltd.,PIN081221,533.5
+CLG,FSC,08/09/2010,USAR consumables,Ops-Fireground,Building and Plumbing Supplies Ltd.,PIN081221,558.25
+CLG,FSC,08/09/2010,USAR consumables,Ops-Fireground,Building and Plumbing Supplies Ltd.,PIN081221,1032
+CLG,FSC,08/09/2010,"Compressed Air, Cooling & Ventilation",Prop & Maint Costs,Central Compressor Consultants Ltd.,PIN081084,530
+CLG,FSC,08/09/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN081050,2350
+CLG,FSC,09/09/2010,Natural Gas,Facilities Costs,Corona Energy,PIN081125,5394.57
+CLG,FSC,09/09/2010,Prepayments,Default Cost Centre,Cotswold District Council,PCR003941,-183746.05
+CLG,FSC,09/09/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN081080,900
+CLG,FSC,09/09/2010,Agency Costs (Admin),Marketing,Hays Sales & Marketing,PIN081078,1450
+CLG,FSC,09/09/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN081179,1600
+CLG,FSC,09/09/2010,Agency Costs (Admin),Business Planning,Michael Page International,PIN081180,1600
+CLG,FSC,09/09/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN081127,506.31
+CLG,FSC,10/09/2010,Media - Student Stationery,Publications,Glenmore Business Papers,PIN081151,738.5
+CLG,FSC,10/09/2010,"VL,AT,RP Fees",USAR,Norfolk County Council,PIN081168,1240
+CLG,FSC,10/09/2010,Seconded Salary,Default Cost Centre,Norfolk County Council,PIN081159,13558.32
+CLG,FSC,10/09/2010,Miscellaneous,Prop & Maint Costs,QTS Associates Ltd,PIN081133,520.53
+CLG,FSC,10/09/2010,Training Rigs / Infrastructure,Prop & Maint Costs,QTS Associates Ltd,PIN081174,693
+CLG,FSC,10/09/2010,"Lamps, Batteries & Control Gear",Prop & Maint Costs,QTS Associates Ltd,PIN081134,752.76
+CLG,FSC,10/09/2010,Reactive Maintenance,Prop & Maint Costs,QTS Associates Ltd,PIN081132,812.55
+CLG,FSC,10/09/2010,Firemain,Prop & Maint Costs,QTS Associates Ltd,PIN081175,1553.04
+CLG,FSC,12/09/2010,Non-Fgnd Training - Eqpt Purchases,Estate Support,Leisure Lakes c2w,PIN081201,34.99
+CLG,FSC,12/09/2010,Non-Fgnd Training - Eqpt Purchases,Estate Support,Leisure Lakes c2w,PIN081201,491.03
+CLG,FSC,13/09/2010,Payroll Fees,Human Resources,Home Office Pay & Pension Service,PIN081130,1039.88
+CLG,FSC,13/09/2010,Vehicles - Consumables,Ops-Workshops,V J Collett Ltd.,PIN081207,1006.47
+CLG,FSC,14/09/2010,SI - WIP,Default Cost Centre,Buzz Electrical Ltd,PIN081143,3788
+CLG,FSC,14/09/2010,"VL,AT,RP Fees",Incident Management,Hanover Associates (UK) Ltd,PIN081141,675
+CLG,FSC,14/09/2010,Seconded Salary,Default Cost Centre,Isle of Wight Fire & Rescue Service,PIN081246,23122.2
+CLG,FSC,14/09/2010,Electricity,Facilities Costs,Schneider Electric Buildings UK Ltd,PIN081254,860.8
+CLG,FSC,15/09/2010,Seconded Salary,Default Cost Centre,Bristol City Council,PIN081245,17183.31
+CLG,FSC,15/09/2010,"VL,AT,RP Fees",Incident Management,Fisher Scoggins LLP,PIN081157,840.9
+CLG,FSC,15/09/2010,IT Hardware - Rental,IT Section,IMC (UK) Learning Ltd,PIN081162,15783.33
+CLG,FSC,15/09/2010,Relocation - Seconded (NT) ,Human Resources,J W Churchill,PIN081188,1100
+CLG,FSC,15/09/2010,Agency Costs (Admin),Director of Finance,Odgersinterim,PIN081224,7000
+CLG,FSC,15/09/2010,Consultancy,CSSC - FRS FS Trng,QA Associates Ltd,PIN081383,750
+CLG,FSC,15/09/2010,Consultancy,CSSC - FRS FS Trng,QA Associates Ltd,PIN081206,4693.2
+CLG,FSC,15/09/2010,Consultancy,CSSC - FRS FS Trng,QA Associates Ltd,PIN081206,4882.2
+CLG,FSC,16/09/2010,Agency Costs (Admin),Marketing,Hays Sales & Marketing,PIN081173,1450
+CLG,FSC,16/09/2010,Training Rigs / Infrastructure,Prop & Maint Costs,Kidde Fire Trainers GmbH,PIN081300,4917.67
+CLG,FSC,16/09/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN081228,562.05
+CLG,FSC,17/09/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN081229,900
+CLG,FSC,17/09/2010,Welding & Fabrication,Prop & Maint Costs,Lilleshall Steel Services Ltd,PIN081160,26
+CLG,FSC,17/09/2010,Welding & Fabrication,Prop & Maint Costs,Lilleshall Steel Services Ltd,PIN081160,40
+CLG,FSC,17/09/2010,Welding & Fabrication,Prop & Maint Costs,Lilleshall Steel Services Ltd,PIN081160,40
+CLG,FSC,17/09/2010,Welding & Fabrication,Prop & Maint Costs,Lilleshall Steel Services Ltd,PIN081160,80
+CLG,FSC,17/09/2010,Welding & Fabrication,Prop & Maint Costs,Lilleshall Steel Services Ltd,PIN081160,80
+CLG,FSC,17/09/2010,Welding & Fabrication,Prop & Maint Costs,Lilleshall Steel Services Ltd,PIN081160,80
+CLG,FSC,17/09/2010,Welding & Fabrication,Prop & Maint Costs,Lilleshall Steel Services Ltd,PIN081160,160
+CLG,FSC,17/09/2010,Welding & Fabrication,Prop & Maint Costs,Lilleshall Steel Services Ltd,PIN081160,400
+CLG,FSC,18/09/2010,Prepayments,Facilities Costs,Ambius (Rentokil Tropical Plants),PIN081298,802.12
+CLG,FSC,20/09/2010,Scrap Vehicles,Ops-Fireground,Common Road Dismantlers,PIN081239,150
+CLG,FSC,20/09/2010,Scrap Vehicles,Ops-Fireground,Common Road Dismantlers,PIN081239,2387.5
+CLG,FSC,20/09/2010,Doors,Prop & Maint Costs,Mansell Construction Services,PIN081194,3230
+CLG,FSC,20/09/2010,Legal Disbursements,Director of  Estates,Veale Wasbrough Vizards,PIN081330,1825.5
+CLG,FSC,21/09/2010,Short Term Loans,Default Cost Centre,DCLG,PIN081181,17895.93
+CLG,FSC,21/09/2010,Interest Accrual,Default Cost Centre,DCLG,PIN081181,190844.08
+CLG,FSC,21/09/2010,Seconded Salary,Default Cost Centre,Dorset Fire Authority,PIN081258,24509.48
+CLG,FSC,21/09/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN081204,900
+CLG,FSC,21/09/2010,Staff Development - Skill Specific,Staff Development,Messam & Rider,PIN081226,102
+CLG,FSC,21/09/2010,Staff Development - Skill Specific,Staff Development,Messam & Rider,PIN081226,550
+CLG,FSC,21/09/2010,Legal Disbursements,Director of  Estates,Veale Wasbrough Vizards,PIN081341,2416
+CLG,FSC,22/09/2010,Water Charges,Facilities Costs,Thames Water,PIN081285,5888.32
+CLG,FSC,22/09/2010,Legal Fees,Information Services,Veale Wasbrough Vizards,PIN081333,1927
+CLG,FSC,23/09/2010,Insurance Inspections,Prop & Maint Costs,Allianz Cornhill Engineering,PIN081252,8620.33
+CLG,FSC,23/09/2010,USAR - Maintenance,Ops-Fireground,Clucas MOE Ltd.,PIN081235,50
+CLG,FSC,23/09/2010,USAR - Maintenance,Ops-Fireground,Clucas MOE Ltd.,PIN081235,590
+CLG,FSC,23/09/2010,USAR - Maintenance,Ops-Fireground,Clucas MOE Ltd.,PIN081235,820
+CLG,FSC,23/09/2010,Seconded Salary,Default Cost Centre,Dumfries & Galloway Council,PIN081262,12369.87
+CLG,FSC,23/09/2010,Seconded Salary,Default Cost Centre,Gloucestershire County Council,PIN081243,14562.09
+CLG,FSC,23/09/2010,Seconded Salary,Default Cost Centre,Gloucestershire County Council,PIN081244,16847.94
+CLG,FSC,23/09/2010,Fireground Consumables,Ops-Fireground,James Latham Western - Lathams Ltd,PIN081309,276
+CLG,FSC,23/09/2010,Fireground Consumables,Ops-Fireground,James Latham Western - Lathams Ltd,PIN081309,9024
+CLG,FSC,23/09/2010,Consultancy,CSSC - FRS FS Trng,QA Associates Ltd,PIN081411,4154.4
+CLG,FSC,23/09/2010,"Heating, Hot Water & Showers",Prop & Maint Costs,QTS Associates Ltd,PIN081306,300.22
+CLG,FSC,23/09/2010,"Heating, Hot Water & Showers",Prop & Maint Costs,QTS Associates Ltd,PIN081306,354.64
+CLG,FSC,23/09/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN081299,603.85
+CLG,FSC,24/09/2010,Non-Training Eqpt - Maintenance,Ops-Fireground,MFC Survival Ltd.,PIN081251,20
+CLG,FSC,24/09/2010,Non-Training Eqpt - Maintenance,Ops-Fireground,MFC Survival Ltd.,PIN081251,1176
+CLG,FSC,24/09/2010,Scrap Vehicles,Ops-Fireground,UK Bus Dismantlers Ltd,PIN081263,500
+CLG,FSC,26/09/2010,Media - Rental,Publications,RICOH UK Ltd,PIN081338,3353.5
+CLG,FSC,27/09/2010,External Course/Seminar Delivery,USAR,Mines Rescue Services Ltd,PIN081382,7718.7
+CLG,FSC,27/09/2010,Seconded Salary,Default Cost Centre,Staffordshire Fire & Rescue Service,PIN081256,17520.93
+CLG,FSC,28/09/2010,Electrical Testing,Prop & Maint Costs,Buzz Electrical Ltd,PIN081268,514.76
+CLG,FSC,28/09/2010,Power,Capital Costs,Buzz Electrical Ltd,PIN081272,944.28
+CLG,FSC,28/09/2010,Electrical Testing,Prop & Maint Costs,Buzz Electrical Ltd,PIN081270,1050.74
+CLG,FSC,28/09/2010,Electrical Testing,Prop & Maint Costs,Buzz Electrical Ltd,PIN081269,1308.84
+CLG,FSC,28/09/2010,Electrical Testing,Prop & Maint Costs,Buzz Electrical Ltd,PIN081271,9853
+CLG,FSC,28/09/2010,"Petrol, Oil, Tyres",Ops-Fireground,GB Oils,PIN081331,5078
+CLG,FSC,28/09/2010,Agency Costs (Admin),IT Section,Hays Information Technology,PIN081283,900
+CLG,FSC,28/09/2010,Licences and PRS/PPL fees,Facilities Costs,Team (EAA) Ltd.,PIN081315,1219
+CLG,FSC,29/09/2010,Barclaycard - Travel & Subs,Qualifications Man.,Company Barclaycard Business,PPI004712,130.9
+CLG,FSC,29/09/2010,Barclaycard - Travel & Subs,Internat'al Business,Company Barclaycard Business,PPI004712,178.96
+CLG,FSC,29/09/2010,Barclaycard - Travel & Subs,Dir of Sales&Mrkting,Company Barclaycard Business,PPI004712,384.95
+CLG,FSC,29/09/2010,Barclaycard - Travel & Subs,Directors,Company Barclaycard Business,PPI004712,629.85
+CLG,FSC,29/09/2010,Barclaycard - Travel & Subs,UKFRS RMT,Company Barclaycard Business,PPI004712,1328.64
+CLG,FSC,29/09/2010,Insurance Inspections,Prop & Maint Costs,Cotswold Lifts Ltd,PIN081308,540
+CLG,FSC,29/09/2010,"Student - Travel, etc",Transport,ETC Private Hire & Chauffeur Services,PIN081350,1480
+CLG,FSC,29/09/2010,Catering - Other,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN081409,4904.1
+CLG,FSC,29/09/2010,Core Variable Costs,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN081410,13480.57
+CLG,FSC,29/09/2010,Catering - Hospitality,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN081409,31075.97
+CLG,FSC,29/09/2010,Catering - Meals,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN081409,37532.22
+CLG,FSC,29/09/2010,Core Fixed Costs,Int Facilities Mgmt,Europa Facilities Management Ltd,PIN081407,69216.51
+CLG,FSC,29/09/2010,External Course/Seminar Delivery,USAR,Mines Rescue Services Ltd,PIN081381,750
+CLG,FSC,30/09/2010,"Compressed Air, Cooling & Ventilation",Prop & Maint Costs,A.M.S. Refrigeration Ltd.,PIN081359,70
+CLG,FSC,30/09/2010,"Compressed Air, Cooling & Ventilation",Prop & Maint Costs,A.M.S. Refrigeration Ltd.,PIN081359,536
+CLG,FSC,30/09/2010,"Compressed Air, Cooling & Ventilation",Prop & Maint Costs,A.M.S. Refrigeration Ltd.,PIN081358,2483
+CLG,FSC,30/09/2010,Sundry low value purchase,Directors,Barclays HMG Procurement Card,PIN081339,30
+CLG,FSC,30/09/2010,Sundry low value purchase,Nursery,Barclays HMG Procurement Card,PIN081339,397.63
+CLG,FSC,30/09/2010,Sundry low value purchase,Resourcing,Barclays HMG Procurement Card,PIN081339,638.8
+CLG,FSC,30/09/2010,Sundry low value purchase,Risk & Governance,Barclays HMG Procurement Card,PIN081339,14096.63
+CLG,FSC,30/09/2010,Relocation - Seconded (NT) ,Human Resources,Britannia Freestones,PIN081292,945
+CLG,FSC,30/09/2010,Prepayments,Internat'al Business,Communicaid,PIN081312,54122
+CLG,FSC,30/09/2010,Other Professional Fees,Special Ops,Edexcel Enterprises,PIN081335,1260
+CLG,FSC,30/09/2010,IT Hardware - Maintenance,IT Section,Logicalis UK Limited,PIN081401,11720.25
+CLG,FSC,30/09/2010,Agency Costs (Admin),Finance Department,Michael Page International,PIN081390,2000
+CLG,FSC,30/09/2010,Agency Costs (Admin),Finance Department,Michael Page International,PIN081395,2000
+CLG,FSC,30/09/2010,Consultancy,Int Facilities Mgmt,Panache Consultancy Limited,PIN081391,1190
+CLG,FSC,30/09/2010,Reactive Maintenance,Facilities Costs,PJT Pumping Services Ltd.,PIN081365,576
+CLG,FSC,30/09/2010,Reactive Maintenance,Prop & Maint Costs,QTS Associates Ltd,PCR003952,-1375
+CLG,FSC,30/09/2010,Agency Costs (Admin),Library,Sue Hill Recruitment & Services Ltd,PIN081344,654.95

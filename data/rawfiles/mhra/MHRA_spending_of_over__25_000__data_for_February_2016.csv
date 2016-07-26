@@ -1,0 +1,91 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,VAT registration number
+Dept of Health,MHRA,03/02/2016,Application Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600101251,42929.6,862247715
+Dept of Health,MHRA,09/02/2016,"Service, Integration & Management",Information Management,REPLY LIMITED,600101077,101010,742468814
+Dept of Health,MHRA,09/02/2016,Application Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600101159,28775.69,862247715
+Dept of Health,MHRA,09/02/2016,Infrastructure Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600101248,74904.11,862247715
+Dept of Health,MHRA,09/02/2016,Capital Expenditure,Information Management,REDROCK CONSULTING LTD,600101250,30473.93,862247715
+Dept of Health,MHRA,09/02/2016,Infrastructure Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600101256,63579.31,862247715
+Dept of Health,MHRA,10/02/2016,Infrastructure Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600101410,34664.21,862247715
+Dept of Health,MHRA,10/02/2016,Application Services and Maintenance,Information Management,ORACLE CORPORATION UK LIMITED,600101436,116024.81,391313073
+Dept of Health,MHRA,10/02/2016,UK Rail/Tube/Tram,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600101425,16.84,413640679
+Dept of Health,MHRA,10/02/2016,Overseas Air,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600101425,-0.66,413640679
+Dept of Health,MHRA,10/02/2016,Overseas Hotel/Accommodation,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600101425,3.01,413640679
+Dept of Health,MHRA,10/02/2016,UK Rail/Tube/Tram,Communications,HOGG ROBINSON LTD,600101425,154.56,413640679
+Dept of Health,MHRA,10/02/2016,UK Hotel/Accommodation,Human Resources,HOGG ROBINSON LTD,600101425,3.01,413640679
+Dept of Health,MHRA,10/02/2016,UK Rail/Tube/Tram,Human Resources,HOGG ROBINSON LTD,600101425,149.67,413640679
+Dept of Health,MHRA,10/02/2016,UK Private Vehicle Hire,Information Management,HOGG ROBINSON LTD,600101425,63.56,413640679
+Dept of Health,MHRA,10/02/2016,UK Rail/Tube/Tram,Information Management,HOGG ROBINSON LTD,600101425,56.2,413640679
+Dept of Health,MHRA,10/02/2016,UK Miscellaneous T&S,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600101425,28.68,413640679
+Dept of Health,MHRA,10/02/2016,UK Air,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600101425,2249.61,413640679
+Dept of Health,MHRA,10/02/2016,UK Hotel/Accommodation,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600101425,23776.52,413640679
+Dept of Health,MHRA,10/02/2016,UK Parking,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600101425,4.22,413640679
+Dept of Health,MHRA,10/02/2016,UK Private Vehicle Hire,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600101425,785.44,413640679
+Dept of Health,MHRA,10/02/2016,UK Rail/Tube/Tram,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600101425,9553.78,413640679
+Dept of Health,MHRA,10/02/2016,Overseas Air,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600101425,62073.83,413640679
+Dept of Health,MHRA,10/02/2016,Overseas Hotel/Accommodation,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600101425,67.49,413640679
+Dept of Health,MHRA,10/02/2016,Overseas Private Vehicle Hire,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600101425,369.61,413640679
+Dept of Health,MHRA,10/02/2016,Overseas Rail/Tram,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600101425,20.12,413640679
+Dept of Health,MHRA,10/02/2016,Passport/Visa,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600101425,1980.44,413640679
+Dept of Health,MHRA,10/02/2016,UK Miscellaneous T&S,Licensing,HOGG ROBINSON LTD,600101425,9.56,413640679
+Dept of Health,MHRA,10/02/2016,UK Hotel/Accommodation,Licensing,HOGG ROBINSON LTD,600101425,6.02,413640679
+Dept of Health,MHRA,10/02/2016,Overseas Air,Licensing,HOGG ROBINSON LTD,600101425,-62.6,413640679
+Dept of Health,MHRA,10/02/2016,Overseas Rail/Tram,Licensing,HOGG ROBINSON LTD,600101425,20.12,413640679
+Dept of Health,MHRA,10/02/2016,Committee T&S,Licensing,HOGG ROBINSON LTD,600101425,708.46,413640679
+Dept of Health,MHRA,10/02/2016,UK Miscellaneous T&S,Medical Devices,HOGG ROBINSON LTD,600101425,9.56,413640679
+Dept of Health,MHRA,10/02/2016,UK Hotel/Accommodation,Medical Devices,HOGG ROBINSON LTD,600101425,4004.91,413640679
+Dept of Health,MHRA,10/02/2016,UK Rail/Tube/Tram,Medical Devices,HOGG ROBINSON LTD,600101425,212.62,413640679
+Dept of Health,MHRA,10/02/2016,UK Rail/Tube/Tram,Finance & Procurement,HOGG ROBINSON LTD,600101425,83.12,413640679
+Dept of Health,MHRA,10/02/2016,Overseas Rail/Tram,Policy,HOGG ROBINSON LTD,600101425,164.98,413640679
+Dept of Health,MHRA,10/02/2016,UK Hotel/Accommodation,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600101425,3.01,413640679
+Dept of Health,MHRA,10/02/2016,Overseas Air,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600101425,193.86,413640679
+Dept of Health,MHRA,10/02/2016,Overseas Hotel/Accommodation,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600101425,9.65,413640679
+Dept of Health,MHRA,12/02/2016,Infrastructure Services and Maintenance,Information Management,ACCENTURE,600101385,125563.2,788629066
+Dept of Health,MHRA,12/02/2016,Infrastructure Services and Maintenance,Information Management,ACCENTURE,600101387,79365.6,788629066
+Dept of Health,MHRA,12/02/2016,Infrastructure Services and Maintenance,Information Management,ACCENTURE,600101388,94419.6,788629066
+Dept of Health,MHRA,12/02/2016,Software & Licenses,Information Management,TRUSTMARQUE SOLUTIONS LTD,600101416,52092.99,394593601
+Dept of Health,MHRA,12/02/2016,Software & Licenses,Information Management,TRUSTMARQUE SOLUTIONS LTD,600101417,223671.02,394593601
+Dept of Health,MHRA,17/02/2016,Cost of Seminars,Communications,CALDER,600101563,100872.6,482027849
+Dept of Health,MHRA,19/02/2016,Cost of Seminars,Communications,GLASGOWS,600101598,26918.4,448190633
+Dept of Health,MHRA,19/02/2016,Application Services and Maintenance,Information Management,ACCENTURE,600101571,27772,788629066
+Dept of Health,MHRA,19/02/2016,UK Rail/Tube/Tram,Clinical Practice Research Datalink,CLARITY TRAVEL MANAGEMENT,600101634,14.5,197694731
+Dept of Health,MHRA,19/02/2016,Committee T&S,Clinical Practice Research Datalink,CLARITY TRAVEL MANAGEMENT,600101634,137.8,197694731
+Dept of Health,MHRA,19/02/2016,UK Rail/Tube/Tram,Communications,CLARITY TRAVEL MANAGEMENT,600101634,118.3,197694731
+Dept of Health,MHRA,19/02/2016,Overseas Air,Communications,CLARITY TRAVEL MANAGEMENT,600101634,155.71,197694731
+Dept of Health,MHRA,19/02/2016,Training inc T&S,Communications,CLARITY TRAVEL MANAGEMENT,600101634,14.6,197694731
+Dept of Health,MHRA,19/02/2016,UK Air,Directorate,CLARITY TRAVEL MANAGEMENT,600101634,115.64,197694731
+Dept of Health,MHRA,19/02/2016,UK Rail/Tube/Tram,Directorate,CLARITY TRAVEL MANAGEMENT,600101634,465.1,197694731
+Dept of Health,MHRA,19/02/2016,UK Rail/Tube/Tram,Human Resources,CLARITY TRAVEL MANAGEMENT,600101634,163.4,197694731
+Dept of Health,MHRA,19/02/2016,UK Rail/Tube/Tram,Information Management,CLARITY TRAVEL MANAGEMENT,600101634,20,197694731
+Dept of Health,MHRA,19/02/2016,Training inc T&S,Information Management,CLARITY TRAVEL MANAGEMENT,600101634,22.4,197694731
+Dept of Health,MHRA,19/02/2016,UK Air,"Inspection, Enforcement & Standards",CLARITY TRAVEL MANAGEMENT,600101634,3512.14,197694731
+Dept of Health,MHRA,19/02/2016,UK Hotel/Accommodation,"Inspection, Enforcement & Standards",CLARITY TRAVEL MANAGEMENT,600101634,1667.4,197694731
+Dept of Health,MHRA,19/02/2016,UK Rail/Tube/Tram,"Inspection, Enforcement & Standards",CLARITY TRAVEL MANAGEMENT,600101634,7031.05,197694731
+Dept of Health,MHRA,19/02/2016,Overseas Air,"Inspection, Enforcement & Standards",CLARITY TRAVEL MANAGEMENT,600101634,23177.28,197694731
+Dept of Health,MHRA,19/02/2016,Overseas Rail/Tram,"Inspection, Enforcement & Standards",CLARITY TRAVEL MANAGEMENT,600101634,334.5,197694731
+Dept of Health,MHRA,19/02/2016,Committee T&S,"Inspection, Enforcement & Standards",CLARITY TRAVEL MANAGEMENT,600101634,848.84,197694731
+Dept of Health,MHRA,19/02/2016,Training inc T&S,"Inspection, Enforcement & Standards",CLARITY TRAVEL MANAGEMENT,600101634,5054.23,197694731
+Dept of Health,MHRA,19/02/2016,UK Parking,Licensing,CLARITY TRAVEL MANAGEMENT,600101634,90.15,197694731
+Dept of Health,MHRA,19/02/2016,UK Rail/Tube/Tram,Licensing,CLARITY TRAVEL MANAGEMENT,600101634,242.7,197694731
+Dept of Health,MHRA,19/02/2016,Overseas Air,Licensing,CLARITY TRAVEL MANAGEMENT,600101634,286.32,197694731
+Dept of Health,MHRA,19/02/2016,Training inc T&S,Licensing,CLARITY TRAVEL MANAGEMENT,600101634,459,197694731
+Dept of Health,MHRA,19/02/2016,UK Air,Medical Devices,CLARITY TRAVEL MANAGEMENT,600101634,393.97,197694731
+Dept of Health,MHRA,19/02/2016,UK Rail/Tube/Tram,Medical Devices,CLARITY TRAVEL MANAGEMENT,600101634,1032.5,197694731
+Dept of Health,MHRA,19/02/2016,Overseas Air,Medical Devices,CLARITY TRAVEL MANAGEMENT,600101634,1230.77,197694731
+Dept of Health,MHRA,19/02/2016,Overseas Hotel/Accommodation,Medical Devices,CLARITY TRAVEL MANAGEMENT,600101634,177.87,197694731
+Dept of Health,MHRA,19/02/2016,Overseas Rail/Tram,Medical Devices,CLARITY TRAVEL MANAGEMENT,600101634,289.5,197694731
+Dept of Health,MHRA,19/02/2016,Training inc T&S,Medical Devices,CLARITY TRAVEL MANAGEMENT,600101634,94.1,197694731
+Dept of Health,MHRA,19/02/2016,UK Rail/Tube/Tram,Finance & Procurement,CLARITY TRAVEL MANAGEMENT,600101634,240.8,197694731
+Dept of Health,MHRA,19/02/2016,Overseas Air,Policy,CLARITY TRAVEL MANAGEMENT,600101634,164.66,197694731
+Dept of Health,MHRA,19/02/2016,Overseas Rail/Tram,Policy,CLARITY TRAVEL MANAGEMENT,600101634,250.5,197694731
+Dept of Health,MHRA,19/02/2016,UK Rail/Tube/Tram,Vigilance and Risk Management of Medicines,CLARITY TRAVEL MANAGEMENT,600101634,231.75,197694731
+Dept of Health,MHRA,19/02/2016,Overseas Air,Vigilance and Risk Management of Medicines,CLARITY TRAVEL MANAGEMENT,600101634,459.55,197694731
+Dept of Health,MHRA,23/02/2016,Cost of Seminars,Communications,GLASGOWS,600101786,99145.61,448190633
+Dept of Health,MHRA,23/02/2016,Premises Rental,Facilities & Estates,ZURICH ASSURANCE LTD,600101602,30000,107831677
+Dept of Health,MHRA,23/02/2016,Service Charge,Facilities & Estates,ZURICH ASSURANCE LTD,600101602,12825.52,107831677
+Dept of Health,MHRA,23/02/2016,Infrastructure Services and Maintenance,Information Management,ACCENTURE,600101371,347054.1,788629066
+Dept of Health,MHRA,23/02/2016,Solicitors,Policy,GOVERNMENT LEGAL DEPARTMENT,600101381,151800,888823066
+Dept of Health,MHRA,23/02/2016,Solicitors,Policy,GOVERNMENT LEGAL DEPARTMENT,600101713,-158449.8,888823066
+Dept of Health,MHRA,29/02/2016,External Audit,Finance & Procurement,NATIONAL AUDIT OFFICE,600101890,54000,417632457
+Dept of Health,MHRA,29/02/2016,Testing Services,Information Management,HOME OFFICE,600101496,50520,888816061
+Dept of Health,MHRA,29/02/2016,Infrastructure Services and Maintenance,Information Management,ACCENTURE,600101771,234000,788629066
+Dept of Health,MHRA,29/02/2016,Application Services and Maintenance,Information Management,ORACLE CORPORATION UK LIMITED,600101811,288000,391313073

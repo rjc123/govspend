@@ -1,0 +1,525 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,Description,Supplier Postcode,Supplier Type,Contract Number,Project Code,Expenditure type
+HMRC,HMRC,01/08/2014,Nat Pst Del Ser NVAT,Commercial Directorate,ROYAL MAIL WHOLESALE,5100030943,92480.83,Payment for mail sorting and delivery services,EC4Y 0HQ,,,,
+HMRC,HMRC,01/08/2014,Nat Pst Del Ser NVAT,Commercial Directorate,ROYAL MAIL WHOLESALE,5100030941,79027.92,Payment for mail sorting and delivery services,EC4Y 0HQ,,,,
+HMRC,HMRC,01/08/2014,Maintenance fees,Information Management Services,SKYSCAPE CLOUD,5100030961,76283.41,Skyscape Jun-14 invoice charges for cloud based services,SN12 0RP,,,,
+HMRC,HMRC,01/08/2014,Debt coll serv (DEL),Debt Management & Banking,ADVANTIS CREDIT LTD,5100030976,66949.45,Debt Collection Services,ST4 7RY,,,,
+HMRC,HMRC,01/08/2014,Recruitment services,Information Management Services,CABINET OFFICE,5100030966,52800,Recruitment costs for Digital and Technololgy Fast Streamers,CF14 3UW,,,,
+HMRC,HMRC,01/08/2014,Training costs,PT Director,CAPITA BUSINESS SERVICES LTD,1900151867,4490.4,Operational Delivery Profession Training,DL1 9HN,,,,
+HMRC,HMRC,01/08/2014,Training costs,PT Director,CAPITA BUSINESS SERVICES LTD,1900151867,4490.4,Operational Delivery Profession Training,DL1 9HN,,,,
+HMRC,HMRC,01/08/2014,Training costs,PT Director,CAPITA BUSINESS SERVICES LTD,1900151867,4490.4,Operational Delivery Profession Training,DL1 9HN,,,,
+HMRC,HMRC,01/08/2014,Training costs,PT Director,CAPITA BUSINESS SERVICES LTD,1900151867,4490.4,Operational Delivery Profession Training,DL1 9HN,,,,
+HMRC,HMRC,01/08/2014,Training costs,PT Director,CAPITA BUSINESS SERVICES LTD,1900151867,4490.4,Operational Delivery Profession Training,DL1 9HN,,,,
+HMRC,HMRC,01/08/2014,Training costs,PT Director,CAPITA BUSINESS SERVICES LTD,1900151865,4423.2,Operational Delivery Profession Training,DL1 9HN,,,,
+HMRC,HMRC,01/08/2014,Training costs,PT Director,CAPITA BUSINESS SERVICES LTD,1900151867,2271.6,Operational Delivery Profession Training,DL1 9HN,,,,
+HMRC,HMRC,01/08/2014,Training costs,PT Director,CAPITA BUSINESS SERVICES LTD,1900151867,2271.6,Operational Delivery Profession Training,DL1 9HN,,,,
+HMRC,HMRC,01/08/2014,Training costs,PT Director,CAPITA BUSINESS SERVICES LTD,1900151867,2271.6,Operational Delivery Profession Training,DL1 9HN,,,,
+HMRC,HMRC,01/08/2014,Training costs,PT Director,CAPITA BUSINESS SERVICES LTD,1900151867,2271.6,Operational Delivery Profession Training,DL1 9HN,,,,
+HMRC,HMRC,01/08/2014,Training costs,PT Director,CAPITA BUSINESS SERVICES LTD,1900151867,2271.6,Operational Delivery Profession Training,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,1598.4,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,1552.8,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,1552.8,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,1552.8,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,1552.8,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,1552.8,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,1552.8,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,1552.8,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151867,1552.8,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,PT Director,CAPITA BUSINESS SERVICES LTD,1900151867,1362.96,Operational Delivery Profession Training,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,985.2,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,Local Compliance,CAPITA BUSINESS SERVICES LTD,1900151865,985.2,Employee Training,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,Information Management Services,CAPITA BUSINESS SERVICES LTD,1900151865,621.6,Training course,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,450,CSL Business Accumen Masterclass Prog,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,450,CSL Business Accumen Masterclass Prog,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,450,CSL Business Accumen Masterclass Prog,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,450,CSL Business Accumen Masterclass Prog,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,Civil Service Resourcing,CAPITA BUSINESS SERVICES LTD,1900151865,337.2,Fast Stream Graduate Training,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,Knowledge Analysis & Intelligence,CAPITA BUSINESS SERVICES LTD,1900151865,337.2,Employee Learning Event,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,Knowledge Analysis & Intelligence,CAPITA BUSINESS SERVICES LTD,1900151865,337.2,Employee Learning Event,DL1 9HN
+HMRC,HMRC,01/08/2014,Nat Pst Del Ser(VAT),Commercial Directorate,ROYAL MAIL WHOLESALE,5100030943,322.27,Payment for mail sorting and delivery services,EC4Y 0HQ
+HMRC,HMRC,01/08/2014,Training costs,Debt Management & Banking,CAPITA BUSINESS SERVICES LTD,1900151865,310.8,EmployeeTraining,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,PT Director,CAPITA BUSINESS SERVICES LTD,1900151867,237.6,Operational Delivery Profession Training,DL1 9HN
+HMRC,HMRC,01/08/2014,Nat Pst Del Ser(VAT),Commercial Directorate,ROYAL MAIL WHOLESALE,5100030941,210.16,Payment for mail sorting and delivery services,EC4Y 0HQ
+HMRC,HMRC,01/08/2014,Training costs,Central Policy,CAPITA BUSINESS SERVICES LTD,1900151865,187.2,Employee Learning Event,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,Central Policy,CAPITA BUSINESS SERVICES LTD,1900151865,187.2,Employee Learning Event,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,Central Policy,CAPITA BUSINESS SERVICES LTD,1900151865,187.2,Employee Learning Event,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,Debt Management & Banking,CAPITA BUSINESS SERVICES LTD,1900151865,182.4,EmployeeTraining,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,182.4,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,182.4,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,182.4,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,182.4,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,182.4,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,182.4,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,182.4,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,177.6,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,177.6,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,177.6,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,177.6,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,177.6,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,176.4,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,176.4,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,176.4,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,Local Compliance,CAPITA BUSINESS SERVICES LTD,1900151865,176.4,Employee Training,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,Local Compliance,CAPITA BUSINESS SERVICES LTD,1900151865,176.4,Employee Training,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,162,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,Finance & Internal Audit,CAPITA BUSINESS SERVICES LTD,1900151865,158.4,This is a Standard Civil service learning training courses.,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,150,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,150,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,150,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,HR,CAPITA BUSINESS SERVICES LTD,1900151865,150,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,Criminal Investigations,CAPITA BUSINESS SERVICES LTD,1900151865,91.2,Employee Training,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,E&C Central Services,CAPITA BUSINESS SERVICES LTD,1900151865,91.2,Employee Training,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,E&C Central Services,CAPITA BUSINESS SERVICES LTD,1900151865,91.2,Employee Training,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,Finance & Internal Audit,CAPITA BUSINESS SERVICES LTD,1900151865,91.2,This is a Standard Civil service learning training courses.,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,Information Management Services,CAPITA BUSINESS SERVICES LTD,1900151865,91.2,Training course,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,Specialist Investigations (SI),CAPITA BUSINESS SERVICES LTD,1900151865,91.2,Employee Training,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,PT Director,CAPITA BUSINESS SERVICES LTD,1900151865,60,Operational Delivery Profession Training,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,PT Director,CAPITA BUSINESS SERVICES LTD,1900151865,60,Operational Delivery Profession Training,DL1 9HN
+HMRC,HMRC,01/08/2014,Training costs,PT Director,CAPITA BUSINESS SERVICES LTD,1900151865,60,Operational Delivery Profession Training,DL1 9HN
+HMRC,HMRC,04/08/2014,Gov Bank Serv Charge,Finance & Internal Audit,RBS - NATWEST,5100031959,257392.83,Monthly bank charges for tax credits and Child Benefit payments by Post Office card account (POca).,EC2M 4RB
+HMRC,HMRC,05/08/2014,Cross Government Ser,HR,CABINET OFFICE,5100032480,1146955.07,Provision of Civil Service Employee policy services for the period 1/4/14 - 31/10/14,CF14 3UW
+HMRC,HMRC,05/08/2014,Bank Charges PO Card,Finance & Internal Audit,POST OFFICE LTD,5100032312,881895.82,Monthly bank charges for tax credits and Child Benefit payments by Post Office card account (POca).,PE4 5PG
+HMRC,HMRC,05/08/2014,Cross Government Ser,HR,CABINET OFFICE,5100032480,793541.5,Civil Service Learning - HR Shared Expert Service costs,CF14 3UW
+HMRC,HMRC,05/08/2014,Cross Government Ser,HR,CABINET OFFICE,5100032480,752151.53,60% of total charge for Civil Service Resourcing shared expert service. ,CF14 3UW
+HMRC,HMRC,05/08/2014,Business Rates,Estates & Support Services,LEEDS CITY COUNCIL,5100032187,384214.25,Business rates payable for 2014/15,LS2 8JR
+HMRC,HMRC,05/08/2014,Cross Government Ser,HR,CABINET OFFICE,5100032480,106218.64,Organisation Design & Development shared service costs proportioned with VOA,CF14 3UW
+HMRC,HMRC,05/08/2014,Non-IMS IT for CSR,Civil Service Resourcing,WORLD CAREERS NETWORK PLC,5100032261,72000,On-boarding fees for 2 Departments,SW19 8DR
+HMRC,HMRC,05/08/2014,Non-IMS IT for CSR,Civil Service Resourcing,WORLD CAREERS NETWORK PLC,5100032231,68160,Development Enhancements & Implementation,SW19 8DR
+HMRC,HMRC,05/08/2014,OGD costs,Estates & Support Services,COMMUNITIES AND LOCAL GOVERNMENT,5100032197,58291.12,Charges for occupation of Rivergate Bristol under a MOTO.,SW1E 5DU
+HMRC,HMRC,05/08/2014,GovDept Serv(VAT Ex),Risk & Intelligence,FOREIGN AND COMMONWEALTH OFFICE,5100032211,55789.06,Costs for officers stationed abroad,MK10 1PX
+HMRC,HMRC,05/08/2014,Business Rates,Estates & Support Services,LEEDS CITY COUNCIL,5100032187,37535.75,Business rates payable for 2014/15,LS2 8JR
+HMRC,HMRC,05/08/2014,Bus Int consultancy,Benefits & Credits Delivery,ECONOMIC INSIGHT LTD,5100032440,32760,External Consultancy,EC2V 7RS
+HMRC,HMRC,05/08/2014,Forensic Services,Criminal Investigations,CCL FORENSICS LTD,5100032382,32177.96,Forensic,CV37 6NW
+HMRC,HMRC,05/08/2014,Orthopaedic Chair,Estates & Support Services,SENATOR INTERNATIONAL LTD,5100032290,31200,Charges for Orthopedic Chairs,BB5 5YE
+HMRC,HMRC,05/08/2014,OHS,HR,RIGHT CORECARE,5100032358,30289.36,Outsourced contract for Welfare and help-line services,PO15 7AL
+HMRC,HMRC,05/08/2014,OHS,HR,RIGHT CORECARE,5100032355,27410.22,Outsourced contract for Welfare and help-line services,PO15 7AL
+HMRC,HMRC,05/08/2014,OGD costs,Estates & Support Services,COMMUNITIES AND LOCAL GOVERNMENT,5100032197,5068.79,Charges for occupation of Rivergate Bristol under a MOTO.,SW1E 5DU
+HMRC,HMRC,06/08/2014,Hardware maintenance,Information Management Services,CAPGEMINI UK PLC - PEOPLEPOINT,5100032651,1016224.12,Capgemini Jul 14 Invoice charges for Contract payment  for the Customs Handling Inward Export Freight systems including ASN and LUCAS,W1F 0UU
+HMRC,HMRC,06/08/2014,Electricity,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,5100032659,918421.55,Utility payment,WD17 1HN
+HMRC,HMRC,06/08/2014,Water,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,5100032659,157651.72,Utility payment,WD17 1HN
+HMRC,HMRC,06/08/2014,Electricity,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,5100032659,139362.02,Utility payment,WD17 1HN
+HMRC,HMRC,06/08/2014,Gas,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,5100032659,93409.61,Utility payment,WD17 1HN
+HMRC,HMRC,06/08/2014,Gas,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,5100032659,52953.15,Utility payment,WD17 1HN
+HMRC,HMRC,06/08/2014,Document destruction,Estates & Support Services,BANNER BUSINESS SERVICES LTD,5100032553,48431.59,Monthly charge for secure destruction of confidentially marked waste,NR3 1PD
+HMRC,HMRC,06/08/2014,Electricity,Estates & Support Services,SAVILLS COMMERCIAL LTD,5100032521,30843.33,Utility payment,W1K 3HQ
+HMRC,HMRC,06/08/2014,Water,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,5100032659,20433.18,Utility payment,WD17 1HN
+HMRC,HMRC,06/08/2014,Gas,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,5100032659,14402.22,Utility payment,WD17 1HN
+HMRC,HMRC,06/08/2014,Document destruction,Estates & Support Services,BANNER BUSINESS SERVICES LTD,5100032553,7884.22,Monthly charge for secure destruction of confidentially marked waste,NR3 1PD
+HMRC,HMRC,06/08/2014,Oil,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,5100032659,1101.02,Utility payment,WD17 1HN
+HMRC,HMRC,06/08/2014,Electricity,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,5100032659,770.83,Utility payment,WD17 1HN
+HMRC,HMRC,06/08/2014,Oil,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,5100032659,641.46,Utility payment,WD17 1HN
+HMRC,HMRC,07/08/2014,Legal Service Sol's,Solicitors Office,THE SCOTLAND OFFICE,5100032739,71553.3,Costs incurred by OSAG (Office for the Solicitor to the Advocate General) for HMRC cases.,EH3 7HW
+HMRC,HMRC,08/08/2014,Forensic Services,Criminal Investigations,DELOITTE MCS LTD,5100032813,217187.46,Forensic,MK9 1FD
+HMRC,HMRC,08/08/2014,Maj AW non-struc VAT,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,5100032632,96876,Refurbishment Works,WD17 1HN
+HMRC,HMRC,08/08/2014,Recruitment services,Civil Service Resourcing,SPECIALIST COMPUTER CTR,5100032847,66258,Fast Stream monthly charge for July,B11 2LE
+HMRC,HMRC,08/08/2014,Debt coll serv (DEL),Debt Management & Banking,DRYDENSFAIRFAX SOLICITORS,5100032807,54603.39,Debt Collection Services,LS2 8BX
+HMRC,HMRC,08/08/2014,Oth PFI unitary chrg,Estates & Support Services,COCHRANE SQUARE SPV,5100032870,44138.78,Charges for accommodation provided under the Cochrane Square Private Finance Initiative contract,W1U 8EW
+HMRC,HMRC,08/08/2014,Oth PFI unitary chrg,Estates & Support Services,HAYMARKET SPV,5100032869,41973.9,Charges for accommodation provided under the Haymarket Private Finance Initiative contract,W1U 8EW
+HMRC,HMRC,08/08/2014,Non-IMS IT for CSR,Civil Service Resourcing,WORLD CAREERS NETWORK PLC,5100032852,29700,Government Digital Service Enhancements,SW19 8DR
+HMRC,HMRC,08/08/2014,Maj AW non-struc VAT,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,5100032635,28917.9,Refurbishment Works,WD17 1HN
+HMRC,HMRC,08/08/2014,Maj AW non-struc VAT,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,5100030770,25146,Refurbishment Works,WD17 1HN
+HMRC,HMRC,08/08/2014,STEPS FUP VAT recvbl,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,1700009103,-1109.26,Credit rec'd from HMRC's PFI service provider.,WD17 1HN
+HMRC,HMRC,08/08/2014,STEPS FUP,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,1700005138,-44286.26,Credit rec'd from HMRC's PFI service provider.,WD17 1HN
+HMRC,HMRC,08/08/2014,STEPS FUP VAT recvbl,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,1700009103,-82277.86,Credit rec'd from HMRC's PFI service provider.,WD17 1HN
+HMRC,HMRC,11/08/2014,Valuation Services,Risk & Intelligence,VALUATION OFFICE AGENCY,5100033591,749417.6,Property valuations for inheritance and other tax cases,W1D 5BU
+HMRC,HMRC,11/08/2014,Rent,Estates & Support Services,MJ MAPP,5100033504,246913.92,Monthly rent payment payable to the Landlord,W1W 5QZ
+HMRC,HMRC,11/08/2014,Landlord Charges,Estates & Support Services,SAVILLS COMMERCIAL LTD,5100033498,220388.26,Standard Landlord Service Charge payable to the Landlord,W1K 3HQ
+HMRC,HMRC,11/08/2014,Rent,Estates & Support Services,APV CO 21 LTD,5100033494,140831.4,Monthly rent payment payable to the Landlord,IM1 2PT
+HMRC,HMRC,11/08/2014,Diesel fuel,Criminal Investigations,ALLSTAR BUSINESS SOLUTIONS LTD,5100033570,62993.34,Vehicle Fleet Service,SN5 6PS
+HMRC,HMRC,11/08/2014,Gov Bank Serv Charge,Finance & Internal Audit,CITIBANK NA,5100033575,25812.32,Monthly bank charges for tax credits and Child Benefit payments by Post Office card account (POca).,E14 5LB
+HMRC,HMRC,11/08/2014,Rent,Estates & Support Services,MJ MAPP,5100033504,2494.08,Monthly rent payment payable to the Landlord,W1W 5QZ
+HMRC,HMRC,11/08/2014,Landlord Charges,Estates & Support Services,SAVILLS COMMERCIAL LTD,5100033498,2226.14,Standard Landlord Service Charge payable to the Landlord,W1K 3HQ
+HMRC,HMRC,12/08/2014,Nat Pst Del Ser NVAT,Commercial Directorate,ROYAL MAIL WHOLESALE,5100033923,2422582.48,Payment for mail sorting and delivery services,EC4Y 0HQ
+HMRC,HMRC,12/08/2014,OGD costs,Estates & Support Services,CAPITA SYMONDS LTD,5100033909,295891.89,Charges for occupation at OGD building.,WC2H 8AD
+HMRC,HMRC,12/08/2014,Court Fees,Debt Management & Banking,THE INSOLVENCY SERVICE,5100033823,189205,Court Fees,B4 6FD
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,PT Operations,TNT UK LTD,5100033907,124753.12,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Local Compliance,TNT UK LTD,5100033907,80038.29,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Storage (non enfmnt),Estates & Support Services,DERWENT FACILITIES MANAGEMENT LTD,5100033914,60389.35,Monthy charge for facilities management,HG2 8QT
+HMRC,HMRC,12/08/2014,OGD costs,Estates & Support Services,CAPITA SYMONDS LTD,5100033909,52216.22,Charges for occupation at OGD building.,WC2H 8AD
+HMRC,HMRC,12/08/2014,Nat Pst Del Ser NVAT,Commercial Directorate,TNT POST UK LTD,5100033917,51115.15,Payment for mail collection and sorting service before final delivery to customers,SL7 1HY
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Debt Management & Banking,TNT UK LTD,5100033907,44461.01,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Nat Pst Del Ser NVAT,Commercial Directorate,ROYAL MAIL WHOLESALE,5100033921,42302.83,Payment for mail sorting and delivery services,EC4Y 0HQ
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Benefits & Credits Delivery,TNT UK LTD,5100033907,36169.52,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Debt coll serv (DEL),Debt Management & Banking,AKINIKA HOLDINGS (UK) LIMITED,5100033935,36002.93,Debt Collection Services,PR1 3EL
+HMRC,HMRC,12/08/2014,Debt coll serv (DEL),Debt Management & Banking,FREDRICKSON INTERNATIONAL LTD,5100033704,34929.82,Debt Collection Services,KT13 0NT
+HMRC,HMRC,12/08/2014,Nat Pst Del Ser NVAT,Commercial Directorate,ROYAL MAIL WHOLESALE,5100033920,33357.82,Payment for mail sorting and delivery services,EC4Y 0HQ
+HMRC,HMRC,12/08/2014,Research (VAT rec),Knowledge Analysis & Intelligence,TNS - BMRB,5100033731,31843.2,A survey of customers’ experience of dealing with HMRC.,W5 1UA
+HMRC,HMRC,12/08/2014,Orthopaedic Chair,Estates & Support Services,SENATOR INTERNATIONAL LTD,5100033798,31200,Charges for Orthopedic Chairs,BB5 5YE
+HMRC,HMRC,12/08/2014,Debt coll serv (DEL),Debt Management & Banking,EQUITA LTD,5100033972,26741.53,Debt Collection Services,NN1 4BZ
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Risk & Intelligence,TNT UK LTD,5100033907,18486.65,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Criminal Investigations,TNT UK LTD,5100033907,16371.47,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Specialist PT,TNT UK LTD,5100033907,12352.63,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Large Business Service,TNT UK LTD,5100033907,12268.02,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Specialist Investigations (SI),TNT UK LTD,5100033907,10872.01,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Information Management Services,TNT UK LTD,5100033907,10068.24,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Storage (non enfmnt),Estates & Support Services,DERWENT FACILITIES MANAGEMENT LTD,5100033914,9830.82,Monthy charge for facilities management,HG2 8QT
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,HR,TNT UK LTD,5100033907,8460.71,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Business Tax Operations,TNT UK LTD,5100033907,8206.88,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Nat Pst Del Ser(VAT),Commercial Directorate,ROYAL MAIL WHOLESALE,5100033923,7415.94,Payment for mail sorting and delivery services,EC4Y 0HQ
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Tax Professionalism & Assurance,TNT UK LTD,5100033907,7276.21,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Estates & Support Services,TNT UK LTD,5100033907,5457.16,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Counter Avoidance Directorate,TNT UK LTD,5100033907,4526.47,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Finance & Internal Audit,TNT UK LTD,5100033907,2792.03,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,PT Customer Product & Process,TNT UK LTD,5100033907,2749.73,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Solicitors Office,TNT UK LTD,5100033907,2453.6,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Indirect tax Directorate,TNT UK LTD,5100033907,2157.48,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,E&C Central Services,TNT UK LTD,5100033907,2030.57,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Customs Directorate,TNT UK LTD,5100033907,1903.66,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,CTISA,TNT UK LTD,5100033907,1861.36,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Business Customer & Strategy,TNT UK LTD,5100033907,1522.93,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Civil Service Resourcing,TNT UK LTD,5100033907,1353.71,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Corporate Communications,TNT UK LTD,5100033907,1226.81,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Commercial Directorate,TNT UK LTD,5100033907,972.98,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,BT Change,TNT UK LTD,5100033907,846.07,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Change Assurance and Investment,TNT UK LTD,5100033907,592.25,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,Finance & Internal Audit,TNT UK LTD,5100033907,549.95,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Next Day Del. Closed,BT Corporate Centre,TNT UK LTD,5100033907,253.82,Courier Services,BL10 9AR
+HMRC,HMRC,12/08/2014,Nat Pst Del Ser NVAT,Commercial Directorate,ROYAL MAIL WHOLESALE,5100033936,-71631.1,Payment for mail sorting and delivery services,EC4Y 0HQ
+HMRC,HMRC,12/08/2014,Nat Pst Del Ser NVAT,Commercial Directorate,ROYAL MAIL WHOLESALE,5100033929,-175506.94,Payment for mail sorting and delivery services,EC4Y 0HQ
+HMRC,HMRC,13/08/2014,Proprietry sys maint,Information Management Services,DWP,5100034403,8964000,Government Gateway  - Fixed Charge for Core Services for 14/15,CF14 3UW
+HMRC,HMRC,13/08/2014,Credt Crd Comm Chrge,Finance & Internal Audit,SANTANDER,5100034180,431886.12,Government Banking Service: Credit Card Commission Charges,G1R 0AA
+HMRC,HMRC,13/08/2014,Credt Crd Comm Chrge,Finance & Internal Audit,SANTANDER,5100034183,221118.32,Government Banking Service: Credit Card Commission Charges,G1R 0AA
+HMRC,HMRC,13/08/2014,Credt Crd Comm Chrge,Finance & Internal Audit,SANTANDER,5100034179,174189.87,Government Banking Service: Credit Card Commission Charges,G1R 0AA
+HMRC,HMRC,13/08/2014,Legal Service Sol's,Solicitors Office,THE SCOTLAND OFFICE,5100033999,166603.6,Costs incurred by OSAG (Office for the Solicitor to the Advocate General) for HMRC cases.,EH3 7HW
+HMRC,HMRC,13/08/2014,Gov Bank Serv Charge,Finance & Internal Audit,SANTANDER,5100034175,155733.16,Monthly bank charges for tax credits and Child Benefit payments by Post Office card account (POca).,G1R 0AA
+HMRC,HMRC,13/08/2014,Gov Bank Serv Charge,Finance & Internal Audit,SANTANDER,5100034180,152150.8,Monthly bank charges for tax credits and Child Benefit payments by Post Office card account (POca).,G1R 0AA
+HMRC,HMRC,13/08/2014,Gov Bank Serv Charge,Finance & Internal Audit,SANTANDER,5100034179,148087.99,Monthly bank charges for tax credits and Child Benefit payments by Post Office card account (POca).,G1R 0AA
+HMRC,HMRC,13/08/2014,Samplng & Analytical,Specialist Investigations (SI),LGC LTD,5100034112,135480.18,Sampling & Analysis for Oils teams,TW11 0LY
+HMRC,HMRC,13/08/2014,Nat Pst Del Ser NVAT,Commercial Directorate,ROYAL MAIL WHOLESALE,5100034017,95026.02,Payment for mail sorting and delivery services,EC4Y 0HQ
+HMRC,HMRC,13/08/2014,Nat Pst Del Ser NVAT,Commercial Directorate,ROYAL MAIL WHOLESALE,5100034015,73884.7,Payment for mail sorting and delivery services,EC4Y 0HQ
+HMRC,HMRC,13/08/2014,Employee education,Large Business Service,CAPITA BUSINESS SERVICES LTD,5100034190,51944.2,Composite of invoice covering the delivery of 8 2 day learning events at external events in Norwich Croydon London Maidstone Bristol Cardiff Birmingham and Wolverhampton and 1 internal learning event in Sheffield during July 2014 with between 16 and 20 delegates each.,DL1 9HN
+0,HMRC,13/08/2014,Employee education,HR,CAPITA BUSINESS SERVICES LTD,5100034186,45196.13,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,13/08/2014,Debt coll serv (DEL),Debt Management & Banking,AKINIKA HOLDINGS (UK) LIMITED,5100033987,39183.13,Debt Collection Services,PR1 3EL
+HMRC,HMRC,13/08/2014,Electricity,Estates & Support Services,SAVILLS COMMERCIAL LTD,5100034008,30685.66,Utility payment,W1K 3HQ
+HMRC,HMRC,13/08/2014,Gov Bank Serv Charge,Finance & Internal Audit,SANTANDER,5100034183,18711.75,Monthly bank charges for tax credits and Child Benefit payments by Post Office card account (POca).,G1R 0AA
+HMRC,HMRC,13/08/2014,Employee education,Information Management Services,CAPITA BUSINESS SERVICES LTD,5100034186,2619.79,Consolidated invoice for 2 courses,DL1 9HN
+HMRC,HMRC,13/08/2014,Nat Pst Del Ser(VAT),Commercial Directorate,ROYAL MAIL WHOLESALE,5100034017,171.31,Payment for mail sorting and delivery services,EC4Y 0HQ
+HMRC,HMRC,13/08/2014,Nat Pst Del Ser(VAT),Commercial Directorate,ROYAL MAIL WHOLESALE,5100034015,146.87,Payment for mail sorting and delivery services,EC4Y 0HQ
+HMRC,HMRC,14/08/2014,Oth PFI unitary chrg,Estates & Support Services,NEWCASTLE ESTATE PARTNERSHIP,5100034557,3762628.56,Charges for accommodation provided under the Newcastle Private Finance Initiative contract,BS1 4DJ
+HMRC,HMRC,14/08/2014,STEPS VAT Indemnity,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,5100034551,3080754.5,Payments to HMRC PFI Service provider.,WD17 1HN
+HMRC,HMRC,14/08/2014,Marketing Promotion,Corporate Communications,M4C,5100033683,215269.1,Tax Credits 2014 Radio Media,WC1X 8RX
+HMRC,HMRC,14/08/2014,Marketing Promotion,Corporate Communications,M4C,5100034496,103270.08,Tax Credits 2014 TV media,WC1X 8RX
+HMRC,HMRC,14/08/2014,Business Rates,Estates & Support Services,COVENTRY CITY COUNCIL,5100034476,47669.8,Business rates payable for 2014/15,CV1 5RQ
+HMRC,HMRC,14/08/2014,Employee education,HR,CAPITA BUSINESS SERVICES LTD,5100034413,40245,Learning costs for the Early Talent Programme,DL1 9HN
+HMRC,HMRC,14/08/2014,Law enforcement trng,Criminal Investigations,CAPITA BUSINESS SERVICES LTD,5100034427,13193.14,Training,DL1 9HN
+HMRC,HMRC,14/08/2014,Law enforcement trng,Criminal Investigations,CAPITA BUSINESS SERVICES LTD,5100034427,12564.86,Training,DL1 9HN
+HMRC,HMRC,14/08/2014,Business Rates,Estates & Support Services,COVENTRY CITY COUNCIL,5100034476,530.2,Business rates payable for 2014/15,CV1 5RQ
+HMRC,HMRC,14/08/2014,Marketing Promotion,Corporate Communications,M4C,5100034496,86.06,Tax Credits 2014 TV media,WC1X 8RX
+HMRC,HMRC,14/08/2014,Marketing Promotion,Corporate Communications,M4C,5100026055,-280.44,Employment Allowances 2013/14 Radio media,WC1X 8RX
+HMRC,HMRC,14/08/2014,Marketing Promotion,Corporate Communications,M4C,5100026055,-336528.96,Employment Allowances 2013/14 Radio media,WC1X 8RX
+HMRC,HMRC,15/08/2014,Legal Service Sol's,Solicitors Office,TREASURY SOLICITORS,5100034740,144812.2,Costs incurred by Treasury Solicitor's for HMRC Employment legal cases.,WC2B 4TS
+HMRC,HMRC,15/08/2014,Document scanning,PT Change,EDM GROUP LTD,5100034717,62400,Digitisation of White Mail,EC4N 1SP
+HMRC,HMRC,15/08/2014,OHS,HR,RIGHT CORECARE,5100034715,30289.36,Outsourced contract for Welfare and help-line services,PO15 7AL
+HMRC,HMRC,15/08/2014,Employee education,Change Assurance and Investment,UNI OF OXFORD SAID BUSINESS SCHOOL,5100034536,30000,Training costs associated with the Departmental Change Programme Project & Programmes Management Capability Project,OX1 1HP
+HMRC,HMRC,15/08/2014,Employee education,Change Assurance and Investment,UNI OF OXFORD SAID BUSINESS SCHOOL,5100034540,30000,Training costs associated with the Departmental Change Programme Project & Programmes Management Capability Project,OX1 1HP
+HMRC,HMRC,15/08/2014,Employee education,Change Assurance and Investment,UNI OF OXFORD SAID BUSINESS SCHOOL,5100034541,30000,Training costs associated with the Departmental Change Programme Project & Programmes Management Capability Profession,OX1 1HP
+HMRC,HMRC,15/08/2014,OHS,HR,RIGHT CORECARE,5100034752,27410.22,Outsourced contract for Welfare and help-line services,PO15 7AL
+HMRC,HMRC,18/08/2014,Vehicle servicing ma,Criminal Investigations,INCHCAPE FLEET SOLUTIONS,5100035350,113393.62,Vehicle Fleet Service,P06 4RP
+HMRC,HMRC,18/08/2014,Software coding,BT Change,DEFRA,5100034550,76119.39,DEFRA OGD recharge - Auto Licence Verification Build & Test,YO1 7PX
+HMRC,HMRC,18/08/2014,Vehicle leasing,Criminal Investigations,INCHCAPE FLEET SOLUTIONS,5100035351,68694.96,Vehicle Fleet Service,P06 4RP
+HMRC,HMRC,18/08/2014,Employee education,HR,CAPITA BUSINESS SERVICES LTD,5100035349,45196.12,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,18/08/2014,Vehicle leasing,Criminal Investigations,INCHCAPE FLEET SOLUTIONS,5100035350,37346.77,Vehicle Fleet Service,P06 4RP
+HMRC,HMRC,18/08/2014,Debt coll serv (DEL),Debt Management & Banking,DRYDENSFAIRFAX SOLICITORS,5100035558,37214.48,Debt Collection Services,LS2 8BX
+HMRC,HMRC,18/08/2014,Debt coll serv (DEL),Debt Management & Banking,ADVANTIS CREDIT LTD,5100035493,35266.02,Debt Collection Services,ST4 7RY
+HMRC,HMRC,18/08/2014,Debt coll serv (DEL),Debt Management & Banking,DRYDENSFAIRFAX SOLICITORS,5100035561,35108.88,Debt Collection Services,LS2 8BX
+HMRC,HMRC,18/08/2014,Legal Service Sol's,Solicitors Office,HOWES PERCIVAL SOLICITORS,5100035332,32928.14,Costs incurred by Solicitors working on behalf of HMRC,NR3 1DD
+HMRC,HMRC,18/08/2014,Legal Service Sol's,Solicitors Office,HOWES PERCIVAL SOLICITORS,5100035331,31407.01,Costs incurred by Solicitors working on behalf of HMRC,NR3 1DD
+HMRC,HMRC,18/08/2014,Debt coll serv (DEL),Debt Management & Banking,ADVANTIS CREDIT LTD,5100035489,29766.42,Debt Collection Services,ST4 7RY
+HMRC,HMRC,18/08/2014,Vehicle servicing ma,Criminal Investigations,INCHCAPE FLEET SOLUTIONS,5100035350,29680.85,Vehicle Fleet Service,P06 4RP
+HMRC,HMRC,18/08/2014,Vehicle repairs,Criminal Investigations,INCHCAPE FLEET SOLUTIONS,5100035350,26223.53,Vehicle Fleet Service,P06 4RP
+HMRC,HMRC,18/08/2014,Security printing,Indirect tax Directorate,WILLIAMS LEA LTD,5100035329,25257.34,Provide support for the UK Duty Stamps Scheme,WF6 1TN
+HMRC,HMRC,18/08/2014,Employee education,Information Management Services,CAPITA BUSINESS SERVICES LTD,5100035349,20092.52,Usability Accessibility Training,DL1 9HN
+HMRC,HMRC,18/08/2014,Fleet mgmt services,Criminal Investigations,INCHCAPE FLEET SOLUTIONS,5100035350,12396.74,Vehicle Fleet Service,P06 4RP
+HMRC,HMRC,18/08/2014,Vehicle leasing,PT Operations,INCHCAPE FLEET SOLUTIONS,5100035368,10139.66,Vehicle Fleet Management,P06 4RP
+HMRC,HMRC,18/08/2014,Vehicle servicing ma,PT Operations,INCHCAPE FLEET SOLUTIONS,5100035368,7489.88,Vehicle Fleet Management,P06 4RP
+HMRC,HMRC,18/08/2014,Vehicle servicing ma,PT Operations,INCHCAPE FLEET SOLUTIONS,5100035368,3896.14,Vehicle Fleet Management,P06 4RP
+HMRC,HMRC,18/08/2014,Vehicle repairs,PT Operations,INCHCAPE FLEET SOLUTIONS,5100035368,3646.45,Vehicle Fleet Management,P06 4RP
+HMRC,HMRC,18/08/2014,Fleet mgmt services,PT Operations,INCHCAPE FLEET SOLUTIONS,5100035368,779.02,Vehicle Fleet Management,P06 4RP
+HMRC,HMRC,19/08/2014,Data output prod,Information Management Services,ASPIRE,5100035830,16847633.53,Aspire Jul-14 invoice charges for non P2P charges - mainly project development work,TF3 3BD
+HMRC,HMRC,19/08/2014,Data storage service,Information Management Services,ASPIRE,5100035338,16545690.81,Aspire Jul-14 invoice charges for S04.600 & S04.602 to S04.604 &S04.499,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,4422848.56,Aspire July 14 Invoice charges for S05.1 Standard Workstation Seat (Desktop),TF3 3BD
+HMRC,HMRC,19/08/2014,Telephone Support,Information Management Services,ASPIRE,5100035338,4385209.21,Aspire Jul-14 invoice charges for Contact Centre Service,TF3 3BD
+HMRC,HMRC,19/08/2014,EDI design,Information Management Services,ASPIRE,5100035338,3552095.18,Aspire July-14 Invoice Charge S10.1 - EDI,TF3 3BD
+HMRC,HMRC,19/08/2014,Management Agreement,Information Management Services,ASPIRE,5100035338,3029755.01,Aspire Jul-14 invoice charges for Management fee for the contracted services,TF3 3BD
+HMRC,HMRC,19/08/2014,Data storage service,Information Management Services,ASPIRE,5100035338,2280783.9,Aspire Jul-14 invoice charges for S04.601 Pre-PIT Chge Non VOA Calc Chges,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,1929321.18,Aspire July 14 Invoice charges for S05.201 MOIS Legacy Contracts and MOIS New Contracts,TF3 3BD
+HMRC,HMRC,19/08/2014,Data storage service,Information Management Services,ASPIRE,5100035338,1381219.99,Aspire Jul-14 invoice charges for S04.620 Stand Shared Serv HMRC (Ex VOA),TF3 3BD
+HMRC,HMRC,19/08/2014,WAN maint or supp,Information Management Services,ASPIRE,5100035338,1337526.61,Aspire Jul-14 invoice charges to provide wide area network and other circuits to HMRC data centres and office locations,TF3 3BD
+HMRC,HMRC,19/08/2014,Bus. Form Printing,Information Management Services,ASPIRE,5100035338,1297572.28,Aspire July 14 Invoive charges for SO7.1 Laser Printing,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,1225030.12,Aspire July 2014 Charges for S02.7 National Systems - Normal,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,1181858.68,Aspire July 2014 Charges for S02.8 National Systems - Simple,TF3 3BD
+HMRC,HMRC,19/08/2014,Bus. Form Printing,Information Management Services,ASPIRE,5100035338,1178929.24,Aspire July 14 Invoice charges for  SO7.6 NTC Flatpack,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,820409.6,Aspire July 2014 Charges for S02.12SAP Support Unit,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,779067.34,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Accommodation Other,Information Management Services,ASPIRE,5100035338,747109.33,Aspire Jul-14 invoice charges for Management fee for the contracted services,TF3 3BD
+HMRC,HMRC,19/08/2014,Disaster recovery,Information Management Services,ASPIRE,5100035338,732044.3,ASPIRE Jul-14 Invoice Charges for S11 Business Continuity and Disaster Recovery,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,708390.72,Aspire July 2014 Charges for S02.10 NIRS2 (Accenture),TF3 3BD
+HMRC,HMRC,19/08/2014,Marketing Promotion,Corporate Communications,M4C,5100035509,681120.46,Tax Credits 2014 TV media,WC1X 8RX
+HMRC,HMRC,19/08/2014,Data input or prep,Information Management Services,ASPIRE,5100035338,674304.34,Aspire Jul 14 Invoice charges for S03.2 Scanned Input,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,666261.05,Aspire July 2014 Charges for Aspire July 2014 Charges for S02.77,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,555375.28,Aspire July 14 Invoice charges for  S05.301 Managed Desktop Tranche 2 PCs,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,509606.66,Aspire July 14 Invoice charges for  S05.70 Managed Desktop Tranche 1 PCs,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,486418.04,Aspire July 2014 Charges for S02.9 Other systems,TF3 3BD
+HMRC,HMRC,19/08/2014,Management Agreement,Information Management Services,ASPIRE,5100035338,432583.08,Aspire Jul-14 invoice charges for Management fee for the contracted services,TF3 3BD
+HMRC,HMRC,19/08/2014,Telephone Support,Information Management Services,ASPIRE,5100035338,426789.55,Aspire Jul-14 invoice charges for Contact Centre Service,TF3 3BD
+HMRC,HMRC,19/08/2014,Data storage service,Information Management Services,ASPIRE,5100035338,415854.37,Aspire Jul-14 invoice charges for S04.640 Disaster Recov Tax Credit Paymnt,TF3 3BD
+HMRC,HMRC,19/08/2014,Elect Data Transf,Information Management Services,ASPIRE,5100035338,403130.7,ASPIRE Jul-14 Invoice Charges for S13 Managed Data Transfer Service,TF3 3BD
+HMRC,HMRC,19/08/2014,Database analysis,Information Management Services,ASPIRE,5100035338,382262.87,Aspire Jul-14 invoice charges for analysis and research service charge,TF3 3BD
+HMRC,HMRC,19/08/2014,Accommodation Other,Information Management Services,ASPIRE,5100035338,367814.78,Aspire Jul-14 invoice charges for Management fee for the contracted services,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,354000,Aspire July 14 Invoice charges for  S05.199 Ongoing consumables (toner and maintenance kit) charge for MPS (Managed Print Service),TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,331906.12,Aspire July 14 Invoice charges for  S05.100 Service Wrap and Project for MPS,TF3 3BD
+HMRC,HMRC,19/08/2014,Accommodation Other,Information Management Services,ASPIRE,5100035338,302482.85,Aspire Jul-14 invoice charges for Management fee for the contracted services,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Install Services,Information Management Services,ASPIRE,5100035338,296807.95,Aspire Jul 14 Invoice charges for S06 Installation Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,278006.27,Aspire July 14 Invoice charges for S05.200 MOIS Lifecycle Management MOIS Software Asset Management and MOIS Particular Needs,TF3 3BD
+HMRC,HMRC,19/08/2014,Telephone Support,Information Management Services,KCOM GROUP PLC,5100035893,264112.74,Set up charges for replacement Contact Centre Service,WF2 0UG
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,248252.34,Aspire July 2014 Charges for S02.11 Electronic Folder - ICLipse Application (BASM and s/w license charge),TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,242311.25,Aspire July 14 Invoice charges for S05.320 Central Storage Service Wrapper,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,213472.54,Aspire July 14 Invoice charges for  S05.23 Category B uplift,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,180720.9,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,161778.96,Aspire July 2014 Charges for S02.2 CESA,TF3 3BD
+HMRC,HMRC,19/08/2014,Legal Service Sol's,Solicitors Office,TSOL,5100035921,156570.01,Costs incurred by Treasury Solicitor's for HMRC Employment legal cases.,WC2B 4TS
+HMRC,HMRC,19/08/2014,Telephone Support,Information Management Services,ASPIRE,5100035338,137032.75,Aspire Jul-14 invoice charges for Contact Centre Service,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Licences,Information Management Services,ASPIRE,5100035338,136842.95,Aspire July 2014 Charges for 45AE - Experian ,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,135797.14,Aspire June 14 Invoice charges for  S05.101 CM6040f - A3 colour MFD (MPS),TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,132742.34,Aspire July 14 Invoice charges for  S05.21 Category A uplift,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,129937.22,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,126637.33,Aspire July 14 Invoice charges for  S05.106 P4015x - A4 mono (MPS),TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,123751.27,Aspire July 2014 Charges for S02.6 NTC,TF3 3BD
+HMRC,HMRC,19/08/2014,Telephone Support,Information Management Services,KCOM GROUP PLC,5100035895,120698.61,Set up charges for replacement Contact Centre Service,WF2 0UG
+HMRC,HMRC,19/08/2014,Conference Calling,Information Management Services,ASPIRE,5100035338,114851.71,Aspire Jul-14 invoice charges to provide audio conferencing services,TF3 3BD
+HMRC,HMRC,19/08/2014,Legal Service Sol's,Solicitors Office,MOON BEEVER,5100035901,113464.4,Costs incurred by Solicitors working on behalf of HMRC,WC1N 2BF
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,108733.49,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Bus. Form Printing,Information Management Services,ASPIRE,5100035338,106198.44,Aspire July 14 Invoice charges for SO7..12 Introduction of additional mailsort,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,97315.06,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,96142.61,Aspire July 14 Invoice charges for  S05.82 Enhanced Networks Service,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,95956.54,Aspire July 14 Invoice charges for S05.54 DMB Remote and Mobile Bundle,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Licences,Information Management Services,ASPIRE,5100035338,95787.85,Aspire July 2014 inovice for 25BK Pega  Renewal,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,95173.51,Aspire July 14 Invoice charges for  S05.105 M5035xs - A3 mono MFD  (MPS),TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,90540.5,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Data input or prep,Information Management Services,ASPIRE,5100035338,84925.98,Aspire Jul 14 Invoice charges for S03.4 Fraud and Error,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,83438.32,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Conference Calling,Information Management Services,ASPIRE,5100035338,77768.51,Aspire Jul-14 invoice charges to provide video conferencing services at 143 HMRC locations.,TF3 3BD
+HMRC,HMRC,19/08/2014,Data input or prep,Information Management Services,ASPIRE,5100035338,77158.24,Aspire Jul 14 Invoice charges for S03.1 Manual Input,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,76718.82,Aspire July 14 Invoice charges for  S05.321 WAN Device Maintenance,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,76482.46,Aspire July 2014 Charges for S02.5 COTAX,TF3 3BD
+HMRC,HMRC,19/08/2014,Software licences,Information Management Services,ASPIRE,5100035338,74927.8,Aspire July 2014 inoivce for 12AA documentum renewal,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,68833.31,Aspire July 14 Invoice charges for  S05.80 Ongoing run service charge,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,67987.73,S02.S13/14Aspire July 2014 Charges for S02 Price Reduction & PPE Websol,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,67569.13,Aspire July 14 Invoice charges for  S05.68 UKBA Support Service,TF3 3BD
+HMRC,HMRC,19/08/2014,Marketing Promotion,Corporate Communications,M4C,5100035704,66924.6,Tax Credits 2014 Video on Demand,WC1X 8RX
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,65075.99,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,64534.03,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Software licences,Information Management Services,ASPIRE,5100035338,64421.05,Aspire July 2014 invoice for 13AI - 3 Harte Hanks Renewal,TF3 3BD
+HMRC,HMRC,19/08/2014,Data input or prep,Information Management Services,ASPIRE,5100035338,64096.28,Aspire Jul 14 Invoice charges for S03.5 BancTec Input Services - fixed costs,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,63416.28,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,62109.6,Aspire July 14 Invoice charges for  S05.81 Ongoing consumables,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,60617.06,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Licences,Information Management Services,ASPIRE,5100035338,59794.1,Aspire July 2014 invoice for 91AT Visual Files renewal,TF3 3BD
+HMRC,HMRC,19/08/2014,Cloud & Collab,Information Management Services,ASPIRE,5100035338,59660.3,Aspire July-14 Invoice Charge for S15.1 Sharepoint Collaboration Service,TF3 3BD
+HMRC,HMRC,19/08/2014,Telephone Support,Information Management Services,ASPIRE,5100035338,56991.47,Aspire Jul-14 invoice charges for Contact Centre Service,TF3 3BD
+HMRC,HMRC,19/08/2014,Software licences,Information Management Services,ASPIRE,5100035338,55410.47,Aspire July 2014 invoice for 07AH Geode renewal,TF3 3BD
+HMRC,HMRC,19/08/2014,Disposal Seized Gds,Criminal Investigations,SHRED STATION LTD,5100035644,54129.1,Haulage Storage & Disposal,NR13 6LH
+HMRC,HMRC,19/08/2014,Physical Data Transf,Information Management Services,ASPIRE,5100035338,51716,ASPIRE Jul-14 Invoice Charges for S13 Managed Data Transfer Service,TF3 3BD
+HMRC,HMRC,19/08/2014,Data input or prep,Information Management Services,ASPIRE,5100035338,51552.43,Aspire Jul 14 Invoice charges for S03.11 Caseflow,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Licences,Information Management Services,ASPIRE,5100035338,51327.17,Aspire July 2014 Charges for 45AE - Experian ,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,51282.05,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Data input or prep,Information Management Services,ASPIRE,5100035338,50304.06,Aspire Jul 14 Invoice charges for S03.5 BancTec Input Services - variable costs ,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,48953.34,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,46834.92,Aspire July 14 Invoice charges for  S05.11 Confidential Workstation Uplift,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Licences,Information Management Services,ASPIRE,5100035338,43979.2,Aspire July 2014 Charges for  - Atos 2 way limit order (Nov-13),TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,43948.62,Aspire July 14 Invoice charges for  S05.61 Blackberry Support,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,43647.35,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Forensic Services,Criminal Investigations,CCL FORENSICS LTD,5100035649,43015.54,Forensic,CV37 6NW
+HMRC,HMRC,19/08/2014,Data storage service,Information Management Services,ASPIRE,5100035338,42360.73,Aspire Jul-14 invoice charges for S04.999 Passthrough,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,41779.7,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,41342.62,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,39571.88,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Legal Service Sol's,Solicitors Office,TSOL,5100035878,38257.44,Costs incurred by Treasury Solicitor's for HMRC Employment legal cases.,WC2B 4TS
+HMRC,HMRC,19/08/2014,Data storage service,Information Management Services,ASPIRE,5100035338,38246.72,Aspire Jul-14 invoice charges for S04.660 Data Centre Backup Tape Transfer,TF3 3BD
+HMRC,HMRC,19/08/2014,Debt coll serv (DEL),Debt Management & Banking,HILLESDEN SECURITIES LTD,5100035708,37294.11,Debt Collection Services,NN13 7DN
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,37111.79,Aspire July 14 Invoice charge for S05.700 Disposal Costs,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,35044.07,Aspire July 14 Invoice charges for  S05.59 Enhanced support of Government Banking Service,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,29043.01,Aspire July 14 Invoice charges for  S05.57 FAP Backup,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,28259.7,Aspire July 2014 Charges for S02.15TCPP Disaster Recovery Environment,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,27411.44,Aspire July 14 Invoice charges for  S05.322 LIS Device Maintenance,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,26971.26,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,25181.58,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,23458.22,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,22892.34,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,22845.61,Aspire July 14 Invoice charges for  S05.107 M4345x - A4 mono MFD (MPS),TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,22346.87,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Licences,Information Management Services,ASPIRE,5100035338,22241.69,Aspire July 2014 Charges for 45AE - Experian ,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,21723.5,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,21621.62,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,19326.82,Aspire July 14 Invoice charges for  S05.71 HDE Service,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,19170.7,Aspire July 14 Invoice charges for  S05.102 CP2025dn - A4 colour (payslip) (MPS),TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,18695.09,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,18127.69,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,16611.28,Aspire July 14 Invoice charges for  S05.63 sRAS Support,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,16461.91,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,15871.8,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,14272.84,Aspire July 2014 Charges for S02.19Office Mail,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Licences,Information Management Services,ASPIRE,5100035338,12010.81,Aspire July 2014 Charges for 03AA Pega renewal,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,11950.32,Aspire July 14 Invoice charges for  S05.103 CP3525x - A4 colour (MPS),TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,11805.7,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,11737.9,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,11662.82,Aspire July 14 Invoice charges for  S05.72 Becrypt Disc Protect,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,11015.17,Aspire July 2014 Charges for S02.47National Systems - Normal (Passive Modules),TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,10544.68,Aspire July 14 Invoice charges for  S05.65 3G Provisioning,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,10469.05,Aspire July 14 Invoice charges for  S05.62 sRAS Provisioning,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,9661.81,Aspire July 2014 Charges for S02.16Vault,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,9604.07,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,8981.06,Aspire July 14 Invoice charges for  S05.83 Firewalls & Managers Datacentre Hosting ,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,8342.48,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,7600.26,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,7104.61,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,7052.9,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,7032.37,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Software licences,Information Management Services,ASPIRE,5100035338,6942.31,Aspire July 2014 Charges for 17BC IBM renewal,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,6797.96,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,6524.56,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,5769.74,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,5658.78,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,5447.92,Aspire July 14 Invoice charges for  S05.66 HDE Service,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Licences,Information Management Services,ASPIRE,5100035338,5083.58,Aspire July 2014 Charges for E136 WRA Fitz renewal,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,4867.15,Aspire July 14 Invoice charges for  S05.60 Blackberry Provisioning,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,4387.22,Aspire July 2014 Charges for S02.49Other Systems (Passive Modules),TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,4373.68,Aspire July 14 Invoice charges for  S05.56 CCN766,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,4115.47,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,4016.1,Aspire July 2014 Charges for S02.1 BROCS,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,3962.02,Aspire July 2014 Charges for S02.3 Cop/CODA,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,3662.77,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Conference Calling,Information Management Services,ASPIRE,5100035338,3311.14,Aspire Jul-14 invoice for Call Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,3208.82,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,3040.87,Aspire June 14 Invoice charges for  S05.26 Category E uplift,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,2732.35,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,2541.21,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,2516.34,Aspire July 2014 Charges for S02.48National Systems - Simple (Passive Modules),TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,2503.36,Aspire July 2014 Charges for S02.27National Systems - Normal (Passive Systems),TF3 3BD
+HMRC,HMRC,19/08/2014,Telephone Support,Information Management Services,KCOM GROUP PLC,5100035893,2491.63,Set up charges for replacement Contact Centre Service,WF2 0UG
+HMRC,HMRC,19/08/2014,Bus. Form Printing,Information Management Services,ASPIRE,5100035338,2354.66,Aspire July 14 invoice charges for SO7.2 Impact Printing,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,2191.62,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,2162.16,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,2131.69,Aspire July 14 Invoice charges for  S05.64 3G Support,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,1937.16,Aspire July 14 Invoice charges for  S05.67 Becrypt Disc Protect,TF3 3BD
+HMRC,HMRC,19/08/2014,Conference Calling,Information Management Services,ASPIRE,5100035338,1705.22,Aspire Jul-14 invoice for Call Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,1409.77,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,1364.12,Aspire July 2014 Charges for S02.41BROCS (Passive Modules),TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,1307.03,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,1237.92,Aspire July 14 Invoice charges for  S05.84 Firewall Manager &Analyser Support ,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,1198.72,Aspire July 2014 Charges for S02.28National Systems - Simple (Passive Systems),TF3 3BD
+HMRC,HMRC,19/08/2014,Telephone Support,Information Management Services,KCOM GROUP PLC,5100035895,1138.67,Set up charges for replacement Contact Centre Service,WF2 0UG
+HMRC,HMRC,19/08/2014,Bus. Form Printing,Information Management Services,ASPIRE,5100035338,1138.37,Aspire July 14 invoice charges for SO7.7 NTC Giro,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,1103.69,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,1011.12,Aspire July 2014 Charges for S02.16Vault,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,1011.08,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,962.76,Aspire July 2014 Charges for S02.29Other Systems (Passive Systems),TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,936.12,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,882.97,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Conference Calling,Information Management Services,ASPIRE,5100035338,852.73,Aspire Jul-14 invoice for Call Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,840.52,Aspire July 2014 Charges for S02.43COP/CODA (Passive Modules),TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,809.95,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,770.68,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Conference Calling,Information Management Services,ASPIRE,5100035338,670.8,Aspire Jul-14 invoice for Call Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,659.46,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Conference Calling,Information Management Services,ASPIRE,5100035338,639.32,Aspire Jul-14 invoice for Call Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Desktop Managed Serv,Information Management Services,ASPIRE,5100035338,598.39,Aspire July 14 Invoice charges for  S05.104 M3035xs - MFD (MPS),TF3 3BD
+HMRC,HMRC,19/08/2014,Bus. Form Printing,Information Management Services,ASPIRE,5100035338,571.33,Aspire July 14 invoice charges for SO7.4 Microfishe Production,TF3 3BD
+HMRC,HMRC,19/08/2014,Marketing Promotion,Corporate Communications,M4C,5100035509,567.6,Tax Credits 2014 TV media,WC1X 8RX
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,539.44,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,424.31,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,257.22,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034078,228.92,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,221.75,Aspire July 2014 Charges for S02.46NTC (Passive Modules),TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,129.73,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Conference Calling,Information Management Services,ASPIRE,5100035338,106.61,Aspire Jul-14 invoice for Call Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,66.17,Aspire July 2014 Charges for S02.42CESA (Passive Modules),TF3 3BD
+HMRC,HMRC,19/08/2014,Sys Software Maint,Information Management Services,ASPIRE,5100035338,58.64,Aspire July 2014 Charges for S02.45COTAX (Passive Modules),TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,15.56,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Network Voice Serv,Information Management Services,ASPIRE,5100035338,0.56,Aspire Jul-14 invoice forCommunication Services,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034129,-3473.63,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034129,-6008.87,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,19/08/2014,Software Coding,Information Management Services,ASPIRE,5100034129,-28812.13,Aspire July 2014 invoice charges for IT Software changes to support day-to-day HMRC business,TF3 3BD
+HMRC,HMRC,20/08/2014,STEPS FUP,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,5100036187,11258239.01,Monthly charge for fully serviced accommodation across the UK under the Mapeley STEPS Private Finance Initiative contract,WD17 1HN
+HMRC,HMRC,20/08/2014,STEPS FUP,Estates & Support Services,MAPELEY STEPS CONTRACTOR LTD,5100036187,2814559.75,Monthly charge for fully serviced accommodation across the UK under the Mapeley STEPS Private Finance Initiative contract,WD17 1HN
+HMRC,HMRC,20/08/2014,GovDept Serv(VAT Ex),Risk & Intelligence,FOREIGN AND COMMONWEALTH OFFICE,5100035994,134924.53,Costs for officers stationed abroad,MK10 1PX
+HMRC,HMRC,20/08/2014,Employee education,HR,CAPITA BUSINESS SERVICES LTD,5100036061,83290.01,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,20/08/2014,Mail/pickup del(VAT),Commercial Directorate,G3 WORLDWIDE (UK) LTD,5100036193,76068.91,Payment for International Mail Services,UB2 5LF
+HMRC,HMRC,20/08/2014,Marketing Promotion,Corporate Communications,M4C,5100036076,75408.99,Tax Credits 2014 Digital media,WC1X 8RX
+HMRC,HMRC,20/08/2014,Mail/pickup/del serv,Commercial Directorate,G3 WORLDWIDE (UK) LTD,5100036193,40198,Payment for International Mail Services,UB2 5LF
+HMRC,HMRC,20/08/2014,Debt coll serv (DEL),Debt Management & Banking,CREDIT SOLUTIONS,5100036009,38230.79,Debt Collection Services,CR8 2PG
+HMRC,HMRC,20/08/2014,Software coding,Information Management Services,ZUHLKE ENGINEERING LTD,5100036194,36800.72,MDTP (Digital) development contractor costs ,EC2R 6AY
+HMRC,HMRC,20/08/2014,Govt dept services,S&ID,Ministry of Defence,5100036127,33150.8,DBS - Security Vetting Services,L2 3YL
+HMRC,HMRC,20/08/2014,Software coding,Information Management Services,ZUHLKE ENGINEERING LTD,5100036194,33142.32,MDTP (Digital) development contractor costs ,EC2R 6AY
+HMRC,HMRC,20/08/2014,Legal Service Sol's,Solicitors Office,SARASSIN LLP,5100035975,31290,Costs incurred by Solicitors working on behalf of HMRC,EC4A 2AB
+HMRC,HMRC,20/08/2014,Software coding,Information Management Services,CLOUDREACH LTD,5100036175,20400,MDTP (Digital) development contractor costs ,MK14 6GD
+HMRC,HMRC,20/08/2014,Software coding,Information Management Services,ZUHLKE ENGINEERING LTD,5100036194,17371.94,MDTP (Digital) development contractor costs ,EC2R 6AY
+HMRC,HMRC,20/08/2014,Employee education,HR,CAPITA BUSINESS SERVICES LTD,5100036058,15193.2,Various Courses for Leadership and Management,DL1 9HN
+HMRC,HMRC,20/08/2014,Software coding,Information Management Services,CLOUDREACH LTD,5100036175,12750,MDTP (Digital) development contractor costs ,MK14 6GD
+HMRC,HMRC,20/08/2014,Software coding,Information Management Services,CLOUDREACH LTD,5100036175,11730,MDTP (Digital) development contractor costs ,MK14 6GD
+HMRC,HMRC,20/08/2014,Employee education,Information Management Services,CAPITA BUSINESS SERVICES LTD,5100036058,10647.6,Agile Project Management Training (combined),DL1 9HN
+HMRC,HMRC,20/08/2014,Software coding,Information Management Services,ZUHLKE ENGINEERING LTD,5100036194,8820.61,MDTP (Digital) development contractor costs ,EC2R 6AY
+HMRC,HMRC,20/08/2014,Employee education,Information Management Services,CAPITA BUSINESS SERVICES LTD,5100036061,1244.36,Implementing CISCO IOS Network Security Training,DL1 9HN
+HMRC,HMRC,20/08/2014,Fst Strm Traing Cost,Civil Service Resourcing,CAPITA BUSINESS SERVICES LTD,5100036058,169.2,Fast Stream Graduate Training,DL1 9HN
+HMRC,HMRC,20/08/2014,Marketing Promotion,Corporate Communications,M4C,5100036076,60.77,Tax Credits 2014 Digital media,WC1X 8RX
+HMRC,HMRC,21/08/2014,Maintenance fees,Information Management Services,SKYSCAPE CLOUD,5100036464,89195,Skyscape Jul-14 invoice charges for cloud based services,SN12 0RP
+HMRC,HMRC,21/08/2014,Storage (non enfmnt),Estates & Support Services,G4S INTEGRATED SERVICES (UK) LTD,5100036500,88646.56,Payments to G4S FM Services contract.,S81 7QF
+HMRC,HMRC,21/08/2014,Debt coll serv (DEL),Debt Management & Banking,BLUESTONE CREDIT MANAGEMENT LTD,5100036240,48455.08,Debt Collection Services,S1 2FN
+HMRC,HMRC,21/08/2014,Bank Charges CSH/CHQ,Finance & Internal Audit,SANTANDER,5100036535,25076.71,Monthly bank charges for tax credits and Child Benefit payments by Post Office card account (POca).,G1R 0AA
+HMRC,HMRC,22/08/2014,100 PS Service Charg,Estates & Support Services,EXCHEQUER PARTNERSHIP PLC,5100036771,2464113.84,Monthly charge for fully serviced accommodation at 100 Parliament Street London,M41 7HG
+HMRC,HMRC,22/08/2014,OGD costs,Estates & Support Services,DWP,5100037502,646136.92,Charges for occupation under MOTO arrangement. ,CF14 3UW
+HMRC,HMRC,22/08/2014,OGD costs,Estates & Support Services,DWP,5100037501,626028.27,Charges for occupation under MOTO arrangement. ,CF14 3UW
+HMRC,HMRC,22/08/2014,OGD costs,Estates & Support Services,CAPITA SYMONDS LTD,5100036768,271335.55,Charges for occupation at OGD building.,WC2H 8AD
+HMRC,HMRC,22/08/2014,Non-IMS IT for CSR,Civil Service Resourcing,SPECIALIST COMPUTER CTR,5100036634,108904.51,Specialist Computer Centre (SCC) is the main IT contractor for the Civil Service Fast Stream intake. Milestone 3 payment,B11 2LE
+HMRC,HMRC,22/08/2014,Recruitment services,Civil Service Resourcing,SPECIALIST COMPUTER CTR,5100036637,107113.8,Specialist Computer Centre (SCC) is the main IT contractor for the Civil Service Fast Stream intake. July Reimbursables charge,B11 2LE
+HMRC,HMRC,22/08/2014,Rent,Estates & Support Services,KIER PROPERTY DEVELOPMENTS LTD,5100036764,105909.12,Monthly rent payment payable to the Landlord,SG19 2BD
+HMRC,HMRC,22/08/2014,Haulage Seized Goods,Criminal Investigations,TNT UK LTD,5100036773,105203.54,Courier Services,BL8 9AR
+HMRC,HMRC,22/08/2014,Non-IMS IT for CSR,Civil Service Resourcing,WORLD CAREERS NETWORK PLC,5100036585,84000,Full & Final settlement of on-boarding fees,SW19 8DR
+HMRC,HMRC,22/08/2014,OGD costs,Estates & Support Services,CAPITA SYMONDS LTD,5100036768,47882.74,Charges for occupation at OGD building.,WC2H 8AD
+HMRC,HMRC,22/08/2014,Marketing Promotion,Corporate Communications,M4C,5100036699,35875.92,Tax Credits 2014 Radio Media,WC1X 8RX
+HMRC,HMRC,22/08/2014,Landlord Charges,Estates & Support Services,SAVILLS COMMERCIAL LTD,5100036766,35587.73,Standard Landlord Service Charge payable to the Landlord,W1K 3HQ
+HMRC,HMRC,22/08/2014,Haulage Seized Goods,Specialist Investigations (SI),TNT UK LTD,5100036772,26675.56,Haulage storage & disposal of Oils products,BL8 9AR
+HMRC,HMRC,22/08/2014,Govt dept services,Specialist PT,MINISTRY OF JUSTICE,5100036662,25982,Child Trust Fund Solicitor Charges,SW1E 6QW
+HMRC,HMRC,22/08/2014,Rent,Estates & Support Services,KIER PROPERTY DEVELOPMENTS LTD,5100036764,3050.88,Monthly rent payment payable to the Landlord,SG19 2BD
+HMRC,HMRC,22/08/2014,Landlord Charges,Estates & Support Services,SAVILLS COMMERCIAL LTD,5100036766,359.47,Standard Landlord Service Charge payable to the Landlord,W1K 3HQ
+HMRC,HMRC,26/08/2014,Non PFI serv VAT,Estates & Support Services,MacLELLAN INTERNATIONAL LTD,5100036785,413479.16,Monthly charge for provision of services on the Newcastle estate,B70 1EN
+HMRC,HMRC,26/08/2014,Electricity,Estates & Support Services,EDF ENERGY,5100037511,365505.27,Utility payment,EX1 3UT
+HMRC,HMRC,26/08/2014,Research (VAT rec),Knowledge Analysis & Intelligence,ESRC,5100037717,200000,HMRC support for joint HMRC/HMT/ESRC Tax Administration Research Centre,SN2 1UJ
+HMRC,HMRC,26/08/2014,Disposal Seized Gds,Specialist Investigations (SI),ENVA NORTHERN IRELAND LTD,5100037606,144000,Haulage storage & disposal of Oils products,BT24 8LS
+HMRC,HMRC,26/08/2014,Recruitment services,Civil Service Resourcing,HAVAS PEOPLE LIMITED,5100037562,136310.61,Advertisement & Promotional costs,EC1M 5NR
+HMRC,HMRC,26/08/2014,Rent,Estates & Support Services,ZURICH ASSURANCE LTD,5100036792,117625.82,Monthly rent payment payable to the Landlord,SB3 9AP
+HMRC,HMRC,26/08/2014,OGD costs,Digital,DWP,5100036782,85577.61,Occupancy of Longbenton office space by Newcastle Digital Delivery Centre,CF14 3UW
+HMRC,HMRC,26/08/2014,GovDept Serv(VAT Ex),Risk & Intelligence,FOREIGN AND COMMONWEALTH OFFICE,5100036799,75522.55,Costs for officers stationed abroad,MK10 1PX
+HMRC,HMRC,26/08/2014,Crown Sol's Off NI,Debt Management & Banking,CROWN SOLICITORS OFFICE,5100037662,57270.5,High Court costs,BT1 3JY
+HMRC,HMRC,26/08/2014,Landlord Charges,Estates & Support Services,ZURICH ASSURANCE LTD,5100036792,56769.19,Standard Landlord Service Charge payable to the Landlord,SB3 9AP
+HMRC,HMRC,26/08/2014,Disposal Seized Gds,Specialist Investigations (SI),ENVA NORTHERN IRELAND LTD,5100037607,50364.6,Haulage storage & disposal of Oils products,BT24 8LS
+HMRC,HMRC,26/08/2014,GovDept Serv(VAT Ex),Risk & Intelligence,FOREIGN AND COMMONWEALTH OFFICE,5100037518,38594.24,Costs for officers stationed abroad,MK10 1PX
+HMRC,HMRC,26/08/2014,OGD costs,Estates & Support Services,DWP,5100036810,38542.03,Charges for occupation under MOTO arrangement. ,CF14 3UW
+HMRC,HMRC,26/08/2014,Employee education,Change Assurance and Investment,CAPITA BUSINESS SERVICES LTD,5100037609,38253.64,Training costs associated with the Departmental Change Programme Project & Programmes Management Capability Profession,DL1 9HN
+HMRC,HMRC,26/08/2014,Media Monitoring,Corporate Communications,CABINET OFFICE,5100037604,36000,HMRC's share of media monitoring services for press office and senior departmental officials,CF14 3UW
+HMRC,HMRC,26/08/2014,Debt coll serv (DEL),Debt Management & Banking,ROSSENDALES LTD,5100037680,33488.74,Debt Collection Services,BB4 4NB
+HMRC,HMRC,26/08/2014,Employee education,Change Assurance and Investment,CAPITA BUSINESS SERVICES LTD,5100037608,28690.23,Training costs associated with the Departmental Change Programme Project & Programmes Management Capability Profession,DL1 9HN
+HMRC,HMRC,26/08/2014,Rent,Estates & Support Services,ZURICH ASSURANCE LTD,5100036792,2278.18,Monthly rent payment payable to the Landlord,SB3 9AP
+HMRC,HMRC,26/08/2014,Landlord Charges,Estates & Support Services,ZURICH ASSURANCE LTD,5100036792,1099.5,Standard Landlord Service Charge payable to the Landlord,SB3 9AP
+HMRC,HMRC,27/08/2014,Promotional Items,Corporate Communications,M4C,5100038260,239749.15,Tax Credits 204 Radio Media,WC1X 8RX
+HMRC,HMRC,27/08/2014,Credt Crd Comm Chrge,Finance & Internal Audit,RBS - NATWEST,5100038277,201039.94,Government Banking Service: Credit Card Commission Charges,EC2M 4RB
+HMRC,HMRC,27/08/2014,Court Fees,Debt Management & Banking,THE INSOLVENCY SERVICE,5100037863,82155,Court Fees,B4 6FD
+HMRC,HMRC,27/08/2014,Debt coll serv (DEL),Debt Management & Banking,COMMERCIAL COLLECTION SERVICES,5100037931,52508.46,Debt Collection Services,CR7 6YY
+HMRC,HMRC,27/08/2014,Diesel fuel,Criminal Investigations,ALLSTAR BUSINESS SOLUTIONS LTD,5100037938,48725.01,Vehicle Fleet Service,SN5 6PS
+HMRC,HMRC,27/08/2014,Haulage Seized Goods,Specialist Investigations (SI),TNT UK LTD,5100037897,43082.22,Haulage storage & disposal of Oils products,BL8 9AR
+HMRC,HMRC,27/08/2014,Legal Service Sol's,Solicitors Office,CITY NATIONAL BANK,1900179989,31955.2,Costs incurred by Solicitors working on behalf of HMRC,.
+HMRC,HMRC,27/08/2014,Gov Bank Serv Charge,Finance & Internal Audit,RBS - NATWEST,5100038277,21727.02,Monthly bank charges for tax credits and Child Benefit payments by Post Office card account (POca).,EC2M 4RB
+HMRC,HMRC,27/08/2014,Min AW non-struc VAT,Estates & Support Services,FASSET BUSINESS & PROPERTY,5100038006,21242.92,Refurbishment works.,PO9 1SA
+HMRC,HMRC,27/08/2014,Min AW non-struc VAT,Estates & Support Services,FASSET BUSINESS & PROPERTY,5100038006,14288.17,Refurbishment works.,PO9 1SA
+HMRC,HMRC,27/08/2014,Min AW non-struc VAT,Estates & Support Services,FASSET BUSINESS & PROPERTY,5100038006,11339.81,Refurbishment works.,PO9 1SA
+HMRC,HMRC,27/08/2014,Min AW non-struc VAT,Estates & Support Services,FASSET BUSINESS & PROPERTY,5100038006,1260,Refurbishment works.,PO9 1SA
+HMRC,HMRC,27/08/2014,Promotional Items,Corporate Communications,M4C,5100038260,199.79,Tax Credits 204 Radio Media,WC1X 8RX
+HMRC,HMRC,27/08/2014,Min AW non-struc VAT,Estates & Support Services,FASSET BUSINESS & PROPERTY,5100038006,198,Refurbishment works.,PO9 1SA
+HMRC,HMRC,28/08/2014,Min AW non-struc VAT,Estates & Support Services,SPECIALIST COMPUTER CTR,5100038366,73271.77,Purchase of new equipment to assist in the creation of the new Common civil service pass.,B11 2LE
+HMRC,HMRC,28/08/2014,Forensic Services,Criminal Investigations,CCL FORENSICS LTD,5100038372,32817.54,Forensic,CV37 6NW
+HMRC,HMRC,29/08/2014,Gov Bank Serv Charge,Finance & Internal Audit,RBS - NATWEST,5100038567,266143.23,Monthly bank charges for tax credits and Child Benefit payments by Post Office card account (POca).,EC2M 4RB
+HMRC,HMRC,29/08/2014,Legal Service Sol's,Solicitors Office,HOWES PERCIVAL SOLICITORS,5100038607,69921.07,Costs incurred by Solicitors working on behalf of HMRC,NR3 1DD
+HMRC,HMRC,29/08/2014,Legal Service Sol's,Solicitors Office,KPMG,5100038573,69448.2,Costs incurred by Solicitors working on behalf of HMRC,E14 5GL
+HMRC,HMRC,29/08/2014,Employee education,Information Management Services,CAPITA BUSINESS SERVICES LTD,5100038654,37902.44,Business Analysis and Requiremnts Training,DL1 9HN
+HMRC,HMRC,29/08/2014,Employee education,HR,CAPITA BUSINESS SERVICES LTD,5100038613,28998.29,Training courses for staff,DL1 9HN
+HMRC,HMRC,29/08/2014,Recruitment services,Civil Service Resourcing,CAPITA BUSINESS SERVICES LTD,5100038553,26727.28,Event Booking.,DL1 9HN
+HMRC,HMRC,29/08/2014,Employee education,HR,CAPITA BUSINESS SERVICES LTD,5100038613,12015.6,Various Courses for Leadership and Management,DL1 9HN

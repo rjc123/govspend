@@ -1,0 +1,86 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,VAT registration number
+Dept of Health,MHRA,04/06/2013,Solicitors,"Inspection, Enforcement & Standards",CPS,600080119,30542.73,888823164
+Dept of Health,MHRA,04/06/2013,Solicitors,"Inspection, Enforcement & Standards",CPS,600080120,55419.53,888823164
+Dept of Health,MHRA,05/06/2013,Service Charge,Operations & Finance,ZURICH ASSURANCE LTD,600080182,14574.62,107831677
+Dept of Health,MHRA,05/06/2013,Premises Rental,Operations & Finance,ZURICH ASSURANCE LTD,600080182,30000.00,107831677
+Dept of Health,MHRA,05/06/2013,Staff Restaurant,Operations & Finance,BIS,600080356,35667.02,888825550
+Dept of Health,MHRA,06/06/2013,Computing Operation Costs,Information Management,ACCENTURE,600080175,-94532.40,788629066
+Dept of Health,MHRA,06/06/2013,Third Party IT Contracts,Information Management,ACCENTURE,600080176,63869.60,788629066
+Dept of Health,MHRA,06/06/2013,Capital Expenditure,Information Management,ACCENTURE,600080177,107630.40,788629066
+Dept of Health,MHRA,06/06/2013,Premises Rental,Operations & Finance,BIS,600080354,1115595.60,888825550
+Dept of Health,MHRA,06/06/2013,Rates,Operations & Finance,BIS,600080354,641213.35,888825550
+Dept of Health,MHRA,06/06/2013,Building Maintenance & Utilities,Operations & Finance,BIS,600080354,99261.75,888825550
+Dept of Health,MHRA,06/06/2013,Cleaning,Operations & Finance,BIS,600080354,26109.65,888825550
+Dept of Health,MHRA,06/06/2013,Security,Operations & Finance,BIS,600080354,47267.50,888825550
+Dept of Health,MHRA,06/06/2013,Facilities Management,Operations & Finance,BIS,600080354,26334.75,888825550
+Dept of Health,MHRA,07/06/2013,Computing Operation Costs,Information Management,ACCENTURE,600080139,220447.01,788629066
+Dept of Health,MHRA,07/06/2013,Computing Operation Costs,Information Management,ACCENTURE,600080226,29256.00,788629066
+Dept of Health,MHRA,10/06/2013,UK Miscellaneous T&S,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600080426,69.92,413640679
+Dept of Health,MHRA,10/06/2013,UK Hotel/Accommodation,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600080426,502.32,413640679
+Dept of Health,MHRA,10/06/2013,UK Rail/Tube/Tram,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600080426,268.98,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Air,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600080426,6299.66,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Hotel/Accommodation,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600080426,45.30,413640679
+Dept of Health,MHRA,10/06/2013,UK Hotel/Accommodation,Communications,HOGG ROBINSON LTD,600080426,167.90,413640679
+Dept of Health,MHRA,10/06/2013,UK Rail/Tube/Tram,Communications,HOGG ROBINSON LTD,600080426,187.55,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Air,Communications,HOGG ROBINSON LTD,600080426,396.01,413640679
+Dept of Health,MHRA,10/06/2013,UK Rail/Tube/Tram,Directorate,HOGG ROBINSON LTD,600080426,109.68,413640679
+Dept of Health,MHRA,10/06/2013,UK Rail/Tube/Tram,Human Resources,HOGG ROBINSON LTD,600080426,61.09,413640679
+Dept of Health,MHRA,10/06/2013,UK Hotel/Accommodation,Information Management,HOGG ROBINSON LTD,600080426,21.72,413640679
+Dept of Health,MHRA,10/06/2013,UK Rail/Tube/Tram,Information Management,HOGG ROBINSON LTD,600080426,68.45,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Air,Information Management,HOGG ROBINSON LTD,600080426,7787.79,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Hotel/Accommodation,Information Management,HOGG ROBINSON LTD,600080426,17.10,413640679
+Dept of Health,MHRA,10/06/2013,UK Miscellaneous T&S,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600080426,97.10,413640679
+Dept of Health,MHRA,10/06/2013,UK Air,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600080426,1166.89,413640679
+Dept of Health,MHRA,10/06/2013,UK Hotel/Accommodation,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600080426,21759.66,413640679
+Dept of Health,MHRA,10/06/2013,UK Private Vehicle Hire,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600080426,2944.79,413640679
+Dept of Health,MHRA,10/06/2013,UK Rail/Tube/Tram,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600080426,15464.92,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Air,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600080426,63897.77,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Hotel/Accommodation,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600080426,129.16,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Private Vehicle Hire,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600080426,1121.83,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Rail/Tram,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600080426,84.50,413640679
+Dept of Health,MHRA,10/06/2013,UK Miscellaneous T&S,Licensing,HOGG ROBINSON LTD,600080426,19.12,413640679
+Dept of Health,MHRA,10/06/2013,UK Air,Licensing,HOGG ROBINSON LTD,600080426,165.72,413640679
+Dept of Health,MHRA,10/06/2013,UK Rail/Tube/Tram,Licensing,HOGG ROBINSON LTD,600080426,436.60,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Air,Licensing,HOGG ROBINSON LTD,600080426,4866.17,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Hotel/Accommodation,Licensing,HOGG ROBINSON LTD,600080426,185.80,413640679
+Dept of Health,MHRA,10/06/2013,Committee T&S,Licensing,HOGG ROBINSON LTD,600080426,588.31,413640679
+Dept of Health,MHRA,10/06/2013,UK Miscellaneous T&S,Medical Devices,HOGG ROBINSON LTD,600080426,19.12,413640679
+Dept of Health,MHRA,10/06/2013,UK Hotel/Accommodation,Medical Devices,HOGG ROBINSON LTD,600080426,1335.18,413640679
+Dept of Health,MHRA,10/06/2013,UK Private Vehicle Hire,Medical Devices,HOGG ROBINSON LTD,600080426,443.63,413640679
+Dept of Health,MHRA,10/06/2013,UK Rail/Tube/Tram,Medical Devices,HOGG ROBINSON LTD,600080426,1288.48,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Air,Medical Devices,HOGG ROBINSON LTD,600080426,1913.61,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Hotel/Accommodation,Medical Devices,HOGG ROBINSON LTD,600080426,25.46,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Rail/Tram,Medical Devices,HOGG ROBINSON LTD,600080426,709.23,413640679
+Dept of Health,MHRA,10/06/2013,UK Hotel/Accommodation,Operations & Finance,HOGG ROBINSON LTD,600080426,9.06,413640679
+Dept of Health,MHRA,10/06/2013,UK Rail/Tube/Tram,Operations & Finance,HOGG ROBINSON LTD,600080426,599.15,413640679
+Dept of Health,MHRA,10/06/2013,UK Miscellaneous T&S,Policy,HOGG ROBINSON LTD,600080426,9.56,413640679
+Dept of Health,MHRA,10/06/2013,UK Air,Policy,HOGG ROBINSON LTD,600080426,5.04,413640679
+Dept of Health,MHRA,10/06/2013,UK Hotel/Accommodation,Policy,HOGG ROBINSON LTD,600080426,2.51,413640679
+Dept of Health,MHRA,10/06/2013,UK Rail/Tube/Tram,Policy,HOGG ROBINSON LTD,600080426,154.24,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Air,Policy,HOGG ROBINSON LTD,600080426,2596.64,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Hotel/Accommodation,Policy,HOGG ROBINSON LTD,600080426,18.12,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Rail/Tram,Policy,HOGG ROBINSON LTD,600080426,1619.68,413640679
+Dept of Health,MHRA,10/06/2013,UK Hotel/Accommodation,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600080426,128.77,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Air,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600080426,1620.41,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Hotel/Accommodation,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600080426,163.71,413640679
+Dept of Health,MHRA,10/06/2013,Overseas Rail/Tram,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600080426,74.44,413640679
+Dept of Health,MHRA,12/06/2013,IT Purchases,Information Management,ACCENTURE,600079676,199668.68,788629066
+Dept of Health,MHRA,12/06/2013,Capital Expenditure,Information Management,ACCENTURE,600080547,138408.00,788629066
+Dept of Health,MHRA,12/06/2013,Third Party IT Contracts,Information Management,ACCENTURE,600080550,63869.60,788629066
+Dept of Health,MHRA,12/06/2013,Capital Expenditure,Information Management,ACCENTURE,600080552,111357.60,788629066
+Dept of Health,MHRA,12/06/2013,Computing Operation Costs,Information Management,ACCENTURE,600080570,539820.00,788629066
+Dept of Health,MHRA,12/06/2013,Computing Operation Costs,Information Management,ACCENTURE,600080571,220446.98,788629066
+Dept of Health,MHRA,13/06/2013,Computing Operation Costs,Information Management,ACCENTURE,600080560,29256.00,788629066
+Dept of Health,MHRA,13/06/2013,Third Party IT Contracts,Information Management,ACCENTURE,600080575,49902.00,788629066
+Dept of Health,MHRA,13/06/2013,Third Party IT Contracts,Information Management,ACCENTURE,600080577,96544.32,788629066
+Dept of Health,MHRA,14/06/2013,Internal Audit,Operations & Finance,PRICEWATERHOUSECOOPERS LLP,600080610,25582.80,243823957
+Dept of Health,MHRA,19/06/2013,Computing Operation Costs,Information Management,ACCENTURE,600080268,539821.01,788629066
+Dept of Health,MHRA,19/06/2013,Capital Expenditure,Information Management,ACCENTURE,600080574,143380.15,788629066
+Dept of Health,MHRA,19/06/2013,Laboratory,"Inspection, Enforcement & Standards",LGC (TEDDINGTON) LTD,600080674,346472.40,674056721
+Dept of Health,MHRA,20/06/2013,Research,Clinical Practice Research Datalink,UNIVERSITY COLLEGE LONDON,600080726,48000.00,524371168
+Dept of Health,MHRA,20/06/2013,Third Party IT Contracts,Information Management,IRISH MEDICINES BOARD,600080307,50000.00,
+Dept of Health,MHRA,20/06/2013,Laboratory,"Inspection, Enforcement & Standards",LGC (TEDDINGTON) LTD,600080732,363544.80,674056721
+Dept of Health,MHRA,21/06/2013,Capital Expenditure,Information Management,ACCENTURE,600080548,107630.40,788629066
+Dept of Health,MHRA,25/06/2013,IT Purchases,Information Management,ACCENTURE,600080691,126671.52,788629066
+Dept of Health,MHRA,27/06/2013,VAT Control,Operations & Finance,HMRC,600080938,74458.34,
+Dept of Health,MHRA,28/06/2013,Printing Costs,"Inspection, Enforcement & Standards",R R DONNELLEY GLOBAL DOCUMENTS SOLUTIONS,600080949,34605.37,731861004

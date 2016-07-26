@@ -1,0 +1,14 @@
+ENTITY,EXPENSE_AREA_1,PAYMENT DATE,PAYMENT NUMBER,SUPPLIER NAME,INVOICE AMOUNT,NAC DESCRIPTION,SERVICE SUPPLIED
+Wales Office,WZ900-Wales,28/Mar/2011 ,1001414,HAYS SPECIALIST RECRUITMENT LTD,521.05,212601-Agency Staff - admin,Agency staff costs
+Wales Office,WZ900-Wales,08/Mar/2011 ,1001361,KNIGHT FRANK LLP,45076.03,221112-Property Rents - Passing Rent,Rent and service charges for Cardiff office
+Wales Office,WZ900-Wales,03/Mar/2011 ,1001345,GOVERNMENT CAR & DESPATCH AGENCY,1323.00,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,WZ900-Wales,15/Mar/2011 ,1001381,GOVERNMENT CAR & DESPATCH AGENCY,7050.26,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,WZ900-Wales,16/Mar/2011 ,1001387,GOVERNMENT CAR & DESPATCH AGENCY,1080.00,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,WZ900-Wales,28/Mar/2011 ,1001413,GOVERNMENT CAR & DESPATCH AGENCY,945.00,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,WZ900-Wales,04/Mar/2011 ,1001351,CARLISLE SECURITY SERVICES LTD,9555.84,222151-Security,24 hour Security for London office
+Wales Office,WZ900-Wales,08/Mar/2011 ,1001356,CIVIC MAINTENANCE SERVICES LTD,870.58,222152-Cleaning (excl Waste Collctn),Cleaning services for Cardiff office
+Wales Office,WZ900-Wales,08/Mar/2011 ,1001362,LANCASTER OFFICE CLEANING CO LTD,2545.19,222152-Cleaning (excl Waste Collctn),Cleaning services for London office
+Wales Office,WZ900-Wales,11/Mar/2011 ,1001374,PRESS DATA CYMRU,960.00,223513-Design/Print/Reprographic Services,Media monitoring
+Wales Office,WZ900-Wales,08/Mar/2011 ,1001357,GOVERNMENT CAR & DESPATCH AGENCY,964.80,223517-IDS,Government internal mail service
+Wales Office,WZ900-Wales,24/Mar/2011 ,1001407,CENTRAL OFFICE OF INFORMATION (COI),30000.00,223520-Publications- incl. Online,Parliamentary TV feed into London office
+Wales Office,WZ900-Wales,01/Mar/2011 ,1001338,EDUSERV TECHNOLOGIES LTD,693.60,223536-IT Services incl Web Hosting,Web hosting for Wales Office websites

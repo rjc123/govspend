@@ -1,0 +1,66 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,VAT registration number
+Dept of Health,MHRA,01/12/2015,Application Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600099545,97195.27,862247715
+Dept of Health,MHRA,01/12/2015,Application Services and Maintenance,Information Management,ACCENTURE,600099824,218150.90,788629066
+Dept of Health,MHRA,03/12/2015,Cost of Seminars,Communications,GLASGOWS,600100228,40053.77,448190633
+Dept of Health,MHRA,03/12/2015,Application Services and Maintenance,Information Management,ACCENTURE,600099825,436301.81,788629066
+Dept of Health,MHRA,03/12/2015,Solicitors,"Inspection, Enforcement & Standards",CPS,600100191,86105.00,888823164
+Dept of Health,MHRA,08/12/2015,Infrastructure Services and Maintenance,Information Management,ACCENTURE,600099820,414480.91,788629066
+Dept of Health,MHRA,08/12/2015,Application Services and Maintenance,Information Management,ACCENTURE,600100241,27772.00,788629066
+Dept of Health,MHRA,08/12/2015,Application Services and Maintenance,Information Management,ACCENTURE,600100242,218150.90,788629066
+Dept of Health,MHRA,08/12/2015,Application Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600100340,76874.80,862247715
+Dept of Health,MHRA,08/12/2015,Solicitors,Policy,CPS,600100190,272679.00,888823164
+Dept of Health,MHRA,10/12/2015,Application Services and Maintenance,Information Management,ACCENTURE,600100313,27772.00,788629066
+Dept of Health,MHRA,11/12/2015,"Service, Integration & Management",Information Management,FDM GROUP LIMITED,600099002,27216.00,583540529
+Dept of Health,MHRA,11/12/2015,Infrastructure Services and Maintenance,Information Management,TRUSTMARQUE SOLUTIONS LTD,600100145,77164.30,394593601
+Dept of Health,MHRA,11/12/2015,IT Security,Information Management,REDROCK CONSULTING LTD,600100339,32983.20,862247715
+Dept of Health,MHRA,11/12/2015,Application Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600100346,39677.41,862247715
+Dept of Health,MHRA,11/12/2015,Capital Expenditure,Information Management,REDROCK CONSULTING LTD,600100347,40351.20,862247715
+Dept of Health,MHRA,11/12/2015,Infrastructure Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600100350,64648.94,862247715
+Dept of Health,MHRA,11/12/2015,Infrastructure Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600100351,32316.05,862247715
+Dept of Health,MHRA,11/12/2015,Application Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600100352,49649.52,862247715
+Dept of Health,MHRA,11/12/2015,Capital Expenditure,Information Management,METHODS DIGITAL LIMITED,600100404,30180.00,859140314
+Dept of Health,MHRA,11/12/2015,Capital Expenditure,Information Management,METHODS DIGITAL LIMITED,600100405,44280.00,859140314
+Dept of Health,MHRA,16/12/2015,Application Services and Maintenance,Information Management,ACCENTURE,600100314,218150.90,788629066
+Dept of Health,MHRA,16/12/2015,Infrastructure Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600100344,76877.81,862247715
+Dept of Health,MHRA,16/12/2015,UK Rail/Tube/Tram,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600100413,281.34,413640679
+Dept of Health,MHRA,16/12/2015,UK Hotel/Accommodation,Communications,HOGG ROBINSON LTD,600100413,96.48,413640679
+Dept of Health,MHRA,16/12/2015,UK Rail/Tube/Tram,Communications,HOGG ROBINSON LTD,600100413,627.10,413640679
+Dept of Health,MHRA,16/12/2015,Passport/Visa,Directorate,HOGG ROBINSON LTD,600100413,225.10,413640679
+Dept of Health,MHRA,16/12/2015,UK Rail/Tube/Tram,Human Resources,HOGG ROBINSON LTD,600100413,361.43,413640679
+Dept of Health,MHRA,16/12/2015,UK Rail/Tube/Tram,Information Management,HOGG ROBINSON LTD,600100413,478.32,413640679
+Dept of Health,MHRA,16/12/2015,UK Miscellaneous T&S,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600100413,38.24,413640679
+Dept of Health,MHRA,16/12/2015,UK Air,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600100413,2114.63,413640679
+Dept of Health,MHRA,16/12/2015,UK Hotel/Accommodation,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600100413,15107.19,413640679
+Dept of Health,MHRA,16/12/2015,UK Private Vehicle Hire,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600100413,2570.23,413640679
+Dept of Health,MHRA,16/12/2015,UK Rail/Tube/Tram,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600100413,17324.25,413640679
+Dept of Health,MHRA,16/12/2015,Overseas Air,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600100413,43376.67,413640679
+Dept of Health,MHRA,16/12/2015,Overseas Hotel/Accommodation,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600100413,326.91,413640679
+Dept of Health,MHRA,16/12/2015,Overseas Private Vehicle Hire,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600100413,964.15,413640679
+Dept of Health,MHRA,16/12/2015,Overseas Rail/Tram,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600100413,707.26,413640679
+Dept of Health,MHRA,16/12/2015,Passport/Visa,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600100413,842.83,413640679
+Dept of Health,MHRA,16/12/2015,UK Miscellaneous T&S,Licensing,HOGG ROBINSON LTD,600100413,9.56,413640679
+Dept of Health,MHRA,16/12/2015,UK Hotel/Accommodation,Licensing,HOGG ROBINSON LTD,600100413,9.65,413640679
+Dept of Health,MHRA,16/12/2015,UK Private Vehicle Hire,Licensing,HOGG ROBINSON LTD,600100413,721.82,413640679
+Dept of Health,MHRA,16/12/2015,UK Rail/Tube/Tram,Licensing,HOGG ROBINSON LTD,600100413,853.45,413640679
+Dept of Health,MHRA,16/12/2015,Overseas Air,Licensing,HOGG ROBINSON LTD,600100413,768.78,413640679
+Dept of Health,MHRA,16/12/2015,Overseas Hotel/Accommodation,Licensing,HOGG ROBINSON LTD,600100413,12.66,413640679
+Dept of Health,MHRA,16/12/2015,Overseas Rail/Tram,Licensing,HOGG ROBINSON LTD,600100413,503.01,413640679
+Dept of Health,MHRA,16/12/2015,Committee T&S,Licensing,HOGG ROBINSON LTD,600100413,451.53,413640679
+Dept of Health,MHRA,16/12/2015,UK Miscellaneous T&S,Medical Devices,HOGG ROBINSON LTD,600100413,9.56,413640679
+Dept of Health,MHRA,16/12/2015,UK Hotel/Accommodation,Medical Devices,HOGG ROBINSON LTD,600100413,508.95,413640679
+Dept of Health,MHRA,16/12/2015,UK Rail/Tube/Tram,Medical Devices,HOGG ROBINSON LTD,600100413,2487.75,413640679
+Dept of Health,MHRA,16/12/2015,Overseas Air,Medical Devices,HOGG ROBINSON LTD,600100413,485.70,413640679
+Dept of Health,MHRA,16/12/2015,Overseas Hotel/Accommodation,Medical Devices,HOGG ROBINSON LTD,600100413,26.51,413640679
+Dept of Health,MHRA,16/12/2015,Overseas Rail/Tram,Medical Devices,HOGG ROBINSON LTD,600100413,727.33,413640679
+Dept of Health,MHRA,16/12/2015,UK Rail/Tube/Tram,Finance & Procurement,HOGG ROBINSON LTD,600100413,267.28,413640679
+Dept of Health,MHRA,16/12/2015,UK Rail/Tube/Tram,Policy,HOGG ROBINSON LTD,600100413,318.91,413640679
+Dept of Health,MHRA,16/12/2015,Overseas Hotel/Accommodation,Policy,HOGG ROBINSON LTD,600100413,9.03,413640679
+Dept of Health,MHRA,16/12/2015,Overseas Rail/Tram,Policy,HOGG ROBINSON LTD,600100413,1011.02,413640679
+Dept of Health,MHRA,16/12/2015,Passport/Visa,Policy,HOGG ROBINSON LTD,600100413,316.76,413640679
+Dept of Health,MHRA,16/12/2015,UK Hotel/Accommodation,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600100413,355.77,413640679
+Dept of Health,MHRA,16/12/2015,UK Rail/Tube/Tram,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600100413,864.17,413640679
+Dept of Health,MHRA,16/12/2015,Overseas Air,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600100413,836.54,413640679
+Dept of Health,MHRA,16/12/2015,Overseas Hotel/Accommodation,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600100413,10.84,413640679
+Dept of Health,MHRA,16/12/2015,Overseas Rail/Tram,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600100413,135.82,413640679
+Dept of Health,MHRA,18/12/2015,Infrastructure Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600100349,84210.88,862247715
+Dept of Health,MHRA,18/12/2015,Infrastructure Services and Maintenance,Information Management,ACCENTURE,600100555,414480.91,788629066

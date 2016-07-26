@@ -1,0 +1,75 @@
+Department Family,Entity,Date,Expense Type,Expense area,Supplier ,Transaction number,Total,Description
+Department of Health,Care Quality Commission,01/08/2011,Rates,Commission Wide,Islington Council,EFT8004490           ,29672,Rates
+Department of Health,Care Quality Commission,01/08/2011,Travel and Subsistence,Commission Wide,FCm Travel Solutions,EFT8004485           ,128224.77,Commission Wide Travel
+Department of Health,Care Quality Commission,03/08/2011,Maintenance / FM,Finance & Corporate Services,Europa,EFT8004514           ,17728.62,Elective Works
+Department of Health,Care Quality Commission,03/08/2011,Maintenance / FM,Finance & Corporate Services,Europa,EFT8004514           ,38547.9,Facilities Management
+Department of Health,Care Quality Commission,03/08/2011,"Property, Plant and Equipment",Finance & Corporate Services,Sandell Interiors Ltd,EFT8004524           ,60244.87,Fittings Additions
+Department of Health,Care Quality Commission,03/08/2011,Intangible Assets,Commission Wide,Carlisle Managed Solutions,EFT8004511           ,3451.86,Agency Staff
+Department of Health,Care Quality Commission,03/08/2011,Agency,Finance & Corporate Services,Carlisle Managed Solutions,EFT8004511           ,19100.68,Agency Staff
+Department of Health,Care Quality Commission,03/08/2011,Agency,Governance & Legal,Carlisle Managed Solutions,EFT8004511           ,879.07,Agency Staff
+Department of Health,Care Quality Commission,03/08/2011,Agency,Intelligence Directorate,Carlisle Managed Solutions,EFT8004511           ,10444.23,Agency Staff
+Department of Health,Care Quality Commission,03/08/2011,Agency,Operations Delivery,Carlisle Managed Solutions,EFT8004511           ,56677.23,Agency Staff
+Department of Health,Care Quality Commission,03/08/2011,Agency,Organisational Development & Human Resources,Carlisle Managed Solutions,EFT8004511           ,2306.8,Agency Staff
+Department of Health,Care Quality Commission,03/08/2011,Agency,Strategic Marketing & Comms,Carlisle Managed Solutions,EFT8004511           ,23197.17,Agency Staff
+Department of Health,Care Quality Commission,05/08/2011,Intangible Assets,Intelligence Directorate,QinetiQ Ltd,EFT8004563           ,36000,IT - Internally Developed SW Additions
+Department of Health,Care Quality Commission,05/08/2011,Consultation Mechanism,Intelligence Directorate,Picker Institute Europe,EFT8004562           ,61142.92,Surveys
+Department of Health,Care Quality Commission,08/08/2011,Intangible Assets,Finance & Corporate Services,Sapient,EFT8004588           ,406662,IT-Int.Dev.SW-Software Dev.
+Department of Health,Care Quality Commission,10/08/2011,Training & Development,Organisational Development & Human Resources,Specialist Computer Centres plc (SCC),EFT8004617           ,30900,Internal Learning and Development
+Department of Health,Care Quality Commission,10/08/2011,Intangible Assets,Commission Wide,Carlisle Managed Solutions,EFT8004603           ,3451.86,Agency Staff
+Department of Health,Care Quality Commission,10/08/2011,Agency,Finance & Corporate Services,Carlisle Managed Solutions,EFT8004603           ,16287.06,Agency Staff
+Department of Health,Care Quality Commission,10/08/2011,Agency,Governance & Legal,Carlisle Managed Solutions,EFT8004603           ,976.74,Agency Staff
+Department of Health,Care Quality Commission,10/08/2011,Agency,Intelligence Directorate,Carlisle Managed Solutions,EFT8004603           ,12499.18,Agency Staff
+Department of Health,Care Quality Commission,10/08/2011,Agency,Operations Delivery,Carlisle Managed Solutions,EFT8004603           ,73097.78,Agency Staff
+Department of Health,Care Quality Commission,10/08/2011,Agency,Organisational Development & Human Resources,Carlisle Managed Solutions,EFT8004603           ,12255.38,Agency Staff
+Department of Health,Care Quality Commission,10/08/2011,Agency,Regulatory Development,Carlisle Managed Solutions,EFT8004603           ,3976.68,Agency Staff
+Department of Health,Care Quality Commission,10/08/2011,Agency,Strategic Marketing & Comms,Carlisle Managed Solutions,EFT8004603           ,21220.72,Agency Staff
+Department of Health,Care Quality Commission,12/08/2011,Contracted Lawyers / Legal Fees,Governance & Legal,Mills & Reeve (Norwich),EFT8004639           ,36435.58,Legal Fees-Mid Staff Pub Enq
+Department of Health,Care Quality Commission,12/08/2011,Intangible Assets,Finance & Corporate Services,Sapient,EFT8004640           ,185325,IT-Int.Dev.SW-Software Dev.
+Department of Health,Care Quality Commission,15/08/2011,Maintenance / FM,Finance & Corporate Services,Communities & Local Government,EFT8004650           ,213764.67,Service Charges
+Department of Health,Care Quality Commission,15/08/2011,Rates,Finance & Corporate Services,Communities & Local Government,EFT8004650           ,203326.81,Rates
+Department of Health,Care Quality Commission,15/08/2011,"Fuel, Light, Heat",Finance & Corporate Services,Communities & Local Government,EFT8004650           ,33438.3,Utilities - Electricity
+Department of Health,Care Quality Commission,15/08/2011,Rent,Finance & Corporate Services,Communities & Local Government,EFT8004650           ,540737.48,Rent
+Department of Health,Care Quality Commission,15/08/2011,Maintenance / FM,Finance & Corporate Services,Communities & Local Government,EFT8004650           ,8616.39,Insurance Property
+Department of Health,Care Quality Commission,15/08/2011,"Fuel, Light, Heat",Finance & Corporate Services,Communities & Local Government,EFT8004650           ,1020.9,Utilities - Gas
+Department of Health,Care Quality Commission,17/08/2011,Intangible Assets,Finance & Corporate Services,Sapient,EFT8004699           ,38700,IT-Int.Dev.SW-Software Dev.
+Department of Health,Care Quality Commission,17/08/2011,Hotels and Conferences,Commission Wide,Expotel,EFT8004684           ,92402.64,Commission Wide Hotels and Conferences
+Department of Health,Care Quality Commission,19/08/2011,IT Managed Service,Finance & Corporate Services,CSC Computer Science Ltd,EFT8004734           ,480165.83,CSC Managed Service
+Department of Health,Care Quality Commission,19/08/2011,IT Website,Finance & Corporate Services,Steria Ltd,EFT8004763           ,53242.91,IT Website - Redesign
+Department of Health,Care Quality Commission,19/08/2011,Intangible Assets,Intelligence Directorate,QinetiQ Ltd,EFT8004755           ,47616,IT - Internally Developed SW Additions
+Department of Health,Care Quality Commission,19/08/2011,Stationery and Other General Office Expenses,Regulatory Development,COI Communications,EFT8004730           ,91796.51,Non-training conference / venues
+Department of Health,Care Quality Commission,19/08/2011,Intangible Assets,Finance & Corporate Services,Computacenter UK Limited,EFT8004732           ,258772.8,IT-Int.Dev.SW-Software Dev.
+Department of Health,Care Quality Commission,19/08/2011,IT Managed Service,Finance & Corporate Services,CSC Computer Science Ltd,EFT8004734           ,53341.49,CSC Homeworker Charges
+Department of Health,Care Quality Commission,19/08/2011,Intangible Assets,Commission Wide,Carlisle Managed Solutions,EFT8004727           ,1411.8,Agency Staff
+Department of Health,Care Quality Commission,19/08/2011,Agency,Finance & Corporate Services,Carlisle Managed Solutions,EFT8004727           ,16384.2,Agency Staff
+Department of Health,Care Quality Commission,19/08/2011,Agency,Governance & Legal,Carlisle Managed Solutions,EFT8004727           ,976.74,Agency Staff
+Department of Health,Care Quality Commission,19/08/2011,Agency,Intelligence Directorate,Carlisle Managed Solutions,EFT8004727           ,15633.2,Agency Staff
+Department of Health,Care Quality Commission,19/08/2011,Agency,Operations Delivery,Carlisle Managed Solutions,EFT8004727           ,54918.92,Agency Staff
+Department of Health,Care Quality Commission,19/08/2011,Agency,Organisational Development & Human Resources,Carlisle Managed Solutions,EFT8004727           ,8123.04,Agency Staff
+Department of Health,Care Quality Commission,19/08/2011,Agency,Regulatory Development,Carlisle Managed Solutions,EFT8004727           ,1967.75,Agency Staff
+Department of Health,Care Quality Commission,19/08/2011,Agency,Strategic Marketing & Comms,Carlisle Managed Solutions,EFT8004727           ,19135.05,Agency Staff
+Department of Health,Care Quality Commission,22/08/2011,IT Telecommunications,Finance & Corporate Services,Cable & Wireless,EFT8004775           ,213007.2,Data Services
+Department of Health,Care Quality Commission,22/08/2011,Publishing & Branding,Strategic Marketing & Comms,Office for Public Management,EFT8004779           ,53236.5,Print - Reports
+Department of Health,Care Quality Commission,24/08/2011,Intangible Assets,Commission Wide,Carlisle Managed Solutions,EFT8004791           ,1411.8,Agency Staff
+Department of Health,Care Quality Commission,24/08/2011,Agency,Finance & Corporate Services,Carlisle Managed Solutions,EFT8004791           ,20265.81,Agency Staff
+Department of Health,Care Quality Commission,24/08/2011,Agency,Governance & Legal,Carlisle Managed Solutions,EFT8004791           ,1875,Agency Staff
+Department of Health,Care Quality Commission,24/08/2011,Agency,Intelligence Directorate,Carlisle Managed Solutions,EFT8004791           ,15191.71,Agency Staff
+Department of Health,Care Quality Commission,24/08/2011,Agency,Operations Delivery,Carlisle Managed Solutions,EFT8004791           ,61446.53,Agency Staff
+Department of Health,Care Quality Commission,24/08/2011,Agency,Organisational Development & Human Resources,Carlisle Managed Solutions,EFT8004791           ,4845.88,Agency Staff
+Department of Health,Care Quality Commission,24/08/2011,Agency,Regulatory Development,Carlisle Managed Solutions,EFT8004791           ,1994.21,Agency Staff
+Department of Health,Care Quality Commission,24/08/2011,Agency,Strategic Marketing & Comms,Carlisle Managed Solutions,EFT8004791           ,19113.41,Agency Staff
+Department of Health,Care Quality Commission,24/08/2011,IT Telecommunications,Finance & Corporate Services,Vodafone Corporate,EFT8004815           ,25320.89,Mobile Running Costs
+Department of Health,Care Quality Commission,26/08/2011,Service User Strategy,Regulatory Development,University of Central Lancashire Business,EFT8004842           ,39600,National Projects
+Department of Health,Care Quality Commission,26/08/2011,Intangible Assets,Finance & Corporate Services,Sapient,EFT8004839           ,59841,IT-Int.Dev.SW-Software Dev.
+Department of Health,Care Quality Commission,31/08/2011,Rates,Commission Wide,Leeds City Council,306589,8747,Rates
+Department of Health,Care Quality Commission,31/08/2011,Rates,Commission Wide,Bristol City Council,306590,6424,Rates
+Department of Health,Care Quality Commission,31/08/2011,Rates,Commission Wide,Preston City Council,306591,4590,Rates
+Department of Health,Care Quality Commission,31/08/2011,Maintenance / FM,Finance & Corporate Services,Europa,EFT8004850           ,49422.29,Facilities Management
+Department of Health,Care Quality Commission,31/08/2011,Maintenance / FM,Finance & Corporate Services,Europa,EFT8004850           ,30841.44,Elective Works
+Department of Health,Care Quality Commission,31/08/2011,Intangible Assets,Commission Wide,Carlisle Managed Solutions,EFT8004791           ,1411.8,Agency Staff
+Department of Health,Care Quality Commission,31/08/2011,Agency,Finance & Corporate Services,Carlisle Managed Solutions,EFT8004791           ,9014.15,Agency Staff
+Department of Health,Care Quality Commission,31/08/2011,Agency,Governance & Legal,Carlisle Managed Solutions,EFT8004845           ,3340.11,Agency Staff
+Department of Health,Care Quality Commission,31/08/2011,Agency,Intelligence Directorate,Carlisle Managed Solutions,EFT8004845           ,11965.99,Agency Staff
+Department of Health,Care Quality Commission,31/08/2011,Agency,Operations Delivery,Carlisle Managed Solutions,EFT8004845           ,53744.24,Agency Staff
+Department of Health,Care Quality Commission,31/08/2011,Agency,Organisational Development & Human Resources,Carlisle Managed Solutions,EFT8004845           ,4331.52,Agency Staff
+Department of Health,Care Quality Commission,31/08/2011,Agency,Regulatory Development,Carlisle Managed Solutions,EFT8004845           ,8530.75,Agency Staff
+Department of Health,Care Quality Commission,31/08/2011,Agency,Strategic Marketing & Comms,Carlisle Managed Solutions,EFT8004845           ,15344.09,Agency Staff

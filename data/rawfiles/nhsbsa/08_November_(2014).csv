@@ -1,0 +1,52 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,Description,Supplier Post Code
+Department of Health,NHS Business Services Authority,03/11/2014,Statutory Payments,Statutory Payments,CABINET OFFICE CIVIL SERVICE PENSIONS,80051413,"71,129.24",DEDUCTIONS OCT 14,RG24 9NW
+Department of Health,NHS Business Services Authority,03/11/2014,IBM Maintenance Contract,Prescription Pricing Division,SOFTCAT LIMITED,80051551,"272,881.44",Part No. E17W1LL - IBM Tivoli Access,SL7 1LW
+Department of Health,NHS Business Services Authority,03/11/2014,Temporary Staff,Prescription Pricing Division,SAPIENT LIMITED,80051593,"36,150.00",Temporary Staff,E1 6DX
+Department of Health,NHS Business Services Authority,03/11/2014,Dental Contractors,Dental Services ,,,"180,711,966.00",Payments to Dental Contractors,
+Department of Health,NHS Business Services Authority,04/11/2014,Pharmacy Contractors,Prescription Pricing ,,,"500,015.13",Payments to Pharmacy Contractors,
+Department of Health,NHS Business Services Authority,05/11/2014,Rates Charges,Corporate Services,NEWCASTLE CITY COUNCIL,50029713,"29,402.00",RATES NOV14,NE99 2PT
+Department of Health,NHS Business Services Authority,05/11/2014,Rates Charges,Corporate Services,NEWCASTLE CITY COUNCIL,50029714,"36,632.00",RATES NOV14,NE99 2PT
+Department of Health,NHS Business Services Authority,05/11/2014,Training,Corporate Services,CAPITA BUSINESS SERVICES LTD,80050180,"242,728.02",DCSS FIXEDVARIABLE PASSTHROUGH JUL 14,DL1 9HN
+Department of Health,NHS Business Services Authority,05/11/2014,Rent,Dental Services Division,CAPITA BUSINESS SERVICES LTD,80050180,"8,622.36",DCSS FIXEDVARIABLE PASSTHROUGH JUL 14,DL1 9HN
+Department of Health,NHS Business Services Authority,05/11/2014,Service Desk,Corporate Services,CAPITA BUSINESS SERVICES LTD,80051353,"334,952.76",MITI FIXED CHARGES AUG 14,DL1 9HN
+Department of Health,NHS Business Services Authority,05/11/2014,Software Licences,Prescription Pricing Division,CAPITA BUSINESS SERVICES LTD,80051353,772.61,MITI FIXED CHARGES AUG 14,DL1 9HN
+Department of Health,NHS Business Services Authority,05/11/2014,Service Desk,Corporate Services,CAPITA BUSINESS SERVICES LTD,80051354,"305,759.80",MITI VARIABLE CHARGES AUG 14,DL1 9HN
+Department of Health,NHS Business Services Authority,05/11/2014,Software Licences,Prescription Pricing Division,CAPITA BUSINESS SERVICES LTD,80051354,"9,966.71",MITI VARIABLE CHARGES AUG 14,DL1 9HN
+Department of Health,NHS Business Services Authority,05/11/2014,Training,Corporate Services,CAPITA BUSINESS SERVICES LTD,80051412,"242,728.02",TRAINING,DL1 9HN
+Department of Health,NHS Business Services Authority,05/11/2014,Rent,Dental Services Division,CAPITA BUSINESS SERVICES LTD,80051412,"8,622.36",EASTBOURNE ACCOMODATION,DL1 9HN
+Department of Health,NHS Business Services Authority,05/11/2014,Printing Charges (External),Prescription Pricing Division,CPI CARD GROUP - PETERSFIELD LIMITED,80051639,"64,004.56",Printing Charges (External),GU32 3AL
+Department of Health,NHS Business Services Authority,05/11/2014,Printing Charges (External),Prescription Pricing Division,CPI CARD GROUP - PETERSFIELD LIMITED,80051640,"54,035.47",Printing Charges (External),GU32 3AL
+Department of Health,NHS Business Services Authority,06/11/2014,Postage Charges,Prescription Pricing Division,ROYAL MAIL,80051326,"112,793.38",Postage Charges,S49 1HQ
+Department of Health,NHS Business Services Authority,06/11/2014,Pharmacy Contractors,Prescription Pricing ,,,"900,517.56",Payments to Pharmacy Contractors,
+Department of Health,NHS Business Services Authority,11/11/2014,Service Charges General,NHS Protect,COMMUNITIES AND LOCAL GOVERNMENT,80051666,"80,493.91",Service Charge Oct  Dec 14,HP2 4XN
+Department of Health,NHS Business Services Authority,12/11/2014,Temporary Staff,Corporate Services,REDFERN TRAVEL,50029749,"86,841.16",TRAVEL,BD1 3AZ
+Department of Health,NHS Business Services Authority,12/11/2014,Postage Charges,Prescription Pricing Division,ROYAL MAIL,80051607,"243,691.88",EHICEU,S49 1HQ
+Department of Health,NHS Business Services Authority,12/11/2014,Rent,NHS Protect,SKILLS FUNDING AGENCY,80051663,"142,825.00",Occupancy agreement Q1 and Q2,CV1 2WT
+Department of Health,NHS Business Services Authority,12/11/2014,Temporary Staff,Prescription Pricing Division,SAPIENT LIMITED,80051836,"56,529.05",Gaurav  Mall - Client Side Site/Front,E1 6DX
+Department of Health,NHS Business Services Authority,13/11/2014,General Maintenance,Corporate Services,PAYMASTER (1836) LTD,80051489,"27,768.03",ESTATES TEMPLATES,RH10 1UH
+Department of Health,NHS Business Services Authority,13/11/2014,Temporary Staff,Pensions Division,PAYMASTER (1836) LTD,80051878,"75,150.40",Equiniti Paymaster 2015 Scheme Hutton IT,RH10 1UH
+Department of Health,NHS Business Services Authority,14/11/2014,Envision Other,Pensions Division,PAYMASTER (1836) LTD,80050165,"75,730.00",Envision Other,RH10 1UH
+Department of Health,NHS Business Services Authority,14/11/2014,Temporary Staff,Pensions Division,PRICEWATERHOUSE COOPERS LLP,80051148,"64,925.34","Expenses : up to £74,950.",E14 9SQ
+Department of Health,NHS Business Services Authority,14/11/2014,Temporary Staff,Pensions Division,PAYMASTER (1836) LTD,80051646,"88,782.00",Equiniti Paymaster 2015 Scheme Hutton IT,RH10 1UH
+Department of Health,NHS Business Services Authority,14/11/2014,Temporary Staff,Pensions Division,PAYMASTER (1836) LTD,80051647,"70,948.00",Equiniti Paymaster 2015 Scheme Hutton IT,RH10 1UH
+Department of Health,NHS Business Services Authority,14/11/2014,Envision Payroll,Pensions Division,PAYMASTER (1836) LTD,80051653,"40,775.90",Envision Payroll,RH10 1UH
+Department of Health,NHS Business Services Authority,14/11/2014,Temporary Staff,Pensions Division,PAYMASTER (1836) LTD,80051899,"61,550.00",Equiniti Paymaster 2015 Scheme Hutton IT,RH10 1UH
+Department of Health,NHS Business Services Authority,14/11/2014,Statutory Payments,Corporate Services,HMRC,,"1,226,917.66",NI & TAX,
+Department of Health,NHS Business Services Authority,14/11/2014,Statutory Payments,Corporate Services,HMRC,,"883,080.07",PENSIONS,
+Department of Health,NHS Business Services Authority,18/11/2014,Childcare Vouchers,Childcare Voucher,CHILDCARE VOUCHERS LTD,50029764,"62,068.19",NHSE,SW1V 2RS
+Department of Health,NHS Business Services Authority,18/11/2014,Childcare Vouchers,Corporate Services,CHILDCARE VOUCHERS LTD,50029764,744.82,NHSE,SW1V 2RS
+Department of Health,NHS Business Services Authority,19/11/2014,Envision Retained Services,Pensions Division,PAYMASTER (1836) LTD,50029790,"883,873.66",RETAINED SERVICES,RH10 1UH
+Department of Health,NHS Business Services Authority,21/11/2014,Transport Capital,Corporate Services,CAPITA BUSINESS SERVICES LTD,80052206,"37,542.35",Fuel Charge,DL1 9HN
+Department of Health,NHS Business Services Authority,21/11/2014,PC Purchases,NHS Protect,CAPITA BUSINESS SERVICES LTD,80052206,231.24,Part Code: KTL-TP3CL/8G - 8GB 1600MHz,DL1 9HN
+Department of Health,NHS Business Services Authority,21/11/2014,Temporary Staff,Prescription Pricing Division,CAPITA BUSINESS SERVICES LTD,80052206,"7,155.51",Senior consultant cover for Saturday,DL1 9HN
+Department of Health,NHS Business Services Authority,21/11/2014,Professional Fees,Supply Chain Management Division,CAPITA BUSINESS SERVICES LTD,80052206,855.39,Desktop engineer to carry out,DL1 9HN
+Department of Health,NHS Business Services Authority,21/11/2014,Temporary Staff,Corporate Services,CAPITA BUSINESS SERVICES LTD,80052206,"1,499.54",Engineer time to work on the production,DL1 9HN
+Department of Health,NHS Business Services Authority,21/11/2014,Temporary Staff,Pensions Division,SAPIENT LIMITED,80052208,"75,651.60",Change Request - Project BSA Delivery,E1 6DX
+Department of Health,NHS Business Services Authority,24/11/2014,Temporary Staff,Pensions Division,PAYMASTER (1836) LTD,80051901,"25,000.00",Equiniti Paymaster 2015 Scheme Hutton IT,RH10 1UH
+Department of Health,NHS Business Services Authority,28/11/2014,Public Info Distribution,Prescription Pricing Division,IDS UK LIMITED,80052262,"25,590.61",Public Info Distribution,SO32 2EJ
+Department of Health,NHS Business Services Authority,28/11/2014,Printing Charges (External),Prescription Pricing Division,WILLIAMS LEA LTD,80052305,"25,110.42",Drug Tariff Annual Printing Costs,EC1M 4NA
+Department of Health,NHS Business Services Authority,28/11/2014,Temporary Staff,Pensions Division,SAPIENT LIMITED,80052385,"41,370.00",Change Request - Project BSA Delivery,E1 6DX
+Department of Health,NHS Business Services Authority,28/11/2014,Temporary Staff,Pensions Division,PAYMASTER (1836) LTD,80052407,"108,810.00",EQUINITI PAYMASTER,RH10 1UH
+Department of Health,NHS Business Services Authority,28/11/2014,Furniture & Equiptment Capital,Corporate Services,FLEXIFORM,80052429,"32,267.28",2x Four Person Side to Side Cluster,BD3 7AE
+Department of Health,NHS Business Services Authority,28/11/2014,Smoke Detectors Repairs,Corporate Services,INTEGRATED HEALTH PROJECTS,80052459,"114,683.16",MW 4.30 BH HV Switch Rm Fire Alarm S2,HP2 7TR
+Department of Health,NHS Business Services Authority,28/11/2014,Pharmacy Contractors,Prescription Pricing ,,,"7,556,750.18",Payments to Pharmacy Contractors,

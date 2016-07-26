@@ -1,0 +1,87 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,VAT registration number
+Dept of Health,MHRA,02/10/2015,Capital Expenditure,Information Management,INFORMATION MANAGEMENT GROUP LTD,600098685,289761.60,805613449
+Dept of Health,MHRA,07/10/2015,Capital Expenditure,Information Management,REDROCK CONSULTING LTD,600098567,84818.52,862247715
+Dept of Health,MHRA,07/10/2015,Infrastructure Services and Maintenance,Information Management,ACCENTURE,600098670,68143.20,788629066
+Dept of Health,MHRA,07/10/2015,Infrastructure Services and Maintenance,Information Management,ACCENTURE,600098671,42508.80,788629066
+Dept of Health,MHRA,07/10/2015,EU pre-financing project payment,Vigilance and Risk Management of Medicines,EPIDEMICO INC,600098703,57452.06,
+Dept of Health,MHRA,07/10/2015,UK Miscellaneous T&S,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600098819,9.56,413640679
+Dept of Health,MHRA,07/10/2015,UK Hotel/Accommodation,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600098819,1184.70,413640679
+Dept of Health,MHRA,07/10/2015,UK Rail/Tube/Tram,Clinical Practice Research Datalink,HOGG ROBINSON LTD,600098819,423.09,413640679
+Dept of Health,MHRA,07/10/2015,UK Miscellaneous T&S,Communications,HOGG ROBINSON LTD,600098819,9.56,413640679
+Dept of Health,MHRA,07/10/2015,UK Air,Communications,HOGG ROBINSON LTD,600098819,92.61,413640679
+Dept of Health,MHRA,07/10/2015,UK Hotel/Accommodation,Communications,HOGG ROBINSON LTD,600098819,116.59,413640679
+Dept of Health,MHRA,07/10/2015,UK Rail/Tube/Tram,Communications,HOGG ROBINSON LTD,600098819,125.54,413640679
+Dept of Health,MHRA,07/10/2015,Overseas Air,Directorate,HOGG ROBINSON LTD,600098819,3428.11,413640679
+Dept of Health,MHRA,07/10/2015,Overseas Hotel/Accommodation,Directorate,HOGG ROBINSON LTD,600098819,6.64,413640679
+Dept of Health,MHRA,07/10/2015,UK Rail/Tube/Tram,Human Resources,HOGG ROBINSON LTD,600098819,268.03,413640679
+Dept of Health,MHRA,07/10/2015,UK Hotel/Accommodation,Information Management,HOGG ROBINSON LTD,600098819,157.67,413640679
+Dept of Health,MHRA,07/10/2015,UK Rail/Tube/Tram,Information Management,HOGG ROBINSON LTD,600098819,328.38,413640679
+Dept of Health,MHRA,07/10/2015,UK Miscellaneous T&S,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600098819,28.68,413640679
+Dept of Health,MHRA,07/10/2015,UK Air,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600098819,2556.57,413640679
+Dept of Health,MHRA,07/10/2015,UK Hotel/Accommodation,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600098819,19105.79,413640679
+Dept of Health,MHRA,07/10/2015,UK Parking,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600098819,4.22,413640679
+Dept of Health,MHRA,07/10/2015,UK Private Vehicle Hire,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600098819,3105.02,413640679
+Dept of Health,MHRA,07/10/2015,UK Rail/Tube/Tram,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600098819,20419.53,413640679
+Dept of Health,MHRA,07/10/2015,Overseas Air,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600098819,62868.40,413640679
+Dept of Health,MHRA,07/10/2015,Overseas Hotel/Accommodation,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600098819,122.43,413640679
+Dept of Health,MHRA,07/10/2015,Overseas Private Vehicle Hire,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600098819,863.79,413640679
+Dept of Health,MHRA,07/10/2015,Passport/Visa,"Inspection, Enforcement & Standards",HOGG ROBINSON LTD,600098819,444.90,413640679
+Dept of Health,MHRA,07/10/2015,UK Air,Licensing,HOGG ROBINSON LTD,600098819,135.89,413640679
+Dept of Health,MHRA,07/10/2015,UK Hotel/Accommodation,Licensing,HOGG ROBINSON LTD,600098819,6.64,413640679
+Dept of Health,MHRA,07/10/2015,UK Private Vehicle Hire,Licensing,HOGG ROBINSON LTD,600098819,150.18,413640679
+Dept of Health,MHRA,07/10/2015,UK Rail/Tube/Tram,Licensing,HOGG ROBINSON LTD,600098819,380.76,413640679
+Dept of Health,MHRA,07/10/2015,UK Taxi,Licensing,HOGG ROBINSON LTD,600098819,54.30,413640679
+Dept of Health,MHRA,07/10/2015,Overseas Air,Licensing,HOGG ROBINSON LTD,600098819,3129.89,413640679
+Dept of Health,MHRA,07/10/2015,Overseas Hotel/Accommodation,Licensing,HOGG ROBINSON LTD,600098819,7.83,413640679
+Dept of Health,MHRA,07/10/2015,Committee T&S,Licensing,HOGG ROBINSON LTD,600098819,312.65,413640679
+Dept of Health,MHRA,07/10/2015,UK Miscellaneous T&S,Medical Devices,HOGG ROBINSON LTD,600098819,9.56,413640679
+Dept of Health,MHRA,07/10/2015,UK Air,Medical Devices,HOGG ROBINSON LTD,600098819,114.19,413640679
+Dept of Health,MHRA,07/10/2015,UK Hotel/Accommodation,Medical Devices,HOGG ROBINSON LTD,600098819,1632.07,413640679
+Dept of Health,MHRA,07/10/2015,UK Rail/Tube/Tram,Medical Devices,HOGG ROBINSON LTD,600098819,2100.33,413640679
+Dept of Health,MHRA,07/10/2015,Overseas Air,Medical Devices,HOGG ROBINSON LTD,600098819,4053.10,413640679
+Dept of Health,MHRA,07/10/2015,Overseas Hotel/Accommodation,Medical Devices,HOGG ROBINSON LTD,600098819,23.50,413640679
+Dept of Health,MHRA,07/10/2015,Overseas Rail/Tram,Medical Devices,HOGG ROBINSON LTD,600098819,390.32,413640679
+Dept of Health,MHRA,07/10/2015,UK Rail/Tube/Tram,Finance & Procurement,HOGG ROBINSON LTD,600098819,299.98,413640679
+Dept of Health,MHRA,07/10/2015,UK Rail/Tube/Tram,Facilities & Estates,HOGG ROBINSON LTD,600098819,92.26,413640679
+Dept of Health,MHRA,07/10/2015,UK Rail/Tube/Tram,Policy,HOGG ROBINSON LTD,600098819,41.83,413640679
+Dept of Health,MHRA,07/10/2015,Overseas Air,Policy,HOGG ROBINSON LTD,600098819,3007.90,413640679
+Dept of Health,MHRA,07/10/2015,Overseas Hotel/Accommodation,Policy,HOGG ROBINSON LTD,600098819,128.13,413640679
+Dept of Health,MHRA,07/10/2015,Overseas Rail/Tram,Policy,HOGG ROBINSON LTD,600098819,584.49,413640679
+Dept of Health,MHRA,07/10/2015,UK Miscellaneous T&S,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600098819,9.56,413640679
+Dept of Health,MHRA,07/10/2015,UK Hotel/Accommodation,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600098819,498.69,413640679
+Dept of Health,MHRA,07/10/2015,UK Rail/Tube/Tram,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600098819,432.78,413640679
+Dept of Health,MHRA,07/10/2015,Overseas Air,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600098819,779.78,413640679
+Dept of Health,MHRA,07/10/2015,Overseas Hotel/Accommodation,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600098819,229.58,413640679
+Dept of Health,MHRA,07/10/2015,Overseas Rail/Tram,Vigilance and Risk Management of Medicines,HOGG ROBINSON LTD,600098819,90.54,413640679
+Dept of Health,MHRA,08/10/2015,Committee T&S,Finance & Procurement,HMRC,600098521,128137.95,
+Dept of Health,MHRA,08/10/2015,Networks,Information Management,SWITCH COMMUNICATIONS,600096287,68700.00,611903863
+Dept of Health,MHRA,08/10/2015,Infrastructure Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600098766,48000.17,862247715
+Dept of Health,MHRA,08/10/2015,Infrastructure Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600098799,67648.86,862247715
+Dept of Health,MHRA,08/10/2015,Infrastructure Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600098803,38135.18,862247715
+Dept of Health,MHRA,13/10/2015,Facilities Management,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600098937,44454.00,888825550
+Dept of Health,MHRA,13/10/2015,Premises Rental,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600098937,715866.00,888825550
+Dept of Health,MHRA,13/10/2015,Service Charge,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600098937,174388.00,888825550
+Dept of Health,MHRA,13/10/2015,Rates,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600098937,430311.00,888825550
+Dept of Health,MHRA,13/10/2015,Building Maintenance & Utilities,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600098937,62535.58,888825550
+Dept of Health,MHRA,13/10/2015,Security,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600098937,31879.00,888825550
+Dept of Health,MHRA,13/10/2015,Cleaning,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600098937,18464.42,888825550
+Dept of Health,MHRA,13/10/2015,Staff Restaurant,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600098937,27807.00,888825550
+Dept of Health,MHRA,13/10/2015,Professional Subscriptions,Information Management,GARTNER UK LTD,600097778,120000.00,635878884
+Dept of Health,MHRA,13/10/2015,Capital Expenditure,Information Management,REDROCK CONSULTING LTD,600098864,32666.93,862247715
+Dept of Health,MHRA,13/10/2015,Third Party IT Contracts,Information Management,REDROCK CONSULTING LTD,600098873,33179.95,862247715
+Dept of Health,MHRA,13/10/2015,Solicitors,Policy,GOVERNMENT LEGAL DEPARTMENT,600098826,151800.00,888823066
+Dept of Health,MHRA,13/10/2015,Solicitors,Policy,GOVERNMENT LEGAL DEPARTMENT,600098827,151800.00,888823066
+Dept of Health,MHRA,13/10/2015,Solicitors,Policy,GOVERNMENT LEGAL DEPARTMENT,600098828,151800.00,888823066
+Dept of Health,MHRA,16/10/2015,Printing Costs,"Inspection, Enforcement & Standards",WILLIAMS LEA,600098870,39304.80,662774703
+Dept of Health,MHRA,21/10/2015,Networks,Information Management,SWITCH COMMUNICATIONS,600095787,268627.83,611903863
+Dept of Health,MHRA,21/10/2015,Networks,Information Management,SWITCH COMMUNICATIONS,600096048,-938621.85,611903863
+Dept of Health,MHRA,22/10/2015,Software & Licenses,Information Management,SOFTCAT LTD,600099136,38356.80,491848503
+Dept of Health,MHRA,27/10/2015,,Information Management,REDROCK CONSULTING LTD,600099073,51634.12,862247715
+Dept of Health,MHRA,27/10/2015,Laboratory,"Inspection, Enforcement & Standards",LGC (TEDDINGTON) LTD,600099168,386005.80,674056721
+Dept of Health,MHRA,27/10/2015,Laboratory,"Inspection, Enforcement & Standards",LGC (TEDDINGTON) LTD,600099169,386617.20,674056721
+Dept of Health,MHRA,29/10/2015,Networks,Information Management,SWITCH COMMUNICATIONS,600099080,71665.33,611903863
+Dept of Health,MHRA,29/10/2015,Networks,Information Management,SWITCH COMMUNICATIONS,600099083,31882.86,611903863
+Dept of Health,MHRA,29/10/2015,Networks,Information Management,SWITCH COMMUNICATIONS,600099084,51695.00,611903863
+Dept of Health,MHRA,29/10/2015,Networks,Information Management,SWITCH COMMUNICATIONS,600099085,-140976.14,611903863
+Dept of Health,MHRA,30/10/2015,Interest Payable,Finance & Procurement,DEPARTMENT OF HEALTH,600099356,46480.00,888815064
+Dept of Health,MHRA,30/10/2015,Dividend Payable,Finance & Procurement,DEPARTMENT OF HEALTH,600099357,4551000.00,888815064

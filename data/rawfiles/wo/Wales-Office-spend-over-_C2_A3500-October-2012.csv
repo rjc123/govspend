@@ -1,0 +1,30 @@
+Entity,Expense Area,Payment Date,Payment Number,Supplier Name, Amount ,NAC Description,Service Supplied
+Wales Office,Wales Office,18/Oct/2012 ,1001649,BRITISH GAS BUSINESS, 637.93 ,261000-Fuel and Utilities,London Electricity Costs
+Wales Office,Wales Office,18/Oct/2012 ,1001649,BRITISH GAS BUSINESS, 664.92 ,261000-Fuel and Utilities,London Electricity Costs
+Wales Office,Wales Office,23/Oct/2012 ,1001658,BRITISH GAS BUSINESS," 1,073.39 ",261000-Fuel and Utilities,London Electricity Costs
+Wales Office,Wales Office,23/Oct/2012 ,1001656,CARDIFF COUNTY COUNCIL," 4,317.00 ",221000-Property Rent and Rates,Cardiff Rates
+Wales Office,Wales Office,12/Oct/2012 ,1001618,CITEC ELECTRIC LTD, 877.31 ,222002-Other Property Costs,TV  installation London
+Wales Office,Wales Office,26/Oct/2012 ,1001661,CIVIC MAINTENANCE SERVICES LTD, 626.40 ,222002-Other Property Costs,Cleaning Cardiff Office
+Wales Office,COMMISSION ON DEVOLUTION,19/Oct/2012 ,1001650,CYMEN CYFYNGEDIG," 1,720.00 ",223000-Other Expenditure,Translation Service
+Wales Office,Wales Office,04/Oct/2012 ,1001591,EDUSERV TECHNOLOGIES LTD, 578.00 ,265000-IT & Telecommunications,Web Hosting
+Wales Office,Wales Office,05/Oct/2012 ,1084,GOVERNMENT CAR & DESPATCH AGENCY," 1,458.40 ",223000-Other Expenditure,Ministerial Car Service
+Wales Office,Wales Office,05/Oct/2012 ,1083,GOVERNMENT CAR & DESPATCH AGENCY," 7,204.67 ",223000-Other Expenditure,Ministerial Car Service
+Wales Office,Wales Office,30/Oct/2012 ,1096,GOVERNMENT CAR & DESPATCH AGENCY," 7,258.66 ",223000-Other Expenditure,Ministerial Car Service
+Wales Office,Wales Office,17/Oct/2012 ,1092,HMCTS," 5,555.92 ",262000-SCA Costs,MOJ shared service provider costs
+Wales Office,COMMISSION ON DEVOLUTION,12/Oct/2012 ,1001621,ICM RESEARCH," 2,250.00 ",223000-Other Expenditure,Opinion Polling conducted on behalf of the Commission
+Wales Office,Wales Office,02/Oct/2012 ,1001583,LANCASTER CLEANING AND SUPPORT SERVICES," 2,117.94 ",222002-Other Property Costs,Cleaning London Office
+Wales Office,Wales Office,15/Oct/2012 ,1001627,LANCASTER CLEANING AND SUPPORT SERVICES," 2,139.87 ",222002-Other Property Costs,Cleaning London Office
+Wales Office,Wales Office,17/Oct/2012 ,1001637,LANCASTER CLEANING AND SUPPORT SERVICES," 2,117.94 ",222002-Other Property Costs,Cleaning London Office
+Wales Office,Wales Office,22/Oct/2012 ,1001655,LEXIS NEXIS, 784.00 ,223000-Other Expenditure,Legal Publications
+Wales Office,Wales Office,10/Oct/2012 ,1001612,M J FERGUSON LTD," 3,147.77 ",222001-Maintenance,Planned Preventive Maintenance 
+Wales Office,Wales Office,24/Oct/2012 ,1001659,M J FERGUSON LTD, 543.60 ,222001-Maintenance,Monthly Reactive Maintenance 
+Wales Office,Wales Office,05/Oct/2012 ,1085,MINISTRY OF JUSTICE," 6,281.11 ",262000-SCA Costs,MOJ shared service provider costs
+Wales Office,Wales Office,22/Oct/2012 ,1095,MINISTRY OF JUSTICE," 1,500.00 ",222001-Maintenance,MOJ shared service provider costs
+Wales Office,Wales Office,05/Oct/2012 ,1001597,MITIE JUSTICE LTD," 6,884.39 ",222002-Other Property Costs,London Security Costs
+Wales Office,Wales Office,30/Oct/2012 ,1001669,MITIE JUSTICE LTD," 7,020.35 ",222002-Other Property Costs,London Security Costs
+Wales Office,Wales Office,16/Oct/2012 ,1001631,PHS GROUP PLC, 921.89 ,222002-Other Property Costs,Confidential Waste Cardiff
+Wales Office,Wales Office,12/Oct/2012 ,1001623,THE STATIONERY OFFICE LTD," 18,031.04 ",223001-Printing Postage and Office expenditure,Publications
+Wales Office,Wales Office,18/Oct/2012 ,1001647,THE STATIONERY OFFICE LTD," 5,422.00 ",223000-Other Expenditure,Supply of Parliamentary Questions
+Wales Office,Wales Office,23/Oct/2012 ,1001657,WESTMINSTER CITY COUNCIL," 9,560.00 ",221000-Property Rent and Rates,Rates London
+Wales Office,Wales Office,11/Oct/2012 ,1001617,WYG MANAGEMENT SERVICES LTD, 817.50 ,222001-Maintenance,Assessment work in Gwydyr House 
+,Commission on Devolution Spend incurred by Silk Commission ,,,,,,

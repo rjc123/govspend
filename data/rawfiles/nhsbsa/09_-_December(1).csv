@@ -1,0 +1,65 @@
+Department family,Entity,Date,Expense type,GL_CODE,Expense area,Supplier,Transaction number,Amount,Description,Supplier Post Code
+Departmen of Health,NHS Business Services Authority,03/12/2012,Temporary Staff,Corporate Services,COMENSURA LTD,0050025234,"2,332.11",STRACHAN E. W/E 25.11.12,LU1 3BA,
+Departmen of Health,NHS Business Services Authority,03/12/2012,Temporary Staff,Prescription Pricing Division,COMENSURA LTD,0050025234,"17,471.82",COLEMAN G. W/E 25.11.12,LU1 3BA,
+Departmen of Health,NHS Business Services Authority,03/12/2012,Dental Contractors,Dental Services Division,,,"171,032,926",Payments to Dental Contractors,,
+Departmen of Health,NHS Business Services Authority,04/12/2012,Professional Fees,Corporate Services,BEACHCROFT LLP,0080027400,"32,964.00",Legal Fees,BS99 7UR,
+Departmen of Health,NHS Business Services Authority,04/12/2012,Statutory Payments,Statutory Payments,CABINET OFFICE: CIVIL SUPERANNUATION,0080027640,"67,536.09",PENSION CONTRIBUTIONS,RG21 4HG,
+Departmen of Health,NHS Business Services Authority,04/12/2012,Pharmacy Contractors,Prescription Pricing Division,,,"1,055,016.97",Payments to Pharmacy Contractors,,
+Departmen of Health,NHS Business Services Authority,06/12/2012,Service Charges General,Corporate Services,IBREND ESTATES BV,0080027724,"31,467.84",SC 25 Dec 12  24 Mar 13,HG1 1TS,
+Departmen of Health,NHS Business Services Authority,06/12/2012,Service Charges General,Corporate Services,IBREND ESTATES BV,0080027727,"31,467.84",SC 5F 25 Dec 12  24 Mar 13,HG1 1TS,
+Departmen of Health,NHS Business Services Authority,06/12/2012,Stationary Charges,Prescription Pricing Division,THE STATIONERY OFFICE,0080027799,"26,498.00",Printing,NR3 1PD,
+Departmen of Health,NHS Business Services Authority,07/12/2012,Service Charges General,Corporate Services,JOHN MONK&CO,0080027800,"40,301.74",SC 25 Dec 12  17 Feb 13,TS18 1SW,
+Departmen of Health,NHS Business Services Authority,07/12/2012,Temporary Staff,Prescription Pricing Division,SAPIENT LIMITED,0080027928,"64,750.00",Change Request - Project Information,E1 6DX,
+Departmen of Health,NHS Business Services Authority,10/12/2012,Pharmacy Contractors,Prescription Pricing Division,,,"490,982.00",Payments to Pharmacy Contractors,,
+Departmen of Health,NHS Business Services Authority,11/12/2012,Rates Charges,Corporate Services,NEWCASTLE CITY COUNCIL,0050025316,"34,808.00",N011495 OFFICES AND PREMISES,NE99 2PT,
+Departmen of Health,NHS Business Services Authority,12/12/2012,Temporary Staff,Prescription Pricing Division,COMENSURA LTD,0050025287,"15,947.41",C DRON W/E 25/11/12,LU1 3BA,
+Departmen of Health,NHS Business Services Authority,12/12/2012,Childcare Vouchers,Childcare Voucher,CHILDCARE VOUCHERS LTD,0050025307,"30,843.00",CFH CHILDCARE VOUCHERS,SW1V 2RS,
+Departmen of Health,NHS Business Services Authority,12/12/2012,Childcare Vouchers,Corporate Services,CHILDCARE VOUCHERS LTD,0050025307,370.12,CFH CHILDCARE VOUCHERS,SW1V 2RS
+Departmen of Health,NHS Business Services Authority,12/12/2012,Data Communication Lines,Corporate Services,BT GLOBAL SERVICES,0080026503,"140,412.56",N3 Bespoke Data Centre Service - Quote,NW9 6LB
+Departmen of Health,NHS Business Services Authority,12/12/2012,Rent,Corporate Services,JOHN MONK&CO,0080027801,"77,006.99",Rent 25 Dec 12  03 Feb 13,TS18 1SW
+Departmen of Health,NHS Business Services Authority,14/12/2012,Printing Charges (External),Prescription Pricing Division,IDS UK LIMITED,0080024780,"21,690.62",PAY NON PURCHASE 6249,SO32 2EJ
+Departmen of Health,NHS Business Services Authority,14/12/2012,Temporary Staff,Prescription Pricing Division,CAPITA BUSINESS SERVICES LTD,0080028158,"28,289.91",Senior Consultant - Project Specific PM,DL1 9HN
+Departmen of Health,NHS Business Services Authority,17/12/2012,Envision Payroll,Pensions Division,PAYMASTER (1836) LIMITED,0080027919,"32,571.00",XAFINITY PAYMASTER,RH10 1UH
+Departmen of Health,NHS Business Services Authority,17/12/2012,Statutory Payments,Corporate Services,HMRC,,"1,183,541.31",NI & TAX,
+Departmen of Health,NHS Business Services Authority,17/12/2012,Statutory Payments,Corporate Services,HMRC,,"661,582.65",PENSIONS,
+Departmen of Health,NHS Business Services Authority,18/12/2012,Furniture & Equiptment Capital,Corporate Services,INTEGRATED HEALTH PROJECTS,0080028247,"461,153.86",MP 03 BRIDGE HOUSE PE 301112,HP2 7TR
+Departmen of Health,NHS Business Services Authority,18/12/2012,Pharmacy Contractors,Prescription Pricing Division,,,"130,634.20",Payments to Pharmacy Contractors,
+Departmen of Health,NHS Business Services Authority,19/12/2012,Service Charges General,Corporate Services,DOOBA INVESTMENTS VI LIMITED,0080027804,"76,019.36",SC 4F 25 Dec 12  24 Mar 13,HG1 1TS
+Departmen of Health,NHS Business Services Authority,19/12/2012,Envision Medical Services,Pensions Division,PAYMASTER (1836) LIMITED,0080027920,"48,814.64",XAFINITY PAYMASTER,RH10 1UH
+Departmen of Health,NHS Business Services Authority,19/12/2012,Furniture & Equiptment Capital,Corporate Services,INTEGRATED HEALTH PROJECTS,0080028287,"28,517.92",MP02  Cert 9,HP2 7TR
+Departmen of Health,NHS Business Services Authority,20/12/2012,Temporary Staff,Pensions Division,PAYMASTER (1836) LIMITED,0080028238,"38,610.00",To provide Business Analyst/Solutions,RH10 1UH
+Departmen of Health,NHS Business Services Authority,20/12/2012,IT,Pensions Division,PAYMASTER (1836) LIMITED,0080028239,"38,598.28",XAFINITY PAYMASTER,RH10 1UH
+Departmen of Health,NHS Business Services Authority,20/12/2012,Envision Payroll,Pensions Division,PAYMASTER (1836) LIMITED,0080028244,"32,825.00",XAFINITY PAYMASTER,RH10 1UH
+Departmen of Health,NHS Business Services Authority,20/12/2012,Envision Payroll,Pensions Division,PAYMASTER (1836) LIMITED,0080028245,"28,400.00",XAFINITY PAYMASTER,RH10 1UH
+Departmen of Health,NHS Business Services Authority,20/12/2012,Professional Fees,Corporate Services,CAPITA BUSINESS SERVICES LTD,0080028403,"31,150.33",Transportation Cost,DL1 9HN
+Departmen of Health,NHS Business Services Authority,20/12/2012,Professional Fees,Dental Services Division,CAPITA BUSINESS SERVICES LTD,0080028407,"28,360.20",Call Off Form - CON/0160 - Zero UDAs,DL1 9HN
+Departmen of Health,NHS Business Services Authority,20/12/2012,Professional Fees,Dental Services Division,CAPITA BUSINESS SERVICES LTD,0080028447,"80,291.63",Call Off Authorisation Note - CON/0119 -,DL1 9HN
+Departmen of Health,NHS Business Services Authority,20/12/2012,Temporary Staff,Dental Services Division,CAPITA BUSINESS SERVICES LTD,0080028448,"77,245.29",Project Manager - Senior Consultant,DL1 9HN
+Departmen of Health,NHS Business Services Authority,20/12/2012,Professional Fees,Dental Services Division,CAPITA BUSINESS SERVICES LTD,0080028449,"22,078.95",Air conditioning survey and re design.,DL1 9HN
+Departmen of Health,NHS Business Services Authority,20/12/2012,Temporary Staff,Pensions Division,SAPIENT LIMITED,0080028484,"24,683.75",Change Request - Project BSA Delivery,E1 6DX
+Departmen of Health,NHS Business Services Authority,20/12/2012,Professional Fees,Prescription Pricing Division,SAPIENT LIMITED,0080028486,"21,385.00",Change Request - Project Rapid Action,E1 6DX
+Departmen of Health,NHS Business Services Authority,21/12/2012,Envision Comms Centre,Pensions Division,PAYMASTER (1836) LIMITED,0050025432,"829,223.83",COMMS,RH10 1UH
+Departmen of Health,NHS Business Services Authority,24/12/2012,Milestone Payments,Prescription Pricing Division,CAPITA BUSINESS SERVICES LTD,0050025374,"488,241.56",MITI SCANNERS 12.12.12,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/12/2012,Milestone Payments,Corporate Services,CAPITA BUSINESS SERVICES LTD,0050025375,"73,746.00",TM13 MAINFRAME DECOMMISSION NCLE,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/12/2012,Milestone Payments,Corporate Services,CAPITA BUSINESS SERVICES LTD,0050025377,"645,274.00",TM16 DATA CENTRE MIGRATION,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/12/2012,Milestone Payments,Corporate Services,CAPITA BUSINESS SERVICES LTD,0050025378,"488,936.00",TM8 CORPORATE EMAIL SYSTEM,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/12/2012,Milestone Payments,Corporate Services,CAPITA BUSINESS SERVICES LTD,0050025379,"847,764.00",YEAR 3 REFRESH CHARGES EXCLUDING SCAN,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/12/2012,Milestone Payments,Corporate Services,CAPITA BUSINESS SERVICES LTD,0050025380,"317,000.00",TM30 ENHANCHED ONLINE SERVICES,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/12/2012,Milestone Payments,Corporate Services,CAPITA BUSINESS SERVICES LTD,0050025381,"200,000.00",TM25 PROVIDER SELECTION PMS,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/12/2012,Milestone Payments,Corporate Services,CAPITA BUSINESS SERVICES LTD,0050025386,"75,000.00",TM22 CLAIMS MANAGEMENT SYSTEM,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/12/2012,Temporary Staff,Dental Services Division,CAPITA BUSINESS SERVICES LTD,0050025387,"77,106.00",DENTAL PILOTS SEPT2012,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/12/2012,Temporary Staff,Dental Services Division,CAPITA BUSINESS SERVICES LTD,0050025388,"82,423.00",DENTAL PILOTS OCT2012,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/12/2012,IT,Corporate Services,CAPITA BUSINESS SERVICES LTD,0050025389,"80,930.81",PCN NOVEMBER 2012,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/12/2012,IT,Corporate Services,CAPITA BUSINESS SERVICES LTD,0050025390,"69,793.10",PENALTY CHRGS SEPTEMBER,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/12/2012,Milestone Payments,Corporate Services,CAPITA BUSINESS SERVICES LTD,0050025391,"399,455.00",TM17 WORK ANYWHERE,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/12/2012,Milestone Payments,Corporate Services,CAPITA BUSINESS SERVICES LTD,0050025392,"478,922.96",PATIENT DEBT RECOVERY,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/12/2012,Milestone Payments,Corporate Services,CAPITA BUSINESS SERVICES LTD,0050025393,"999,721.56",CLINICAL SUPPORT WALES,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/12/2012,Milestone Payments,Corporate Services,CAPITA BUSINESS SERVICES LTD,0050025394,"995,448.89",SERVICE DESK,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/12/2012,IT,Corporate Services,CAPITA BUSINESS SERVICES LTD,0050025395,"91,602.49",PCN OCTOBER2012,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/12/2012,Rent,Corporate Services,DOOBA INVESTMENTS VI LIMITED,0080027806,"76,019.36",SC 3F 25 Dec 12  24 Mar 13,HG1 1TS
+Departmen of Health,NHS Business Services Authority,24/12/2012,Rent,Corporate Services,EMERSON MANAGEMENT SERVICES,0080027952,"122,697.00",Rent 25 Dec 12  24 Mar 13,SK9 7LF
+Departmen of Health,NHS Business Services Authority,24/12/2012,Postage Charges,Dental Services Division,CAPITA BUSINESS SERVICES LTD,0080028460,"43,198.90",Postage (upto a maximum amount of,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/12/2012,Statutory Payments,Statutory Payments,CABINET OFFICE: CIVIL SUPERANNUATION,0080028487,"67,019.94",PENSION CONTRIBUTIONS DEC 12,RG21 4HG
+Departmen of Health,NHS Business Services Authority,27/12/2012,Postage Charges,Prescription Pricing Division,ROYAL MAIL,0050025402,"30,036.73",A/C 0912819049 NOV 12,S49 1HQ
+Departmen of Health,NHS Business Services Authority,27/12/2012,Rent,Pensions Division,EUROPEAN PENSIONS MANAGEMENT LTD,0050025433,"160,000.00",RENT 29/09/12-24/12/12,SP3 5WY
+Departmen of Health,NHS Business Services Authority,31/12/2012,Pharmacy Contractors,Prescription Pricing Division,,,"716,990,582.41",Payments to Pharmacy Contractors

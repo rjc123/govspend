@@ -1,0 +1,232 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount
+HMRC,HMRC,01/10/2010,Prof bodies subs,Information Management Solutions,The Corporate IT Forum Limited,5100053834,29545.38
+HMRC,HMRC,01/10/2010,Court Fees,Debt Management & Banking,The Insolvency Service,5100055438,122915
+HMRC,HMRC,01/10/2010,Samplng & Analytical,Specialist Investigations (SI),L G C Ltd,5100055440,62969.78
+HMRC,HMRC,01/10/2010,Govt dept services,Risk & Intelligence,Foreign and Commonwealth Office,5100055444,53655.77
+HMRC,HMRC,01/10/2010,100 PS Service Charg,Estates & Support Services,Exchequer Partnership Plc,5100055516,2052335.5
+HMRC,HMRC,01/10/2010,STEPS FUP,Estates & Support Services,Mapeley Steps Limited,5100055519,17736153.51
+HMRC,HMRC,01/10/2010,Phones - landlines,Information Management Solutions,OGC Buying Solutions,5100056117,190349.49
+HMRC,HMRC,04/10/2010,Storage (non enfmnt),Estates & Support Services,Iron Mountain (UK) Limitedding Ltd,5100056005,158867.59
+HMRC,HMRC,04/10/2010,STEPS FUP,Estates & Support Services,Mapeley Steps Limited,5100056012,138544.23
+HMRC,HMRC,04/10/2010,Security services,Estates & Support Services,Mapeley Steps Limited,5100056014,77780.6
+HMRC,HMRC,04/10/2010,Security services,Estates & Support Services,Mapeley Steps Limited,5100056016,209704.8
+HMRC,HMRC,04/10/2010,STEPS FUP VAT recvbl,Estates & Support Services,Mapeley Steps Limited,5100056016,456194.25
+HMRC,HMRC,04/10/2010,STEPS FUP,Estates & Support Services,Mapeley Steps Limited,5100056018,87489.7
+HMRC,HMRC,04/10/2010,Oth PFI unitary chrg,Estates & Support Services,Bootle PFI Solutions 1998 (2) Ltd,5100056024,868427.77
+HMRC,HMRC,04/10/2010,Document destruction,Estates & Support Services,Iron Mountain (UK) Limitedding Ltd,5100056029,34686
+HMRC,HMRC,05/10/2010,Forensic Services,Criminal Investigations,CCL Forensics Limited,5100056348,96270.84
+HMRC,HMRC,05/10/2010,Project admin/plan,Excise Customs Stamps & Money,BemroseBooth Ltd,5100056405,30110.95
+HMRC,HMRC,05/10/2010,IT Software Capgemin,Information Management Solutions,Aspire,5100056454,10424686.95
+HMRC,HMRC,05/10/2010,Data output prod,Information Management Solutions,Aspire,5100056454,56347025.72
+HMRC,HMRC,05/10/2010,Data output prod,Information Management Solutions,Aspire,5100056455,1410000
+HMRC,HMRC,05/10/2010,Storage (non enfmnt),Estates & Support Services,Serco Integrated Services,5100056518,32459.99
+HMRC,HMRC,06/10/2010,Translation services,Estates & Support Services,K International,5100056688,28525.26
+HMRC,HMRC,07/10/2010,County Court Proceed,Debt Management & Banking,Her Majesty's Court Service,5100056945,72555
+HMRC,HMRC,07/10/2010,OGD costs,Estates & Support Services,Valuation Office Agency,5100056953,52118.26
+HMRC,HMRC,07/10/2010,Rent,Estates & Support Services,TELFORD & WREKIN COUNCIL,5100056956,39876.56
+HMRC,HMRC,07/10/2010,Landlord Charges,Estates & Support Services,BTW Shiells,5100056959,14295.05
+HMRC,HMRC,07/10/2010,Rent,Estates & Support Services,BTW Shiells,5100056959,69295.63
+HMRC,HMRC,07/10/2010,Oth PFI unitary chrg,Estates & Support Services,Cochrane Square S P V LTD,5100056960,163834.57
+HMRC,HMRC,07/10/2010,Distraint App Rem,Debt Management & Banking,iQor holdings Limited,5100057073,37338.54
+HMRC,HMRC,07/10/2010,Legal Serv's Credit,Specialist Investigations (SI),Howes Percival Solicitors,5100057114,8816.9
+HMRC,HMRC,07/10/2010,Legal Service Sol's,Specialist Investigations (SI),Howes Percival Solicitors,5100057114,140287.63
+HMRC,HMRC,08/10/2010,Distraint App Rem,Debt Management & Banking,Fairfax Solicitors Limited,5100057316,33552.11
+HMRC,HMRC,08/10/2010,HR Consultancy,People Function,Corven Consulting Ltd,5100057345,32277.23
+HMRC,HMRC,08/10/2010,Oth PFI unitary chrg,Estates & Support Services,LR (Manchester) Limited,5100057357,827769.19
+HMRC,HMRC,08/10/2010,Gas,Estates & Support Services,Mapeley Steps Limited,5100057380,950.33
+HMRC,HMRC,08/10/2010,Oil,Estates & Support Services,Mapeley Steps Limited,5100057380,2250.18
+HMRC,HMRC,08/10/2010,Water,Estates & Support Services,Mapeley Steps Limited,5100057380,22146.9
+HMRC,HMRC,08/10/2010,Oil,Estates & Support Services,Mapeley Steps Limited,5100057380,26920.79
+HMRC,HMRC,08/10/2010,Gas,Estates & Support Services,Mapeley Steps Limited,5100057380,79080.15
+HMRC,HMRC,08/10/2010,Electricity,Estates & Support Services,Mapeley Steps Limited,5100057380,149624.05
+HMRC,HMRC,08/10/2010,Water,Estates & Support Services,Mapeley Steps Limited,5100057380,165951.76
+HMRC,HMRC,08/10/2010,Electricity,Estates & Support Services,Mapeley Steps Limited,5100057380,171673.33
+HMRC,HMRC,08/10/2010,Data output prod,Information Management Solutions,Aspire,5100057382,825437.5
+HMRC,HMRC,08/10/2010,Hardware maintenance,Information Management Solutions,CapGemini UK Plc - PeoplePoint,5100057454,1044805.02
+HMRC,HMRC,11/10/2010,Court Fees,Debt Management & Banking,RBSG Central 10000607,1900133971,40000
+HMRC,HMRC,11/10/2010,Grant in Aid Funding,Individuals Customer Directorate,Citizens Advice Bureau,5100057398,41250
+HMRC,HMRC,11/10/2010,Govt dept services,People Function,Eurest Ltd,5100057405,58735.96
+HMRC,HMRC,11/10/2010,Research (VAT rec),Knowledge Analysis & Intelligence,TNS-BMRB,5100057777,154308.05
+HMRC,HMRC,11/10/2010,Govt dept services,Risk & Intelligence,Foreign and Commonwealth Office,5100057823,142245.54
+HMRC,HMRC,11/10/2010,Govt dept services,People Function,Eurest Ltd,5100057825,55577.5
+HMRC,HMRC,11/10/2010,Gov Bank Serv Charge,Finance & Internal Audit,RBS - Natwest,5100057843,450119.71
+HMRC,HMRC,11/10/2010,Phones - landlines,Information Management Solutions,Cable & Wireless,5100057849,140881.77
+HMRC,HMRC,11/10/2010,Security services,Estates & Support Services,Mapeley Steps Limited,5100057857,77780.59
+HMRC,HMRC,11/10/2010,STEPS FUP VAT recvbl,Estates & Support Services,Mapeley Steps Limited,5100057866,665899.05
+HMRC,HMRC,12/10/2010,Proprietry sys maint,Information Management Solutions,OGC Buying Solutions,5100058129,274194.48
+HMRC,HMRC,12/10/2010,IT Config Services,Information Management Solutions,DWP,5100058273,9000000
+HMRC,HMRC,12/10/2010,Valuation Services,Risk & Intelligence,Valuation Office Agency,5100058280,878085
+HMRC,HMRC,12/10/2010,Mail and Fulfilment,Business Customer Unit,BSS Scotland Ltd,5100058304,47271.33
+HMRC,HMRC,13/10/2010,Document destruction,Estates & Support Services,Banner Business Services Ltd,5100058306,29459.29
+HMRC,HMRC,13/10/2010,Document destruction,Estates & Support Services,Banner Business Services Ltd,5100058307,100071.94
+HMRC,HMRC,13/10/2010,Phones - landlines,Information Management Solutions,Cable & Wireless,5100058315,41223.32
+HMRC,HMRC,13/10/2010,Dept forms Non Stock,Commercial Directorate,Paragon UK (Print),5100058370,41389.38
+HMRC,HMRC,13/10/2010,Business Consultancy,Finance & Internal Audit,KPMG LLP,5100058378,214342.98
+HMRC,HMRC,13/10/2010,Temp clerical/admin,Finance & Internal Audit,Paymaster (1836) Limited,5100058627,487625
+HMRC,HMRC,13/10/2010,Off Contract Hotel A,Excise Customs Stamps & Money,London Marriott Kensington,5100058665,105135.18
+HMRC,HMRC,13/10/2010,Interpretation,Customer Contact,Thebigword Interpreting Services Lt,5100058677,121670.4
+HMRC,HMRC,13/10/2010,Interpretation,Customer Contact,Thebigword Interpreting Services Lt,5100058723,61794.19
+HMRC,HMRC,13/10/2010,Vehicle leasing,Commercial Directorate,Inchcape Fleet Solutions,5100058724,46680.77
+HMRC,HMRC,13/10/2010,Vehicle servicing ma,Commercial Directorate,Inchcape Fleet Solutions,5100058732,53188.16
+HMRC,HMRC,13/10/2010,Interpretation,Customer Contact,Thebigword Interpreting Services Lt,5100058737,133726.53
+HMRC,HMRC,13/10/2010,Interpretation,Customer Contact,Thebigword Interpreting Services Lt,5100058738,71309.76
+HMRC,HMRC,13/10/2010,Bank Charges CSH/CHQ,Finance & Internal Audit,Alliance and Leicester,5100058791,207148.52
+HMRC,HMRC,13/10/2010,Postal delivery serv,Commercial Directorate,Royal Mail Wholesale,5100059117,1651646.67
+HMRC,HMRC,13/10/2010,Postal delivery serv,Commercial Directorate,Royal Mail Wholesale,5100059118,-156934.14
+HMRC,HMRC,14/10/2010,STEPS FUP VAT recvbl,Estates & Support Services,Mapeley Steps Limited,1700071435,-72025.35
+HMRC,HMRC,14/10/2010,Magistrates Court Legal Costs,Debt Management & Banking,RBSG Central 10000607,1900135009,31455
+HMRC,HMRC,14/10/2010,Legal Service Sol's,Commercial Directorate,Howes Percival Solicitors,5100058824,1.17
+HMRC,HMRC,14/10/2010,Legal Service Sol's,Solicitors Office,Howes Percival Solicitors,5100058824,31827.34
+HMRC,HMRC,14/10/2010,Legal Service Sol's,Solicitors Office,Howes Percival Solicitors,5100058859,52887.44
+HMRC,HMRC,14/10/2010,Seized Goods Cont,Specialist Investigations (SI),Veolia Environmental Services Plc,5100058895,59424.12
+HMRC,HMRC,14/10/2010,Mail delivery/pickup,Commercial Directorate,DWP,5100058925,49148.45
+HMRC,HMRC,14/10/2010,Data Purchases,Excise Customs Stamps & Money,RM Data Solutions Ltd,5100058935,63285.5
+HMRC,HMRC,14/10/2010,Bank Charges CSH/CHQ,Finance & Internal Audit,Alliance and Leicester,5100058948,56675.92
+HMRC,HMRC,14/10/2010,Data Purchases,Knowledge Analysis & Intelligence,Experian Ltd,5100058957,28200
+HMRC,HMRC,14/10/2010,Photocopiers,Commercial Directorate,Canon (UK) Ltd,5100058963,26193.44
+HMRC,HMRC,14/10/2010,Legal Service Sol's,Solicitors Office,Howes Percival Solicitors,5100058978,35324.27
+HMRC,HMRC,14/10/2010,Legal Service Sol's,Solicitors Office,Howes Percival Solicitors,5100059142,75864.1
+HMRC,HMRC,14/10/2010,Postal delivery serv,Commercial Directorate,Royal Mail,5100059166,905201.92
+HMRC,HMRC,14/10/2010,Mail delivery/pickup,Commercial Directorate,G3 Worldwide (UK) Ltd,5100059224,52094.75
+HMRC,HMRC,14/10/2010,Vehicle servicing ma,Commercial Directorate,Inchcape Fleet Solutions,5100059257,98749.54
+HMRC,HMRC,14/10/2010,Vehicle leasing,Commercial Directorate,Inchcape Fleet Solutions,5100059263,85858.8
+HMRC,HMRC,15/10/2010,Govt auditing serv,Central Compliance,Home Office Immigration & Nationali,5100059276,73437.5
+HMRC,HMRC,15/10/2010,Forensic Services,Criminal Investigations,Forensic Science Service,5100059525,59419.52
+HMRC,HMRC,15/10/2010,Oth PFI unitary chrg,Estates & Support Services,Haymarket SPV Ltd,5100059638,160324.36
+HMRC,HMRC,15/10/2010,Oth PFI unitary chrg,Estates & Support Services,LR Stockport Ltd,5100059640,163744.09
+HMRC,HMRC,15/10/2010,Non PFI serv VAT,Estates & Support Services,MacLellan International Limited,5100059641,51044.41
+HMRC,HMRC,15/10/2010,Maj AW non-struc VAT,Estates & Support Services,MJF Business Services Ltd,5100059646,37767.67
+HMRC,HMRC,15/10/2010,CHURN,Estates & Support Services,Exchequer Partnership Plc,5100059647,25245.37
+HMRC,HMRC,15/10/2010,Non PFI serv VAT,Estates & Support Services,MacLellan International Limited,5100059649,438746.1
+HMRC,HMRC,18/10/2010,Legal Service; Solicitors fees,Solicitors Office,Marcus Stanton,1900135420,53298
+HMRC,HMRC,18/10/2010,Court Fees,Debt Management & Banking,RBSG Central 10000607,1900135446,40000
+HMRC,HMRC,18/10/2010,HR Consultancy,People Function,Corven Consulting Ltd,5100059948,31972.71
+HMRC,HMRC,18/10/2010,Interpretation,Customer Contact,Thebigword Interpreting Services Lt,5100059965,27778.48
+HMRC,HMRC,18/10/2010,Gov Bank Serv Charge,Finance & Internal Audit,RBS - Natwest,5100059982,641244.07
+HMRC,HMRC,18/10/2010,Reference books,Central Policy,Wolters Kluwer (UK) Ltd,5100059988,27258.71
+HMRC,HMRC,18/10/2010,STEPS VAT Indemnity,Estates & Support Services,Mapeley Steps Limited,5100060055,4123960.98
+HMRC,HMRC,19/10/2010,Accommodation Costs – moving files and racking ,Solicitors Office,Mapeley Estates Ltd,5100060061,26113.91
+HMRC,HMRC,19/10/2010,OGD costs,Estates & Support Services,DWP,5100060534,27547
+HMRC,HMRC,19/10/2010,PRIME costs,Estates & Support Services,DWP,5100060548,989950.53
+HMRC,HMRC,19/10/2010,Business Consultancy,Finance & Internal Audit,Deloitte M C S Ltd,5100060587,82513.2
+HMRC,HMRC,19/10/2010,Oth PFI unitary chrg,Estates & Support Services,Newcastle Estate Partnership,5100060591,3483474.39
+HMRC,HMRC,19/10/2010,Diesel fuel,Commercial Directorate,Arval PHH Business Solutions Ltd,5100060595,35334.47
+HMRC,HMRC,19/10/2010,Diesel fuel,Commercial Directorate,Arval PHH Business Solutions Ltd,5100060597,58308.55
+HMRC,HMRC,20/10/2010,Business Consultancy,Finance & Internal Audit,J Winsley Ltd,5100060639,27720
+HMRC,HMRC,20/10/2010,Gov Bank Serv Charge,Finance & Internal Audit,Paymaster (1836) Limited,5100060818,54611.82
+HMRC,HMRC,20/10/2010,Business Rates,Estates & Support Services,GVA Grimley LLP,5100060849,349467.37
+HMRC,HMRC,20/10/2010,Off contract UK trav,People Function,EDF Trading Limited,5100060929,97681
+HMRC,HMRC,20/10/2010,Bank Charges PO Card,Finance & Internal Audit,Post Office Limited,5100061327,1100391.67
+HMRC,HMRC,21/10/2010,Payroll services,People Function,Department for Work & Pension,5100061261,152510.3
+HMRC,HMRC,21/10/2010,OHS,People Function,Capita Health Solutions Limited,5100061263,143485
+HMRC,HMRC,21/10/2010,OGD costs,Estates & Support Services,Ordnance Survey,5100061280,240244.7
+HMRC,HMRC,21/10/2010,OGD costs,Estates & Support Services,Valuation Office Agency,5100061281,50975.14
+HMRC,HMRC,21/10/2010,Data output prod,Information Management Solutions,Aspire,5100061502,1430994.29
+HMRC,HMRC,21/10/2010,Temp clerical/admin,Central Compliance,MacLellan International Limited,5100061519,2861.14
+HMRC,HMRC,21/10/2010,Temp clerical/admin,Customer Operations PSA & NICEO,MacLellan International Limited,5100061519,2923.48
+HMRC,HMRC,21/10/2010,Temp clerical/admin,Customer Operations PSA & NICEO,MacLellan International Limited,5100061519,3162.32
+HMRC,HMRC,21/10/2010,Temp clerical/admin,Charities Assets & Residence,MacLellan International Limited,5100061519,4529.61
+HMRC,HMRC,21/10/2010,Temp clerical/admin,Charities Assets & Residence,MacLellan International Limited,5100061519,5150.05
+HMRC,HMRC,21/10/2010,Temp clerical/admin,Specialist Investigations (SI),MacLellan International Limited,5100061519,5150.05
+HMRC,HMRC,21/10/2010,Temp clerical/admin,Large Business Service,MacLellan International Limited,5100061519,8583.41
+HMRC,HMRC,21/10/2010,Temp clerical/admin,People Function,MacLellan International Limited,5100061519,8884.61
+HMRC,HMRC,21/10/2010,Data output prod,Information Management Solutions,Aspire,5100061558,1388859.11
+HMRC,HMRC,22/10/2010,CHURN,Estates & Support Services,Mapeley STEPS Contractor Ltd  Compo,5100062035,31851.99
+HMRC,HMRC,22/10/2010,Business Rates,Estates & Support Services,Pembrokeshire County Council,5100062053,26229
+HMRC,HMRC,22/10/2010,Business Rates,Estates & Support Services,Pembrokeshire County Council,5100062054,26703.5
+HMRC,HMRC,22/10/2010,Business Rates,Estates & Support Services,Pembrokeshire County Council,5100062055,25450
+HMRC,HMRC,22/10/2010,Business Rates,Estates & Support Services,Glasgow City Council,5100062071,32200.01
+HMRC,HMRC,25/10/2010,Court Fees,Debt Management & Banking,RBSG Central 10000607,1900139929,40000
+HMRC,HMRC,25/10/2010,Phones - landlines,Information Management Solutions,OGC Buying Solutions,5100050076,742073.34
+HMRC,HMRC,25/10/2010,Phones - landlines,Information Management Solutions,OGC Buying Solutions,5100050082,-769726.05
+HMRC,HMRC,25/10/2010,Electricity,Estates & Support Services,OGC Buying Solutions,5100062145,63723.18
+HMRC,HMRC,25/10/2010,Research (VAT rec),Knowledge Analysis & Intelligence,IFF Research Ltd,5100062355,29007.23
+HMRC,HMRC,25/10/2010,Equipment & machiner,Commercial Directorate,OPEX CORPORATION,5100062655,44214.35
+HMRC,HMRC,26/10/2010,OHS,People Function,Capita Health Solutions Limited,5100062668,41425.87
+HMRC,HMRC,26/10/2010,Website Development,Business Customer Unit,Serco Assurance,5100062670,160805.38
+HMRC,HMRC,26/10/2010,Website Development,Business Customer Unit,Serco Assurance,5100062672,254356.48
+HMRC,HMRC,26/10/2010,Website Development,Business Customer Unit,Serco Assurance,5100062673,162294.81
+HMRC,HMRC,26/10/2010,Storage Seized Goods,Specialist Investigations (SI),TNT UK Limited,5100062674,124794.76
+HMRC,HMRC,26/10/2010,Govt dept services,Risk & Intelligence,Foreign and Commonwealth Office,5100062701,64689.33
+HMRC,HMRC,26/10/2010,Maintenance fees,Information Management Solutions,Accenture (UK) Limited,5100062704,438058.55
+HMRC,HMRC,26/10/2010,Postal delivery serv,Commercial Directorate,TNT Post UK Ltd,5100062705,77045.21
+HMRC,HMRC,26/10/2010,Postal delivery serv,Commercial Directorate,TNT Post UK Ltd,5100062709,37236.35
+HMRC,HMRC,26/10/2010,Website Development,Business Customer Unit,Serco Assurance,5100062720,3150184.6
+HMRC,HMRC,26/10/2010,Grant in Aid Funding,Individuals Customer Directorate,TaxAid,5100062727,45300
+HMRC,HMRC,26/10/2010,Grant in Aid Funding,Individuals Customer Directorate,TaxAid,5100062730,33750
+HMRC,HMRC,26/10/2010,Specimen Isolation,Criminal Investigations,Ovation Systems Limited,5100062781,32702.6
+HMRC,HMRC,26/10/2010,CSP Information Reqt,Criminal Investigations,Home Office Immigration & Nationali,5100062784,36581.13
+HMRC,HMRC,26/10/2010,Forensic Services,Criminal Investigations,Forensic Science Service,5100062790,51993.69
+HMRC,HMRC,27/10/2010,STEPS FUP,Estates & Support Services,Mapeley Steps Limited,1700078700,-36713.37
+HMRC,HMRC,27/10/2010,Grant in Aid Funding,Individuals Customer Directorate,One Parent Families,5100062885,40828
+HMRC,HMRC,27/10/2010,Court Fees,Debt Management & Banking,The Insolvency Service,5100062917,113850
+HMRC,HMRC,27/10/2010,Rent,Estates & Support Services,Mapeley Steps Limited,5100063131,84830.41
+HMRC,HMRC,27/10/2010,Landlord Charges,Estates & Support Services,Mapeley Steps Limited,5100063132,52871.22
+HMRC,HMRC,27/10/2010,Rent,Estates & Support Services,Mapeley Steps Limited,5100063132,54833.33
+HMRC,HMRC,27/10/2010,Rent,Estates & Support Services,Mapeley Steps Limited,5100063133,26664.66
+HMRC,HMRC,27/10/2010,Landlord Charges,Estates & Support Services,Mapeley Steps Limited,5100063133,30168.81
+HMRC,HMRC,27/10/2010,Rent,Estates & Support Services,Mapeley Steps Limited,5100063134,19707.2
+HMRC,HMRC,27/10/2010,Landlord Charges,Estates & Support Services,Mapeley Steps Limited,5100063134,24109.31
+HMRC,HMRC,27/10/2010,Mobile Tel Charges,Information Management Solutions,Vodafone Corporate,5100063154,6
+HMRC,HMRC,27/10/2010,Phones - mobiles,Information Management Solutions,Vodafone Corporate,5100063154,101369.1
+HMRC,HMRC,27/10/2010,Rent,Estates & Support Services,Mapeley Steps Limited,5100063189,39259.17
+HMRC,HMRC,27/10/2010,Electricity,Estates & Support Services,EDF Energy,5100063194,247779.12
+HMRC,HMRC,27/10/2010,PRIME costs,Estates & Support Services,DWP,5100063199,894225.74
+HMRC,HMRC,28/10/2010,Govt dept services,Estates & Support Services,TSOL,5100063509,32030.5
+HMRC,HMRC,28/10/2010,Govt dept services,Charities Assets & Residence,Land And Property Services,5100063520,25878.05
+HMRC,HMRC,28/10/2010,Diesel fuel,Commercial Directorate,Arval PHH Business Solutions Ltd,5100063583,35751.3
+HMRC,HMRC,28/10/2010,Diesel fuel,Commercial Directorate,Arval PHH Business Solutions Ltd,5100063588,60200.33
+HMRC,HMRC,28/10/2010,Research (VAT rec),Knowledge Analysis & Intelligence,GFK NOP Ltd,5100063640,58720.63
+HMRC,HMRC,28/10/2010,Business Consultancy,Finance & Internal Audit,Citibank N.A.,5100063644,40890
+HMRC,HMRC,28/10/2010,Mobile Tel Charges,Information Management Solutions,Vodafone Corporate,5100063647,1743.05
+HMRC,HMRC,28/10/2010,Phones - mobiles,Information Management Solutions,Vodafone Corporate,5100063647,87821.52
+HMRC,HMRC,28/10/2010,Mobile call charges,Information Management Solutions,Vodafone Corporate,5100063647,88532.63
+HMRC,HMRC,29/10/2010,Business Consultancy,Performance and Improvement,Fujitsu Services Ltd (Pacesetter),5100064064,31693.51
+HMRC,HMRC,29/10/2010,Business Consultancy,Performance and Improvement,Fujitsu Services Ltd (Pacesetter),5100064069,27658.34
+HMRC,HMRC,29/10/2010,Govt dept services,Risk & Intelligence,Foreign and Commonwealth Office,5100064091,178486.07
+HMRC,HMRC,29/10/2010,Govt dept services,Risk & Intelligence,Foreign and Commonwealth Office,5100064092,73788.53
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Borough of Telford & Wrekin,5100064118,54889
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Salford City Council,5100064123,50975
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Salford City Council,5100064125,145513
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Portsmouth City Council,5100064128,25270
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Birmingham City Council,5100064152,55134
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Bradford Council,5100064164,33380
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Bradford Council,5100064165,48635
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Nottingham City Council,5100064169,134173
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Bristol City Council,5100064179,31464
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Cardiff County Council,5100064187,86299
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Sefton Mbc,5100064218,38625
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Sefton Mbc,5100064220,37021
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Sheffield City Council,5100064223,35823
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,City of  Westminster,5100064237,37712
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,City of  Westminster,5100064238,81527
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,City of  Westminster,5100064239,94535
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Coventry City Council,5100064243,52433
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Croydon Council,5100064247,57325
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,South Lanarkshire Council,5100064255,89010
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,South Lanarkshire Council,5100064256,27903.6
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Southend Borough Council,5100064258,51854
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Sunderland City Council,5100064280,75399
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Dundee City Council,5100064288,29932
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Glasgow City Council,5100064303,35190
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Glasgow City Council,5100064304,28980
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Liverpool City Council,5100064343,99360
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Liverpool City Council,5100064344,32085
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Liverpool City Council,5100064345,45954
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,London Borough of Camden,5100064354,200930
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,West Lindsey District Council,5100064358,27531
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,West Lothian Council,5100064362,39703
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Manchester City Council,5100064378,50724
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Woking Borough  Council,5100064380,43846
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Worthing Borough Council,5100064389,56937
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Worthing Borough Council,5100064390,28949
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Newcastle City Council,5100064402,332122
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,North Lanarkshire Council,5100064413,61893
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,City Of London,5100064426,77547
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,City Of London,5100064427,46392
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Leeds City Council,5100064439,36225
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,Council Of The Borough,5100064444,31540
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,City Of Edinburgh Council,5100064477,26620
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,City Of Edinburgh Council,5100064478,32872
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,London Borough of Southwark,5100064484,30539
+HMRC,HMRC,29/10/2010,Business Rates,Estates & Support Services,London Borough of Southwark,5100064485,209398

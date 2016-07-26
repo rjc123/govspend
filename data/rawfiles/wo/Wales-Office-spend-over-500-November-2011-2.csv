@@ -1,0 +1,29 @@
+ENTITY,EXPENSE_AREA_1,PAYMENT DATE,PAYMENT NUMBER,SUPPLIER NAME,INVOICE AMOUNT,NAC DESCRIPTION,SERVICE SUPPLIED
+Wales Office,Wales Office,25-Nov-11,1000638,LANCASTER OFFICE CLEANING CO LTD,2580.08,222152-Cleaning (excl Waste Collctn),Cleaning services for London office
+Wales Office,Wales Office,28-Nov-11,1000642,PRECISE MEDIA MONITORING LTD,1150,223563-Press Cuttings Service,Press cuttings
+Wales Office,Wales Office,22-Nov-11,1000624,KNIGHT FRANK LLP,45076.03,221112-Property Rents - Passing Rent,Rent and service charges for Cardiff office
+Wales Office,Wales Office,23-Nov-11,1000630,GOVERNMENT CAR & DESPATCH AGENCY,7631.75,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,Wales Office,23-Nov-11,1000630,GOVERNMENT CAR & DESPATCH AGENCY,609.14,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,Wales Office,7-Nov-11,1000576,CARLISLE SECURITY SERVICES LTD,10391.28,222151-Security,24 hour Security for London office
+Wales Office,Wales Office,2-Nov-11,1000565,BROOK STREET (UK) LTD,565.92,212601-Agency Staff - admin,Agency staff costs
+Wales Office,Wales Office,9-Nov-11,1000592,BROOK STREET (UK) LTD,565.92,212601-Agency Staff - admin,Agency staff costs
+Wales Office,Wales Office,16-Nov-11,1000612,BROOK STREET (UK) LTD,565.92,212601-Agency Staff - admin,Agency staff costs
+Wales Office,Wales Office,15-Nov-11,1000610,GOVERNMENT CAR & DESPATCH AGENCY,964.8,223517-IDS,Government internal mail service
+Wales Office,Wales Office,15-Nov-11,1000611,PHS GROUP PLC,1046.76,"222156-Wast Coll'n/Disposal, Confid'ial",Waste collection at Cardiff office
+Wales Office,Wales Office,22-Nov-11,1000627,SIEMENS ENTERPRISE COMMUNICATIONS LTD,1224.72,223544-Telecomms - Maintenance (VAT Recovrbl) - non-mobile,Annual maintenance fee for video conferencing equipment
+Wales Office,Wales Office,29-Nov-11,1000646,LANCASTER OFFICE CLEANING CO LTD,524.39,222152-Cleaning (excl Waste Collctn),Cleaning services for London office
+Wales Office,Wales Office,2-Nov-11,1000567,CUSTOM SECURITY SOLUTIONS LTD,810,222151-Security,Repair and maintenance of security equipment
+Wales Office,Wales Office,9-Nov-11,1000595,CUSTOM SECURITY SOLUTIONS LTD,974.15,222151-Security,Repair and maintenance of security equipment
+Wales Office,Wales Office,21-Nov-11,1000620,CITEC ELECTRIC LTD,6840.05,222155-Other Service Contracts - Accommodation,TV system repair and maintenance
+Wales Office,Wales Office,18-Nov-11,1000616,CIVIC MAINTENANCE SERVICES LTD,714.58,222152-Cleaning (excl Waste Collctn),Cleaning services for Cardiff office
+Wales Office,Wales Office,30-Nov-11,1000647,DOD'S PARLIAMENTARY COMMUNICATIONS LTD,590,223520-Publications- incl. Online,Parliamentary books
+Wales Office,Wales Office,15-Nov-11,1000609,EDUSERV TECHNOLOGIES LTD,693.6,223536-IT Services incl Web Hosting,Web hosting for Wales Office websites
+Wales Office,Wales Office,11-Nov-11,1000605,THE STATIONERY OFFICE LTD,6506.4,223520-Publications- incl. Online,Annual cost of parliamentary questions feed from Parliament
+Wales Office,Wales Office,1-Nov-11,1000562,M J FERGUSON LTD,3906,222182-Mechanical & Electrical,Monthly maintenance charge for London office
+Wales Office,Wales Office,21-Nov-11,1000622,M J FERGUSON LTD,4687.5,222137-CIS Labour Build Maintenance Works,Reactive maintenance costs
+Wales Office,Wales Office,22-Nov-11,1000625,M J FERGUSON LTD,1083.19,222192-CIS Labour Mechanical & Electric,Reactive maintenance costs
+Wales Office,Wales Office,9-Nov-11,1000593,GOVERNMENT PROCUREMENT SERVICE,1225.96,222143-Utility - Gas,Centralised government heating charges for London office
+Wales Office,Wales Office,8-Nov-11,1000582,GOVERNMENT PROCUREMENT SERVICE,13665.82,223541-Telecomms - Charges/Rental-non mobile,Central government contract for phone charges for land lines
+Wales Office,Wales Office,23-Nov-11,1000628,CARDIFF COUNTY COUNCIL,4087,222111-Rates,Rates for Cardiff office
+Wales Office,Wales Office,23-Nov-11,1000629,WESTMINSTER CITY COUNCIL,8023,222111-Rates,Rates for London office
+Wales Office,COMMISSION ON DEVOLUTION,8-Nov-11,1000588,THE MILLENIUM STADIUM,624,224418-Conference Cost,Conference costs for Commission on Devolution

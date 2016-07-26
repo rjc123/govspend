@@ -1,0 +1,19 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Description,GL Year_Period,Calendar Month
+Department for Education,CAFCASS,31/03/2010,Vehicle Insurance,HQ,CC Flint & Co Ltd,PINV00259102,"69,499.02 ",Cafcass Vehicle insurance 2010/11,2011/01,Apr-2010
+Department for Education,CAFCASS,31/03/2010,Service Charge,Op Service Areas,Zurich Assurance Ltd,PINV00259107,"13,604.13 ",Slough Office Rent 25/03/10 - 23/06/10,2011/01,Apr-2010
+Department for Education,CAFCASS,31/03/2010,Rent,Op Service Areas,Zurich Assurance Ltd,PINV00259107,"22,900.16 ",Slough Office Rent 25/03/10 - 23/06/10,2011/01,Apr-2010
+Department for Education,CAFCASS,01/04/2010,Rent,Op Service Areas,DTZ,PINV00259150,"11,520.00 ",RECHARGE RENT WOLVERHAMPTON OFFICE 2009-,2011/01,Apr-2010
+Department for Education,CAFCASS,01/04/2010,Service Charge,Op Service Areas,DTZ,PINV00259150,"18,783.23 ",RECHARGE RENT WOLVERHAMPTON OFFICE 2009-,2011/01,Apr-2010
+Department for Education,CAFCASS,06/04/2010,Rates,Op Service Areas,Chelmsford Borough Council,PINV00259273,"25,668.00 ",Business rates St Marys House - 2010/11,2011/01,Apr-2010
+Department for Education,CAFCASS,07/04/2010,Rates,Op Service Areas,Northampton Borough Council,PINV00259441,"26,358.86 ",Business Rates 2010-2011,2011/01,Apr-2010
+Department for Education,CAFCASS,07/04/2010,Rates,Op Service Areas,Slough Borough Council,PINV00259530,"25,729.19 ",Slough Office Rates 01/04/10-31/03/11,2011/01,Apr-2010
+Department for Education,CAFCASS,07/04/2010,Rates,Op Service Areas,Croydon Council,PINV00259532,"37,107.00 ",Croydon Office Rates 01/04/10 - 31/03/11,2011/01,Apr-2010
+Department for Education,CAFCASS,09/04/2010,Service Charge,Op Service Areas,Stockland Anglo Ventures (Croydon) Ltd,PINV00259752,"10,500.75 ",Croydon Office Rent 25/03/10-23/06/10,2011/01,Apr-2010
+Department for Education,CAFCASS,09/04/2010,Rent,Op Service Areas,Stockland Anglo Ventures (Croydon) Ltd,PINV00259752,"29,345.63 ",Croydon Office Rent 25/03/10-23/06/10,2011/01,Apr-2010
+Department for Education,CAFCASS,16/04/2010,Maintenance,HQ,AuDeo Systems Ltd,PINV00260375,"4,653.00 ","Polycom HDX6000,HD camera,microphone & R",2011/01,Apr-2010
+Department for Education,CAFCASS,16/04/2010,Peripherals <£2.5k,HQ,AuDeo Systems Ltd,PINV00260375,"8,237.93 ","Polycom HDX6000,HD camera,microphone & R",2011/01,Apr-2010
+Department for Education,CAFCASS,16/04/2010,Installation Costs,HQ,AuDeo Systems Ltd,PINV00260375,"11,315.25 ","Polycom HDX6000,HD camera,microphone & R",2011/01,Apr-2010
+Department for Education,CAFCASS,16/04/2010,IT Individual Assets >= £2.5k,HQ,AuDeo Systems Ltd,PINV00260375,"20,675.30 ","Polycom HDX6000,HD camera,microphone & R",2011/01,Apr-2010
+Department for Education,CAFCASS,28/04/2010,Call Charges,HQ,Frontier Voice and Data Ltd,PINV00261554,"21,307.33 ",Call charges January 2010,2011/01,Apr-2010
+Department for Education,CAFCASS,28/04/2010,Line Rental,HQ,Frontier Voice and Data Ltd,PINV00261554,"28,474.88 ",Call charges January 2010,2011/01,Apr-2010
+Department for Education,CAFCASS,28/04/2010,Service Charge,Op Service Areas,Stockland Anglo Ventures (Croydon) Ltd,PINV00261582,"31,056.91 ",Service Charge Balancing Charge 2009/201,2011/01,Apr-2010

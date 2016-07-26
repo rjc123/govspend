@@ -1,0 +1,5 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,        Amount        ,Description,Supplier Postcode,Supplier Type,Contract Number,Project Code,Expenditure Type
+Department of Health,Monitor,03/06/2014,IT support,Sector Development,Computers in the City,00030473_005,27015,IT support,EC3A 2BJ,,,,Administration
+Department of Health,Monitor,03/06/2014,IT equipment,Sector Development,CSA,00029326_005,188832.92,IT equipment,HP10 0AB,,,,Administration
+Department of Health,Monitor,05/06/2014,IT support,Sector Development,MASTEK,00028814_005,53832,Software development,RG1 8BW,,C-406-0214-SECDEV/KIM,,Administration
+Department of Health,Monitor,05/06/2014,IT support,Sector Development,MASTEK,00028866_005,117882,Software development,RG1 8BW,,C-406-0214-SECDEV/KIM,,Administration

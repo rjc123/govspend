@@ -1,0 +1,22 @@
+Entity,Date,Expense Area,Expense Type,Supplier,Payment No,Amount,Service Description
+
+Wales Office,17-Sep-12,WA100-Wales Private Office,223000-Other Expenditure,GOVERNMENT CAR & DESPATCH AGENCY,1069,"7,070.66",Ministerial Car service  for July 2012
+Wales Office,17-Sep-12,WA100-Wales Private Office,223000-Other Expenditure,GOVERNMENT CAR & DESPATCH AGENCY,1070,726.50,Ministerial Car Service
+Wales Office,17-Sep-12,WA100-Wales Private Office,223000-Other Expenditure,GOVERNMENT CAR & DESPATCH AGENCY,1071,"7,077.66",Ministerial Car Service  for August 2012
+Wales Office,11-Sep-12,WA105-Wales Policy Office,222001-Maintenance,MITIE TECHNICAL FACILITIES MANAGEMENT LTD,1001524,"7,584.50",Design and fitting works 
+Wales Office,11-Sep-12,WA105-Wales Policy Office,222001-Maintenance,MITIE TECHNICAL FACILITIES MANAGEMENT LTD,1001524,"247,037.92",Design and fitting works 
+Wales Office,20-Sep-12,WA106-Corporate Services,221000-Property Rent and Rates,KNIGHT FRANK LLP,1001542,"29,523.94",Rent for  Cardiff Office (Caspian Point)
+Wales Office,24-Sep-12,WA115-COMMISSION ON DEVOLUTION,212001-Agency staff,BROOK STREET (UK) LTD,1001555,677.04,Agency staff costs
+Wales Office,18-Sep-12,WA106-Corporate Services,265000-IT & Telecommunications,ATOS IT SERVICES UK LTD,1001535,"2,541.50",MOJ shared service provider costs
+Wales Office,21-Sep-12,WA106-Corporate Services,222002-Other Property Costs,CIVIC MAINTENANCE SERVICES LTD,1001548,626.40,Cleaning Cardiff Office
+Wales Office,18-Sep-12,WA106-Corporate Services,262000-SCA Costs,MINISTRY OF JUSTICE,1073,"6,042.03",MOJ shared service provider costs
+Wales Office,13-Sep-12,WA106-Corporate Services,223000-Other Expenditure,ULTRA ELECTRONICS LTD,1001530,792.00,IT Licences
+Wales Office,18-Sep-12,WA106-Corporate Services,223001-Printing Postage and Office expenditure,MINISTRY OF JUSTICE,1074,"1,936.69",MOJ shared service provider costs
+Wales Office,06-Sep-12,WA100-Wales Private Office,263000-Other Contracted Out Services,NEWSPAPER LICENSING AGENCY LTD,1001514,"3,260.00",12 Month licence for electronic news access
+Wales Office,06-Sep-12,WA105-Wales Policy Office,222002-Other Property Costs,M J FERGUSON LTD,1001513,814.00,Design and fitting works 
+Wales Office,10-Sep-12,WA106-Corporate Services,222001-Maintenance,M J FERGUSON LTD,1001520,"3,147.77",Planned Preventive Maintenance 12/13
+Wales Office,28-Sep-12,WA100-Wales Private Office,223000-Other Expenditure,CARDA BUSINESS TRAVEL,1001568,"1,195.00",Transport for Wales Office Ministers whilst in Cardiff.
+Wales Office,28-Sep-12,WA100-Wales Private Office,223000-Other Expenditure,CARDA BUSINESS TRAVEL,1001568,608.75,Transport for Wales Office Ministers whilst in Cardiff.
+Wales Office,21-Sep-12,WA105-Wales Policy Office,221000-Property Rent and Rates,CARDIFF COUNTY COUNCIL,1001546,"4,317.00",Rates for Cardiff 
+Wales Office,21-Sep-12,WA105-Wales Policy Office,221000-Property Rent and Rates,WESTMINSTER CITY COUNCIL,1001547,"9,560.00",Rates for London
+,,Commission on Devolution Spend incurred by Silk Commission ,,,,,

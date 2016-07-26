@@ -1,0 +1,17 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Description
+Department for Education,CAFCASS,10/07/2012,Travel and Subs - UK (Non-Taxable),HQ,Redfern Travel Limited,CINV00000130,"35,982.77 ",Redfern June 12
+Department for Education,CAFCASS,10/07/2012,Travel and Subs - UK (Non-Taxable),Op Service Areas,Redfern Travel Limited,CINV00000130,"36,331.17 ",Redfern June 12
+Department for Education,CAFCASS,01/08/2012,Mobile Call Charges,HQ,Vodafone,CINV00000132,"1,406.25 ",Vodafone July 2012
+Department for Education,CAFCASS,01/08/2012,Mobile Phone Rental,HQ,Vodafone,CINV00000132,"2,041.81 ",Vodafone July 2012
+Department for Education,CAFCASS,01/08/2012,Mobile Call Charges,Op Service Areas,Vodafone,CINV00000132,"21,780.87 ",Vodafone July 2012
+Department for Education,CAFCASS,01/08/2012,Mobile Phone Rental,Op Service Areas,Vodafone,CINV00000132,"26,603.75 ",Vodafone July 2012
+Department for Education,CAFCASS,03/08/2012,Travel and Subs - UK (Non-Taxable),HQ,Redfern Travel Limited,CINV00000136,"29,568.14 ",Redfern July 12
+Department for Education,CAFCASS,03/08/2012,Travel and Subs - UK (Non-Taxable),Op Service Areas,Redfern Travel Limited,CINV00000136,"34,402.58 ",Redfern July 12
+Department for Education,CAFCASS,03/07/2012,Rates,HQ,Stockport Metropolitan Borough Council,PCRN00006389,"-25,775.62 ",CREDIT STOCKPORT 23/03/12-31/03/13
+Department for Education,CAFCASS,20/07/2012,External Auditor Fees,HQ,National Audit Office,PINV00333140,"30,000.00 ",11/12 External audit fees
+Department for Education,CAFCASS,24/07/2012,Building Fit Out and Enhancements,HQ,DP Designs,PINV00333269,"54,150.50 ",Contract - Service area A2/N2
+Department for Education,CAFCASS,11/07/2012,Rent,HQ,Department for Education,PINVP00000582,"137,599.50 ",SANCTUARY BUILDINGS RENT 01/07-30/09/12
+Department for Education,CAFCASS,13/07/2012,Service Charge,HQ,Stiles Harold Williams Ltd,PINVP00000583,"10,713.02 ",CROYDON RENT/SERV CHG 24/06-28/09/12
+Department for Education,CAFCASS,13/07/2012,Rent,HQ,Stiles Harold Williams Ltd,PINVP00000583,"29,970.00 ",CROYDON RENT/SERV CHG 24/06-28/09/12
+Department for Education,CAFCASS,19/07/2012,Rent,HQ,University of Warwick Science Park,PINVP00000586,"87,675.00 ",National Business Centre RENT 25/06-28/09/12
+Department for Education,CAFCASS,19/07/2012,Rent,HQ,Department for Education,PINVP00000588,"35,077.25 ",RUNCORN RENT 01/07-30/09/12

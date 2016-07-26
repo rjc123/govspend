@@ -1,0 +1,23 @@
+ENTITY,EXPENSE_AREA_1,PAYMENT DATE,PAYMENT NUMBER,SUPPLIER NAME,INVOICE AMOUNT,NAC DESCRIPTION,SERVICE SUPPLIED
+Wales Office,Wales Office,7-Oct-11,1000488,THE STATIONERY OFFICE LTD,1118.82,223520-Publications- incl. Online,Offical publications
+Wales Office,Wales Office,5-Oct-11,1000483,PRECISE MEDIA MONITORING LTD,963.24,223563-Press Cuttings Service,New supplier for Press cuttings
+Wales Office,Wales Office,12-Oct-11,1000501,GOVERNMENT CAR & DESPATCH AGENCY,5875.22,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,Wales Office,25-Oct-11,1000542,CABINET OFFICE,20000,222151-Security,Annual contribution to service costs for Government Secure Zone
+Wales Office,Wales Office,10-Oct-11,1000490,CARLISLE SECURITY SERVICES LTD,8352,222151-Security,24 hour Security for London office
+Wales Office,Wales Office,19-Oct-11,1000522,GOVERNMENT CAR & DESPATCH AGENCY,804,223517-IDS,Government internal mail service
+Wales Office,Wales Office,10-Oct-11,1000493,PRESS DATA CYMRU,800,223513-Design/Print/Reprographic Services,Press cuttings - final payment changed suppliers
+Wales Office,Wales Office,17-Oct-11,1000514,ONLINE ERGONOMICS,513.5,224342-Health & Safety - Personal Equipment,Health and safety equipment for staff
+Wales Office,Wales Office,18-Oct-11,1000515,BRITISH GAS BUSINESS,723.99,222142-Utility - Electricity,Electricity supplied to London office
+Wales Office,Wales Office,21-Oct-11,1000535,CIVIC MAINTENANCE SERVICES LTD,593.52,222152-Cleaning (excl Waste Collctn),Cleaning services for Cardiff office
+Wales Office,Wales Office,26-Oct-11,1000551,LEXIS NEXIS,713,223520-Publications- incl. Online,Annual cost of parliamentary publication
+Wales Office,Wales Office,3-Oct-11,1000474,MINISTRY OF JUSTICE,1197.16,223513-Design/Print/Reprographic Services,Printing charges 
+Wales Office,Wales Office,12-Oct-11,1000500,EDUSERV TECHNOLOGIES LTD,578,223536-IT Services incl Web Hosting,Web hosting for Wales Office websites
+Wales Office,Wales Office,14-Oct-11,1000512,NEWSPAPER LICENSING AGENCY LTD,3000,223563-Press Cuttings Service,Annual license fee for press cuttings
+Wales Office,Wales Office,5-Oct-11,1000480,M J FERGUSON LTD,977.18,222137-CIS Labour Build Maintenance Works,Reactive maintenance costs
+Wales Office,Wales Office,5-Oct-11,1000481,M J FERGUSON LTD,2719,222182-Mechanical & Electrical,Monthly maintenance charge for London office
+Wales Office,Wales Office,7-Oct-11,1000487,M J FERGUSON LTD,1316,222132-Building Maintenance Works,Reactive maintenance costs
+Wales Office,Wales Office,12-Oct-11,1000504,M J FERGUSON LTD,3955.72,222137-CIS Labour Build Maintenance Works,Reactive maintenance costs
+Wales Office,Wales Office,21-Oct-11,1000536,M J FERGUSON LTD,2349.64,222132-Building Maintenance Works,Reactive maintenance costs
+Wales Office,Wales Office,25-Oct-11,1000544,M J FERGUSON LTD,653.43,222158-Porterage Costs,Reactive maintenance costs
+Wales Office,Wales Office,21-Oct-11,1000532,CARDIFF COUNTY COUNCIL,4087,222111-Rates,Rates for Cardiff office
+Wales Office,Wales Office,21-Oct-11,1000533,WESTMINSTER CITY COUNCIL,8023,222111-Rates,Rates for London office

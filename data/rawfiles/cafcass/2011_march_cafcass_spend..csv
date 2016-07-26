@@ -1,0 +1,38 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Description
+Department for Education,CAFCASS,03/03/2011,Service Charge,HQ,CBRE,PINV00291911,"8,230.80 ",RENT/SERVICE CHARGE 25/12/10-24/03/11
+Department for Education,CAFCASS,03/03/2011,Rent,HQ,CBRE,PINV00291911,"19,200.00 ",RENT/SERVICE CHARGE 25/12/10-24/03/11
+Department for Education,CAFCASS,03/03/2011,Service Charge,HQ,CBRE Ltd - Client A/C - Common Receipts,PINV00291912,"8,059.33 ",RENT/SERVICE CHARGE 25/12/10-24/03/11
+Department for Education,CAFCASS,03/03/2011,Rent,HQ,CBRE Ltd - Client A/C - Common Receipts,PINV00291912,"18,800.00 ",RENT/SERVICE CHARGE 25/12/10-24/03/11
+Department for Education,CAFCASS,09/03/2011,Training - External Courses,Op Service Areas,The University of Sheffield,PINV00292429,"39,375.00 ",PQ Module - Family Law modules Sheffield
+Department for Education,CAFCASS,11/03/2011,Telephony Managed Service,HQ,DSGi Business,PINV00292673,"71,452.04 ",Telephony Managed Service April 2011
+Department for Education,CAFCASS,11/03/2011,Rent,HQ,DTZ,PINV00292840,"26,620.00 ",RENT 01/04/10-31/03/11
+Department for Education,CAFCASS,11/03/2011,Rent,HQ,DTZ,PINV00292842,"17,188.19 ",RENT&SERVICE CHG 01/04/10-30/12/10
+Department for Education,CAFCASS,11/03/2011,Service Charge,HQ,DTZ,PINV00292842,"28,783.56 ",RENT&SERVICE CHG 01/04/10-30/12/10
+Department for Education,CAFCASS,15/03/2011,Service Charge,HQ,Hortons Estate Ltd,PINV00292987,"5,700.00 ",SERVICE CHG/RENT 25/03-23/06/11
+Department for Education,CAFCASS,15/03/2011,Rent,HQ,Hortons Estate Ltd,PINV00292987,"19,395.00 ",SERVICE CHG/RENT 25/03-23/06/11
+Department for Education,CAFCASS,15/03/2011,Service Charge,HQ,Cushman & Wakefield Healey & Baker,PINV00292990,"1,999.80 ",SERVICE CHG/RENT 25/03-23/06/11
+Department for Education,CAFCASS,15/03/2011,Rent,HQ,Cushman & Wakefield Healey & Baker,PINV00292990,"24,300.00 ",SERVICE CHG/RENT 25/03-23/06/11
+Department for Education,CAFCASS,15/03/2011,Service Charge,HQ,CBRE,PINV00292998,"8,230.80 ",SERVICE CHG/RENT 25/03-23/06/11
+Department for Education,CAFCASS,15/03/2011,Rent,HQ,CBRE,PINV00292998,"19,200.00 ",SERVICE CHG/RENT 25/03-23/06/11
+Department for Education,CAFCASS,15/03/2011,Service Charge,HQ,Zurich Assurance Ltd,PINV00293007,"11,723.42 ",SERVICE CHG/RENT 25/03-23/06/11
+Department for Education,CAFCASS,15/03/2011,Rent,HQ,Zurich Assurance Ltd,PINV00293007,"23,387.40 ",SERVICE CHG/RENT 25/03-23/06/11
+Department for Education,CAFCASS,18/03/2011,Rent,HQ,The Ministry of Justice,PINV00293587,"29,509.10 ",RENT/SERVICE CHARGE
+Department for Education,CAFCASS,18/03/2011,Service Charge,HQ,The Ministry of Justice,PINV00293587,"42,787.70 ",RENT/SERVICE CHARGE
+Department for Education,CAFCASS,18/03/2011,Service Charge,HQ,The Ministry of Justice,PINV00293588,"31,999.94 ",SERVICE CHARGE
+Department for Education,CAFCASS,18/03/2011,Rent,HQ,The Ministry of Justice,PINV00293589,"48,361.50 ",SERVICE CHARGE/RENT
+Department for Education,CAFCASS,18/03/2011,Service Charge,HQ,The Ministry of Justice,PINV00293589,"61,983.41 ",SERVICE CHARGE/RENT
+Department for Education,CAFCASS,22/03/2011,Building Fit Out and Enhancements,HQ,DP Designs,PINV00293813,"65,424.83 ",2.01 - Reading Refurbishment. DP designs
+Department for Education,CAFCASS,22/03/2011,Building Fit Out and Enhancements,HQ,CPF Installation Ltd,PINV00293837,"40,117.97 ",Liverpool new 1.04 runcorn valuation 1
+Department for Education,CAFCASS,23/03/2011,Line Rental,HQ,Frontier Voice and Data Ltd,PINV00294041,"23,339.33 ",Call charges  December 2010
+Department for Education,CAFCASS,23/03/2011,Call Charges,HQ,Frontier Voice and Data Ltd,PINV00294041,"29,765.58 ",Call charges  December 2010
+Department for Education,CAFCASS,24/03/2011,Partnerships - Commissioned Contact Serv,HQ,Foster Care Associates Ltd,PINV00294358,"25,250.00 ",Core C3 10/11
+Department for Education,CAFCASS,29/03/2011,Contact Activities-rechargeable,HQ,Relate Dorset,PINV00295048,"26,000.00 ",FEB 11 PIP - RELATE DORSET & STH WILTS
+Department for Education,CAFCASS,18/03/2011,Rates,HQ,Nottingham City Council,PINVP00000003,"34,725.64 ",RATES
+Department for Education,CAFCASS,18/03/2011,Rent,HQ,GVA Grimleys Ltd (Managing Agents),PINVP00000011,"40,050.00 ",RENT 25/03-23/06/11
+Department for Education,CAFCASS,18/03/2011,Rates,HQ,Leeds City Council,PINVP00000014,"62,785.00 ",RATES
+Department for Education,CAFCASS,23/03/2011,Rates,HQ,Croydon Council,PINVP00000037,"38,731.50 ",RATES 2011-2012
+Department for Education,CAFCASS,25/03/2011,Rates,HQ,Chelmsford Borough Council,PINVP00000051,"26,846.00 ",RATES 2011-2012
+Department for Education,CAFCASS,25/03/2011,Rates,HQ,Manchester City Council,PINVP00000055,"28,794.50 ",RATES 2011-2012
+Department for Education,CAFCASS,25/03/2011,Rates,HQ,Birmingham City Council,PINVP00000067,"29,280.18 ",RATES 2011-2012
+Department for Education,CAFCASS,28/03/2011,Rates,HQ,City of Bradford Metro. District Council,PINVP00000090,"25,980.00 ",RATES 2011-2012
+Department for Education,CAFCASS,28/03/2011,Rates,HQ,Slough Borough Council,PINVP00000099,"25,142.66 ",RATES 2011-2012

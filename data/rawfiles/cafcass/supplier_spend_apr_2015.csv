@@ -1,0 +1,34 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Description
+Ministry of Justice,CAFCASS,07/04/2015,Travel and Subs - UK (Non-Taxable),HQ,Redfern Travel Limited,CINV/00000442,"34,184.50",Redfern Mar 15
+Ministry of Justice,CAFCASS,07/04/2015,Travel and Subs - UK (Non-Taxable),Op Service Areas,Redfern Travel Limited,CINV/00000442,"57,470.68",Redfern Mar 15
+Ministry of Justice,CAFCASS,07/04/2015,Mobile Call Charges,HQ,Vodafone,CINV/00000444,304.4,Vodafone March 2015
+Ministry of Justice,CAFCASS,07/04/2015,Mobile Call Charges,Op Service Areas,Vodafone,CINV/00000444,"2,868.44",Vodafone March 2015
+Ministry of Justice,CAFCASS,07/04/2015,Mobile Phone Rental,HQ,Vodafone,CINV/00000444,"2,386.80",Vodafone March 2015
+Ministry of Justice,CAFCASS,07/04/2015,Mobile Phone Rental,Op Service Areas,Vodafone,CINV/00000444,"26,703.88",Vodafone March 2015
+Ministry of Justice,CAFCASS,05/05/2015,Travel and Subs - UK (Non-Taxable),HQ,Redfern Travel Limited,CINV/00000457,"32,302.35",Redfern Apr 15
+Ministry of Justice,CAFCASS,05/05/2015,Travel and Subs - UK (Non-Taxable),Op Service Areas,Redfern Travel Limited,CINV/00000457,"36,277.80",Redfern Apr 15
+Ministry of Justice,CAFCASS,23/04/2015,IT Individual Assets >= £2.5k,HQ,Stone Computers Ltd,PCRN/00007897,"-223,764.00",Credit 290 Toshiba Portege Laptops &Slip
+Ministry of Justice,CAFCASS,23/04/2015,IT Individual Assets >= £2.5k,HQ,Stone Computers Ltd,PCRN/00007899,"-77,160.00",Credit 290 Toshiba Portege Laptops &Slip
+Ministry of Justice,CAFCASS,15/04/2015,Service Charge,HQ,Colliers Agent for Sports Council Trust,PCRNP/00000027,"-115,499.07",CREDIT BLOOMS REFUND SERV CHG
+Ministry of Justice,CAFCASS,01/04/2015,Vehicle Insurance,HQ,Portmore Insurance Brokers Ltd,PINV/00375747,"32,584.40",2015-16 Car Insurance
+Ministry of Justice,CAFCASS,01/04/2015,Other Fees/Services,HQ,Gartner UK Ltd,PINV/00375749,"57,000.00",Gartner for Enterprise IT Leaders
+Ministry of Justice,CAFCASS,02/04/2015,Other Fees/Services,HQ,UniKent t/a University of Kent,PINV/00375816,"50,000.00",Collaboration/PM: Court Simulation softw
+Ministry of Justice,CAFCASS,08/04/2015,Internal Auditor Fees,HQ,PriceWaterhouseCoopers LLP,PINV/00375861,"27,540.00",14/15 Internal Audit fees
+Ministry of Justice,CAFCASS,10/04/2015,Rent,HQ,Department For Work and Pensions,PINV/00375998,"44,815.81",LEEDS RENT MAR  15
+Ministry of Justice,CAFCASS,16/04/2015,Agency Practitioners,HQ,Capita Resourcing Ltd,PINV/00376098,"7,046.93",Agency Staff w/e 29/03/15
+Ministry of Justice,CAFCASS,16/04/2015,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00376098,"33,507.27",Agency Staff w/e 29/03/15
+Ministry of Justice,CAFCASS,16/04/2015,Agency Practice Managers,Op Service Areas,Capita Resourcing Ltd,PINV/00376099,"1,476.00",Agency Staff w/e 22/03/15
+Ministry of Justice,CAFCASS,16/04/2015,Agency Practitioners,HQ,Capita Resourcing Ltd,PINV/00376099,"5,791.54",Agency Staff w/e 22/03/15
+Ministry of Justice,CAFCASS,16/04/2015,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00376099,"28,491.81",Agency Staff w/e 22/03/15
+Ministry of Justice,CAFCASS,16/04/2015,Building Fit Out and Enhancements,HQ,Interserve Construction Ltd Paragon Divi,PINV/00376117,"50,032.40",DL - 21 Bloomsbury Street - Main works
+Ministry of Justice,CAFCASS,16/04/2015,Building Fit Out and Enhancements,HQ,Interserve Construction Ltd Paragon Divi,PINV/00376119,"50,157.64",DL - Portsmouth - Main works
+Ministry of Justice,CAFCASS,21/04/2015,Agency Practitioners,HQ,Sanctuary Personnel Ltd,PINV/00376159,"4,428.60",Agency Staff w/e 29/30/2015
+Ministry of Justice,CAFCASS,21/04/2015,Agency Practitioners,Op Service Areas,Sanctuary Personnel Ltd,PINV/00376159,"21,780.32",Agency Staff w/e 29/30/2015
+Ministry of Justice,CAFCASS,23/04/2015,N-Cnt Computer Services and Maintenance,HQ,Stone Computers Ltd,PINV/00376276,"223,764.00",Toshiba Portege Z30-A-1FD
+Ministry of Justice,CAFCASS,07/04/2015,Rent,HQ,Colliers Agent for Sports Council Trust,PINVP/00001446,"139,577.75",BLOOMSBURY RENT/SERV CHG 25/3/15-23/6/15
+Ministry of Justice,CAFCASS,07/04/2015,Service Charge,HQ,Colliers Agent for Sports Council Trust,PINVP/00001446,"49,458.00",BLOOMSBURY RENT/SERV CHG 25/3/15-23/6/15
+Ministry of Justice,CAFCASS,17/04/2015,Rent,HQ,University of Warwick Science Park,PINVP/00001458,"30,470.00",NBC RENT/SERV CHG MAY 15
+Ministry of Justice,CAFCASS,17/04/2015,Service Charge,HQ,University of Warwick Science Park,PINVP/00001458,"3,123.30",NBC RENT/SERV CHG MAY 15
+Ministry of Justice,CAFCASS,20/04/2015,Rates,HQ,Sheffield City Council (Rates),PINVP/00001459,"25,143.00",SHEFFIELD RATES 01/04/15-31/03/16
+Ministry of Justice,CAFCASS,22/04/2015,Health and Well,HQ,Medicash,PINVP/00001461,"29,160.00",Employee Assistance Programme 15/16
+Ministry of Justice,CAFCASS,23/04/2015,Telecommunication Service & Maintenance,HQ,Indigo Telecom Group Ltd,PINVP/00001463,"32,104.04",Voip Support service for May-Jul 2015

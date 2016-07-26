@@ -1,0 +1,15 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Description
+Department for Education,CAFCASS,07/06/2011,Travel and Subs - UK (Non-Taxable),HQ,Redfern Travel Limited,CINV00000036,"13,170.49",Redfern Mar 11
+Department for Education,CAFCASS,07/06/2011,Travel and Subs - UK (Non-Taxable),Op Service Areas,Redfern Travel Limited,CINV00000036,"37,155.28",Redfern Mar 11
+Department for Education,CAFCASS,04/07/2011,Travel and Subs - UK (Non-Taxable),HQ,Redfern Travel Limited,CINV00000040,"17,231.24",Redfern Jun 11
+Department for Education,CAFCASS,04/07/2011,Travel and Subs - UK (Non-Taxable),Op Service Areas,Redfern Travel Limited,CINV00000040,"36,374.91",Redfern Jun 11
+Department for Education,CAFCASS,28/06/2011,Telephony Managed Service,HQ,DSGi Business,PINV00303807,"71,452.04",Telephony Managed Service July 2011
+Department for Education,CAFCASS,30/06/2011,Line Rental,HQ,Frontier Voice and Data Ltd,PINV00304093,"21,869.10",Line rental May 2011
+Department for Education,CAFCASS,30/06/2011,Call Charges,HQ,Frontier Voice and Data Ltd,PINV00304093,"33,783.61",Line rental May 2011
+Department for Education,CAFCASS,06/06/2011,Service Charge,HQ,Zurich Assurance Ltd,PINVP00000181,"11,723.42",RENT/SERVICE CHG 24/6-28/9/11
+Department for Education,CAFCASS,06/06/2011,Rent,HQ,Zurich Assurance Ltd,PINVP00000181,"23,387.40",RENT/SERVICE CHG 24/6-28/9/11
+Department for Education,CAFCASS,10/06/2011,Service Charge,HQ,Cushman & Wakefield Healey & Baker,PINVP00000185,"1,999.80",RENT/SERVICE CHG NOTTINGHAM 24-6/28/9/11
+Department for Education,CAFCASS,10/06/2011,Rent,HQ,Cushman & Wakefield Healey & Baker,PINVP00000185,"24,300.00",RENT/SERVICE CHG NOTTINGHAM 24-6/28/9/11
+Department for Education,CAFCASS,10/06/2011,Service Charge,HQ,Hortons Estate Ltd,PINVP00000191,"5,700.00",RENT/SERVICE CHG COVENTRY 24-6/28/9/11
+Department for Education,CAFCASS,10/06/2011,Rent,HQ,Hortons Estate Ltd,PINVP00000191,"19,395.00",RENT/SERVICE CHG COVENTRY 24-6/28/9/11
+Department for Education,CAFCASS,15/06/2011,Rent,HQ,University of Warwick Science Park,PINVP00000196,"87,675.00",RENT NBC 25/06-28/09/11

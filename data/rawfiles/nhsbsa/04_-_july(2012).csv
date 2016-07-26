@@ -1,0 +1,52 @@
+Department family,Entity,Date,Expense type,GL_CODE,Expense area,Supplier,Transaction number,Amount,Description,Supplier Post Code
+Departmen of Health,NHS Business Services Authority,02/07/2012,Dental Contractors,Dental Services Division,,,"189,468,678.00",Payments to Dental Contractors,,
+Departmen of Health,NHS Business Services Authority,03/07/2012,Temporary Staff,Dental Services Division,COMENSURA LTD,0050023587,438.06,J INGRAM W/E 24/06/12,LU1 3BA,
+Departmen of Health,NHS Business Services Authority,03/07/2012,Temporary Staff,Prescription Pricing Division,COMENSURA LTD,0050023587,"25,876.88",D TROTTER W/E 24/06/12,LU1 3BA,
+Departmen of Health,NHS Business Services Authority,03/07/2012,Rent,Pensions Division,EUROPEAN PENSIONS MANAGEMENT LTD,0050023603,"160,000.00",RENT 25/03/12-23/06/12,SP3 5WY,
+Departmen of Health,NHS Business Services Authority,03/07/2012,Envision Medical Fees,Pensions Division,PAYMASTER (1836) LIMITED,0050023604,"30,394.34",CONT VARI CHARGES APR 12,RH10 1UH,
+Departmen of Health,NHS Business Services Authority,03/07/2012,Envision IT / IS,Pensions Division,PAYMASTER (1836) LIMITED,0050023605,"29,294.01",MAY CONT VARI CHARGES MAY 12,RH10 1UH,
+Departmen of Health,NHS Business Services Authority,03/07/2012,IT,Pensions Division,PAYMASTER (1836) LIMITED,0050023607,"28,000.00",OP SYSTEM HARDWARE REFRESH,RH10 1UH,
+Departmen of Health,NHS Business Services Authority,03/07/2012,Public Relation Expenses,Pensions Division,RS CONSULTING LTD,0080020251,"32,870.00",External Surveys,SW8 4BG,
+Departmen of Health,NHS Business Services Authority,03/07/2012,Pharmacy Contractors,Prescription Pricing Division,,,"636,901.65",Payments to Pharmacy Contractors,,
+Departmen of Health,NHS Business Services Authority,05/07/2012,Postage Charges,Prescription Pricing Division,ROYAL MAIL,0050023632,"46,943.91",SANDYFORD 0912819049,S49 1HQ,
+Departmen of Health,NHS Business Services Authority,05/07/2012,Postage Charges,Prescription Pricing Division,ROYAL MAIL,0050023637,"53,017.52",PPC,S49 1HQ,
+Departmen of Health,NHS Business Services Authority,05/07/2012,Temporary Staff,Dental Services Division,COMENSURA LTD,0050023699,438.06,J INGRAM W/E 01/07/12,LU1 3BA,
+Departmen of Health,NHS Business Services Authority,05/07/2012,Temporary Staff,Prescription Pricing Division,COMENSURA LTD,0050023699,"25,134.02",E RONAN W/E 01/07/12,LU1 3BA,
+Departmen of Health,NHS Business Services Authority,05/07/2012,Temporary Staff,Pensions Division,PAYMASTER (1836) LIMITED,0080020562,"32,532.00",CA1215 / 1226,RH10 1UH,
+Departmen of Health,NHS Business Services Authority,05/07/2012,Pharmacy Contractors,Prescription Pricing Division,,,"630,532.89",Payments to Pharmacy Contractors,,
+Departmen of Health,NHS Business Services Authority,11/07/2012,Estates,Corporate Services,INTEGRATED HEALTH PROJECTS,0050023693,"73,848.23",CERT 9 TASK 1.03,HP2 7TR
+Departmen of Health,NHS Business Services Authority,13/07/2012,Pharmacy Contractors,Prescription Pricing Division,,,"93,006.77",Payments to Pharmacy Contractors,
+Departmen of Health,NHS Business Services Authority,16/07/2012,Rates Charges,Corporate Services,NEWCASTLE CITY COUNCIL,0050023758,"34,808.00",July Rates 12,NE99 2PT
+Departmen of Health,NHS Business Services Authority,16/07/2012,Statutory Payments,Corporate Services,HMRC,,"1,171,289.15",NI & TAX,
+Departmen of Health,NHS Business Services Authority,16/07/2012,Statutory Payments,Corporate Services,HMRC,,"649,645.27",PENSIONS,
+Departmen of Health,NHS Business Services Authority,17/07/2012,Childcare Vouchers,Childcare Voucher,CHILDCARE VOUCHERS LTD,0050023735,"31,581.55",CHF CHILDCARE VOUCHERS JULY,SW1V 2RS
+Departmen of Health,NHS Business Services Authority,17/07/2012,Childcare Vouchers,Corporate Services,CHILDCARE VOUCHERS LTD,0050023735,315.82,CHF CHILDCARE VOUCHERS JULY,SW1V 2RS
+Departmen of Health,NHS Business Services Authority,17/07/2012,Pharmacy Contractors,Prescription Pricing Division,,,"158,096.18",Payments to Pharmacy Contractors,
+Departmen of Health,NHS Business Services Authority,18/07/2012,Temporary Staff,Prescription Pricing Division,COMENSURA LTD,0050023733,"29,126.02",J MORTON W/E 08/07/12,LU1 3BA
+Departmen of Health,NHS Business Services Authority,18/07/2012,Temporary Staff,Prescription Pricing Division,SAPIENT LIMITED,0080019668,"61,499.00",Consultant Application Developer -,E1 6DX
+Departmen of Health,NHS Business Services Authority,19/07/2012,Envision Medical Services,Pensions Division,PAYMASTER (1836) LIMITED,0050023823,"829,223.83",Pension Payroll Services,RH10 1UH
+Departmen of Health,NHS Business Services Authority,24/07/2012,Temporary Staff,Prescription Pricing Division,COMENSURA LTD,0050023828,"32,912.64",STONEBANK W. W/E 15.07.12,LU1 3BA
+Departmen of Health,NHS Business Services Authority,24/07/2012,IT,Corporate Services,CAPITA BUSINESS SERVICES LTD,0080021268,"70,043.18",PENALTY CHARGES MAY2012,DL1 9HN
+Departmen of Health,NHS Business Services Authority,24/07/2012,Professional Fees,Dental Services Division,CAPITA BUSINESS SERVICES LTD,0080021360,"33,934.07",Call Off Authorisation Note - CON/0094,DL1 9HN
+Departmen of Health,NHS Business Services Authority,25/07/2012,Estates,Corporate Services,INTEGRATED HEALTH PROJECTS,0080020696,"202,801.39",MP03 BH Refurb  Cert 3,HP2 7TR
+Departmen of Health,NHS Business Services Authority,25/07/2012,Estates,Corporate Services,INTEGRATED HEALTH PROJECTS,0080021315,"96,052.12",TASK 108 PHASE 2 CERT 10,HP2 7TR
+Departmen of Health,NHS Business Services Authority,25/07/2012,Estates,Corporate Services,DEPARTMENT OF ENERGY & CLIMATE CHANGE,0080021405,"66,180.00",AOR2319512014 CRC Phase 1 Allowance Paym,SW1A 2AW
+Departmen of Health,NHS Business Services Authority,26/07/2012,Estates,Corporate Services,INTEGRATED HEALTH PROJECTS,0080021316,"551,019.40",MP03 REFURBISHMENT,HP2 7TR
+Departmen of Health,NHS Business Services Authority,26/07/2012,Postage Charges,Prescription Pricing Division,ROYAL MAIL,0080021386,"57,150.66",AC 0912819049,S49 1HQ
+Departmen of Health,NHS Business Services Authority,26/07/2012,Postage Charges,Prescription Pricing Division,ROYAL MAIL,0080021387,"49,469.96",AC 0912819049,S49 1HQ
+Departmen of Health,NHS Business Services Authority,26/07/2012,Furniture & Equiptment Capital,Corporate Services,FLEXIFORM,0080021511,"25,508.42",3x PUNISUPT800JWS,BD3 7AE
+Departmen of Health,NHS Business Services Authority,26/07/2012,Temporary Staff,Pensions Division,PAYMASTER (1836) LIMITED,0080021523,"42,995.00","Milestone 1 - Analysis, Development &",RH10 1UH
+Departmen of Health,NHS Business Services Authority,26/07/2012,Temporary Staff,Pensions Division,PAYMASTER (1836) LIMITED,0080021524,"24,310.00",To provide Business Analyst/Solutions,RH10 1UH
+Departmen of Health,NHS Business Services Authority,26/07/2012,Consumables,Prescription Pricing Division,BANCTEC LTD,0080021527,"25,081.20",Part No. 897345 - IBML Feed Belts,SL3 0HF
+Departmen of Health,NHS Business Services Authority,31/07/2012,Statutory Payments,Statutory Payments,CABINET OFFICE: CIVIL SUPERANNUATION,0080020428,"67,963.78",Contributions June 2012,RG21 4HG
+Departmen of Health,NHS Business Services Authority,31/07/2012,Printing Charges (External),Prescription Pricing Division,3M SECURITY PRINTING & SYSTEMS LTD,0080021267,"50,082.98",HWHC June 12,OL9 9QH
+Departmen of Health,NHS Business Services Authority,31/07/2012,Printing Charges (External),Prescription Pricing Division,CPI CARD GROUP - PETERSFIELD LIMITED,0080021379,"22,771.14",CPI cards,GU32 3AL
+Departmen of Health,NHS Business Services Authority,31/07/2012,Professional Publications,Prescription Pricing Division,THE STATIONERY OFFICE,0080021388,"26,953.40",Publications,NR3 1PD
+Departmen of Health,NHS Business Services Authority,31/07/2012,Photocopier Rental,Prescription Pricing Division,XEROX FINANCE,0080021535,"53,308.20",Rental,BN13 1WX
+Departmen of Health,NHS Business Services Authority,31/07/2012,Pharmacy Contractors,Prescription Pricing Division,,,"7,383,474.58",Payments to Pharmacy Contractors,
+
+,,,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

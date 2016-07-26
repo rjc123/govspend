@@ -1,0 +1,48 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Description
+Ministry of Justice,CAFCASS,16/01/2015,Electricity,HQ,Cabinet Office CO - Misc Receipts,PINVP/00001367,"6,289.59",NORWICH RENT/RATE/SERV 01/07/14-31/03/15
+Ministry of Justice,CAFCASS,16/01/2015,Gas,HQ,Cabinet Office CO - Misc Receipts,PINVP/00001367,"1,679.97",NORWICH RENT/RATE/SERV 01/07/14-31/03/15
+Ministry of Justice,CAFCASS,16/01/2015,Rates,HQ,Cabinet Office CO - Misc Receipts,PINVP/00001367,"17,458.74",NORWICH RENT/RATE/SERV 01/07/14-31/03/15
+Ministry of Justice,CAFCASS,16/01/2015,Rent,HQ,Cabinet Office CO - Misc Receipts,PINVP/00001367,"29,326.23",NORWICH RENT/RATE/SERV 01/07/14-31/03/15
+Ministry of Justice,CAFCASS,16/01/2015,Service Charge,HQ,Cabinet Office CO - Misc Receipts,PINVP/00001367,"32,336.91",NORWICH RENT/RATE/SERV 01/07/14-31/03/15
+Ministry of Justice,CAFCASS,16/01/2015,Water Rates,HQ,Cabinet Office CO - Misc Receipts,PINVP/00001367,257.52,NORWICH RENT/RATE/SERV 01/07/14-31/03/15
+Ministry of Justice,CAFCASS,02/01/2015,Agency Practice Managers,Op Service Areas,Capita Resourcing Ltd,PINV/00373598,"1,540.80",Agency Staff  W/E 31/8/14
+Ministry of Justice,CAFCASS,02/01/2015,Agency Practitioners,HQ,Capita Resourcing Ltd,PINV/00373598,"6,104.47",Agency Staff  W/E 31/8/14
+Ministry of Justice,CAFCASS,02/01/2015,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00373598,"23,956.61",Agency Staff  W/E 31/8/14
+Ministry of Justice,CAFCASS,02/01/2015,Agency Practice Managers,Op Service Areas,Capita Resourcing Ltd,PINV/00373653,"1,476.00",Agency Staff WE 21/10/14
+Ministry of Justice,CAFCASS,02/01/2015,Agency Practitioners,HQ,Capita Resourcing Ltd,PINV/00373653,"6,506.16",Agency Staff WE 21/10/14
+Ministry of Justice,CAFCASS,02/01/2015,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00373653,"22,496.08",Agency Staff WE 21/10/14
+Ministry of Justice,CAFCASS,05/01/2015,Agency Practitioners,HQ,Capita Resourcing Ltd,PINV/00373673,"5,923.50",Agency Staff W/E 07/12/14
+Ministry of Justice,CAFCASS,05/01/2015,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00373673,"22,725.56",Agency Staff W/E 07/12/14
+Ministry of Justice,CAFCASS,02/01/2015,Agency Practice Managers,Op Service Areas,Capita Resourcing Ltd,PINV/00373674,"1,476.00",Agency Staff WE 21/10/14
+Ministry of Justice,CAFCASS,02/01/2015,Agency Practitioners,HQ,Capita Resourcing Ltd,PINV/00373674,"7,910.24",Agency Staff WE 21/10/14
+Ministry of Justice,CAFCASS,02/01/2015,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00373674,"23,903.70",Agency Staff WE 21/10/14
+Ministry of Justice,CAFCASS,02/01/2015,Agency Practice Managers,Op Service Areas,Capita Resourcing Ltd,PINV/00373675,"1,476.00",Agency Staff WE 21/10/14
+Ministry of Justice,CAFCASS,02/01/2015,Agency Practitioners,HQ,Capita Resourcing Ltd,PINV/00373675,"5,399.46",Agency Staff WE 21/10/14
+Ministry of Justice,CAFCASS,02/01/2015,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00373675,"22,496.50",Agency Staff WE 21/10/14
+Ministry of Justice,CAFCASS,09/01/2015,Agency Practice Managers,Op Service Areas,Capita Resourcing Ltd,PINV/00373760,"1,583.46",Agency Staff WE 02/11/14
+Ministry of Justice,CAFCASS,09/01/2015,Agency Practitioners,HQ,Capita Resourcing Ltd,PINV/00373760,"4,285.97",Agency Staff WE 02/11/14
+Ministry of Justice,CAFCASS,09/01/2015,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00373760,"23,316.06",Agency Staff WE 02/11/14
+Ministry of Justice,CAFCASS,21/01/2015,Agency Practice Managers,Op Service Areas,Capita Resourcing Ltd,PINV/00373984,"3,091.32",Agency Staff WE14/12/14
+Ministry of Justice,CAFCASS,21/01/2015,Agency Practitioners,HQ,Capita Resourcing Ltd,PINV/00373984,"5,627.30",Agency Staff WE14/12/14
+Ministry of Justice,CAFCASS,21/01/2015,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00373984,"21,392.21",Agency Staff WE14/12/14
+Ministry of Justice,CAFCASS,21/01/2015,Non-Staff Travel and Subsistance,Op Service Areas,Capita Resourcing Ltd,PINV/00373984,125.57,Agency Staff WE14/12/14
+Ministry of Justice,CAFCASS,21/01/2015,Agency Practice Managers,Op Service Areas,Capita Resourcing Ltd,PINV/00374001,"1,558.08",Agency Staff WE 21/12/14
+Ministry of Justice,CAFCASS,21/01/2015,Agency Practitioners,HQ,Capita Resourcing Ltd,PINV/00374001,"5,923.50",Agency Staff WE 21/12/14
+Ministry of Justice,CAFCASS,21/01/2015,Agency Practitioners,Op Service Areas,Capita Resourcing Ltd,PINV/00374001,"28,862.78",Agency Staff WE 21/12/14
+Ministry of Justice,CAFCASS,23/01/2015,Rent,HQ,Department For Work and Pensions,PINV/00374114,"44,636.54",LEEDS RENT DEC 14
+Ministry of Justice,CAFCASS,22/01/2015,Rent,HQ,Highways Agency,PINVP/00001372,"57,255.08",MANCH 7TH FL RENT/SERV 25/12/14-24/3/15
+Ministry of Justice,CAFCASS,22/01/2015,Service Charge,HQ,Highways Agency,PINVP/00001372,"12,225.34",MANCH 7TH FL RENT/SERV 25/12/14-24/3/15
+Ministry of Justice,CAFCASS,13/01/2015,Agency Practitioners,HQ,Sanctuary Personnel Ltd,PINV/00373870,"3,910.20",Agency Staff Nov 14
+Ministry of Justice,CAFCASS,13/01/2015,Agency Practitioners,Op Service Areas,Sanctuary Personnel Ltd,PINV/00373870,"30,840.77",Agency Staff Nov 14
+Ministry of Justice,CAFCASS,27/01/2015,Agency Practitioners,HQ,Sanctuary Personnel Ltd,PINV/00374183,"3,737.41",Agency Staff Oct and Nov 14
+Ministry of Justice,CAFCASS,27/01/2015,Agency Practitioners,Op Service Areas,Sanctuary Personnel Ltd,PINV/00374183,"30,414.30",Agency Staff Oct and Nov 14
+Ministry of Justice,CAFCASS,29/01/2015,Agency Practitioners,HQ,Sanctuary Personnel Ltd,PINV/00374253,"3,219.00",Agency Staff Jan 15
+Ministry of Justice,CAFCASS,29/01/2015,Agency Practitioners,Op Service Areas,Sanctuary Personnel Ltd,PINV/00374253,"27,338.76",Agency Staff Jan 15
+Ministry of Justice,CAFCASS,29/01/2015,Agency Practitioners,HQ,Sanctuary Personnel Ltd,PINV/00374255,"3,036.00",Agency Staff Dec 14
+Ministry of Justice,CAFCASS,29/01/2015,Agency Practitioners,Op Service Areas,Sanctuary Personnel Ltd,PINV/00374255,"27,378.00",Agency Staff Dec 14
+Ministry of Justice,CAFCASS,22/01/2015,Rent,HQ,University of Warwick Science Park,PINVP/00001371,"29,225.00",NBC RENT/SERV CHG FEB 15
+Ministry of Justice,CAFCASS,22/01/2015,Service Charge,HQ,University of Warwick Science Park,PINVP/00001371,"3,098.40",NBC RENT/SERV CHG FEB 15
+Ministry of Justice,CAFCASS,12/01/2015,Mobile Call Charges,HQ,Vodafone,CINV/00000414,286.11,Vodafone December 14
+Ministry of Justice,CAFCASS,12/01/2015,Mobile Call Charges,Op Service Areas,Vodafone,CINV/00000414,"3,056.65",Vodafone December 14
+Ministry of Justice,CAFCASS,12/01/2015,Mobile Phone Rental,HQ,Vodafone,CINV/00000414,"2,466.35",Vodafone December 14
+Ministry of Justice,CAFCASS,12/01/2015,Mobile Phone Rental,Op Service Areas,Vodafone,CINV/00000414,"26,492.71",Vodafone December 14

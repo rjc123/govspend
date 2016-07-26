@@ -1,0 +1,18 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Description
+Department for Education,CAFCASS,10/08/2010,External Consultancy,HQ,Inventures,PINV00271276,"27,025.00 ",Professional fees for H&S compliance
+Department for Education,CAFCASS,12/08/2010,Rent,Op Service Areas,The Ministry of Justice,PINV00271634,"30,827.25 ",09/10 Rent Q2
+Department for Education,CAFCASS,12/08/2010,Service Charge,Op Service Areas,The Ministry of Justice,PINV00271634,"38,081.12 ",09/10 Rent Q2
+Department for Education,CAFCASS,12/08/2010,Rent,Op Service Areas,The Ministry of Justice,PINV00271635,"30,827.25 ",09/10 Q3 Rent
+Department for Education,CAFCASS,12/08/2010,Service Charge,Op Service Areas,The Ministry of Justice,PINV00271635,"35,034.20 ",09/10 Q3 Rent
+Department for Education,CAFCASS,12/08/2010,Rent,Op Service Areas,The Ministry of Justice,PINV00271636,"32,769.79 ",09/10 Q4 Rent
+Department for Education,CAFCASS,12/08/2010,Service Charge,Op Service Areas,The Ministry of Justice,PINV00271636,"51,512.90 ",09/10 Q4 Rent
+Department for Education,CAFCASS,13/08/2010,Building Fit Out and Enhancements,Op Service Areas,P G Musgrave,PINV00271746,"41,880.00 ",Dilapidations Charge - Chichester
+Department for Education,CAFCASS,13/08/2010,Line Rental,HQ,Frontier Voice and Data Ltd,PINV00271871,"22,674.42 ",Call charges July 2010
+Department for Education,CAFCASS,13/08/2010,Call Charges,HQ,Frontier Voice and Data Ltd,PINV00271871,"27,873.14 ",Call charges July 2010
+Department for Education,CAFCASS,20/08/2010,Service Charge,Op Service Areas,Zurich Assurance Ltd,PINV00272757,"11,479.19 ",Slough Rent 2010-2011
+Department for Education,CAFCASS,20/08/2010,Rent,Op Service Areas,Zurich Assurance Ltd,PINV00272757,"22,900.16 ",Slough Rent 2010-2011
+Department for Education,CAFCASS,23/08/2010,Service Charge,Op Service Areas,Stockland Anglo Ventures (Croydon) Ltd,PINV00272862,"10,500.75 ",Rent Croydon 24/06/10-31/03/10
+Department for Education,CAFCASS,23/08/2010,Rent,Op Service Areas,Stockland Anglo Ventures (Croydon) Ltd,PINV00272862,"29,345.63 ",Rent Croydon 24/06/10-31/03/10
+Department for Education,CAFCASS,23/08/2010,Rent,Op Service Areas,Northamptonshire Healthcare NHS Foundati,PINV00272927,"35,720.00 ",Rent Newland House Northampton
+Department for Education,CAFCASS,27/08/2010,Internal Auditor Fees,HQ,PriceWaterhouseCoopers LLP,PINV00273205,"27,396.30 ",Internal Audit fees 10/11
+Department for Education,CAFCASS,27/08/2010,Building Fit Out and Enhancements,HQ,Canbury Investment Ltd,PINV00273218,"52,448.48 ",Abortive costs re NBC

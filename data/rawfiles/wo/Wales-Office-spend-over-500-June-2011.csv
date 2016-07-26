@@ -1,0 +1,15 @@
+ENTITY,EXPENSE_AREA_1,PAYMENT DATE,PAYMENT NUMBER,SUPPLIER NAME,INVOICE AMOUNT,NAC DESCRIPTION,SERVICE SUPPLIED
+Wales Office,Wales Office,2-Jun-11,1000164,KNIGHT FRANK LLP,"$1,432.92",221112-Property Rents - Passing Rent,Rent and service charges for Cardiff office
+Wales Office,Wales Office,9-Jun-11,1000183,KNIGHT FRANK LLP,"$45,076.03",221112-Property Rents - Passing Rent,Rent and service charges for Cardiff office
+Wales Office,Wales Office,21-Jun-11,1000204,GOVERNMENT CAR & DESPATCH AGENCY,"$7,050.26",221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,Wales Office,21-Jun-11,1000204,GOVERNMENT CAR & DESPATCH AGENCY,$503.35,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,Wales Office,23-Jun-11,1000213,CARDIFF COUNTY COUNCIL,"$1,369.60",222111-Rates,Rates for Cardiff office
+Wales Office,Wales Office,23-Jun-11,1000213,CARDIFF COUNTY COUNCIL,"$4,087.00",222111-Rates,Rates for Cardiff office
+Wales Office,Wales Office,23-Jun-11,1000214,WESTMINSTER CITY COUNCIL,"$8,023.00",222111-Rates,Rates for London office
+Wales Office,Wales Office,10-Jun-11,1000188,M J FERGUSON LTD,"$4,542.62",222137-CIS Labour Build Maintenance Works,Monthly maintenance charge for London office
+Wales Office,Wales Office,22-Jun-11,1000208,BRITISH GAS BUSINESS,"$1,605.53",222142-Utility - Electricity,Electricity supplied to London office
+Wales Office,Wales Office,7-Jun-11,1000175,CARLISLE SECURITY SERVICES LTD,"$10,373.88",222151-Security,24 hour Security for London office
+Wales Office,Wales Office,2-Jun-11,1000162,CIVIC MAINTENANCE SERVICES LTD,$712.22,222152-Cleaning (excl Waste Collctn),Cleaning services for Cardiff office
+Wales Office,Wales Office,14-Jun-11,1000195,PRESS DATA CYMRU,$960.00,223513-Design/Print/Reprographic Services,Media monitoring
+Wales Office,Wales Office,21-Jun-11,1000204,GOVERNMENT CAR & DESPATCH AGENCY,$964.80,223517-IDS,Government internal mail service
+Wales Office,Wales Office,27-Jun-11,1000218,INDUSTORE LTD,$718.20,222155-Other Service Contracts - Accommodation,Maintenance fee for electronic storage unit in London
