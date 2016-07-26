@@ -7,5 +7,3 @@ do
   echo
 
 done > organisations_list.json
-
-g
