@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo '0. Update the organisation list'
+
+
 while read config_line 
 do
   
