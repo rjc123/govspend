@@ -1,0 +1,9 @@
+{
+  "row_skip": 1,
+  "fields": {
+    "type": 2,
+    "area": 3,
+    "supplier": 4,
+    "amount": 6
+  }
+}
