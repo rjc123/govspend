@@ -1,0 +1,60 @@
+{
+  "row_skip": 1,
+  "fields": {
+    "dept": 0,
+    "suborg": 1,
+    "date": 2,
+    "supplier": 5,
+    "ref": 6,
+    "amount": 7,
+    "description": 8
+  },
+  "except": [
+    {
+      "filenames": ["over_25K_may-2015.csv"],
+      "fields": {
+        "dept": 0,
+        "suborg": 1,
+        "date": 2,
+        "supplier": 3,
+        "ref": 4,
+        "amount": 5,
+        "description": 6
+      }
+    },
+    {
+      "filenames": ["defra-over-25k-1201.csv", "defra-over-25K-1202.csv"],
+      "fields": {
+        "dept": 0,
+        "suborg": 1,
+        "date": 2,
+        "supplier": 7,
+        "ref": 8,
+        "amount": 9,
+        "description": 10
+      }
+    },
+    {
+      "filenames": ["Over+25K+-+February+2014.csv", "Over+25K+-+November+2013.csv"],
+      "fields": {
+        "dept": 0,
+        "date": 1,
+        "supplier": 2,
+        "amount": 3,
+        "description": 4
+      }
+    },
+    {
+      "filenames": ["Over+25K+-+October+2013.csv"],
+      "fields": {
+        "dept": 0,
+        "suborg": 1,
+        "date": 2,
+        "supplier": 3,
+        "ref": 4,
+        "amount": 5,
+        "description": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "row_skip": 1,
+  "delimiter": ";",
+  "fields": {
+    "dept": 0,
+    "suborg": 1,
+    "date": 2,
+    "supplier": 5,
+    "ref": 6,
+    "amount": 7
+  }
+}
