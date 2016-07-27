@@ -1,9 +1,11 @@
 {
   "row_skip": 1,
   "fields": {
-    "type": 2,
-    "area": 3,
-    "supplier": 4,
-    "amount": 6
+    "dept": 0,
+    "suborg": 1,
+    "date": 2,
+    "supplier": 5,
+    "ref": 6,
+    "amount": 7
   }
 }
